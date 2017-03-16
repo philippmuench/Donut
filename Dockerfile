@@ -1,9 +1,9 @@
 FROM ubuntu:14.04.3
 
-MAINTAINER Dennis Hazelett "dennis.hazelett at csmc.edu"
+MAINTAINER Philipp Muench "philipp.muench@helmholtz-hzi.de"
 
-RUN DEBIAN_FRONTEND=noninteractive apt-get update 
-RUN apt-get install -y build-essential make wget libgd2-xpm-dev libxml-simple-perl git vim
+RUN DEBIAN_FRONTEND=noninteractive apt-get update
+RUN apt-get install -y build-essential make wget libgd2-xpm-dev libxml-simple-perl git vim fonts-circos-symbols
 
 RUN export PATH=$PATH:/usr/local/bin
 
@@ -39,6 +39,10 @@ RUN tar xvfz libgd-2.1.0.tar.gz \
 
 RUN /usr/local/bin/gdlib-config --all
 
+RUN mkdir -p fonts/symbols/
+COPY symbols.otf /fonts/symbols/symbols.otf
+COPY start_circos.sh /start_circos.sh
+
 #RUN wget http://circos.ca/distribution/lib/GD-2.53.tar.gz \
 #  && tar xvfz GD-2.53.tar.gz \
 #  && cd GD-2.53 \
@@ -57,3 +61,6 @@ RUN mkdir ~/software \
   && ln -s circos-0.69-2 current \
   && echo 'export PATH=~/software/circos/current/bin:$PATH' >> ~/.bashrc \
   && rm -rf /*.tar.gz
+
+ENTRYPOINT ["/bin/bash","start_circos.sh"]
+
