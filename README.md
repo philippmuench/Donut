@@ -12,3 +12,6 @@ docker run -v /home/github.com/philippmuench/easycircos/data:/data philippmuench
 
 the circos file will be written to the `data/` folder
 
+# output
+
+![image](data/circos.png)
