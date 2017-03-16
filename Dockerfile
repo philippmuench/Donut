@@ -30,7 +30,7 @@ RUN tar xvfz freetype-2.4.0.tar.gz \
   && make install 
 
 RUN wget http://circos.ca/distribution/lib/libgd-2.1.0.tar.gz
-  #https://bitbucket.org/libgd/gd-libgd/downloads/libgd-2.1.1.tar.gz
+
 RUN tar xvfz libgd-2.1.0.tar.gz \
   && cd libgd-2.1.0 \
   && ./configure --with-png=/usr/local --with-freetype=/usr/local --with-jpeg=/usr/local --prefix=/usr/local \
@@ -42,13 +42,6 @@ RUN /usr/local/bin/gdlib-config --all
 RUN mkdir -p fonts/symbols/
 COPY symbols.otf /fonts/symbols/symbols.otf
 COPY start_circos.sh /start_circos.sh
-
-#RUN wget http://circos.ca/distribution/lib/GD-2.53.tar.gz \
-#  && tar xvfz GD-2.53.tar.gz \
-#  && cd GD-2.53 \
-#  && perl Makefile.PL \
-#  && make \
-#  && make install
 
 RUN cpan App::cpanminus
 RUN cpanm List::MoreUtils Math::Bezier Math::Round Math::VecStat Params::Validate Readonly Regexp::Common SVG Set::IntSpan Statistics::Basic Text::Format Clone Config::General Font::TTF::Font GD
@@ -62,5 +55,18 @@ RUN mkdir ~/software \
   && echo 'export PATH=~/software/circos/current/bin:$PATH' >> ~/.bashrc \
   && rm -rf /*.tar.gz
 
-ENTRYPOINT ["/bin/bash","start_circos.sh"]
+# install prodigal
+RUN wget https://github.com/hyattpd/Prodigal/releases/download/v2.6.3/prodigal.linux \
+  && chmod a+x prodigal.linux \
+  && mv prodigal.linux /usr/local/bin/prodigal
 
+# install hmmer
+RUN wget http://eddylab.org/software/hmmer3/3.1b2/hmmer-3.1b2-linux-intel-x86_64.tar.gz
+RUN tar -xzvf hmmer-3.1b2-linux-intel-x86_64.tar.gz
+WORKDIR hmmer-3.1b2-linux-intel-x86_64
+RUN ./configure
+RUN make
+RUN make install
+WORKDIR /
+
+#ENTRYPOINT ["/bin/bash","start_circos.sh"]
