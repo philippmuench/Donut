@@ -3,7 +3,7 @@ FROM ubuntu:14.04.3
 MAINTAINER Philipp Muench "philipp.muench@helmholtz-hzi.de"
 
 RUN DEBIAN_FRONTEND=noninteractive apt-get update
-RUN apt-get install -y build-essential make wget libgd2-xpm-dev libxml-simple-perl git vim fonts-circos-symbols python python-setuptools libblas-dev liblapack-dev gfortran libpython2.7-dev python-numpy
+RUN apt-get install -y build-essential make wget libgd2-xpm-dev libxml-simple-perl git vim fonts-circos-symbols python python-setuptools libblas-dev liblapack-dev gfortran libpython2.7-dev python-numpy libatlas-base-dev python-dev fort77 python-tk 
 
 RUN wget https://bootstrap.pypa.io/get-pip.py \
   && python get-pip.py
@@ -73,9 +73,9 @@ RUN make install
 WORKDIR /
 
 # install hmmvis
-RUN pip install numpy # see bug https://github.com/scikit-learn/scikit-learn/issues/4164
+RUN pip install numpy sklearn matplotlib pandas pytz Biopython seaborn
 RUN git clone https://github.com/philippmuench/hmmvis.git
-WORKDIR hmmvis
-RUN python setup.py install
+#WORKDIR hmmvis
+#RUN python setup.py install
 
 #ENTRYPOINT ["/bin/bash","start_circos.sh"]
