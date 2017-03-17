@@ -45,6 +45,8 @@ RUN /usr/local/bin/gdlib-config --all
 RUN mkdir -p fonts/symbols/
 COPY symbols.otf /fonts/symbols/symbols.otf
 COPY start_circos.sh /start_circos.sh
+COPY start.sh /start.sh
+COPY fasta2karyo.sh /fasta2karyo.sh
 
 RUN cpan App::cpanminus
 RUN cpanm List::MoreUtils Math::Bezier Math::Round Math::VecStat Params::Validate Readonly Regexp::Common SVG Set::IntSpan Statistics::Basic Text::Format Clone Config::General Font::TTF::Font GD
