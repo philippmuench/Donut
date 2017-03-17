@@ -10,5 +10,10 @@ for i in data/hmmvis_output/*.fasta; do
   ./fasta2karyo.sh 'data/fasta/'${i##*/} $i 
 done
 
+# multiple karyotypes
+list_karyo=(data/data/karyotype/*.txt)
+files=$(printf '%q,' "${list_karyo[@]}")
+sed -i "2s|.*|karyotype     = $files|" /data/circos.conf
+
 # draw circos plot
-/root/software/circos/current/bin/circos -conf /data/circos.conf
+#/root/software/circos/current/bin/circos -conf /data/circos.conf

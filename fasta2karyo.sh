@@ -15,15 +15,14 @@ grep ">" $2 | awk '{print $1}' | sed 's/^.//' | awk -F'_' '{print $1}' > ${2##*/
 grep ">" $2 | awk -F'#' '{print $2}' > ${2##*/}_start.txt 
 grep ">" $2 | awk -F'#' '{print $3}' > ${2##*/}_end.txt
 
-cp ${1##*/}_chr.txt data/data/karyotype/pca.karyotype.txt
+#cp ${1##*/}_chr.txt data/data/karyotype/pca.karyotype.txt
 
 # get list of chr
 chr_list=$(awk '{print $3}' ${1##*/}_chr.txt)
 function join_by { local IFS="$1"; shift; echo "$*"; }
 chr=$(join_by ', ' $chr_list)
-echo $new
+
 # add chr infor to config file
 sed -i "14s/.*/cromosomes               = $chr/" /data/circos.conf
 sed -i "15s/.*/chromosomes_order        = $chr/" /data/circos.conf
-# merge files to one karyofile
 
