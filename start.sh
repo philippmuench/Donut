@@ -11,4 +11,4 @@ for i in data/hmmvis_output/*.fasta; do
 done
 
 # draw circos plot
-#/root/software/circos/current/bin/circos -conf /data/circos.conf
+/root/software/circos/current/bin/circos -conf /data/circos.conf
