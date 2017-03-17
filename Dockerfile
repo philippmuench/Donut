@@ -80,4 +80,4 @@ RUN git clone https://github.com/philippmuench/hmmvis.git
 #WORKDIR hmmvis
 #RUN python setup.py install
 
-#ENTRYPOINT ["/bin/bash","start_circos.sh"]
+ENTRYPOINT ["/bin/bash","start.sh"]

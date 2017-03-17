@@ -1,16 +1,20 @@
-# easycircos
+#easycircos
 
-based on docker container from dennishazelett 
+Just a simple tool that generates a circos plot from a bunch of fasta files. This tool is based on docker container from dennishazelett. 
 
 # usuage
-
-put your circos data to the `data/` folder, then create the plot using following command
+1. clone this repo `git clone https://github.com/philippmuench/easycircos.git`
+2. put your fasta (one or multipe) in the 'data/fasta/' folder
+2. start the docker container
 
 ```
-docker run -v /home/github.com/philippmuench/easycircos/data:/data philippmuench/easycircos
+docker run -v /absolute/path/to/data/folder:/data philippmuench/easycircos
 ```
 
-the circos file will be written to the `data/` folder
+# what happens inside the image
+1. ORF identification of fasta files with prodigal
+2. automated generation of the circos.conf file
+3. hmmsearch based on ORFs and provided hmm model (under development)
 
 # output
 
