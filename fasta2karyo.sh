@@ -1,14 +1,17 @@
+#/bin/sh
 # generates a karyotype file from fasta prodigal output
-
 # $1: contig fasta file
 # $2: ORF fasta file (prokka output)
+# $3: color
 
 # process chr
 cat $1 | awk '$0 ~ ">" {print c; c=0;printf "chr - " substr($0,2,100) " " substr($0,2,100) " " "0" " "; } $0 !~ ">" {c+=length($0);} END { print c; }' | sed '/^\s*$/d' > ${1##*/}_chr.txt
 
-#add color identification
-while IFS= read -r line; do echo "$line black"; done < ${1##*/}_chr.txt > ${1##*/}_chr.txt.tmp
-mv ${1##*/}_chr.txt.tmp ${1##*/}_chr.txt
+# add color identification
+while IFS= read -r line; do echo "$line $3"; done < ${1##*/}_chr.txt > chr.tmp 
+
+# move chr file to karyotype folder
+mv chr.tmp data/data/karyotype/${1##*/}_chr.txt
 
 # process band
 grep ">" $2 | awk '{print $1}' | sed 's/^.//' | awk -F'_' '{print $1}' > ${2##*/}_contig.txt
