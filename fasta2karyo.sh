@@ -2,30 +2,31 @@
 # generates a karyotype file from fasta prodigal output
 # $1: contig fasta file
 # $2: ORF fasta file (prokka output)
-# $3: color
+# $3: color1
 
-# process chr
-cat $1 | awk '$0 ~ ">" {print c; c=0;printf "chr - " substr($0,2,100) " " substr($0,2,100) " " "0" " "; } $0 !~ ">" {c+=length($0);} END { print c; }' | sed '/^\s*$/d' > ${1##*/}_chr.txt
-
+### process chr
+cat $1 | awk '$0 ~ ">" {print c; c=0;printf "chr - " substr($0,2,100) " " substr($0,2,100) " " "0" " "; } $0 !~ ">" {c+=length($0);} END { print c; }' | sed '/^\s*$/d' > data/${1##*/}_chr.txt
 # add color identification
-while IFS= read -r line; do echo "$line $3"; done < ${1##*/}_chr.txt > chr.tmp 
+while IFS= read -r line; do echo "$line $3"; done < data/${1##*/}_chr.txt > data/chr.tmp
+mv data/chr.tmp data/data/karyotype/${1##*/}_chr.txt
 
-# move chr file to karyotype folder
-mv chr.tmp data/data/karyotype/${1##*/}_chr.txt
+### process band
+grep ">" $2 | awk '{print $1}' | sed 's/^.//' | awk -F'_' '{print "band " $1$2}' > data/${2##*/}_contig.txt
+grep ">" $2 | awk -F'#' '{print $2}' > data/${2##*/}_start.txt
+grep ">" $2 | awk -F'#' '{print $3}' > data/${2##*/}_end.txt
+grep ">" $2 | awk -F "#" '{print $4}' | sed 's/^.//' > data/${2##*/}_strand.txt
+grep ">" $2 | awk -F "#" '{print $5}' | awk -F ";" '{print $1}' | sed 's/^.//' > data/${2##*/}_id.txt
+# replace -1/1 stand information with color id
+sed -i.bak s/^1/gneg/g data/${2##*/}_strand.txt
+sed -i.bak s/^-1/gpos50/g data/${2##*/}_strand.txt
+# join the columns together and add it to the chr file
+paste data/${2##*/}_contig.txt data/${2##*/}_id.txt data/${2##*/}_id.txt data/${2##*/}_start.txt data/${2##*/}_end.txt data/${2##*/}_strand.txt | sed -e "s/[[:space:]]\+/ /g" > data/${2##*/}_bands.txt
+cat data/${2##*/}_bands.txt >> data/data/karyotype/${1##*/}_chr.txt
 
-# process band
-grep ">" $2 | awk '{print $1}' | sed 's/^.//' | awk -F'_' '{print $1}' > ${2##*/}_contig.txt
-grep ">" $2 | awk -F'#' '{print $2}' > ${2##*/}_start.txt 
-grep ">" $2 | awk -F'#' '{print $3}' > ${2##*/}_end.txt
-
-#cp ${1##*/}_chr.txt data/data/karyotype/pca.karyotype.txt
-
-# get list of chr
-chr_list=$(awk '{print $3}' ${1##*/}_chr.txt)
+### process config file
+chr_list=$(awk '{print $3}' data/${1##*/}_chr.txt)
 function join_by { local IFS="$1"; shift; echo "$*"; }
 chr=$(join_by ', ' $chr_list)
-
 # add chr infor to config file
 sed -i "14s/.*/cromosomes               = $chr/" /data/circos.conf
 sed -i "15s/.*/chromosomes_order        = $chr/" /data/circos.conf
-

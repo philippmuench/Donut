@@ -16,10 +16,11 @@ hmmvis/hmmvis/hmmvis --fasta_dir data/fasta_tmp --output_dir data/hmmvis_output/
 
 # generate circos files
 colors=(pastel1-4-qual-1 pastel1-4-qual-2 pastel1-4-qual-3 pastel1-4-qual-4)
-
+n=1
 for i in data/hmmvis_output/*.fasta; do
   echo "processing" $i
-  ./fasta2karyo.sh 'data/fasta/'${i##*/} $i ${colors[@]:$i:1}
+  ./fasta2karyo.sh 'data/fasta_tmp/'${i##*/} $i ${colors[@]:$n:1}
+  n=$(($n+1))
 done
 
 # multiple karyotypes
