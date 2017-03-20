@@ -13,6 +13,7 @@ mv data/chr.tmp data/data/karyotype/${1##*/}_chr.txt
 
 ### process band
 grep ">" $2 | awk '{print $1}' | sed 's/^.//' | awk -F'_' '{print "band " $1 "_" $2}' > data/${2##*/}_contig.txt
+grep ">" $2 | awk '{print $1}' | sed 's/^.//' | awk -F'_' '{print $1 "_" $2}' > data/${2##*/}_contig_id.txt
 grep ">" $2 | awk -F'#' '{print $2}' > data/${2##*/}_start.txt
 grep ">" $2 | awk -F'#' '{print $3}' > data/${2##*/}_end.txt
 grep ">" $2 | awk -F "#" '{print $4}' | sed 's/^.//' > data/${2##*/}_strand.txt
@@ -23,6 +24,12 @@ sed -i.bak "s/^-1/$4/g" data/${2##*/}_strand.txt
 # join the columns together and add it to the chr file
 paste data/${2##*/}_contig.txt data/${2##*/}_id.txt data/${2##*/}_id.txt data/${2##*/}_start.txt data/${2##*/}_end.txt data/${2##*/}_strand.txt | sed -e "s/[[:space:]]\+/ /g" > data/${2##*/}_bands.txt
 cat data/${2##*/}_bands.txt >> data/data/karyotype/${1##*/}_chr.txt
+
+# create GC heatmap
+grep ">" $2 | awk -F "#" '{print $5}' | awk -F ";" '{print $6}' |  awk -F '=' '{print $2}' > data/${2##*/}_gc_val.txt
+paste data/${2##*/}_contig_id.txt data/${2##*/}_start.txt data/${2##*/}_end.txt data/${2##*/}_gc_val.txt | sed -e "s/[[:space:]]\+/ /g" > data/${2##*/}_heatmap.txt
+
+cat data/${2##*/}_heatmap.txt >> data/heatmap_all.txt
 
 ### process config file
 chr_list=$(awk '{print $3}' data/${1##*/}_chr.txt)

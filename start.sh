@@ -1,5 +1,7 @@
 #/bin/sh
 
+rm -rf data/heatmap_all.txt
+
 # make a copy from input files
 mkdir -p data/fasta_tmp/
 cp data/fasta/*.fasta data/fasta_tmp/
