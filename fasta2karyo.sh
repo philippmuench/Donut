@@ -11,7 +11,7 @@ while IFS= read -r line; do echo "$line $3"; done < data/${1##*/}_chr.txt > data
 mv data/chr.tmp data/data/karyotype/${1##*/}_chr.txt
 
 ### process band
-grep ">" $2 | awk '{print $1}' | sed 's/^.//' | awk -F'_' '{print "band " $1$2}' > data/${2##*/}_contig.txt
+grep ">" $2 | awk '{print $1}' | sed 's/^.//' | awk -F'_' '{print "band " $1 "_" $2}' > data/${2##*/}_contig.txt
 grep ">" $2 | awk -F'#' '{print $2}' > data/${2##*/}_start.txt
 grep ">" $2 | awk -F'#' '{print $3}' > data/${2##*/}_end.txt
 grep ">" $2 | awk -F "#" '{print $4}' | sed 's/^.//' > data/${2##*/}_strand.txt
