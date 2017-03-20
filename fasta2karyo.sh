@@ -2,7 +2,8 @@
 # generates a karyotype file from fasta prodigal output
 # $1: contig fasta file
 # $2: ORF fasta file (prokka output)
-# $3: color1
+# $3: color for neg stand
+# $4: color for pos strand
 
 ### process chr
 cat $1 | awk '$0 ~ ">" {print c; c=0;printf "chr - " substr($0,2,100) " " substr($0,2,100) " " "0" " "; } $0 !~ ">" {c+=length($0);} END { print c; }' | sed '/^\s*$/d' > data/${1##*/}_chr.txt
@@ -17,8 +18,8 @@ grep ">" $2 | awk -F'#' '{print $3}' > data/${2##*/}_end.txt
 grep ">" $2 | awk -F "#" '{print $4}' | sed 's/^.//' > data/${2##*/}_strand.txt
 grep ">" $2 | awk -F "#" '{print $5}' | awk -F ";" '{print $1}' | sed 's/^.//' > data/${2##*/}_id.txt
 # replace -1/1 stand information with color id
-sed -i.bak s/^1/gneg/g data/${2##*/}_strand.txt
-sed -i.bak s/^-1/gpos50/g data/${2##*/}_strand.txt
+sed -i.bak "s/^1/$3/g" data/${2##*/}_strand.txt
+sed -i.bak "s/^-1/$4/g" data/${2##*/}_strand.txt
 # join the columns together and add it to the chr file
 paste data/${2##*/}_contig.txt data/${2##*/}_id.txt data/${2##*/}_id.txt data/${2##*/}_start.txt data/${2##*/}_end.txt data/${2##*/}_strand.txt | sed -e "s/[[:space:]]\+/ /g" > data/${2##*/}_bands.txt
 cat data/${2##*/}_bands.txt >> data/data/karyotype/${1##*/}_chr.txt

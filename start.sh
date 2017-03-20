@@ -15,11 +15,12 @@ mkdir -p data/hmmvis_output
 hmmvis/hmmvis/hmmvis --fasta_dir data/fasta_tmp --output_dir data/hmmvis_output/ --hmm data/model.hmm
 
 # generate circos files
-colors=(pastel1-4-qual-1 pastel1-4-qual-2 pastel1-4-qual-3 pastel1-4-qual-4)
+colors_pos=(paired-12-qual-1 paired-12-qual-3 paired-12-qual-5 paired-12-qual-7)
+colors_neg=(paired-12-qual-2 paired-12-qual-4 paired-12-qual-6 paired-12-qual-8)
 n=1
 for i in data/hmmvis_output/*.fasta; do
   echo "processing" $i
-  ./fasta2karyo.sh 'data/fasta_tmp/'${i##*/} $i ${colors[@]:$n:1}
+  ./fasta2karyo.sh 'data/fasta_tmp/'${i##*/} $i ${colors_neg[@]:$n:1} ${colors_pos[@]:$n:1}
   n=$(($n+1))
 done
 
