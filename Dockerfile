@@ -3,7 +3,7 @@ FROM ubuntu:14.04.3
 MAINTAINER Philipp Muench "philipp.muench@helmholtz-hzi.de"
 
 RUN DEBIAN_FRONTEND=noninteractive apt-get update
-RUN apt-get install -y build-essential make wget libgd2-xpm-dev libxml-simple-perl git vim fonts-circos-symbols python python-setuptools libblas-dev liblapack-dev gfortran libpython2.7-dev python-numpy libatlas-base-dev python-dev fort77 python-tk 
+RUN apt-get install -y build-essential make wget libgd2-xpm-dev libxml-simple-perl git vim fonts-circos-symbols python python-setuptools libblas-dev liblapack-dev gfortran libpython2.7-dev python-numpy libatlas-base-dev python-dev fort77 python-tk libdatetime-perl libxml-simple-perl libdigest-md5-perl bioperl 
 
 RUN wget https://bootstrap.pypa.io/get-pip.py \
   && python get-pip.py
@@ -43,10 +43,13 @@ RUN tar xvfz libgd-2.1.0.tar.gz \
 RUN /usr/local/bin/gdlib-config --all
 
 RUN mkdir -p fonts/symbols/
-COPY symbols.otf /fonts/symbols/symbols.otf
-COPY start_circos.sh /start_circos.sh
-COPY start.sh /start.sh
-COPY fasta2karyo.sh /fasta2karyo.sh
+
+# prokka
+# clone prokka
+RUN git clone https://github.com/tseemann/prokka.git && \
+	prokka/bin/prokka --setupdb
+# set links to /usr/bin
+ENV PATH $PATH:/prokka/bin
 
 RUN cpan App::cpanminus
 RUN cpanm List::MoreUtils Math::Bezier Math::Round Math::VecStat Params::Validate Readonly Regexp::Common SVG Set::IntSpan Statistics::Basic Text::Format Clone Config::General Font::TTF::Font GD
@@ -80,4 +83,11 @@ RUN git clone https://github.com/philippmuench/hmmvis.git
 #WORKDIR hmmvis
 #RUN python setup.py install
 
-ENTRYPOINT ["/bin/bash","start.sh"]
+COPY etc/symbols.otf /fonts/symbols/symbols.otf
+COPY start_circos.sh /start_circos.sh
+COPY start.sh /start.sh
+COPY fasta2karyo.sh /fasta2karyo.sh
+COPY generate_chr.sh /generate_chr.sh
+COPY generate_gc.sh /generate_gc.sh
+
+#ENTRYPOINT ["/bin/bash","start.sh"]
