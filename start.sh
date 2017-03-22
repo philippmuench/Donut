@@ -4,6 +4,7 @@
 rm -rf data/circos
 rm -rf data/circos/orf/all_orf.txt
 rm -rf data/circos/hmm/hmm_all.txt
+rm -rf data/circos/prokka/prokka_orf.txt
 mkdir -p data/circos/orf
 mkdir -p data
 mkdir -p data/output
@@ -29,6 +30,7 @@ for file in data/circos/fasta/*.fasta; do
   echo "run Prokka on $file"
   name=$(basename ${file%.*})
   prokka --outdir data/circos/prokka/$name $file
+  mv data/circos/prokka/$name/*.gff data/circos/prokka/$name.gff 
 done
 
 # run prodigal and hmmsearch on input fasta files
@@ -46,6 +48,12 @@ for i in data/circos/hmmvis/*.fasta; do
   ./generate_hmm.sh $i.out
   n=$(($n+1))
 done
+
+# process prokka output
+for i in data/circos/prokka/*.gff; do
+  ./generate_orf_prokka.sh $i
+done
+
 
 # multiple karyotypes
 echo "update circos config file"
