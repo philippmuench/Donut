@@ -11,7 +11,6 @@ mkdir -p data/circos/hmmvis
 mkdir -p data/circos/fasta/
 mkdir -p data/circos/hmm
 
-
 rm -rf data/circos/karyotype/
 mkdir -p data/circos/karyotype/
 
@@ -23,6 +22,13 @@ cp data/genomes/*.fasta data/circos/fasta/
 for f in data/circos/fasta/*.fasta; do
   header_string=$(basename ${f%.*})
   perl -pi -e "s/^>/>$header_string-/g" $f
+done
+
+# run prokka
+for file in data/circos/fasta/*.fasta; do
+  echo "run Prokka on $file"
+  name=$(basename ${file%.*})
+  prokka --outdir data/circos/prokka/$name $file
 done
 
 # run prodigal and hmmsearch on input fasta files
