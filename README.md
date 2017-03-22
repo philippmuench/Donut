@@ -1,6 +1,6 @@
 # :doughnut:  Donut
 
-just a simple tool that generates a circos plot from a bunch of fasta files based on prodigal, prokka and hmmsearch output
+just a simple tool that generates a circos plot from a bunch of fasta files
 
 # usuage
 1. clone this repo `git clone https://github.com/philippmuench/Donut.git`
@@ -13,8 +13,8 @@ just a simple tool that generates a circos plot from a bunch of fasta files base
 ![image](data/output/circos.png)
 
 from outer to inner:
+- filled dots: CDS, unfilled dots: hypothetical CDS
 - GC content
-- ORFs identified with prodigal
 - hits to `data/hmm/model.hmm` based on hmmsearch against ORFs
 
 # development
