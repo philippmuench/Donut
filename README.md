@@ -1,6 +1,6 @@
-# Donut
+# :doughnut:  Donut
 
-just a simple tool that generates a circos plot from a bunch of fasta files
+just a simple tool that generates a circos plot from a bunch of fasta files based on prodigal, prokka and hmmsearch output
 
 # usuage
 1. clone this repo `git clone https://github.com/philippmuench/Donut.git`
@@ -19,7 +19,7 @@ from outer to inner:
 
 # development
 
-comment the entrypoint in DOCKERFILE out than build the docker image from scatch
+comment the entrypoint in `Dockerfile` out than build the docker image from scatch
 
 ```
 sudo docker build -t easycircos .
@@ -37,7 +37,9 @@ inside the docker image start the tool
 ./start.sh
 ```
 
-The error print to screen are not critical, becaused the hmmvis tool tries to export png image to the screen which is not possible within docker. You can also change `data/config/circos.config` file from outside the container and run the circos step only 
+The error print to screen are not critical, becaused the hmmvis tool tries to export png image to the screen which is not possible within docker. 
+
+You can also change `data/config/circos.config` file from outside the container (because its mounted to the image) and run the circos step only to update the output file 
 
 ```
 ./start_circos.sh
