@@ -2,10 +2,14 @@
 
 # folder where circos files will be written to
 rm -rf data/circos
+rm -rf data/circos/orf/all_orf.txt
+rm -rf data/circos/hmm/hmm_all.txt
+mkdir -p data/circos/orf
 mkdir -p data
 mkdir -p data/output
 mkdir -p data/circos/hmmvis
 mkdir -p data/circos/fasta/
+mkdir -p data/circos/hmm
 
 
 rm -rf data/circos/karyotype/
@@ -32,6 +36,8 @@ for i in data/circos/hmmvis/*.fasta; do
   echo "processing: 'data/circos/fasta/'${i##*/}"
   ./generate_chr.sh 'data/circos/fasta/'${i##*/} ${colors_neg[@]:$n:1}
   ./generate_gc.sh $i
+  ./generate_orf.sh $i
+  ./generate_hmm.sh $i.out
   n=$(($n+1))
 done
 
