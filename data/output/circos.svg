@@ -24,7 +24,7 @@
 <path d="M3051.063,1343.287 A1657.500,1657.500 40.000 0,1 3055.019,1343.413 L3057.220,1277.150 A1723.800,1723.800 0.000 0,0 3053.105,1277.018 Z" style="stroke-linecap:round;fill:rgb(107,174,214);" />
 <path d="M3055.044,1343.414 A1657.500,1657.500 40.000 0,1 3055.989,1343.446 L3058.228,1277.184 A1723.800,1723.800 0.000 0,0 3057.245,1277.151 Z" style="stroke-linecap:round;fill:rgb(107,174,214);" />
 </g>
-<path d="M3000.000,790.000 A2210.000,2210.000 40.000 0,1 3074.652,791.261 L3076.003,751.284 A2250.000,2250.000 0.000 0,0 3000.000,750.000 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
+<path d="M3000.000,790.000 A2210.000,2210.000 40.000 0,1 3074.652,791.261 L3076.003,751.284 A2250.000,2250.000 0.000 0,0 3000.000,750.000 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:rgb(51,160,44);" />
 <text x="3073.5" y="574.3" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(271.0,3073.5,574.3)" >arman<tspan baseline-shift="0%" font-size="0%">2</tspan>-contig-1</text>
 <line x1='3000.0' y1='750.0' x2='3000.0' y2='735.0' style="stroke-width:2.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
 <text x="3023.5" y="715.1" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(270.0,3023.5,715.1)" >0</text>
@@ -51,7 +51,7 @@
 <g id="highlighttrack_1">
 <path d="M3151.157,1460.402 A1547.000,1547.000 40.000 0,1 3152.443,1460.529 L3158.976,1394.552 A1613.300,1613.300 0.000 0,0 3157.635,1394.420 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 </g>
-<path d="M3139.159,794.386 A2210.000,2210.000 40.000 0,1 3234.626,802.490 L3238.872,762.716 A2250.000,2250.000 0.000 0,0 3141.678,754.465 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
+<path d="M3139.159,794.386 A2210.000,2210.000 40.000 0,1 3234.626,802.490 L3238.872,762.716 A2250.000,2250.000 0.000 0,0 3141.678,754.465 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:rgb(51,160,44);" />
 <text x="3237.6" y="584.9" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(274.9,3237.6,584.9)" >arman<tspan baseline-shift="0%" font-size="0%">2</tspan>-contig-2</text>
 <line x1='3141.7' y1='754.5' x2='3142.6' y2='739.5' style="stroke-width:2.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
 <text x="3167.3" y="721.1" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(273.6,3167.3,721.1)" >0</text>
@@ -111,7 +111,7 @@
 <path d="M3460.837,1407.852 A1657.500,1657.500 40.000 0,1 3464.582,1408.941 L3483.165,1345.298 A1723.800,1723.800 0.000 0,0 3479.270,1344.166 Z" style="stroke-linecap:round;fill:rgb(107,174,214);" />
 <path d="M3464.568,1408.936 A1657.500,1657.500 40.000 0,1 3465.630,1409.247 L3484.255,1345.617 A1723.800,1723.800 0.000 0,0 3483.150,1345.294 Z" style="stroke-linecap:round;fill:rgb(107,174,214);" />
 </g>
-<path d="M3298.736,810.284 A2210.000,2210.000 40.000 0,1 3620.846,878.998 L3632.083,840.609 A2250.000,2250.000 0.000 0,0 3304.143,770.651 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
+<path d="M3298.736,810.284 A2210.000,2210.000 40.000 0,1 3620.846,878.998 L3632.083,840.609 A2250.000,2250.000 0.000 0,0 3304.143,770.651 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:rgb(51,160,44);" />
 <text x="3538.0" y="633.6" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(282.0,3538.0,633.6)" >arman<tspan baseline-shift="0%" font-size="0%">2</tspan>-contig-3</text>
 <line x1='3304.1' y1='770.7' x2='3306.2' y2='755.8' style="stroke-width:2.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
 <text x="3332.1" y="739.3" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(277.8,3332.1,739.3)" >0</text>
@@ -221,7 +221,7 @@
 <path d="M3696.143,1618.481 A1547.000,1547.000 40.000 0,1 3704.902,1622.930 L3735.112,1563.912 A1613.300,1613.300 0.000 0,0 3725.978,1559.273 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 <path d="M3696.143,1618.481 A1547.000,1547.000 40.000 0,1 3704.902,1622.930 L3735.112,1563.912 A1613.300,1613.300 0.000 0,0 3725.978,1559.273 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 </g>
-<path d="M3682.557,898.045 A2210.000,2210.000 40.000 0,1 4266.095,1188.618 L4289.011,1155.833 A2250.000,2250.000 0.000 0,0 3694.911,860.000 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
+<path d="M3682.557,898.045 A2210.000,2210.000 40.000 0,1 4266.095,1188.618 L4289.011,1155.833 A2250.000,2250.000 0.000 0,0 3694.911,860.000 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:rgb(51,160,44);" />
 <text x="4110.7" y="842.3" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(296.5,4110.7,842.3)" >arman<tspan baseline-shift="0%" font-size="0%">2</tspan>-contig-4</text>
 <line x1='3694.9' y1='860.0' x2='3699.5' y2='845.7' style="stroke-width:2.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
 <text x="3728.0" y="834.1" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(288.0,3728.0,834.1)" >0</text>
@@ -334,7 +334,7 @@
 <g id="highlighttrack_1">
 <path d="M4179.400,1998.888 A1547.000,1547.000 40.000 0,1 4180.324,1999.978 L4230.909,1957.120 A1613.300,1613.300 0.000 0,0 4229.946,1955.984 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 </g>
-<path d="M4318.483,1226.387 A2210.000,2210.000 40.000 0,1 4721.370,1614.004 L4752.526,1588.918 A2250.000,2250.000 0.000 0,0 4342.347,1194.285 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
+<path d="M4318.483,1226.387 A2210.000,2210.000 40.000 0,1 4721.370,1614.004 L4752.526,1588.918 A2250.000,2250.000 0.000 0,0 4342.347,1194.285 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:rgb(51,160,44);" />
 <text x="4705.8" y="1273.9" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(313.9,4705.8,1273.9)" >arman<tspan baseline-shift="0%" font-size="0%">2</tspan>-contig-5</text>
 <line x1='4342.3' y1='1194.3' x2='4351.3' y2='1182.2' style="stroke-width:2.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
 <text x="4382.0" y="1180.3" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(306.6,4382.0,1180.3)" >0</text>
@@ -428,7 +428,7 @@
 <path d="M4531.685,2366.560 A1657.500,1657.500 40.000 0,1 4532.971,2369.679 L4594.290,2344.466 A1723.800,1723.800 0.000 0,0 4592.953,2341.222 Z" style="stroke-linecap:round;fill:rgb(107,174,214);" />
 <path d="M4532.892,2369.485 A1657.500,1657.500 40.000 0,1 4533.995,2372.173 L4595.354,2347.060 A1723.800,1723.800 0.000 0,0 4594.207,2344.264 Z" style="stroke-linecap:round;fill:rgb(107,174,214);" />
 </g>
-<path d="M4761.134,1664.894 A2210.000,2210.000 40.000 0,1 5046.525,2165.834 L5083.567,2150.736 A2250.000,2250.000 0.000 0,0 4793.010,1640.729 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
+<path d="M4761.134,1664.894 A2210.000,2210.000 40.000 0,1 5046.525,2165.834 L5083.567,2150.736 A2250.000,2250.000 0.000 0,0 4793.010,1640.729 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:rgb(51,160,44);" />
 <text x="5124.5" y="1827.0" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(330.3,5124.5,1827.0)" >arman<tspan baseline-shift="0%" font-size="0%">2</tspan>-contig-6</text>
 <line x1='4793.0' y1='1640.7' x2='4805.0' y2='1631.7' style="stroke-width:2.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
 <text x="4835.0" y="1638.4" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(322.8,4835.0,1638.4)" >0</text>
@@ -798,7 +798,7 @@
 <path d="M4515.255,3311.787 A1547.000,1547.000 40.000 0,1 4513.888,3318.358 L4578.769,3332.002 A1613.300,1613.300 0.000 0,0 4580.194,3325.150 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 <path d="M4432.994,3582.869 A1547.000,1547.000 40.000 0,1 4431.334,3586.934 L4492.677,3612.088 A1613.300,1613.300 0.000 0,0 4494.408,3607.849 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 </g>
-<path d="M5070.026,2225.989 A2210.000,2210.000 40.000 0,1 4788.737,4297.890 L4821.113,4321.382 A2250.000,2250.000 0.000 0,0 5107.492,2211.980 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
+<path d="M5070.026,2225.989 A2210.000,2210.000 40.000 0,1 4788.737,4297.890 L4821.113,4321.382 A2250.000,2250.000 0.000 0,0 5107.492,2211.980 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:rgb(51,160,44);" />
 <text x="5400.2" y="3358.7" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(7.7,5400.2,3358.7)" >arman<tspan baseline-shift="0%" font-size="0%">2</tspan>-contig-7</text>
 <line x1='5107.5' y1='2212.0' x2='5121.5' y2='2206.7' style="stroke-width:2.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
 <text x="5148.4" y="2221.8" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(339.5,5148.4,2221.8)" >0</text>
@@ -1192,7 +1192,7 @@
 <path d="M3313.428,4514.916 A1547.000,1547.000 40.000 0,1 3308.472,4515.933 L3321.692,4580.902 A1613.300,1613.300 0.000 0,0 3326.861,4579.841 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 <path d="M3313.428,4514.916 A1547.000,1547.000 40.000 0,1 3308.472,4515.933 L3321.692,4580.902 A1613.300,1613.300 0.000 0,0 3326.861,4579.841 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 </g>
-<path d="M4750.049,4349.603 A2210.000,2210.000 40.000 0,1 2920.691,5208.576 L2919.255,5248.551 A2250.000,2250.000 0.000 0,0 4781.724,4374.030 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
+<path d="M4750.049,4349.603 A2210.000,2210.000 40.000 0,1 2920.691,5208.576 L2919.255,5248.551 A2250.000,2250.000 0.000 0,0 4781.724,4374.030 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:rgb(51,160,44);" />
 <text x="4001.9" y="5210.3" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(64.8,4001.9,5210.3)" >arman<tspan baseline-shift="0%" font-size="0%">2</tspan>-contig-8</text>
 <line x1='4781.7' y1='4374.0' x2='4793.6' y2='4383.2' style="stroke-width:2.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
 <text x="4795.0" y="4413.9" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:start;fill:rgb(0,0,0);" transform="rotate(37.6,4795.0,4413.9)" >0</text>
@@ -1268,7 +1268,7 @@
 <path d="M2846.982,4539.414 A1547.000,1547.000 40.000 0,1 2843.306,4539.044 L2836.591,4605.003 A1613.300,1613.300 0.000 0,0 2840.425,4605.389 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 <path d="M2846.982,4539.414 A1547.000,1547.000 40.000 0,1 2843.306,4539.044 L2836.591,4605.003 A1613.300,1613.300 0.000 0,0 2840.425,4605.389 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 </g>
-<path d="M2856.190,5205.316 A2210.000,2210.000 40.000 0,1 2469.396,5145.358 L2459.793,5184.188 A2250.000,2250.000 0.000 0,0 2853.587,5245.231 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
+<path d="M2856.190,5205.316 A2210.000,2210.000 40.000 0,1 2469.396,5145.358 L2459.793,5184.188 A2250.000,2250.000 0.000 0,0 2853.587,5245.231 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:rgb(227,26,28);" />
 <text x="2660.4" y="5402.9" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-81.2,2660.4,5402.9)" >dke<tspan baseline-shift="0%" font-size="0%">a</tspan>-contig-1</text>
 <line x1='2853.6' y1='5245.2' x2='2852.6' y2='5260.2' style="stroke-width:2.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
 <text x="2874.8" y="5281.6" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-86.3,2874.8,5281.6)" >0</text>
@@ -1378,7 +1378,7 @@
 <path d="M2561.702,4483.612 A1547.000,1547.000 40.000 0,1 2558.304,4482.604 L2539.374,4546.144 A1613.300,1613.300 0.000 0,0 2542.918,4547.195 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 <path d="M2325.870,4392.393 A1547.000,1547.000 40.000 0,1 2318.892,4388.993 L2289.702,4448.521 A1613.300,1613.300 0.000 0,0 2296.979,4452.067 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 </g>
-<path d="M2406.936,5128.937 A2210.000,2210.000 40.000 0,1 1883.195,4907.052 L1862.981,4941.569 A2250.000,2250.000 0.000 0,0 2396.202,5167.470 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
+<path d="M2406.936,5128.937 A2210.000,2210.000 40.000 0,1 1883.195,4907.052 L1862.981,4941.569 A2250.000,2250.000 0.000 0,0 2396.202,5167.470 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:rgb(227,26,28);" />
 <text x="2083.3" y="5247.0" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-67.0,2083.3,5247.0)" >dke<tspan baseline-shift="0%" font-size="0%">a</tspan>-contig-2</text>
 <line x1='2396.2' y1='5167.5' x2='2392.2' y2='5181.9' style="stroke-width:2.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
 <text x="2409.5" y="5207.4" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-74.4,2409.5,5207.4)" >0</text>
@@ -1481,7 +1481,7 @@
 <path d="M2159.315,4298.637 A1547.000,1547.000 40.000 0,1 2154.775,4295.687 L2118.551,4351.216 A1613.300,1613.300 0.000 0,0 2123.286,4354.293 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 <path d="M2159.315,4298.637 A1547.000,1547.000 40.000 0,1 2154.775,4295.687 L2118.551,4351.216 A1613.300,1613.300 0.000 0,0 2123.286,4354.293 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 </g>
-<path d="M1827.948,4873.604 A2210.000,2210.000 40.000 0,1 1449.175,4574.497 L1421.106,4602.995 A2250.000,2250.000 0.000 0,0 1806.734,4907.516 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
+<path d="M1827.948,4873.604 A2210.000,2210.000 40.000 0,1 1449.175,4574.497 L1421.106,4602.995 A2250.000,2250.000 0.000 0,0 1806.734,4907.516 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:rgb(227,26,28);" />
 <text x="1521.7" y="4924.5" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-51.7,1521.7,4924.5)" >dke<tspan baseline-shift="0%" font-size="0%">a</tspan>-contig-3</text>
 <line x1='1806.7' y1='4907.5' x2='1798.8' y2='4920.2' style="stroke-width:2.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
 <text x="1808.2" y="4949.5" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-58.0,1808.2,4949.5)" >0</text>
@@ -1556,7 +1556,7 @@
 <path d="M1609.460,3902.056 A1657.500,1657.500 40.000 0,1 1605.623,3896.114 L1549.848,3931.958 A1723.800,1723.800 0.000 0,0 1553.839,3938.138 Z" style="stroke-linecap:round;fill:rgb(107,174,214);" />
 <path d="M1605.415,3895.790 A1657.500,1657.500 40.000 0,1 1603.248,3892.407 L1547.378,3928.103 A1723.800,1723.800 0.000 0,0 1549.632,3931.621 Z" style="stroke-linecap:round;fill:rgb(107,174,214);" />
 </g>
-<path d="M1403.830,4528.510 A2210.000,2210.000 40.000 0,1 1137.661,4189.871 L1103.953,4211.407 A2250.000,2250.000 0.000 0,0 1374.940,4556.175 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
+<path d="M1403.830,4528.510 A2210.000,2210.000 40.000 0,1 1137.661,4189.871 L1103.953,4211.407 A2250.000,2250.000 0.000 0,0 1374.940,4556.175 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:rgb(227,26,28);" />
 <text x="1112.3" y="4525.1" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-38.2,1112.3,4525.1)" >dke<tspan baseline-shift="0%" font-size="0%">a</tspan>-contig-4</text>
 <line x1='1374.9' y1='4556.2' x2='1364.1' y2='4566.5' style="stroke-width:2.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
 <text x="1366.0" y="4597.3" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-43.8,1366.0,4597.3)" >0</text>
@@ -1740,7 +1740,7 @@
 <path d="M1473.536,3251.229 A1547.000,1547.000 40.000 0,1 1473.082,3248.459 L1407.643,3259.107 A1613.300,1613.300 0.000 0,0 1408.116,3261.996 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 <path d="M1473.536,3251.229 A1547.000,1547.000 40.000 0,1 1473.082,3248.459 L1407.643,3259.107 A1613.300,1613.300 0.000 0,0 1408.116,3261.996 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 </g>
-<path d="M1103.688,4134.945 A2210.000,2210.000 40.000 0,1 796.807,3173.317 L756.930,3176.454 A2250.000,2250.000 0.000 0,0 1069.366,4155.487 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
+<path d="M1103.688,4134.945 A2210.000,2210.000 40.000 0,1 796.807,3173.317 L756.930,3176.454 A2250.000,2250.000 0.000 0,0 1069.366,4155.487 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:rgb(227,26,28);" />
 <text x="698.2" y="3768.7" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-17.7,698.2,3768.7)" >dke<tspan baseline-shift="0%" font-size="0%">a</tspan>-contig-5</text>
 <line x1='1069.4' y1='4155.5' x2='1056.5' y2='4163.2' style="stroke-width:2.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
 <text x="1051.5" y="4193.6" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-30.9,1051.5,4193.6)" >0</text>
@@ -2099,7 +2099,7 @@
 <path d="M1672.935,2204.948 A1547.000,1547.000 40.000 0,1 1674.683,2202.038 L1617.884,2167.839 A1613.300,1613.300 0.000 0,0 1616.061,2170.874 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 <path d="M1951.837,1862.212 A1547.000,1547.000 40.000 0,1 1956.188,1858.218 L1911.453,1809.285 A1613.300,1613.300 0.000 0,0 1906.915,1813.449 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 </g>
-<path d="M792.683,3108.866 A2210.000,2210.000 40.000 0,1 1697.524,1214.599 L1673.950,1182.284 A2250.000,2250.000 0.000 0,0 752.732,3110.836 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
+<path d="M792.683,3108.866 A2210.000,2210.000 40.000 0,1 1697.524,1214.599 L1673.950,1182.284 A2250.000,2250.000 0.000 0,0 752.732,3110.836 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:rgb(227,26,28);" />
 <text x="796.4" y="1983.4" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(25.5,796.4,1983.4)" >dke<tspan baseline-shift="0%" font-size="0%">a</tspan>-contig-6</text>
 <line x1='752.7' y1='3110.8' x2='737.7' y2='3111.6' style="stroke-width:2.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
 <text x="719.1" y="3136.0" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(-2.8,719.1,3136.0)" >0</text>
@@ -2327,7 +2327,7 @@
 <path d="M2448.620,1554.597 A1547.000,1547.000 40.000 0,1 2451.282,1553.585 L2427.766,1491.595 A1613.300,1613.300 0.000 0,0 2424.989,1492.651 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 <path d="M2782.611,1468.350 A1547.000,1547.000 40.000 0,1 2787.500,1467.664 L2778.393,1401.993 A1613.300,1613.300 0.000 0,0 2773.294,1402.708 Z" style="stroke-linecap:round;fill:rgb(251,106,74);" />
 </g>
-<path d="M1750.249,1177.303 A2210.000,2210.000 40.000 0,1 2935.424,790.944 L2934.255,750.961 A2250.000,2250.000 0.000 0,0 1727.629,1144.313 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
+<path d="M1750.249,1177.303 A2210.000,2210.000 40.000 0,1 2935.424,790.944 L2934.255,750.961 A2250.000,2250.000 0.000 0,0 1727.629,1144.313 Z" style="stroke-width:1.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:rgb(227,26,28);" />
 <text x="2217.0" y="703.0" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(71.9,2217.0,703.0)" >dke<tspan baseline-shift="0%" font-size="0%">a</tspan>-contig-7</text>
 <line x1='1727.6' y1='1144.3' x2='1719.1' y2='1131.9' style="stroke-width:2.0;stroke:rgb(0,0,0);stroke-linecap:round;fill:none;" />
 <text x="1688.5" y="1128.8" font-size="65.0px" font-family="CMUBright-Roman" style="text-anchor:end;fill:rgb(0,0,0);" transform="rotate(55.6,1688.5,1128.8)" >0</text>
@@ -6645,10 +6645,10 @@
 </g>
 <defs>
 <pattern id="hline" width="10" height="10" patternTransform="rotate(0 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="10" y2="0" style="stroke:black;stroke-width:5" /></pattern>
-<pattern id="checker" width="10" height="10" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="10" y2="0" style="stroke:black;stroke-width:5" /><line x1="0" y1="0" x2="0" y2="10" style="stroke:black;stroke-width:4" /></pattern>
-<pattern id="vline" width="10" height="10" patternTransform="rotate(0 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="10" style="stroke:black;stroke-width:5" /></pattern>
 <pattern id="checker" width="10" height="10" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="10" y2="0" style="stroke:black;stroke-width:2" /><line x1="0" y1="0" x2="0" y2="10" style="stroke:black;stroke-width:2" /></pattern>
+<pattern id="checker" width="10" height="10" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="10" y2="0" style="stroke:black;stroke-width:5" /><line x1="0" y1="0" x2="0" y2="10" style="stroke:black;stroke-width:4" /></pattern>
 <pattern id="hline-sparse" width="10" height="10" patternTransform="rotate(0 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="10" y2="0" style="stroke:black;stroke-width:2" /></pattern>
+<pattern id="vline" width="10" height="10" patternTransform="rotate(0 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="10" style="stroke:black;stroke-width:5" /></pattern>
 <pattern id="vline-sparse" width="10" height="10" patternTransform="rotate(0 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="10" style="stroke:black;stroke-width:2" /></pattern>
 </defs>
 </svg>
