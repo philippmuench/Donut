@@ -11,6 +11,7 @@ mkdir -p data/output
 mkdir -p data/circos/hmmvis
 mkdir -p data/circos/fasta/
 mkdir -p data/circos/hmm
+mkdir -p data/circos/coverage
 
 rm -rf data/circos/karyotype/
 mkdir -p data/circos/karyotype/
@@ -49,11 +50,16 @@ for i in data/circos/hmmvis/*.fasta; do
   n=$(($n+1))
 done
 
-# process prokka output
 for i in data/circos/prokka/*.gff; do
+  # generate ORF locations
   ./generate_orf_prokka.sh $i
 done
 
+for i in data/circos/prokka/*.gff; do
+  basename=${i##*/}
+  name=${basename%.*}
+ ./generate_coverage.sh $i data/circos/fasta/$name.fasta
+done
 
 # multiple karyotypes
 echo "update circos config file"
