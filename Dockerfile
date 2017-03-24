@@ -2,8 +2,18 @@ FROM ubuntu:14.04.3
 
 MAINTAINER Philipp Muench "philipp.muench@helmholtz-hzi.de"
 
-RUN DEBIAN_FRONTEND=noninteractive apt-get update
-RUN apt-get install -y build-essential make wget libgd2-xpm-dev libxml-simple-perl git vim fonts-circos-symbols python python-setuptools libblas-dev liblapack-dev gfortran libpython2.7-dev python-numpy libatlas-base-dev python-dev fort77 python-tk libdatetime-perl libxml-simple-perl libdigest-md5-perl bioperl 
+# install java
+RUN DEBIAN_FRONTEND=noninteractive apt-get update && \
+    apt-get upgrade -y && \
+    apt-get install -y  software-properties-common && \
+    add-apt-repository ppa:webupd8team/java -y && \
+    apt-get update && \
+    echo oracle-java7-installer shared/accepted-oracle-license-v1-1 select true | /usr/bin/debconf-set-selections && \
+    apt-get install -y oracle-java8-installer && \
+    apt-get clean
+
+# install dependencies
+RUN apt-get install -y build-essential make wget libgd2-xpm-dev libxml-simple-perl git vim fonts-circos-symbols python python-setuptools libblas-dev liblapack-dev gfortran libpython2.7-dev python-numpy libatlas-base-dev python-dev fort77 python-tk libdatetime-perl libxml-simple-perl libdigest-md5-perl bioperl filo zlib1g-dev zlib1g unzip apt-utils gcc-multilib libstdc++6 libc6 libgcc1  libpython2.7-dev curl
 
 RUN wget https://bootstrap.pypa.io/get-pip.py \
   && python get-pip.py
@@ -83,11 +93,35 @@ RUN git clone https://github.com/philippmuench/hmmvis.git
 #WORKDIR hmmvis
 #RUN python setup.py install
 
+# install bedtools
+WORKDIR /usr/local/
+RUN git clone https://github.com/arq5x/bedtools2.git
+WORKDIR /usr/local/bedtools2
+RUN git checkout v2.25.0 
+RUN pwd 
+RUN make
+RUN ln -s /usr/local/bedtools2/bin/* /usr/local/bin/
+WORKDIR /
+
+# install blast
+# Download & install BLAST
+RUN mkdir /opt/blast \
+      && curl ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.2.30/ncbi-blast-2.2.30+-x64-linux.tar.gz \
+      | tar -zxC /opt/blast --strip-components=1
+
+ENV PATH /opt/blast/bin:$PATH
+
+
 COPY etc/symbols.otf /fonts/symbols/symbols.otf
+COPY etc/fonts/* /fonts/
 COPY start_circos.sh /start_circos.sh
 COPY start.sh /start.sh
 COPY fasta2karyo.sh /fasta2karyo.sh
 COPY generate_chr.sh /generate_chr.sh
 COPY generate_gc.sh /generate_gc.sh
+COPY generate_orf.sh /generate_orf.sh
+COPY generate_hmm.sh /generate_hmm.sh
+COPY generate_orf_prokka.sh /generate_orf_prokka.sh
+COPY generate_coverage.sh /generate_coverage.sh
 
 #ENTRYPOINT ["/bin/bash","start.sh"]

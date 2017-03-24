@@ -2,11 +2,16 @@
 
 # folder where circos files will be written to
 rm -rf data/circos
+rm -rf data/circos/orf/all_orf.txt
+rm -rf data/circos/hmm/hmm_all.txt
+rm -rf data/circos/prokka/prokka_orf.txt
+mkdir -p data/circos/orf
 mkdir -p data
 mkdir -p data/output
 mkdir -p data/circos/hmmvis
 mkdir -p data/circos/fasta/
-
+mkdir -p data/circos/hmm
+mkdir -p data/circos/coverage
 
 rm -rf data/circos/karyotype/
 mkdir -p data/circos/karyotype/
@@ -21,6 +26,14 @@ for f in data/circos/fasta/*.fasta; do
   perl -pi -e "s/^>/>$header_string-/g" $f
 done
 
+# run prokka
+for file in data/circos/fasta/*.fasta; do
+  echo "run Prokka on $file"
+  name=$(basename ${file%.*})
+  prokka --outdir data/circos/prokka/$name $file
+  mv data/circos/prokka/$name/*.gff data/circos/prokka/$name.gff 
+done
+
 # run prodigal and hmmsearch on input fasta files
 hmmvis/hmmvis/hmmvis --fasta_dir data/circos/fasta --output_dir data/circos/hmmvis/ --hmm data/hmm/model.hmm
 
@@ -32,7 +45,20 @@ for i in data/circos/hmmvis/*.fasta; do
   echo "processing: 'data/circos/fasta/'${i##*/}"
   ./generate_chr.sh 'data/circos/fasta/'${i##*/} ${colors_neg[@]:$n:1}
   ./generate_gc.sh $i
+  ./generate_orf.sh $i
+  ./generate_hmm.sh $i.out
   n=$(($n+1))
+done
+
+for i in data/circos/prokka/*.gff; do
+  # generate ORF locations
+  ./generate_orf_prokka.sh $i
+done
+
+for i in data/circos/prokka/*.gff; do
+  basename=${i##*/}
+  name=${basename%.*}
+ ./generate_coverage.sh $i data/circos/fasta/$name.fasta
 done
 
 # multiple karyotypes
