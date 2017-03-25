@@ -12,6 +12,7 @@ just a simple tool that generates a circos plot from a bunch of fasta files
 
 # example output
 ![image](data/output/circos.png)
+![image](data/output/circos_3.png)
 
 from outer to inner:
 - filled dots: CDS, unfilled dots: hypothetical CDS
