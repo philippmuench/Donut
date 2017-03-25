@@ -37,5 +37,5 @@ dke_a-contig-5_136   -            206 CbiA                 PF01656.21   128   0.
 # Target file:     data/circos/hmmvis/dke_a.fasta
 # Option settings: hmmsearch --domtblout data/circos/hmmvis/dke_a.fasta.out -E 0.001 data/hmm/model.hmm data/circos/hmmvis/dke_a.fasta 
 # Current dir:     /
-# Date:            Wed Mar 22 10:51:05 2017
+# Date:            Sat Mar 25 08:49:27 2017
 # [ok]
