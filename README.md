@@ -3,6 +3,7 @@
 just a simple tool that generates a circos plot from a bunch of fasta files
 
 # usuage
+0. the input files schould be named like `$genome_$sample` and the input fasta files should have the following header formt: `>contig-$number`
 1. clone this repo `git clone https://github.com/philippmuench/Donut.git`
 2. put your fasta (one or multipe) files in the `data/genomes/` folder
 3. add your Hidden Markov model file to `data/hmm/model.hmm`
