@@ -1,0 +1,3274 @@
+locus_tag	ftype	gene	EC_number	product
+EFEAEOLF_00001	CDS	hypothetical protein
+EFEAEOLF_00002	CDS	hypothetical protein
+EFEAEOLF_00003	CDS	hddA_1	2.7.1.168	D-glycero-alpha-D-manno-heptose 7-phosphate kinase
+EFEAEOLF_00004	CDS	hddA_2	2.7.1.168	D-glycero-alpha-D-manno-heptose 7-phosphate kinase
+EFEAEOLF_00005	tRNA	tRNA-Glu(ctc)
+EFEAEOLF_00006	CDS	hypothetical protein
+EFEAEOLF_00007	CDS	rhlE	3.6.4.13	ATP-dependent RNA helicase RhlE
+EFEAEOLF_00008	CDS	rhpA	3.6.4.13	DEAD-box ATP-dependent RNA helicase RhpA
+EFEAEOLF_00009	CDS	dbpA_1	3.6.4.13	ATP-dependent RNA helicase DbpA
+EFEAEOLF_00010	CDS	hypothetical protein
+EFEAEOLF_00011	CDS	hypothetical protein
+EFEAEOLF_00012	tRNA	tRNA-Ser(gga)
+EFEAEOLF_00013	CDS	Ferredoxin-1
+EFEAEOLF_00014	CDS	hypothetical protein
+EFEAEOLF_00015	CDS	hypothetical protein
+EFEAEOLF_00016	CDS	hypothetical protein
+EFEAEOLF_00017	CDS	hypothetical protein
+EFEAEOLF_00018	CDS	ffh_1	Signal recognition particle protein
+EFEAEOLF_00019	CDS	srp54	Signal recognition particle 54 kDa protein
+EFEAEOLF_00020	CDS	ffh_2	Signal recognition particle protein
+EFEAEOLF_00021	CDS	hypothetical protein
+EFEAEOLF_00022	CDS	hypothetical protein
+EFEAEOLF_00023	tRNA	tRNA-Ser(cga)
+EFEAEOLF_00024	CDS	hypothetical protein
+EFEAEOLF_00025	CDS	5.3.1.29	Putative thiazole biosynthetic enzyme
+EFEAEOLF_00026	CDS	hypothetical protein
+EFEAEOLF_00027	CDS	hypothetical protein
+EFEAEOLF_00028	CDS	nth_1	4.2.99.18	Endonuclease III
+EFEAEOLF_00029	CDS	carB_1	6.3.5.5	Carbamoyl-phosphate synthase large chain
+EFEAEOLF_00030	CDS	carB_2	6.3.5.5	Carbamoyl-phosphate synthase large chain
+EFEAEOLF_00031	CDS	carA_1	6.3.5.5	Carbamoyl-phosphate synthase arginine-specific small chain
+EFEAEOLF_00032	CDS	carA_2	6.3.5.5	Carbamoyl-phosphate synthase small chain
+EFEAEOLF_00033	CDS	carA_3	6.3.5.5	Carbamoyl-phosphate synthase small chain
+EFEAEOLF_00034	CDS	cutA	Divalent-cation tolerance protein CutA
+EFEAEOLF_00035	CDS	sfsA_1	Sugar fermentation stimulation protein A
+EFEAEOLF_00036	CDS	sfsA_2	Sugar fermentation stimulation protein A
+EFEAEOLF_00037	CDS	hypothetical protein
+EFEAEOLF_00038	CDS	3.1.-.-	Ribonuclease
+EFEAEOLF_00039	CDS	3.1.-.-	Ribonuclease
+EFEAEOLF_00040	CDS	mtnP_1	2.4.2.28	S-methyl-5'-thioadenosine phosphorylase
+EFEAEOLF_00041	CDS	mtnP_2	2.4.2.28	S-methyl-5'-thioadenosine phosphorylase
+EFEAEOLF_00042	CDS	hypothetical protein
+EFEAEOLF_00043	CDS	hypothetical protein
+EFEAEOLF_00044	CDS	hypothetical protein
+EFEAEOLF_00045	CDS	hypothetical protein
+EFEAEOLF_00046	CDS	hypothetical protein
+EFEAEOLF_00047	CDS	hypothetical protein
+EFEAEOLF_00048	CDS	hypothetical protein
+EFEAEOLF_00049	CDS	hypothetical protein
+EFEAEOLF_00050	CDS	hypothetical protein
+EFEAEOLF_00051	CDS	hypothetical protein
+EFEAEOLF_00052	CDS	hypothetical protein
+EFEAEOLF_00053	CDS	hypothetical protein
+EFEAEOLF_00054	tRNA	tRNA-Ile(gat)
+EFEAEOLF_00055	tRNA	tRNA-Lys(ctt)
+EFEAEOLF_00056	CDS	carE_1	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarE
+EFEAEOLF_00057	CDS	carE_2	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarE
+EFEAEOLF_00058	CDS	acrA	Acryloyl-CoA reductase electron transfer subunit beta
+EFEAEOLF_00059	CDS	hypothetical protein
+EFEAEOLF_00060	CDS	etfB_1	Electron transfer flavoprotein subunit beta
+EFEAEOLF_00061	CDS	carD_1	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarD
+EFEAEOLF_00062	CDS	hypothetical protein
+EFEAEOLF_00063	CDS	hypothetical protein
+EFEAEOLF_00064	CDS	hypothetical protein
+EFEAEOLF_00065	CDS	hypothetical protein
+EFEAEOLF_00066	CDS	hypothetical protein
+EFEAEOLF_00067	CDS	rplW	50S ribosomal protein L23
+EFEAEOLF_00068	CDS	rplB	50S ribosomal protein L2
+EFEAEOLF_00069	CDS	rpsS	30S ribosomal protein S19
+EFEAEOLF_00070	CDS	hypothetical protein
+EFEAEOLF_00071	CDS	hypothetical protein
+EFEAEOLF_00072	CDS	hypothetical protein
+EFEAEOLF_00073	CDS	hypothetical protein
+EFEAEOLF_00074	CDS	rpmC	50S ribosomal protein L29
+EFEAEOLF_00075	CDS	hypothetical protein
+EFEAEOLF_00076	CDS	hypothetical protein
+EFEAEOLF_00077	CDS	hypothetical protein
+EFEAEOLF_00078	CDS	hypothetical protein
+EFEAEOLF_00079	CDS	rplN_1	50S ribosomal protein L14
+EFEAEOLF_00080	CDS	rplN_2	50S ribosomal protein L14
+EFEAEOLF_00081	CDS	hypothetical protein
+EFEAEOLF_00082	CDS	hypothetical protein
+EFEAEOLF_00083	CDS	hypothetical protein
+EFEAEOLF_00084	CDS	rplE	50S ribosomal protein L5
+EFEAEOLF_00085	CDS	hypothetical protein
+EFEAEOLF_00086	CDS	rpsH	30S ribosomal protein S8
+EFEAEOLF_00087	CDS	hypothetical protein
+EFEAEOLF_00088	CDS	hypothetical protein
+EFEAEOLF_00089	CDS	hypothetical protein
+EFEAEOLF_00090	CDS	hypothetical protein
+EFEAEOLF_00091	CDS	rpsE	30S ribosomal protein S5
+EFEAEOLF_00092	CDS	hypothetical protein
+EFEAEOLF_00093	CDS	hypothetical protein
+EFEAEOLF_00094	CDS	rplO_1	50S ribosomal protein L15
+EFEAEOLF_00095	CDS	secY	Protein translocase subunit SecY
+EFEAEOLF_00096	CDS	hypothetical protein
+EFEAEOLF_00097	CDS	hypothetical protein
+EFEAEOLF_00098	CDS	cmk_1	2.7.4.25	Cytidylate kinase
+EFEAEOLF_00099	CDS	truB	5.4.99.25	tRNA pseudouridine synthase B
+EFEAEOLF_00100	CDS	hypothetical protein
+EFEAEOLF_00101	CDS	hypothetical protein
+EFEAEOLF_00102	CDS	hypothetical protein
+EFEAEOLF_00103	CDS	purF_1	2.4.2.14	Amidophosphoribosyltransferase
+EFEAEOLF_00104	CDS	purF_2	2.4.2.14	Amidophosphoribosyltransferase
+EFEAEOLF_00105	CDS	hypothetical protein
+EFEAEOLF_00106	CDS	hypothetical protein
+EFEAEOLF_00107	CDS	hypothetical protein
+EFEAEOLF_00108	CDS	pnp_1	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+EFEAEOLF_00109	CDS	hypothetical protein
+EFEAEOLF_00110	CDS	hypothetical protein
+EFEAEOLF_00111	CDS	hypothetical protein
+EFEAEOLF_00112	CDS	hypothetical protein
+EFEAEOLF_00113	CDS	top6B_1	5.99.1.3	Type 2 DNA topoisomerase 6 subunit B
+EFEAEOLF_00114	CDS	top6B_2	5.99.1.3	Type 2 DNA topoisomerase 6 subunit B
+EFEAEOLF_00115	CDS	hypothetical protein
+EFEAEOLF_00116	CDS	hypothetical protein
+EFEAEOLF_00117	CDS	top6A_1	5.99.1.3	Type 2 DNA topoisomerase 6 subunit A
+EFEAEOLF_00118	CDS	top6A_2	5.99.1.3	Type 2 DNA topoisomerase 6 subunit A
+EFEAEOLF_00119	CDS	ramA_1	3.5.1.100	(R)-stereoselective amidase
+EFEAEOLF_00120	CDS	otsB	3.1.3.12	Trehalose-6-phosphate phosphatase
+EFEAEOLF_00121	CDS	otsA_1	2.4.1.15	Trehalose-6-phosphate synthase
+EFEAEOLF_00122	CDS	hypothetical protein
+EFEAEOLF_00123	CDS	otsA_2	2.4.1.15	Trehalose-6-phosphate synthase
+EFEAEOLF_00124	CDS	hypothetical protein
+EFEAEOLF_00125	CDS	hypothetical protein
+EFEAEOLF_00126	CDS	hypothetical protein
+EFEAEOLF_00127	CDS	mtnA_1	5.3.1.23	Methylthioribose-1-phosphate isomerase
+EFEAEOLF_00128	CDS	mtnA_2	5.3.1.23	Methylthioribose-1-phosphate isomerase
+EFEAEOLF_00129	CDS	mtnA_3	5.3.1.23	Methylthioribose-1-phosphate isomerase
+EFEAEOLF_00130	CDS	hypothetical protein
+EFEAEOLF_00131	CDS	dapA_1	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+EFEAEOLF_00132	tRNA	tRNA-Lys(ttt)
+EFEAEOLF_00133	CDS	hypothetical protein
+EFEAEOLF_00134	CDS	hypothetical protein
+EFEAEOLF_00135	CDS	hypothetical protein
+EFEAEOLF_00136	CDS	hypothetical protein
+EFEAEOLF_00137	CDS	hypothetical protein
+EFEAEOLF_00138	CDS	hypothetical protein
+EFEAEOLF_00139	CDS	hypothetical protein
+EFEAEOLF_00140	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+EFEAEOLF_00141	CDS	rpoC_1	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+EFEAEOLF_00142	CDS	rpoC_2	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+EFEAEOLF_00143	CDS	hypothetical protein
+EFEAEOLF_00144	CDS	hypothetical protein
+EFEAEOLF_00145	CDS	hypothetical protein
+EFEAEOLF_00146	CDS	rpoC_3	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+EFEAEOLF_00147	CDS	hypothetical protein
+EFEAEOLF_00148	CDS	hypothetical protein
+EFEAEOLF_00149	CDS	hypothetical protein
+EFEAEOLF_00150	CDS	hypothetical protein
+EFEAEOLF_00151	CDS	hypothetical protein
+EFEAEOLF_00152	tRNA	tRNA-Met(cat)
+EFEAEOLF_00153	CDS	hypothetical protein
+EFEAEOLF_00154	CDS	hypothetical protein
+EFEAEOLF_00155	CDS	hemC	2.5.1.61	Porphobilinogen deaminase
+EFEAEOLF_00156	CDS	hypothetical protein
+EFEAEOLF_00157	CDS	hypothetical protein
+EFEAEOLF_00158	CDS	hypothetical protein
+EFEAEOLF_00159	CDS	hypothetical protein
+EFEAEOLF_00160	CDS	ugpQ	3.1.4.46	Glycerophosphodiester phosphodiesterase, cytoplasmic
+EFEAEOLF_00161	CDS	hypothetical protein
+EFEAEOLF_00162	CDS	hypothetical protein
+EFEAEOLF_00163	CDS	hypothetical protein
+EFEAEOLF_00164	CDS	rpsM	30S ribosomal protein S13
+EFEAEOLF_00165	CDS	rpsD	30S ribosomal protein S4
+EFEAEOLF_00166	CDS	rpsK	30S ribosomal protein S11
+EFEAEOLF_00167	CDS	hypothetical protein
+EFEAEOLF_00168	CDS	hypothetical protein
+EFEAEOLF_00169	CDS	hypothetical protein
+EFEAEOLF_00170	CDS	nadK_1	2.7.1.23	NAD kinase
+EFEAEOLF_00171	CDS	nadK_2	2.7.1.23	NAD kinase
+EFEAEOLF_00172	CDS	hypothetical protein
+EFEAEOLF_00173	CDS	prpB	4.1.3.30	2-methylisocitrate lyase
+EFEAEOLF_00174	CDS	hypothetical protein
+EFEAEOLF_00175	CDS	hypothetical protein
+EFEAEOLF_00176	CDS	prpD	4.2.1.79	2-methylcitrate dehydratase
+EFEAEOLF_00177	CDS	hypothetical protein
+EFEAEOLF_00178	CDS	hypothetical protein
+EFEAEOLF_00179	CDS	hypothetical protein
+EFEAEOLF_00180	CDS	hypothetical protein
+EFEAEOLF_00181	CDS	hypothetical protein
+EFEAEOLF_00182	CDS	hypothetical protein
+EFEAEOLF_00183	CDS	4.2.1.96	Putative pterin-4-alpha-carbinolamine dehydratase
+EFEAEOLF_00184	CDS	hypothetical protein
+EFEAEOLF_00185	CDS	hypothetical protein
+EFEAEOLF_00186	CDS	hypothetical protein
+EFEAEOLF_00187	CDS	hypothetical protein
+EFEAEOLF_00188	CDS	hypothetical protein
+EFEAEOLF_00189	CDS	hypothetical protein
+EFEAEOLF_00190	CDS	hypothetical protein
+EFEAEOLF_00191	CDS	hypothetical protein
+EFEAEOLF_00192	CDS	hypothetical protein
+EFEAEOLF_00193	CDS	hypothetical protein
+EFEAEOLF_00194	CDS	hypothetical protein
+EFEAEOLF_00195	CDS	hypothetical protein
+EFEAEOLF_00196	CDS	hypothetical protein
+EFEAEOLF_00197	CDS	hypothetical protein
+EFEAEOLF_00198	CDS	yitD	4.4.1.19	Phosphosulfolactate synthase
+EFEAEOLF_00199	CDS	hypothetical protein
+EFEAEOLF_00200	CDS	cysH_1	1.8.4.10	Thioredoxin-dependent 5'-adenylylsulfate reductase
+EFEAEOLF_00201	CDS	cysH_2	1.8.4.10	Thioredoxin-dependent 5'-adenylylsulfate reductase
+EFEAEOLF_00202	CDS	hypothetical protein
+EFEAEOLF_00203	CDS	sat	2.7.7.4	Sulfate adenylyltransferase
+EFEAEOLF_00204	CDS	hypothetical protein
+EFEAEOLF_00205	CDS	cysI_1	1.8.1.2	Sulfite reductase [NADPH] hemoprotein beta-component
+EFEAEOLF_00206	CDS	sir	1.8.7.1	Sulfite reductase [ferredoxin]
+EFEAEOLF_00207	CDS	cysI_2	1.8.1.2	Sulfite reductase [NADPH] hemoprotein beta-component
+EFEAEOLF_00208	CDS	hypothetical protein
+EFEAEOLF_00209	CDS	sumT_1	2.1.1.107	Uroporphyrinogen-III C-methyltransferase
+EFEAEOLF_00210	CDS	hypothetical protein
+EFEAEOLF_00211	CDS	cysG_1	4.99.1.4	Siroheme synthase
+EFEAEOLF_00212	CDS	trxB_1	1.8.1.9	Thioredoxin reductase
+EFEAEOLF_00213	CDS	5.3.1.29	Putative thiazole biosynthetic enzyme
+EFEAEOLF_00214	CDS	hypothetical protein
+EFEAEOLF_00215	CDS	gabD	1.2.1.79	Succinate-semialdehyde dehydrogenase [NADP(+)]
+EFEAEOLF_00216	CDS	hypothetical protein
+EFEAEOLF_00217	CDS	pchA	1.2.1.96	4-hydroxybenzaldehyde dehydrogenase (NADP(+))
+EFEAEOLF_00218	CDS	safD	1.2.1.73	Sulfoacetaldehyde dehydrogenase
+EFEAEOLF_00219	CDS	hypothetical protein
+EFEAEOLF_00220	CDS	hypothetical protein
+EFEAEOLF_00221	CDS	hypothetical protein
+EFEAEOLF_00222	CDS	katG2_1	1.11.1.21	Catalase-peroxidase 2
+EFEAEOLF_00223	CDS	katG2_2	1.11.1.21	Catalase-peroxidase 2
+EFEAEOLF_00224	CDS	katG_1	1.11.1.21	Catalase-peroxidase
+EFEAEOLF_00225	CDS	katG_2	1.11.1.21	Catalase-peroxidase
+EFEAEOLF_00226	CDS	plaP_1	Low-affinity putrescine importer PlaP
+EFEAEOLF_00227	CDS	hypothetical protein
+EFEAEOLF_00228	CDS	hemL_1	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+EFEAEOLF_00229	CDS	hypothetical protein
+EFEAEOLF_00230	CDS	ttuB	Putative tartrate transporter
+EFEAEOLF_00231	CDS	hypothetical protein
+EFEAEOLF_00232	CDS	hypothetical protein
+EFEAEOLF_00233	CDS	ilvC_1	1.1.1.86	Ketol-acid reductoisomerase (NADP(+))
+EFEAEOLF_00234	CDS	kynB_1	3.5.1.9	Kynurenine formamidase
+EFEAEOLF_00235	CDS	kynB_2	3.5.1.9	Kynurenine formamidase
+EFEAEOLF_00236	CDS	yjhB	Putative metabolite transport protein YjhB
+EFEAEOLF_00237	CDS	dam	2.1.1.72	DNA adenine methylase
+EFEAEOLF_00238	CDS	hypothetical protein
+EFEAEOLF_00239	CDS	hypothetical protein
+EFEAEOLF_00240	CDS	hypothetical protein
+EFEAEOLF_00241	CDS	hypothetical protein
+EFEAEOLF_00242	CDS	hypothetical protein
+EFEAEOLF_00243	CDS	hypothetical protein
+EFEAEOLF_00244	CDS	hypothetical protein
+EFEAEOLF_00245	CDS	hypothetical protein
+EFEAEOLF_00246	CDS	hypothetical protein
+EFEAEOLF_00247	CDS	hypothetical protein
+EFEAEOLF_00248	CDS	hypothetical protein
+EFEAEOLF_00249	CDS	hypothetical protein
+EFEAEOLF_00250	CDS	hypothetical protein
+EFEAEOLF_00251	CDS	hypothetical protein
+EFEAEOLF_00252	CDS	hypothetical protein
+EFEAEOLF_00253	CDS	hypothetical protein
+EFEAEOLF_00254	CDS	hypothetical protein
+EFEAEOLF_00255	CDS	hypothetical protein
+EFEAEOLF_00256	tRNA	tRNA-Ala(ggc)
+EFEAEOLF_00257	CDS	ptlH	Type IV secretion system protein PtlH
+EFEAEOLF_00258	CDS	hypothetical protein
+EFEAEOLF_00259	CDS	hypothetical protein
+EFEAEOLF_00260	CDS	hypothetical protein
+EFEAEOLF_00261	CDS	hypothetical protein
+EFEAEOLF_00262	CDS	hypothetical protein
+EFEAEOLF_00263	CDS	hypothetical protein
+EFEAEOLF_00264	CDS	hypothetical protein
+EFEAEOLF_00265	CDS	hypothetical protein
+EFEAEOLF_00266	CDS	hypothetical protein
+EFEAEOLF_00267	CDS	hypothetical protein
+EFEAEOLF_00268	CDS	nhaH	Na(+)/H(+) antiporter NhaH
+EFEAEOLF_00269	CDS	nadE	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+EFEAEOLF_00270	CDS	hypothetical protein
+EFEAEOLF_00271	CDS	folD	Bifunctional protein FolD protein
+EFEAEOLF_00272	CDS	hypothetical protein
+EFEAEOLF_00273	CDS	hypothetical protein
+EFEAEOLF_00274	CDS	hypothetical protein
+EFEAEOLF_00275	CDS	ribA	3.5.4.25	GTP cyclohydrolase-2
+EFEAEOLF_00276	CDS	hypothetical protein
+EFEAEOLF_00277	CDS	hypothetical protein
+EFEAEOLF_00278	CDS	hypothetical protein
+EFEAEOLF_00279	CDS	hypothetical protein
+EFEAEOLF_00280	CDS	hypothetical protein
+EFEAEOLF_00281	CDS	trpB	4.2.1.20	Tryptophan synthase beta chain
+EFEAEOLF_00282	CDS	hypothetical protein
+EFEAEOLF_00283	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+EFEAEOLF_00284	CDS	hypothetical protein
+EFEAEOLF_00285	CDS	hypothetical protein
+EFEAEOLF_00286	CDS	trpD_1	2.4.2.18	Anthranilate phosphoribosyltransferase
+EFEAEOLF_00287	CDS	trpD_2	2.4.2.18	Anthranilate phosphoribosyltransferase
+EFEAEOLF_00288	CDS	trpF	5.3.1.24	N-(5'-phosphoribosyl)anthranilate isomerase
+EFEAEOLF_00289	CDS	hypothetical protein
+EFEAEOLF_00290	CDS	hypothetical protein
+EFEAEOLF_00291	CDS	pabB	2.6.1.85	Aminodeoxychorismate synthase component 1
+EFEAEOLF_00292	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+EFEAEOLF_00293	CDS	trpG_1	4.1.3.27	Anthranilate synthase component 2
+EFEAEOLF_00294	CDS	hypothetical protein
+EFEAEOLF_00295	CDS	trpG_2	4.1.3.27	Anthranilate synthase component 2
+EFEAEOLF_00296	CDS	trpC	4.1.1.48	Indole-3-glycerol phosphate synthase
+EFEAEOLF_00297	CDS	aroF_1	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+EFEAEOLF_00298	CDS	aroF_2	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+EFEAEOLF_00299	CDS	pyk	2.7.1.40	Pyruvate kinase
+EFEAEOLF_00300	CDS	hypothetical protein
+EFEAEOLF_00301	CDS	Vejahgd	1.2.1.92	3,6-anhydro-alpha-L-galactose dehydrogenase
+EFEAEOLF_00302	CDS	davD	1.2.1.20	Glutarate-semialdehyde dehydrogenase DavD
+EFEAEOLF_00303	CDS	pheA	P-protein
+EFEAEOLF_00304	CDS	hypothetical protein
+EFEAEOLF_00305	CDS	2.1.1.-	putative tRNA/rRNA methyltransferase
+EFEAEOLF_00306	CDS	rplO_2	50S ribosomal protein L15
+EFEAEOLF_00307	CDS	rplM	50S ribosomal protein L13
+EFEAEOLF_00308	CDS	rpsI	30S ribosomal protein S9
+EFEAEOLF_00309	CDS	hypothetical protein
+EFEAEOLF_00310	tRNA	tRNA-Pro(ggg)
+EFEAEOLF_00311	CDS	hypothetical protein
+EFEAEOLF_00312	CDS	hypothetical protein
+EFEAEOLF_00313	CDS	hypothetical protein
+EFEAEOLF_00314	CDS	pip_1	3.4.11.5	Proline iminopeptidase
+EFEAEOLF_00315	CDS	pip_2	3.4.11.5	Proline iminopeptidase
+EFEAEOLF_00316	CDS	hypothetical protein
+EFEAEOLF_00317	CDS	hypothetical protein
+EFEAEOLF_00318	CDS	hypothetical protein
+EFEAEOLF_00319	CDS	hypothetical protein
+EFEAEOLF_00320	CDS	hypothetical protein
+EFEAEOLF_00321	CDS	hypothetical protein
+EFEAEOLF_00322	CDS	hypothetical protein
+EFEAEOLF_00323	CDS	hypothetical protein
+EFEAEOLF_00324	CDS	cmpD	3.6.3.-	Bicarbonate transport ATP-binding protein CmpD
+EFEAEOLF_00325	CDS	hypothetical protein
+EFEAEOLF_00326	CDS	hypothetical protein
+EFEAEOLF_00327	CDS	nlhH	3.1.1.1	Carboxylesterase NlhH
+EFEAEOLF_00328	CDS	lip2	3.1.1.3	Lipase 2
+EFEAEOLF_00329	CDS	leuA_1	2.3.3.13	2-isopropylmalate synthase
+EFEAEOLF_00330	CDS	dmdA_1	4.2.1.85	2,3-dimethylmalate dehydratase large subunit
+EFEAEOLF_00331	CDS	dmdA_2	4.2.1.85	2,3-dimethylmalate dehydratase large subunit
+EFEAEOLF_00332	CDS	dmdA_3	4.2.1.85	2,3-dimethylmalate dehydratase large subunit
+EFEAEOLF_00333	CDS	DmdB	4.2.1.85	2,3-dimethylmalate dehydratase small subunit
+EFEAEOLF_00334	CDS	hicd_1	1.1.1.87	Homoisocitrate dehydrogenase
+EFEAEOLF_00335	CDS	ilvC_2	1.1.1.382	Ketol-acid reductoisomerase (NAD(+))
+EFEAEOLF_00336	CDS	hypothetical protein
+EFEAEOLF_00337	CDS	ilvB_1	2.2.1.6	Acetolactate synthase isozyme 1 large subunit
+EFEAEOLF_00338	CDS	ilvB_2	2.2.1.6	Acetolactate synthase isozyme 1 large subunit
+EFEAEOLF_00339	CDS	hypothetical protein
+EFEAEOLF_00340	CDS	3.7.1.11	Cyclohexane-1,2-dione hydrolase
+EFEAEOLF_00341	CDS	ilvB1	2.2.1.6	Acetolactate synthase large subunit IlvB1
+EFEAEOLF_00342	CDS	hypothetical protein
+EFEAEOLF_00343	CDS	cobO	2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+EFEAEOLF_00344	CDS	hypothetical protein
+EFEAEOLF_00345	CDS	hypothetical protein
+EFEAEOLF_00346	CDS	hypothetical protein
+EFEAEOLF_00347	CDS	hypothetical protein
+EFEAEOLF_00348	CDS	hypothetical protein
+EFEAEOLF_00349	CDS	hypothetical protein
+EFEAEOLF_00350	CDS	hypothetical protein
+EFEAEOLF_00351	CDS	hypothetical protein
+EFEAEOLF_00352	CDS	hypothetical protein
+EFEAEOLF_00353	CDS	hypothetical protein
+EFEAEOLF_00354	CDS	hypothetical protein
+EFEAEOLF_00355	CDS	hypothetical protein
+EFEAEOLF_00356	CDS	hypothetical protein
+EFEAEOLF_00357	CDS	hypothetical protein
+EFEAEOLF_00358	CDS	hypothetical protein
+EFEAEOLF_00359	CDS	hypothetical protein
+EFEAEOLF_00360	CDS	hypothetical protein
+EFEAEOLF_00361	CDS	pheT_1	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+EFEAEOLF_00362	CDS	pheT_2	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+EFEAEOLF_00363	CDS	pheT_3	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+EFEAEOLF_00364	CDS	pheT_4	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+EFEAEOLF_00365	CDS	hypothetical protein
+EFEAEOLF_00366	CDS	dapH	2.3.1.89	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+EFEAEOLF_00367	CDS	hypothetical protein
+EFEAEOLF_00368	CDS	hypothetical protein
+EFEAEOLF_00369	CDS	hypothetical protein
+EFEAEOLF_00370	CDS	hypothetical protein
+EFEAEOLF_00371	CDS	hypothetical protein
+EFEAEOLF_00372	CDS	hypothetical protein
+EFEAEOLF_00373	CDS	hypothetical protein
+EFEAEOLF_00374	CDS	hypothetical protein
+EFEAEOLF_00375	CDS	hypothetical protein
+EFEAEOLF_00376	CDS	Type IV secretion system protein VirB11
+EFEAEOLF_00377	CDS	tcpT	Toxin coregulated pilus biosynthesis protein T
+EFEAEOLF_00378	CDS	hypothetical protein
+EFEAEOLF_00379	CDS	hypothetical protein
+EFEAEOLF_00380	CDS	hypothetical protein
+EFEAEOLF_00381	CDS	hypothetical protein
+EFEAEOLF_00382	CDS	hypothetical protein
+EFEAEOLF_00383	CDS	hypothetical protein
+EFEAEOLF_00384	CDS	hypothetical protein
+EFEAEOLF_00385	CDS	hypothetical protein
+EFEAEOLF_00386	CDS	hypothetical protein
+EFEAEOLF_00387	CDS	hypothetical protein
+EFEAEOLF_00388	CDS	hypothetical protein
+EFEAEOLF_00389	CDS	hypothetical protein
+EFEAEOLF_00390	CDS	hypothetical protein
+EFEAEOLF_00391	CDS	hypothetical protein
+EFEAEOLF_00392	CDS	hypothetical protein
+EFEAEOLF_00393	CDS	hypothetical protein
+EFEAEOLF_00394	CDS	hypothetical protein
+EFEAEOLF_00395	CDS	hypothetical protein
+EFEAEOLF_00396	CDS	hypothetical protein
+EFEAEOLF_00397	CDS	hypothetical protein
+EFEAEOLF_00398	CDS	hypothetical protein
+EFEAEOLF_00399	CDS	hypothetical protein
+EFEAEOLF_00400	CDS	hypothetical protein
+EFEAEOLF_00401	CDS	hypothetical protein
+EFEAEOLF_00402	CDS	hypothetical protein
+EFEAEOLF_00403	CDS	glmM_1	5.4.2.10	Phosphoglucosamine mutase
+EFEAEOLF_00404	CDS	glmM_2	5.4.2.10	Phosphoglucosamine mutase
+EFEAEOLF_00405	CDS	hypothetical protein
+EFEAEOLF_00406	CDS	Bifunctional IPC transferase and DIPP synthase
+EFEAEOLF_00407	CDS	hypothetical protein
+EFEAEOLF_00408	CDS	hypothetical protein
+EFEAEOLF_00409	CDS	hypothetical protein
+EFEAEOLF_00410	CDS	hypothetical protein
+EFEAEOLF_00411	CDS	uppS_1	2.5.1.31	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+EFEAEOLF_00412	CDS	uppS_2	2.5.1.-	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+EFEAEOLF_00413	CDS	hypothetical protein
+EFEAEOLF_00414	CDS	hypothetical protein
+EFEAEOLF_00415	CDS	hypothetical protein
+EFEAEOLF_00416	CDS	hypothetical protein
+EFEAEOLF_00417	CDS	helY	3.6.4.-	putative helicase HelY
+EFEAEOLF_00418	CDS	hypothetical protein
+EFEAEOLF_00419	CDS	hypothetical protein
+EFEAEOLF_00420	CDS	ahcY_1	3.3.1.1	Adenosylhomocysteinase
+EFEAEOLF_00421	CDS	ahcY_2	3.3.1.1	Adenosylhomocysteinase
+EFEAEOLF_00422	CDS	ahcY_3	3.3.1.1	Adenosylhomocysteinase
+EFEAEOLF_00423	CDS	hypothetical protein
+EFEAEOLF_00424	CDS	hypothetical protein
+EFEAEOLF_00425	CDS	hypothetical protein
+EFEAEOLF_00426	CDS	hypothetical protein
+EFEAEOLF_00427	CDS	hypothetical protein
+EFEAEOLF_00428	CDS	serS_1	6.1.1.11	Serine--tRNA ligase
+EFEAEOLF_00429	CDS	serS_2	6.1.1.11	Serine--tRNA ligase
+EFEAEOLF_00430	CDS	serS_3	6.1.1.11	Serine--tRNA ligase
+EFEAEOLF_00431	CDS	hypothetical protein
+EFEAEOLF_00432	CDS	gltD_1	1.4.1.13	Glutamate synthase [NADPH] small chain
+EFEAEOLF_00433	CDS	gltD_2	1.4.1.13	Glutamate synthase [NADPH] small chain
+EFEAEOLF_00434	CDS	ndhI_1	1.6.5.11	NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+EFEAEOLF_00435	CDS	hypothetical protein
+EFEAEOLF_00436	CDS	hypothetical protein
+EFEAEOLF_00437	CDS	pdxS_1	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxS
+EFEAEOLF_00438	CDS	pdxS_2	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxS
+EFEAEOLF_00439	CDS	hypothetical protein
+EFEAEOLF_00440	CDS	hypothetical protein
+EFEAEOLF_00441	CDS	hypothetical protein
+EFEAEOLF_00442	CDS	hypothetical protein
+EFEAEOLF_00443	CDS	hypothetical protein
+EFEAEOLF_00444	CDS	hypothetical protein
+EFEAEOLF_00445	CDS	hypothetical protein
+EFEAEOLF_00446	CDS	hypothetical protein
+EFEAEOLF_00447	CDS	hypothetical protein
+EFEAEOLF_00448	CDS	hypothetical protein
+EFEAEOLF_00449	CDS	hypothetical protein
+EFEAEOLF_00450	CDS	petB	Cytochrome b6
+EFEAEOLF_00451	CDS	hypothetical protein
+EFEAEOLF_00452	CDS	hypothetical protein
+EFEAEOLF_00453	tRNA	tRNA-Val(tac)
+EFEAEOLF_00454	CDS	hypothetical protein
+EFEAEOLF_00455	CDS	murK	2.7.1.-	N-acetylmuramic acid/N-acetylglucosamine kinase
+EFEAEOLF_00456	CDS	hypothetical protein
+EFEAEOLF_00457	CDS	hypothetical protein
+EFEAEOLF_00458	CDS	hypothetical protein
+EFEAEOLF_00459	CDS	hypothetical protein
+EFEAEOLF_00460	CDS	tadA	3.5.4.33	tRNA-specific adenosine deaminase
+EFEAEOLF_00461	CDS	putative membrane protein
+EFEAEOLF_00462	CDS	hypothetical protein
+EFEAEOLF_00463	CDS	hypothetical protein
+EFEAEOLF_00464	CDS	frdB	1.3.5.1	Fumarate reductase iron-sulfur subunit
+EFEAEOLF_00465	CDS	frdA	1.3.5.4	Fumarate reductase flavoprotein subunit
+EFEAEOLF_00466	CDS	sdhA	1.3.5.1	Succinate dehydrogenase flavoprotein subunit
+EFEAEOLF_00467	CDS	mnmG	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+EFEAEOLF_00468	CDS	hypothetical protein
+EFEAEOLF_00469	CDS	hypothetical protein
+EFEAEOLF_00470	CDS	hypothetical protein
+EFEAEOLF_00471	CDS	hypothetical protein
+EFEAEOLF_00472	CDS	eno_1	4.2.1.11	Enolase
+EFEAEOLF_00473	CDS	eno_2	4.2.1.11	Enolase
+EFEAEOLF_00474	CDS	adoK	2.7.1.20	Adenosine kinase
+EFEAEOLF_00475	CDS	hypothetical protein
+EFEAEOLF_00476	CDS	hypothetical protein
+EFEAEOLF_00477	CDS	hypothetical protein
+EFEAEOLF_00478	CDS	hypothetical protein
+EFEAEOLF_00479	CDS	lon2	3.4.21.53	Lon protease 2
+EFEAEOLF_00480	CDS	hypothetical protein
+EFEAEOLF_00481	CDS	hypothetical protein
+EFEAEOLF_00482	CDS	aroC_1	4.2.3.5	Chorismate synthase
+EFEAEOLF_00483	CDS	aroC_2	4.2.3.5	Chorismate synthase
+EFEAEOLF_00484	CDS	hypothetical protein
+EFEAEOLF_00485	CDS	hypothetical protein
+EFEAEOLF_00486	CDS	hypothetical protein
+EFEAEOLF_00487	CDS	hypothetical protein
+EFEAEOLF_00488	CDS	mfpsA	2.4.1.246	Mannosylfructose-phosphate synthase
+EFEAEOLF_00489	CDS	2.4.1.337	Alpha-monoglucosyldiacylglycerol synthase
+EFEAEOLF_00490	CDS	hypothetical protein
+EFEAEOLF_00491	CDS	hypothetical protein
+EFEAEOLF_00492	CDS	hypothetical protein
+EFEAEOLF_00493	CDS	hypothetical protein
+EFEAEOLF_00494	CDS	hypothetical protein
+EFEAEOLF_00495	CDS	hypothetical protein
+EFEAEOLF_00496	CDS	hypothetical protein
+EFEAEOLF_00497	CDS	hypothetical protein
+EFEAEOLF_00498	CDS	hypothetical protein
+EFEAEOLF_00499	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+EFEAEOLF_00500	CDS	hypothetical protein
+EFEAEOLF_00501	CDS	hypothetical protein
+EFEAEOLF_00502	CDS	hypothetical protein
+EFEAEOLF_00503	CDS	hypothetical protein
+EFEAEOLF_00504	CDS	aspS_1	6.1.1.12	Aspartate--tRNA(Asp) ligase
+EFEAEOLF_00505	CDS	hypothetical protein
+EFEAEOLF_00506	CDS	aspS2_1	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+EFEAEOLF_00507	CDS	aspS2_2	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+EFEAEOLF_00508	CDS	aspS_2	6.1.1.12	Aspartate--tRNA ligase
+EFEAEOLF_00509	CDS	nanK	2.7.1.60	N-acetylmannosamine kinase
+EFEAEOLF_00510	CDS	nagK	2.7.1.59	N-acetyl-D-glucosamine kinase
+EFEAEOLF_00511	CDS	hypothetical protein
+EFEAEOLF_00512	CDS	hypothetical protein
+EFEAEOLF_00513	CDS	yxlF_1	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+EFEAEOLF_00514	CDS	cysA_1	3.6.3.25	Sulfate/thiosulfate import ATP-binding protein CysA
+EFEAEOLF_00515	CDS	hypothetical protein
+EFEAEOLF_00516	CDS	hypothetical protein
+EFEAEOLF_00517	CDS	hypothetical protein
+EFEAEOLF_00518	CDS	hypothetical protein
+EFEAEOLF_00519	CDS	hypothetical protein
+EFEAEOLF_00520	tRNA	tRNA-Thr(ggt)
+EFEAEOLF_00521	CDS	hypothetical protein
+EFEAEOLF_00522	CDS	hypothetical protein
+EFEAEOLF_00523	CDS	hypothetical protein
+EFEAEOLF_00524	CDS	menG	2.1.1.163	Demethylmenaquinone methyltransferase
+EFEAEOLF_00525	CDS	glpE_1	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+EFEAEOLF_00526	CDS	thiL_1	2.7.4.16	Thiamine-monophosphate kinase
+EFEAEOLF_00527	CDS	hypothetical protein
+EFEAEOLF_00528	CDS	hypothetical protein
+EFEAEOLF_00529	CDS	aspC	2.6.1.1	Aspartate aminotransferase
+EFEAEOLF_00530	CDS	hypothetical protein
+EFEAEOLF_00531	CDS	fmdA	3.5.1.49	Formamidase
+EFEAEOLF_00532	CDS	hypothetical protein
+EFEAEOLF_00533	CDS	hypothetical protein
+EFEAEOLF_00534	CDS	hypothetical protein
+EFEAEOLF_00535	CDS	hypothetical protein
+EFEAEOLF_00536	CDS	hypothetical protein
+EFEAEOLF_00537	CDS	hypothetical protein
+EFEAEOLF_00538	CDS	hypothetical protein
+EFEAEOLF_00539	CDS	hypothetical protein
+EFEAEOLF_00540	CDS	fadB	Fatty acid oxidation complex subunit alpha
+EFEAEOLF_00541	CDS	paaG	5.3.3.18	1,2-epoxyphenylacetyl-CoA isomerase
+EFEAEOLF_00542	CDS	hypothetical protein
+EFEAEOLF_00543	CDS	hypothetical protein
+EFEAEOLF_00544	CDS	sufS_1	2.8.1.7	Cysteine desulfurase
+EFEAEOLF_00545	CDS	hypothetical protein
+EFEAEOLF_00546	CDS	hypothetical protein
+EFEAEOLF_00547	CDS	hypothetical protein
+EFEAEOLF_00548	CDS	hypothetical protein
+EFEAEOLF_00549	CDS	hypothetical protein
+EFEAEOLF_00550	CDS	hypothetical protein
+EFEAEOLF_00551	CDS	hypothetical protein
+EFEAEOLF_00552	CDS	hypothetical protein
+EFEAEOLF_00553	CDS	hypothetical protein
+EFEAEOLF_00554	CDS	hypothetical protein
+EFEAEOLF_00555	CDS	hypothetical protein
+EFEAEOLF_00556	CDS	hypothetical protein
+EFEAEOLF_00557	CDS	hypothetical protein
+EFEAEOLF_00558	CDS	ubiG	2.1.1.222	Ubiquinone biosynthesis O-methyltransferase
+EFEAEOLF_00559	CDS	mshA_1	2.4.1.250	D-inositol-3-phosphate glycosyltransferase
+EFEAEOLF_00560	CDS	hypothetical protein
+EFEAEOLF_00561	CDS	hypothetical protein
+EFEAEOLF_00562	CDS	hypothetical protein
+EFEAEOLF_00563	CDS	hypothetical protein
+EFEAEOLF_00564	CDS	hypothetical protein
+EFEAEOLF_00565	CDS	hypothetical protein
+EFEAEOLF_00566	CDS	hypothetical protein
+EFEAEOLF_00567	CDS	hypothetical protein
+EFEAEOLF_00568	CDS	gudP	putative glucarate transporter
+EFEAEOLF_00569	CDS	hypothetical protein
+EFEAEOLF_00570	CDS	ilvG	2.2.1.6	Acetolactate synthase large subunit IlvG
+EFEAEOLF_00571	CDS	hypothetical protein
+EFEAEOLF_00572	CDS	ilvI	2.2.1.6	Acetolactate synthase isozyme 3 large subunit
+EFEAEOLF_00573	CDS	aldHT_1	1.2.1.5	Aldehyde dehydrogenase, thermostable
+EFEAEOLF_00574	CDS	aldHT_2	1.2.1.5	Aldehyde dehydrogenase, thermostable
+EFEAEOLF_00575	CDS	hypothetical protein
+EFEAEOLF_00576	CDS	lgoD	1.1.1.-	L-galactonate-5-dehydrogenase
+EFEAEOLF_00577	CDS	hypothetical protein
+EFEAEOLF_00578	CDS	yqhS	4.2.1.10	3-dehydroquinate dehydratase
+EFEAEOLF_00579	CDS	hypothetical protein
+EFEAEOLF_00580	CDS	hypothetical protein
+EFEAEOLF_00581	CDS	hypothetical protein
+EFEAEOLF_00582	CDS	hypothetical protein
+EFEAEOLF_00583	CDS	hypothetical protein
+EFEAEOLF_00584	CDS	hypothetical protein
+EFEAEOLF_00585	CDS	gtf1	2.4.1.-	Glycosyltransferase Gtf1
+EFEAEOLF_00586	CDS	hypothetical protein
+EFEAEOLF_00587	CDS	hypothetical protein
+EFEAEOLF_00588	CDS	hypothetical protein
+EFEAEOLF_00589	CDS	hypothetical protein
+EFEAEOLF_00590	CDS	hypothetical protein
+EFEAEOLF_00591	CDS	hypothetical protein
+EFEAEOLF_00592	CDS	hypothetical protein
+EFEAEOLF_00593	CDS	hypothetical protein
+EFEAEOLF_00594	CDS	hypothetical protein
+EFEAEOLF_00595	CDS	hypothetical protein
+EFEAEOLF_00596	CDS	hypothetical protein
+EFEAEOLF_00597	CDS	hypothetical protein
+EFEAEOLF_00598	CDS	hypothetical protein
+EFEAEOLF_00599	CDS	galE	5.1.3.2	UDP-glucose 4-epimerase
+EFEAEOLF_00600	CDS	hypothetical protein
+EFEAEOLF_00601	CDS	hypothetical protein
+EFEAEOLF_00602	CDS	hypothetical protein
+EFEAEOLF_00603	CDS	ythA	1.10.3.-	Putative cytochrome bd menaquinol oxidase subunit I
+EFEAEOLF_00604	CDS	hypothetical protein
+EFEAEOLF_00605	CDS	hypothetical protein
+EFEAEOLF_00606	CDS	hypothetical protein
+EFEAEOLF_00607	CDS	rmlA_1	2.7.7.24	Glucose-1-phosphate thymidylyltransferase
+EFEAEOLF_00608	CDS	hypothetical protein
+EFEAEOLF_00609	CDS	rmlD	1.1.1.133	dTDP-4-dehydrorhamnose reductase
+EFEAEOLF_00610	CDS	rfbC	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+EFEAEOLF_00611	CDS	hypothetical protein
+EFEAEOLF_00612	CDS	hypothetical protein
+EFEAEOLF_00613	CDS	hypothetical protein
+EFEAEOLF_00614	CDS	hypothetical protein
+EFEAEOLF_00615	CDS	hypothetical protein
+EFEAEOLF_00616	CDS	thiD_1	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+EFEAEOLF_00617	CDS	thiD_2	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+EFEAEOLF_00618	CDS	uxuA_1	4.2.1.8	Mannonate dehydratase
+EFEAEOLF_00619	CDS	uxuA_2	4.2.1.8	Mannonate dehydratase
+EFEAEOLF_00620	CDS	hypothetical protein
+EFEAEOLF_00621	CDS	gloB_1	3.1.2.6	Hydroxyacylglutathione hydrolase
+EFEAEOLF_00622	CDS	hypothetical protein
+EFEAEOLF_00623	CDS	hypothetical protein
+EFEAEOLF_00624	CDS	sugC_1	3.6.3.-	Trehalose import ATP-binding protein SugC
+EFEAEOLF_00625	CDS	araQ_1	L-arabinose transport system permease protein AraQ
+EFEAEOLF_00626	CDS	araQ_2	L-arabinose transport system permease protein AraQ
+EFEAEOLF_00627	CDS	araP	L-arabinose transport system permease protein AraP
+EFEAEOLF_00628	CDS	hypothetical protein
+EFEAEOLF_00629	CDS	hypothetical protein
+EFEAEOLF_00630	CDS	hypothetical protein
+EFEAEOLF_00631	CDS	tenA	3.5.99.2	Aminopyrimidine aminohydrolase
+EFEAEOLF_00632	CDS	hypothetical protein
+EFEAEOLF_00633	CDS	thiL_2	2.7.4.16	Thiamine-monophosphate kinase
+EFEAEOLF_00634	CDS	hypothetical protein
+EFEAEOLF_00635	CDS	thiL_3	2.7.4.16	Thiamine-monophosphate kinase
+EFEAEOLF_00636	CDS	hypothetical protein
+EFEAEOLF_00637	CDS	hypothetical protein
+EFEAEOLF_00638	CDS	hypothetical protein
+EFEAEOLF_00639	CDS	hypothetical protein
+EFEAEOLF_00640	CDS	hypothetical protein
+EFEAEOLF_00641	CDS	hypothetical protein
+EFEAEOLF_00642	CDS	hypothetical protein
+EFEAEOLF_00643	CDS	hypothetical protein
+EFEAEOLF_00644	CDS	hypothetical protein
+EFEAEOLF_00645	CDS	hypothetical protein
+EFEAEOLF_00646	CDS	glpK_1	2.7.1.30	Glycerol kinase
+EFEAEOLF_00647	CDS	glpK_2	2.7.1.30	Glycerol kinase
+EFEAEOLF_00648	CDS	mdxE	Maltodextrin-binding protein MdxE
+EFEAEOLF_00649	CDS	hypothetical protein
+EFEAEOLF_00650	CDS	hypothetical protein
+EFEAEOLF_00651	CDS	hypothetical protein
+EFEAEOLF_00652	CDS	malF	Maltose transport system permease protein MalF
+EFEAEOLF_00653	CDS	hypothetical protein
+EFEAEOLF_00654	CDS	malG	Maltose transport system permease protein MalG
+EFEAEOLF_00655	CDS	hypothetical protein
+EFEAEOLF_00656	CDS	sugC_2	3.6.3.-	Trehalose import ATP-binding protein SugC
+EFEAEOLF_00657	CDS	sugC_3	3.6.3.-	Trehalose import ATP-binding protein SugC
+EFEAEOLF_00658	CDS	hypothetical protein
+EFEAEOLF_00659	CDS	hypothetical protein
+EFEAEOLF_00660	CDS	yicI_1	3.2.1.177	Alpha-xylosidase
+EFEAEOLF_00661	CDS	hypothetical protein
+EFEAEOLF_00662	CDS	3.2.1.177	Alpha-xylosidase BoGH31A
+EFEAEOLF_00663	CDS	hypothetical protein
+EFEAEOLF_00664	CDS	tvaII	3.2.1.135	Neopullulanase 2
+EFEAEOLF_00665	CDS	3.2.1.54	Cyclomaltodextrinase
+EFEAEOLF_00666	CDS	hypothetical protein
+EFEAEOLF_00667	CDS	hypothetical protein
+EFEAEOLF_00668	CDS	hypothetical protein
+EFEAEOLF_00669	CDS	hypothetical protein
+EFEAEOLF_00670	CDS	hypothetical protein
+EFEAEOLF_00671	CDS	hypothetical protein
+EFEAEOLF_00672	CDS	hypothetical protein
+EFEAEOLF_00673	CDS	hypothetical protein
+EFEAEOLF_00674	CDS	hypothetical protein
+EFEAEOLF_00675	CDS	hypothetical protein
+EFEAEOLF_00676	CDS	hypothetical protein
+EFEAEOLF_00677	CDS	bglB	3.2.1.21	Beta-glucosidase B
+EFEAEOLF_00678	CDS	3.2.1.21	Bifunctional beta-D-glucosidase/beta-D-fucosidase
+EFEAEOLF_00679	CDS	hypothetical protein
+EFEAEOLF_00680	CDS	hypothetical protein
+EFEAEOLF_00681	CDS	hypothetical protein
+EFEAEOLF_00682	CDS	hypothetical protein
+EFEAEOLF_00683	CDS	hypothetical protein
+EFEAEOLF_00684	CDS	hypothetical protein
+EFEAEOLF_00685	CDS	mhbT_1	3-hydroxybenzoate transporter MhbT
+EFEAEOLF_00686	CDS	hypothetical protein
+EFEAEOLF_00687	CDS	hypothetical protein
+EFEAEOLF_00688	CDS	hypothetical protein
+EFEAEOLF_00689	CDS	aidB	1.3.99.-	Putative acyl-CoA dehydrogenase AidB
+EFEAEOLF_00690	CDS	hypothetical protein
+EFEAEOLF_00691	CDS	hsrA	putative transport protein HsrA
+EFEAEOLF_00692	CDS	hypothetical protein
+EFEAEOLF_00693	CDS	hypothetical protein
+EFEAEOLF_00694	CDS	hypothetical protein
+EFEAEOLF_00695	CDS	hypothetical protein
+EFEAEOLF_00696	CDS	glgB_1	2.4.1.18	1,4-alpha-glucan branching enzyme GlgB
+EFEAEOLF_00697	CDS	glgB_2	2.4.1.18	1,4-alpha-glucan branching enzyme GlgB
+EFEAEOLF_00698	CDS	glgB_3	2.4.1.18	1,4-alpha-glucan branching enzyme GlgB
+EFEAEOLF_00699	CDS	glgB_4	2.4.1.18	1,4-alpha-glucan branching enzyme GlgB
+EFEAEOLF_00700	CDS	glgE	2.4.99.16	Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+EFEAEOLF_00701	CDS	glgE2	2.4.99.16	Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase 2
+EFEAEOLF_00702	CDS	treS_1	3.2.1.1	Trehalose synthase/amylase TreS
+EFEAEOLF_00703	CDS	treS_2	3.2.1.1	Trehalose synthase/amylase TreS
+EFEAEOLF_00704	CDS	treS_3	3.2.1.1	Trehalose synthase/amylase TreS
+EFEAEOLF_00705	CDS	hypothetical protein
+EFEAEOLF_00706	CDS	mak1	2.7.1.175	Maltokinase
+EFEAEOLF_00707	CDS	glgX_1	3.2.1.-	Glycogen debranching enzyme
+EFEAEOLF_00708	CDS	glgX_2	3.2.1.-	Glycogen debranching enzyme
+EFEAEOLF_00709	CDS	glgX_3	3.2.1.-	Glycogen operon protein GlgX 
+EFEAEOLF_00710	CDS	treZ_1	3.2.1.141	Malto-oligosyltrehalose trehalohydrolase
+EFEAEOLF_00711	CDS	treZ_2	3.2.1.141	Malto-oligosyltrehalose trehalohydrolase
+EFEAEOLF_00712	CDS	treZ_3	3.2.1.141	Malto-oligosyltrehalose trehalohydrolase
+EFEAEOLF_00713	CDS	hypothetical protein
+EFEAEOLF_00714	CDS	hypothetical protein
+EFEAEOLF_00715	CDS	treY_1	5.4.99.15	Maltooligosyl trehalose synthase
+EFEAEOLF_00716	CDS	treY_2	5.4.99.15	Putative maltooligosyl trehalose synthase
+EFEAEOLF_00717	CDS	hypothetical protein
+EFEAEOLF_00718	CDS	hypothetical protein
+EFEAEOLF_00719	CDS	hypothetical protein
+EFEAEOLF_00720	CDS	hypothetical protein
+EFEAEOLF_00721	CDS	hypothetical protein
+EFEAEOLF_00722	CDS	cas1-1	3.1.-.-	CRISPR-associated endonuclease Cas1 1
+EFEAEOLF_00723	CDS	elmMIII	2.1.1.307	8-demethyl-8-(2,3-dimethoxy-alpha-L-rhamnosyl)-tetracenomycin-C 4'-O-methyltransferase
+EFEAEOLF_00724	tRNA	tRNA-Pro(cgg)
+EFEAEOLF_00725	CDS	hypothetical protein
+EFEAEOLF_00726	CDS	Heme uptake protein MmpL11
+EFEAEOLF_00727	CDS	hypothetical protein
+EFEAEOLF_00728	CDS	mmpL1_1	putative transport protein MmpL1
+EFEAEOLF_00729	CDS	hypothetical protein
+EFEAEOLF_00730	CDS	hypothetical protein
+EFEAEOLF_00731	CDS	hypothetical protein
+EFEAEOLF_00732	CDS	dppE	Dipeptide-binding protein DppE
+EFEAEOLF_00733	CDS	gsiB_1	Glutathione-binding protein GsiB
+EFEAEOLF_00734	CDS	gsiB_2	Glutathione-binding protein GsiB
+EFEAEOLF_00735	CDS	ddpB_1	putative D,D-dipeptide transport system permease protein DdpB
+EFEAEOLF_00736	CDS	dppB_1	Dipeptide transport system permease protein DppB
+EFEAEOLF_00737	CDS	dppB_2	Dipeptide transport system permease protein DppB
+EFEAEOLF_00738	CDS	gsiD_1	Glutathione transport system permease protein GsiD
+EFEAEOLF_00739	CDS	oppD_1	Oligopeptide transport ATP-binding protein OppD
+EFEAEOLF_00740	CDS	putative ABC transporter ATP-binding protein
+EFEAEOLF_00741	CDS	oppF	Oligopeptide transport ATP-binding protein OppF
+EFEAEOLF_00742	CDS	hypothetical protein
+EFEAEOLF_00743	CDS	hypothetical protein
+EFEAEOLF_00744	CDS	xecD	1.1.1.268	2-(R)-hydroxypropyl-CoM dehydrogenase
+EFEAEOLF_00745	CDS	hypothetical protein
+EFEAEOLF_00746	CDS	hypothetical protein
+EFEAEOLF_00747	CDS	hypothetical protein
+EFEAEOLF_00748	CDS	hypothetical protein
+EFEAEOLF_00749	CDS	hypothetical protein
+EFEAEOLF_00750	CDS	acyII	3.5.1.11	Penicillin acylase 2
+EFEAEOLF_00751	CDS	hypothetical protein
+EFEAEOLF_00752	CDS	hypothetical protein
+EFEAEOLF_00753	CDS	hypothetical protein
+EFEAEOLF_00754	CDS	hypothetical protein
+EFEAEOLF_00755	CDS	hypothetical protein
+EFEAEOLF_00756	CDS	plcA_1	3.1.4.3	Phospholipase C 1
+EFEAEOLF_00757	CDS	plcA_2	3.1.4.3	Phospholipase C 1
+EFEAEOLF_00758	CDS	xylB	2.7.1.17	Xylulose kinase
+EFEAEOLF_00759	CDS	hypothetical protein
+EFEAEOLF_00760	CDS	glpK_3	2.7.1.30	Glycerol kinase
+EFEAEOLF_00761	CDS	4.1.2.27	putative sphingosine-1-phosphate lyase
+EFEAEOLF_00762	CDS	4.1.2.27	putative sphingosine-1-phosphate lyase
+EFEAEOLF_00763	CDS	4.1.2.27	putative sphingosine-1-phosphate lyase
+EFEAEOLF_00764	CDS	hypothetical protein
+EFEAEOLF_00765	CDS	hypothetical protein
+EFEAEOLF_00766	CDS	ilvB_3	2.2.1.6	Acetolactate synthase large subunit
+EFEAEOLF_00767	CDS	alsS	2.2.1.6	Acetolactate synthase
+EFEAEOLF_00768	CDS	hypothetical protein
+EFEAEOLF_00769	CDS	hypothetical protein
+EFEAEOLF_00770	CDS	hypothetical protein
+EFEAEOLF_00771	CDS	hypothetical protein
+EFEAEOLF_00772	CDS	hypothetical protein
+EFEAEOLF_00773	CDS	hypothetical protein
+EFEAEOLF_00774	CDS	hypothetical protein
+EFEAEOLF_00775	CDS	hypothetical protein
+EFEAEOLF_00776	CDS	hypothetical protein
+EFEAEOLF_00777	CDS	hypothetical protein
+EFEAEOLF_00778	CDS	hypothetical protein
+EFEAEOLF_00779	CDS	hypothetical protein
+EFEAEOLF_00780	CDS	hypothetical protein
+EFEAEOLF_00781	CDS	ugpC_1	3.6.3.20	sn-glycerol-3-phosphate import ATP-binding protein UgpC
+EFEAEOLF_00782	CDS	potA	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+EFEAEOLF_00783	CDS	araQ_3	L-arabinose transport system permease protein AraQ
+EFEAEOLF_00784	CDS	lacF	Lactose transport system permease protein LacF
+EFEAEOLF_00785	CDS	hypothetical protein
+EFEAEOLF_00786	CDS	hypothetical protein
+EFEAEOLF_00787	CDS	hypothetical protein
+EFEAEOLF_00788	CDS	hypothetical protein
+EFEAEOLF_00789	CDS	hypothetical protein
+EFEAEOLF_00790	CDS	pckG_1	4.1.1.32	Phosphoenolpyruvate carboxykinase [GTP]
+EFEAEOLF_00791	CDS	pckG_2	4.1.1.32	Phosphoenolpyruvate carboxykinase [GTP]
+EFEAEOLF_00792	CDS	pckG_3	4.1.1.32	Phosphoenolpyruvate carboxykinase [GTP]
+EFEAEOLF_00793	CDS	hypothetical protein
+EFEAEOLF_00794	CDS	hypothetical protein
+EFEAEOLF_00795	CDS	hypothetical protein
+EFEAEOLF_00796	CDS	1.2.7.10	Oxalate oxidoreductase subunit alpha
+EFEAEOLF_00797	CDS	1.2.7.10	Oxalate oxidoreductase subunit alpha
+EFEAEOLF_00798	CDS	1.2.7.10	Oxalate oxidoreductase subunit alpha
+EFEAEOLF_00799	CDS	1.2.7.10	Oxalate oxidoreductase subunit alpha
+EFEAEOLF_00800	CDS	hypothetical protein
+EFEAEOLF_00801	CDS	1.2.7.10	Oxalate oxidoreductase subunit beta
+EFEAEOLF_00802	CDS	hypothetical protein
+EFEAEOLF_00803	CDS	hypothetical protein
+EFEAEOLF_00804	CDS	hypothetical protein
+EFEAEOLF_00805	CDS	1.-.-.-	putative FAD-linked oxidoreductase
+EFEAEOLF_00806	CDS	hypothetical protein
+EFEAEOLF_00807	CDS	hypothetical protein
+EFEAEOLF_00808	CDS	hypothetical protein
+EFEAEOLF_00809	CDS	hypothetical protein
+EFEAEOLF_00810	CDS	hypothetical protein
+EFEAEOLF_00811	CDS	pheS_1	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+EFEAEOLF_00812	CDS	hypothetical protein
+EFEAEOLF_00813	CDS	pheS_2	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+EFEAEOLF_00814	CDS	hypothetical protein
+EFEAEOLF_00815	CDS	acsA_1	6.2.1.1	Acetyl-coenzyme A synthetase
+EFEAEOLF_00816	CDS	acsA_2	6.2.1.1	Acetyl-coenzyme A synthetase
+EFEAEOLF_00817	CDS	hcl	6.2.1.27	3-hydroxybenzoate--CoA/4-hydroxybenzoate--CoA ligase
+EFEAEOLF_00818	CDS	bclA	6.2.1.25	Benzoate--CoA ligase
+EFEAEOLF_00819	CDS	hypothetical protein
+EFEAEOLF_00820	CDS	hypothetical protein
+EFEAEOLF_00821	CDS	hypothetical protein
+EFEAEOLF_00822	CDS	hypothetical protein
+EFEAEOLF_00823	CDS	drrA_1	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+EFEAEOLF_00824	CDS	hypothetical protein
+EFEAEOLF_00825	CDS	ribZ_1	Riboflavin transporter RibZ
+EFEAEOLF_00826	CDS	bmr3	Multidrug resistance protein 3
+EFEAEOLF_00827	CDS	hypothetical protein
+EFEAEOLF_00828	CDS	hypothetical protein
+EFEAEOLF_00829	CDS	hypothetical protein
+EFEAEOLF_00830	CDS	hypothetical protein
+EFEAEOLF_00831	CDS	hypothetical protein
+EFEAEOLF_00832	CDS	hypothetical protein
+EFEAEOLF_00833	CDS	hypothetical protein
+EFEAEOLF_00834	CDS	hypothetical protein
+EFEAEOLF_00835	CDS	pepE_1	3.4.13.-	putative dipeptidase PepE
+EFEAEOLF_00836	CDS	pepE_2	3.4.13.-	putative dipeptidase PepE
+EFEAEOLF_00837	CDS	3.4.-.-	putative peptidase
+EFEAEOLF_00838	CDS	hypothetical protein
+EFEAEOLF_00839	CDS	hypothetical protein
+EFEAEOLF_00840	CDS	hypothetical protein
+EFEAEOLF_00841	CDS	hypothetical protein
+EFEAEOLF_00842	CDS	hypothetical protein
+EFEAEOLF_00843	CDS	hypothetical protein
+EFEAEOLF_00844	CDS	natA_1	ABC transporter ATP-binding protein NatA
+EFEAEOLF_00845	CDS	hypothetical protein
+EFEAEOLF_00846	CDS	hypothetical protein
+EFEAEOLF_00847	CDS	hypothetical protein
+EFEAEOLF_00848	CDS	hypothetical protein
+EFEAEOLF_00849	CDS	hypothetical protein
+EFEAEOLF_00850	CDS	hypothetical protein
+EFEAEOLF_00851	CDS	hypothetical protein
+EFEAEOLF_00852	CDS	hypothetical protein
+EFEAEOLF_00853	CDS	hypothetical protein
+EFEAEOLF_00854	CDS	hypothetical protein
+EFEAEOLF_00855	CDS	hypothetical protein
+EFEAEOLF_00856	CDS	skfB	1.21.98.-	Sporulation killing factor maturation protein SkfB
+EFEAEOLF_00857	CDS	clsA	2.7.8.-	Cardiolipin synthase A
+EFEAEOLF_00858	CDS	hypothetical protein
+EFEAEOLF_00859	CDS	hypothetical protein
+EFEAEOLF_00860	CDS	hypothetical protein
+EFEAEOLF_00861	CDS	ppdK_1	2.7.9.1	Pyruvate, phosphate dikinase
+EFEAEOLF_00862	CDS	hypothetical protein
+EFEAEOLF_00863	CDS	ppdK_2	2.7.9.1	Pyruvate, phosphate dikinase
+EFEAEOLF_00864	CDS	ppdK_3	2.7.9.1	Pyruvate, phosphate dikinase
+EFEAEOLF_00865	CDS	ppdK_4	2.7.9.1	Pyruvate, phosphate dikinase
+EFEAEOLF_00866	CDS	ppdK_5	2.7.9.1	Pyruvate, phosphate dikinase
+EFEAEOLF_00867	CDS	hypothetical protein
+EFEAEOLF_00868	tRNA	tRNA-Gly(ccc)
+EFEAEOLF_00869	CDS	gdhA_1	1.4.1.3	Glutamate dehydrogenase
+EFEAEOLF_00870	CDS	gudB	1.4.1.2	Cryptic catabolic NAD-specific glutamate dehydrogenase GudB
+EFEAEOLF_00871	CDS	gdhA_2	1.4.1.3	Glutamate dehydrogenase
+EFEAEOLF_00872	CDS	hypothetical protein
+EFEAEOLF_00873	CDS	hypothetical protein
+EFEAEOLF_00874	tRNA	tRNA-Arg(cct)
+EFEAEOLF_00875	CDS	queD	4.1.2.50	6-carboxy-5,6,7,8-tetrahydropterin synthase
+EFEAEOLF_00876	CDS	queC	6.3.4.20	7-cyano-7-deazaguanine synthase
+EFEAEOLF_00877	CDS	mdh_1	1.1.1.37	Malate dehydrogenase
+EFEAEOLF_00878	CDS	hypothetical protein
+EFEAEOLF_00879	CDS	hypothetical protein
+EFEAEOLF_00880	CDS	hypothetical protein
+EFEAEOLF_00881	CDS	hypothetical protein
+EFEAEOLF_00882	CDS	hypothetical protein
+EFEAEOLF_00883	CDS	hypothetical protein
+EFEAEOLF_00884	CDS	hypothetical protein
+EFEAEOLF_00885	CDS	hemB_1	4.2.1.24	Delta-aminolevulinic acid dehydratase
+EFEAEOLF_00886	CDS	hemB_2	4.2.1.24	Delta-aminolevulinic acid dehydratase
+EFEAEOLF_00887	CDS	hemB_3	4.2.1.24	Delta-aminolevulinic acid dehydratase
+EFEAEOLF_00888	CDS	hypothetical protein
+EFEAEOLF_00889	CDS	tatA_1	Sec-independent protein translocase protein TatA
+EFEAEOLF_00890	CDS	tatC_1	Sec-independent protein translocase protein TatC
+EFEAEOLF_00891	CDS	tatC_2	Sec-independent protein translocase protein TatC
+EFEAEOLF_00892	CDS	hypothetical protein
+EFEAEOLF_00893	CDS	paaF_1	4.2.1.17	2,3-dehydroadipyl-CoA hydratase
+EFEAEOLF_00894	CDS	hypothetical protein
+EFEAEOLF_00895	CDS	hypothetical protein
+EFEAEOLF_00896	CDS	nuoN	1.6.5.11	NADH-quinone oxidoreductase subunit N
+EFEAEOLF_00897	CDS	hypothetical protein
+EFEAEOLF_00898	CDS	nuoM	1.6.5.11	NADH-quinone oxidoreductase subunit M
+EFEAEOLF_00899	CDS	ndhD	1.6.5.-	NAD(P)H-quinone oxidoreductase chain 4
+EFEAEOLF_00900	CDS	hypothetical protein
+EFEAEOLF_00901	CDS	hypothetical protein
+EFEAEOLF_00902	CDS	nuoL	1.6.5.11	NADH-quinone oxidoreductase subunit L
+EFEAEOLF_00903	CDS	hypothetical protein
+EFEAEOLF_00904	CDS	nuoK	1.6.5.11	NADH-quinone oxidoreductase subunit K
+EFEAEOLF_00905	CDS	hypothetical protein
+EFEAEOLF_00906	CDS	hypothetical protein
+EFEAEOLF_00907	CDS	hypothetical protein
+EFEAEOLF_00908	CDS	ndhI_2	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit I
+EFEAEOLF_00909	CDS	nuoH_1	1.6.5.11	NADH-quinone oxidoreductase subunit H
+EFEAEOLF_00910	CDS	nuoH_2	1.6.5.11	NADH-quinone oxidoreductase subunit H
+EFEAEOLF_00911	CDS	nqo4	1.6.5.11	NADH-quinone oxidoreductase subunit 4
+EFEAEOLF_00912	CDS	nqo5	1.6.5.11	NADH-quinone oxidoreductase subunit 5
+EFEAEOLF_00913	CDS	nuoB	1.6.5.11	NADH-quinone oxidoreductase subunit B
+EFEAEOLF_00914	CDS	nqo6	1.6.5.11	NADH-quinone oxidoreductase subunit 6
+EFEAEOLF_00915	CDS	ndhC	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit 3
+EFEAEOLF_00916	CDS	hypothetical protein
+EFEAEOLF_00917	CDS	hypothetical protein
+EFEAEOLF_00918	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+EFEAEOLF_00919	CDS	hypothetical protein
+EFEAEOLF_00920	CDS	ansA	3.5.1.1	L-asparaginase 1
+EFEAEOLF_00921	CDS	hypothetical protein
+EFEAEOLF_00922	CDS	hypothetical protein
+EFEAEOLF_00923	CDS	acdA_1	1.3.99.-	Acyl-CoA dehydrogenase
+EFEAEOLF_00924	CDS	hypothetical protein
+EFEAEOLF_00925	CDS	rbr	Rubrerythrin
+EFEAEOLF_00926	CDS	hypothetical protein
+EFEAEOLF_00927	CDS	hypothetical protein
+EFEAEOLF_00928	CDS	hypothetical protein
+EFEAEOLF_00929	CDS	pcp	3.4.21.100	Pseudomonalisin
+EFEAEOLF_00930	CDS	hypothetical protein
+EFEAEOLF_00931	CDS	hypothetical protein
+EFEAEOLF_00932	CDS	metE	2.1.1.14	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+EFEAEOLF_00933	CDS	hypothetical protein
+EFEAEOLF_00934	CDS	hypothetical protein
+EFEAEOLF_00935	CDS	hypothetical protein
+EFEAEOLF_00936	CDS	hypothetical protein
+EFEAEOLF_00937	CDS	aldA	1.2.1.22	Lactaldehyde dehydrogenase
+EFEAEOLF_00938	CDS	hypothetical protein
+EFEAEOLF_00939	CDS	hypothetical protein
+EFEAEOLF_00940	CDS	hypothetical protein
+EFEAEOLF_00941	CDS	hypothetical protein
+EFEAEOLF_00942	CDS	hypothetical protein
+EFEAEOLF_00943	CDS	hpnR	2.1.1.-	Hopanoid C-3 methylase
+EFEAEOLF_00944	CDS	hypothetical protein
+EFEAEOLF_00945	CDS	hypothetical protein
+EFEAEOLF_00946	CDS	hypothetical protein
+EFEAEOLF_00947	CDS	hypothetical protein
+EFEAEOLF_00948	CDS	hypothetical protein
+EFEAEOLF_00949	CDS	hypothetical protein
+EFEAEOLF_00950	CDS	hypothetical protein
+EFEAEOLF_00951	CDS	hypothetical protein
+EFEAEOLF_00952	CDS	hypothetical protein
+EFEAEOLF_00953	CDS	hypothetical protein
+EFEAEOLF_00954	CDS	hypothetical protein
+EFEAEOLF_00955	CDS	hypothetical protein
+EFEAEOLF_00956	CDS	thiE_1	2.5.1.3	Thiamine-phosphate synthase
+EFEAEOLF_00957	CDS	thiE_2	2.5.1.3	Thiamine-phosphate synthase
+EFEAEOLF_00958	CDS	hypothetical protein
+EFEAEOLF_00959	tRNA	tRNA-Ala(tgc)
+EFEAEOLF_00960	CDS	hypothetical protein
+EFEAEOLF_00961	CDS	hypothetical protein
+EFEAEOLF_00962	CDS	hypothetical protein
+EFEAEOLF_00963	CDS	dpnA_1	2.1.1.72	Modification methylase DpnIIB
+EFEAEOLF_00964	tRNA	tRNA-Leu(taa)
+EFEAEOLF_00965	CDS	hypothetical protein
+EFEAEOLF_00966	CDS	hypothetical protein
+EFEAEOLF_00967	CDS	hypothetical protein
+EFEAEOLF_00968	CDS	sdsA	2.5.1.84	All-trans-nonaprenyl-diphosphate synthase (geranyl-diphosphate specific)
+EFEAEOLF_00969	CDS	ispB	2.5.1.90	Octaprenyl diphosphate synthase
+EFEAEOLF_00970	CDS	arsA_1	3.6.3.16	Arsenical pump-driving ATPase
+EFEAEOLF_00971	CDS	arsA_2	3.6.3.16	Arsenical pump-driving ATPase
+EFEAEOLF_00972	CDS	hypothetical protein
+EFEAEOLF_00973	CDS	hxlR	HTH-type transcriptional activator HxlR
+EFEAEOLF_00974	CDS	hypothetical protein
+EFEAEOLF_00975	CDS	hypothetical protein
+EFEAEOLF_00976	CDS	hypothetical protein
+EFEAEOLF_00977	CDS	hypothetical protein
+EFEAEOLF_00978	CDS	fni_1	5.3.3.2	Isopentenyl-diphosphate delta-isomerase
+EFEAEOLF_00979	CDS	fni_2	5.3.3.2	Isopentenyl-diphosphate delta-isomerase
+EFEAEOLF_00980	CDS	fni_3	5.3.3.2	Isopentenyl-diphosphate delta-isomerase
+EFEAEOLF_00981	CDS	hypothetical protein
+EFEAEOLF_00982	CDS	hypothetical protein
+EFEAEOLF_00983	CDS	hypothetical protein
+EFEAEOLF_00984	CDS	hypothetical protein
+EFEAEOLF_00985	CDS	atpC	V-type ATP synthase subunit C
+EFEAEOLF_00986	CDS	atpF	V-type ATP synthase subunit F
+EFEAEOLF_00987	CDS	ntpA_1	3.6.3.15	V-type sodium ATPase catalytic subunit A
+EFEAEOLF_00988	CDS	ntpA_2	3.6.3.15	V-type sodium ATPase catalytic subunit A
+EFEAEOLF_00989	CDS	ntpB	V-type sodium ATPase subunit B
+EFEAEOLF_00990	CDS	atpB	V-type ATP synthase beta chain
+EFEAEOLF_00991	CDS	ntpD	V-type sodium ATPase subunit D
+EFEAEOLF_00992	CDS	hypothetical protein
+EFEAEOLF_00993	CDS	hypothetical protein
+EFEAEOLF_00994	CDS	hypothetical protein
+EFEAEOLF_00995	CDS	hypothetical protein
+EFEAEOLF_00996	CDS	hypothetical protein
+EFEAEOLF_00997	CDS	yceI	Protein YceI
+EFEAEOLF_00998	CDS	hypothetical protein
+EFEAEOLF_00999	CDS	hypothetical protein
+EFEAEOLF_01000	CDS	hypothetical protein
+EFEAEOLF_01001	CDS	hypothetical protein
+EFEAEOLF_01002	CDS	hypothetical protein
+EFEAEOLF_01003	CDS	hypothetical protein
+EFEAEOLF_01004	CDS	hypothetical protein
+EFEAEOLF_01005	CDS	galE1	5.1.3.2	UDP-glucose 4-epimerase
+EFEAEOLF_01006	CDS	abgB	3.5.1.-	p-aminobenzoyl-glutamate hydrolase subunit B
+EFEAEOLF_01007	CDS	hypothetical protein
+EFEAEOLF_01008	CDS	hypothetical protein
+EFEAEOLF_01009	CDS	hypothetical protein
+EFEAEOLF_01010	CDS	ykfA	3.4.16.-	putative murein peptide carboxypeptidase
+EFEAEOLF_01011	CDS	hypothetical protein
+EFEAEOLF_01012	CDS	hypothetical protein
+EFEAEOLF_01013	CDS	hypothetical protein
+EFEAEOLF_01014	CDS	hypothetical protein
+EFEAEOLF_01015	CDS	yedY	1.8.-.-	Sulfoxide reductase catalytic subunit YedY
+EFEAEOLF_01016	CDS	hypothetical protein
+EFEAEOLF_01017	CDS	hypothetical protein
+EFEAEOLF_01018	CDS	hypothetical protein
+EFEAEOLF_01019	CDS	mshA_2	2.4.1.250	D-inositol 3-phosphate glycosyltransferase
+EFEAEOLF_01020	CDS	hypothetical protein
+EFEAEOLF_01021	CDS	hypothetical protein
+EFEAEOLF_01022	CDS	hypothetical protein
+EFEAEOLF_01023	CDS	hypothetical protein
+EFEAEOLF_01024	CDS	hypothetical protein
+EFEAEOLF_01025	CDS	hypothetical protein
+EFEAEOLF_01026	CDS	hypothetical protein
+EFEAEOLF_01027	CDS	smc_1	Chromosome partition protein Smc
+EFEAEOLF_01028	CDS	ppm1	2.4.1.-	Polyprenol monophosphomannose synthase
+EFEAEOLF_01029	CDS	hypothetical protein
+EFEAEOLF_01030	CDS	hypothetical protein
+EFEAEOLF_01031	CDS	hypothetical protein
+EFEAEOLF_01032	CDS	gmd_1	4.2.1.47	GDP-mannose 4,6-dehydratase
+EFEAEOLF_01033	CDS	gmd_2	4.2.1.47	GDP-mannose 4,6-dehydratase
+EFEAEOLF_01034	CDS	hypothetical protein
+EFEAEOLF_01035	CDS	hypothetical protein
+EFEAEOLF_01036	CDS	hypothetical protein
+EFEAEOLF_01037	CDS	3.1.1.2	Arylesterase
+EFEAEOLF_01038	tRNA	tRNA-Thr(cgt)
+EFEAEOLF_01039	CDS	hypothetical protein
+EFEAEOLF_01040	CDS	yhdG_1	putative amino acid permease YhdG
+EFEAEOLF_01041	CDS	ygcS_1	Inner membrane metabolite transport protein YgcS
+EFEAEOLF_01042	CDS	hypothetical protein
+EFEAEOLF_01043	CDS	csbC_1	putative metabolite transport protein CsbC
+EFEAEOLF_01044	CDS	hypothetical protein
+EFEAEOLF_01045	CDS	rspR	HTH-type transcriptional repressor RspR
+EFEAEOLF_01046	CDS	hypothetical protein
+EFEAEOLF_01047	CDS	hypothetical protein
+EFEAEOLF_01048	CDS	hypothetical protein
+EFEAEOLF_01049	CDS	hypothetical protein
+EFEAEOLF_01050	CDS	hypothetical protein
+EFEAEOLF_01051	CDS	hypothetical protein
+EFEAEOLF_01052	CDS	hddC	2.7.7.71	D-glycero-alpha-D-manno-heptose 1-phosphate guanylyltransferase
+EFEAEOLF_01053	CDS	ygcS_2	Inner membrane metabolite transport protein YgcS
+EFEAEOLF_01054	CDS	hypothetical protein
+EFEAEOLF_01055	CDS	guaB_1	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+EFEAEOLF_01056	CDS	hypothetical protein
+EFEAEOLF_01057	CDS	glyQS_1	6.1.1.14	Glycine--tRNA ligase
+EFEAEOLF_01058	CDS	glyQS_2	6.1.1.14	Glycine--tRNA ligase
+EFEAEOLF_01059	CDS	fdx	Ferredoxin
+EFEAEOLF_01060	CDS	sufU	2.-.-.-	Zinc-dependent sulfurtransferase SufU
+EFEAEOLF_01061	CDS	csdA	2.8.1.7	Cysteine desulfurase CsdA
+EFEAEOLF_01062	CDS	sufS_2	2.8.1.7	Cysteine desulfurase
+EFEAEOLF_01063	CDS	sufS_3	2.8.1.7	Cysteine desulfurase SufS
+EFEAEOLF_01064	CDS	sufD	FeS cluster assembly protein SufD
+EFEAEOLF_01065	CDS	sufB_1	FeS cluster assembly protein SufB
+EFEAEOLF_01066	CDS	sufB_2	FeS cluster assembly protein SufB
+EFEAEOLF_01067	CDS	putative ABC transporter ATP-binding protein
+EFEAEOLF_01068	CDS	hypothetical protein
+EFEAEOLF_01069	CDS	hypothetical protein
+EFEAEOLF_01070	CDS	hypothetical protein
+EFEAEOLF_01071	CDS	hypothetical protein
+EFEAEOLF_01072	CDS	hypothetical protein
+EFEAEOLF_01073	CDS	rmlA_2	2.7.7.24	Glucose-1-phosphate thymidylyltransferase
+EFEAEOLF_01074	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+EFEAEOLF_01075	CDS	pfdA	Prefoldin subunit alpha
+EFEAEOLF_01076	CDS	ftsY	Signal recognition particle receptor FtsY
+EFEAEOLF_01077	CDS	ffh_3	Signal recognition particle protein
+EFEAEOLF_01078	CDS	hypothetical protein
+EFEAEOLF_01079	CDS	hypothetical protein
+EFEAEOLF_01080	CDS	hypothetical protein
+EFEAEOLF_01081	CDS	hypothetical protein
+EFEAEOLF_01082	CDS	hypothetical protein
+EFEAEOLF_01083	CDS	nfo_1	3.1.21.2	Endonuclease 4
+EFEAEOLF_01084	CDS	nfo_2	3.1.21.2	Endonuclease 4
+EFEAEOLF_01085	CDS	hypothetical protein
+EFEAEOLF_01086	CDS	hypothetical protein
+EFEAEOLF_01087	CDS	fcbC	3.1.2.23	4-hydroxybenzoyl-CoA thioesterase
+EFEAEOLF_01088	CDS	coaBC	Coenzyme A biosynthesis bifunctional protein CoaBC
+EFEAEOLF_01089	CDS	hypothetical protein
+EFEAEOLF_01090	CDS	hypothetical protein
+EFEAEOLF_01091	CDS	ramA_2	3.5.1.100	(R)-stereoselective amidase
+EFEAEOLF_01092	CDS	hypothetical protein
+EFEAEOLF_01093	CDS	ubiD_1	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+EFEAEOLF_01094	CDS	4.1.1.61	4-hydroxybenzoate decarboxylase subunit C
+EFEAEOLF_01095	CDS	ubiD_2	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+EFEAEOLF_01096	CDS	ubiD_3	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+EFEAEOLF_01097	CDS	ubiA	2.5.1.-	4-hydroxybenzoate octaprenyltransferase
+EFEAEOLF_01098	CDS	mdtH	Multidrug resistance protein MdtH
+EFEAEOLF_01099	CDS	hypothetical protein
+EFEAEOLF_01100	CDS	hypothetical protein
+EFEAEOLF_01101	CDS	ppa	3.6.1.1	Inorganic pyrophosphatase
+EFEAEOLF_01102	CDS	mat_1	2.5.1.6	S-adenosylmethionine synthase
+EFEAEOLF_01103	CDS	mat_2	2.5.1.6	S-adenosylmethionine synthase
+EFEAEOLF_01104	CDS	rimI_1	2.3.1.128	Ribosomal-protein-alanine acetyltransferase
+EFEAEOLF_01105	CDS	hypothetical protein
+EFEAEOLF_01106	CDS	hypothetical protein
+EFEAEOLF_01107	CDS	hypothetical protein
+EFEAEOLF_01108	CDS	clcB	Voltage-gated ClC-type chloride channel ClcB
+EFEAEOLF_01109	CDS	eriC	Chloride/fluoride channel protein
+EFEAEOLF_01110	CDS	hypothetical protein
+EFEAEOLF_01111	CDS	dinG	3.6.4.12	putative ATP-dependent helicase DinG 
+EFEAEOLF_01112	CDS	hypothetical protein
+EFEAEOLF_01113	CDS	hypothetical protein
+EFEAEOLF_01114	CDS	hypothetical protein
+EFEAEOLF_01115	CDS	hypothetical protein
+EFEAEOLF_01116	CDS	ycf3	Photosystem I assembly protein Ycf3
+EFEAEOLF_01117	CDS	5.1.1.21	Isoleucine 2-epimerase
+EFEAEOLF_01118	CDS	hypothetical protein
+EFEAEOLF_01119	CDS	hypothetical protein
+EFEAEOLF_01120	CDS	hypothetical protein
+EFEAEOLF_01121	CDS	hypothetical protein
+EFEAEOLF_01122	CDS	hypothetical protein
+EFEAEOLF_01123	CDS	hypothetical protein
+EFEAEOLF_01124	CDS	hypothetical protein
+EFEAEOLF_01125	CDS	hypothetical protein
+EFEAEOLF_01126	CDS	hypothetical protein
+EFEAEOLF_01127	CDS	hypothetical protein
+EFEAEOLF_01128	CDS	hypothetical protein
+EFEAEOLF_01129	CDS	hypothetical protein
+EFEAEOLF_01130	CDS	cbiA_1	6.3.5.11	Cobyrinate a,c-diamide synthase
+EFEAEOLF_01131	CDS	cbiA_2	6.3.5.9	Cobyrinate a,c-diamide synthase
+EFEAEOLF_01132	CDS	hypothetical protein
+EFEAEOLF_01133	CDS	hypothetical protein
+EFEAEOLF_01134	CDS	hisS_1	6.1.1.21	Histidine--tRNA ligase
+EFEAEOLF_01135	CDS	hypothetical protein
+EFEAEOLF_01136	CDS	hisS_2	6.1.1.21	Histidine--tRNA ligase
+EFEAEOLF_01137	CDS	hypothetical protein
+EFEAEOLF_01138	CDS	hypothetical protein
+EFEAEOLF_01139	CDS	guaA_1	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+EFEAEOLF_01140	CDS	guaA_2	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+EFEAEOLF_01141	CDS	hypothetical protein
+EFEAEOLF_01142	CDS	der_1	GTPase Der
+EFEAEOLF_01143	CDS	hypothetical protein
+EFEAEOLF_01144	CDS	lysN_1	2.6.1.39	2-aminoadipate transaminase
+EFEAEOLF_01145	CDS	hypothetical protein
+EFEAEOLF_01146	CDS	3.6.1.-	Non-canonical purine NTP phosphatase
+EFEAEOLF_01147	CDS	Putative phosphoribosyl transferase
+EFEAEOLF_01148	CDS	hypothetical protein
+EFEAEOLF_01149	CDS	hypothetical protein
+EFEAEOLF_01150	CDS	hypothetical protein
+EFEAEOLF_01151	CDS	hypothetical protein
+EFEAEOLF_01152	CDS	truD_1	5.4.99.27	tRNA pseudouridine synthase D
+EFEAEOLF_01153	CDS	truD_2	5.4.99.27	tRNA pseudouridine synthase D
+EFEAEOLF_01154	CDS	mqnE_1	2.5.1.120	Aminodeoxyfutalosine synthase
+EFEAEOLF_01155	CDS	mqnC	1.21.98.1	Cyclic dehypoxanthine futalosine synthase
+EFEAEOLF_01156	CDS	hypothetical protein
+EFEAEOLF_01157	CDS	hypothetical protein
+EFEAEOLF_01158	CDS	mqnE_2	2.5.1.120	Aminodeoxyfutalosine synthase
+EFEAEOLF_01159	CDS	mqnE_3	2.5.1.120	Aminodeoxyfutalosine synthase
+EFEAEOLF_01160	CDS	thiF	2.7.7.73	Sulfur carrier protein ThiS adenylyltransferase
+EFEAEOLF_01161	CDS	hypothetical protein
+EFEAEOLF_01162	CDS	hypothetical protein
+EFEAEOLF_01163	CDS	moeA_1	2.10.1.1	Molybdopterin molybdenumtransferase
+repeat_region
+EFEAEOLF_01164	CDS	cas2	3.1.-.-	CRISPR-associated endoribonuclease Cas2
+EFEAEOLF_01165	CDS	hypothetical protein
+EFEAEOLF_01166	CDS	cas1	3.1.-.-	CRISPR-associated endonuclease Cas1
+EFEAEOLF_01167	CDS	hypothetical protein
+EFEAEOLF_01168	CDS	hypothetical protein
+EFEAEOLF_01169	CDS	hypothetical protein
+EFEAEOLF_01170	CDS	hypothetical protein
+EFEAEOLF_01171	CDS	hypothetical protein
+EFEAEOLF_01172	CDS	hypothetical protein
+EFEAEOLF_01173	CDS	hypothetical protein
+EFEAEOLF_01174	CDS	hypothetical protein
+EFEAEOLF_01175	CDS	hypothetical protein
+EFEAEOLF_01176	CDS	hypothetical protein
+EFEAEOLF_01177	CDS	hypothetical protein
+EFEAEOLF_01178	CDS	hypothetical protein
+EFEAEOLF_01179	CDS	hypothetical protein
+repeat_region
+EFEAEOLF_01180	CDS	hypothetical protein
+EFEAEOLF_01181	CDS	hypothetical protein
+EFEAEOLF_01182	CDS	gmhB	3.1.3.83	D-glycero-alpha-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+EFEAEOLF_01183	CDS	acs_1	6.2.1.1	Acetyl-coenzyme A synthetase
+EFEAEOLF_01184	CDS	acs_2	6.2.1.1	Acetyl-coenzyme A synthetase
+EFEAEOLF_01185	CDS	acs_3	6.2.1.1	Acetyl-coenzyme A synthetase
+EFEAEOLF_01186	CDS	hypothetical protein
+EFEAEOLF_01187	CDS	hypothetical protein
+EFEAEOLF_01188	CDS	hypothetical protein
+EFEAEOLF_01189	CDS	hypothetical protein
+EFEAEOLF_01190	CDS	hypothetical protein
+EFEAEOLF_01191	CDS	hypothetical protein
+EFEAEOLF_01192	CDS	proS	6.1.1.15	Proline--tRNA ligase
+EFEAEOLF_01193	CDS	dapE	3.5.1.18	putative succinyl-diaminopimelate desuccinylase
+EFEAEOLF_01194	CDS	argE	3.5.1.16	Acetylornithine deacetylase
+EFEAEOLF_01195	CDS	hypothetical protein
+EFEAEOLF_01196	CDS	hypothetical protein
+EFEAEOLF_01197	CDS	hypothetical protein
+EFEAEOLF_01198	CDS	acr1	1.2.1.-	Fatty acyl-CoA reductase
+EFEAEOLF_01199	CDS	fadH	1.3.1.34	putative 2,4-dienoyl-CoA reductase
+EFEAEOLF_01200	CDS	bacC_1	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+EFEAEOLF_01201	CDS	hypothetical protein
+EFEAEOLF_01202	CDS	hypothetical protein
+EFEAEOLF_01203	CDS	hypothetical protein
+EFEAEOLF_01204	CDS	cga_1	3.2.1.3	Glucoamylase
+EFEAEOLF_01205	CDS	cga_2	3.2.1.3	Glucoamylase
+EFEAEOLF_01206	CDS	cga_3	3.2.1.3	Glucoamylase
+EFEAEOLF_01207	tRNA	tRNA-Arg(gcg)
+EFEAEOLF_01208	CDS	hypothetical protein
+EFEAEOLF_01209	CDS	hypothetical protein
+EFEAEOLF_01210	CDS	hypothetical protein
+EFEAEOLF_01211	CDS	hypothetical protein
+EFEAEOLF_01212	CDS	hypothetical protein
+EFEAEOLF_01213	CDS	hypothetical protein
+EFEAEOLF_01214	CDS	5.3.1.29	Putative thiazole biosynthetic enzyme
+EFEAEOLF_01215	CDS	carA2	1.3.99.29	zeta-carotene-forming phytoene desaturase
+EFEAEOLF_01216	CDS	crtN	1.3.8.2	Dehydrosqualene desaturase
+EFEAEOLF_01217	CDS	hypothetical protein
+EFEAEOLF_01218	CDS	crtB	2.5.1.99	All-trans-phytoene synthase
+EFEAEOLF_01219	CDS	hypothetical protein
+EFEAEOLF_01220	CDS	hypothetical protein
+EFEAEOLF_01221	CDS	hypothetical protein
+EFEAEOLF_01222	CDS	hypothetical protein
+EFEAEOLF_01223	CDS	mctP_1	Monocarboxylate transport permease protein
+EFEAEOLF_01224	CDS	mctP_2	Monocarboxylate transport permease protein
+EFEAEOLF_01225	tRNA	tRNA-Cys(gca)
+EFEAEOLF_01226	CDS	htpX_1	3.4.24.-	Protease HtpX 
+EFEAEOLF_01227	CDS	hypothetical protein
+EFEAEOLF_01228	CDS	asnS_1	6.1.1.22	Asparagine--tRNA ligase
+EFEAEOLF_01229	CDS	asnS_2	6.1.1.22	Asparagine--tRNA ligase
+EFEAEOLF_01230	CDS	hemE	4.1.1.37	Uroporphyrinogen decarboxylase
+EFEAEOLF_01231	CDS	hemH1	4.99.1.1	Ferrochelatase 1
+EFEAEOLF_01232	CDS	hemH	4.99.1.1	Ferrochelatase
+EFEAEOLF_01233	CDS	selB_1	Selenocysteine-specific elongation factor
+EFEAEOLF_01234	CDS	purD_1	6.3.4.13	Phosphoribosylamine--glycine ligase
+EFEAEOLF_01235	CDS	purD_2	6.3.4.13	Phosphoribosylamine--glycine ligase
+EFEAEOLF_01236	CDS	hypothetical protein
+EFEAEOLF_01237	CDS	hypothetical protein
+EFEAEOLF_01238	CDS	hypothetical protein
+EFEAEOLF_01239	CDS	hypothetical protein
+EFEAEOLF_01240	CDS	hypothetical protein
+EFEAEOLF_01241	CDS	hypothetical protein
+EFEAEOLF_01242	CDS	dcd	3.5.4.13	dCTP deaminase
+EFEAEOLF_01243	CDS	rbn	3.1.-.-	Ribonuclease BN
+EFEAEOLF_01244	CDS	rnz	3.1.26.11	Ribonuclease Z
+EFEAEOLF_01245	CDS	rnmV	3.1.26.8	Ribonuclease M5
+EFEAEOLF_01246	CDS	hypothetical protein
+EFEAEOLF_01247	CDS	hypothetical protein
+EFEAEOLF_01248	CDS	hypothetical protein
+EFEAEOLF_01249	CDS	hypothetical protein
+EFEAEOLF_01250	CDS	crhR	3.6.4.13	RNA helicase CrhR
+EFEAEOLF_01251	CDS	cshC	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshC
+EFEAEOLF_01252	CDS	hypothetical protein
+EFEAEOLF_01253	tRNA	tRNA-Ser(gct)
+EFEAEOLF_01254	CDS	hypothetical protein
+EFEAEOLF_01255	CDS	hypothetical protein
+EFEAEOLF_01256	CDS	hypothetical protein
+EFEAEOLF_01257	CDS	hypothetical protein
+EFEAEOLF_01258	CDS	hypothetical protein
+EFEAEOLF_01259	CDS	hypothetical protein
+EFEAEOLF_01260	CDS	hypothetical protein
+EFEAEOLF_01261	CDS	cobS_1	2.7.8.26	Adenosylcobinamide-GDP ribazoletransferase
+EFEAEOLF_01262	CDS	cobS_2	2.7.8.26	Adenosylcobinamide-GDP ribazoletransferase
+EFEAEOLF_01263	CDS	hypothetical protein
+EFEAEOLF_01264	CDS	hisC_1	2.6.1.9	Histidinol-phosphate aminotransferase
+EFEAEOLF_01265	CDS	cbiB	Cobalamin biosynthesis protein CbiB
+EFEAEOLF_01266	CDS	cobD_1	Cobalamin biosynthesis protein CobD
+EFEAEOLF_01267	CDS	hypothetical protein
+EFEAEOLF_01268	CDS	hypothetical protein
+EFEAEOLF_01269	CDS	hypothetical protein
+EFEAEOLF_01270	CDS	hypothetical protein
+EFEAEOLF_01271	CDS	fecE	Fe(3+) dicitrate transport ATP-binding protein FecE
+EFEAEOLF_01272	CDS	hmuU	Hemin transport system permease protein HmuU
+EFEAEOLF_01273	CDS	hypothetical protein
+EFEAEOLF_01274	CDS	putative ABC transporter permease protein
+EFEAEOLF_01275	CDS	hypothetical protein
+EFEAEOLF_01276	CDS	btuF_1	Vitamin B12-binding protein
+EFEAEOLF_01277	CDS	2.5.1.41	Geranylgeranylglyceryl phosphate synthase
+EFEAEOLF_01278	CDS	hypothetical protein
+EFEAEOLF_01279	CDS	hypothetical protein
+EFEAEOLF_01280	CDS	trm1_1	2.1.1.215	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+EFEAEOLF_01281	CDS	trm1_2	2.1.1.215	tRNA (guanine(26)-N(2))-dimethyltransferase
+EFEAEOLF_01282	CDS	hypothetical protein
+EFEAEOLF_01283	CDS	3.6.1.15	Nucleoside-triphosphatase THEP1
+EFEAEOLF_01284	CDS	hypothetical protein
+EFEAEOLF_01285	CDS	hypothetical protein
+EFEAEOLF_01286	CDS	hypothetical protein
+EFEAEOLF_01287	CDS	hypothetical protein
+EFEAEOLF_01288	CDS	hypothetical protein
+EFEAEOLF_01289	CDS	hypothetical protein
+EFEAEOLF_01290	CDS	hypothetical protein
+EFEAEOLF_01291	CDS	hypothetical protein
+EFEAEOLF_01292	CDS	hypothetical protein
+EFEAEOLF_01293	CDS	hypothetical protein
+EFEAEOLF_01294	CDS	hypothetical protein
+EFEAEOLF_01295	CDS	rpiA_1	5.3.1.6	Ribose-5-phosphate isomerase A
+EFEAEOLF_01296	CDS	rpiA_2	5.3.1.6	Ribose-5-phosphate isomerase A
+EFEAEOLF_01297	CDS	hypothetical protein
+EFEAEOLF_01298	CDS	hypothetical protein
+EFEAEOLF_01299	CDS	hypothetical protein
+EFEAEOLF_01300	CDS	cysG_2	4.99.1.4	Siroheme synthase
+EFEAEOLF_01301	CDS	sumT_2	2.1.1.107	Uroporphyrinogen-III C-methyltransferase
+EFEAEOLF_01302	CDS	cysG_3	Siroheme synthase
+EFEAEOLF_01303	CDS	hypothetical protein
+EFEAEOLF_01304	CDS	cbiC	5.4.99.60	Cobalt-precorrin-8 methylmutase
+EFEAEOLF_01305	CDS	2.1.1.272	Cobalt-factor III methyltransferase
+EFEAEOLF_01306	CDS	hypothetical protein
+EFEAEOLF_01307	CDS	cbiD	2.1.1.195	Cobalt-precorrin-5B C(1)-methyltransferase
+EFEAEOLF_01308	CDS	cbiT	2.1.1.196	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+EFEAEOLF_01309	CDS	hypothetical protein
+EFEAEOLF_01310	CDS	cbiL	2.1.1.151	Cobalt-precorrin-2 C(20)-methyltransferase
+EFEAEOLF_01311	CDS	cbiF_1	2.1.1.271	Cobalt-precorrin-4 C(11)-methyltransferase
+EFEAEOLF_01312	CDS	cbiF_2	2.1.1.271	Cobalt-precorrin-4 C(11)-methyltransferase
+EFEAEOLF_01313	CDS	cbiG	3.7.1.12	Cobalt-precorrin-5A hydrolase
+EFEAEOLF_01314	CDS	hypothetical protein
+EFEAEOLF_01315	CDS	trmI	2.1.1.220	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+EFEAEOLF_01316	CDS	2.7.1.165	D-glycerate 2-kinase
+EFEAEOLF_01317	CDS	2.7.1.165	D-glycerate 2-kinase
+EFEAEOLF_01318	CDS	hypothetical protein
+EFEAEOLF_01319	CDS	hypothetical protein
+EFEAEOLF_01320	CDS	hypothetical protein
+EFEAEOLF_01321	CDS	hypothetical protein
+EFEAEOLF_01322	CDS	thiI_1	2.8.1.4	tRNA sulfurtransferase
+EFEAEOLF_01323	CDS	thiI_2	2.8.1.4	putative tRNA sulfurtransferase
+EFEAEOLF_01324	CDS	thiI_3	2.8.1.4	tRNA sulfurtransferase
+EFEAEOLF_01325	CDS	hypothetical protein
+EFEAEOLF_01326	CDS	hypothetical protein
+EFEAEOLF_01327	CDS	hypothetical protein
+EFEAEOLF_01328	CDS	hypothetical protein
+EFEAEOLF_01329	CDS	hpd	1.13.11.27	4-hydroxyphenylpyruvate dioxygenase
+EFEAEOLF_01330	CDS	4.3.2.3	Ureidoglycolate lyase
+EFEAEOLF_01331	CDS	hypothetical protein
+EFEAEOLF_01332	CDS	hypothetical protein
+EFEAEOLF_01333	CDS	hypothetical protein
+EFEAEOLF_01334	CDS	mdh_2	1.1.1.244	NAD-dependent methanol dehydrogenase
+EFEAEOLF_01335	CDS	hypothetical protein
+EFEAEOLF_01336	CDS	hypothetical protein
+EFEAEOLF_01337	CDS	ftsZ_1	Cell division protein FtsZ
+EFEAEOLF_01338	CDS	ftsZ_2	Cell division protein FtsZ
+EFEAEOLF_01339	CDS	tktA	2.2.1.1	Transketolase 1
+EFEAEOLF_01340	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+EFEAEOLF_01341	CDS	hypothetical protein
+EFEAEOLF_01342	CDS	hypothetical protein
+EFEAEOLF_01343	CDS	tal_1	2.2.1.2	Transaldolase
+EFEAEOLF_01344	CDS	tal_2	2.2.1.2	Transaldolase
+EFEAEOLF_01345	CDS	3.1.-.-	Ribonuclease
+EFEAEOLF_01346	CDS	3.1.-.-	Ribonuclease
+EFEAEOLF_01347	CDS	hypothetical protein
+EFEAEOLF_01348	CDS	hypothetical protein
+EFEAEOLF_01349	CDS	hypothetical protein
+EFEAEOLF_01350	CDS	prcB2	3.4.25.1	Proteasome subunit beta 2
+EFEAEOLF_01351	CDS	hypothetical protein
+EFEAEOLF_01352	CDS	naiP_1	Putative niacin/nicotinamide transporter NaiP
+EFEAEOLF_01353	CDS	hypothetical protein
+EFEAEOLF_01354	CDS	hrp1	Hypoxic response protein 1
+EFEAEOLF_01355	CDS	ribZ_2	Riboflavin transporter RibZ
+EFEAEOLF_01356	CDS	efpA	putative MFS-type transporter EfpA
+EFEAEOLF_01357	CDS	ribZ_3	Riboflavin transporter RibZ
+EFEAEOLF_01358	CDS	hypothetical protein
+EFEAEOLF_01359	CDS	hypothetical protein
+EFEAEOLF_01360	CDS	hypothetical protein
+EFEAEOLF_01361	CDS	hypothetical protein
+EFEAEOLF_01362	CDS	hypothetical protein
+EFEAEOLF_01363	CDS	purC_1	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+EFEAEOLF_01364	CDS	purC_2	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+EFEAEOLF_01365	CDS	yjiB_1	1.14.-.-	Putative cytochrome P450 YjiB
+EFEAEOLF_01366	CDS	yjiB_2	1.14.-.-	Putative cytochrome P450 YjiB
+EFEAEOLF_01367	CDS	hypothetical protein
+EFEAEOLF_01368	CDS	nicF	3.5.1.107	Maleamate amidohydrolase
+EFEAEOLF_01369	CDS	bacC_2	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+EFEAEOLF_01370	CDS	hypothetical protein
+EFEAEOLF_01371	CDS	hypothetical protein
+EFEAEOLF_01372	CDS	putative HIT-like protein
+EFEAEOLF_01373	tRNA	tRNA-Arg(tct)
+EFEAEOLF_01374	CDS	hypothetical protein
+EFEAEOLF_01375	CDS	hypothetical protein
+EFEAEOLF_01376	CDS	hypothetical protein
+EFEAEOLF_01377	CDS	folE2	3.5.4.16	GTP cyclohydrolase FolE2
+EFEAEOLF_01378	CDS	yflN	3.-.-.-	putative metallo-hydrolase YflN
+EFEAEOLF_01379	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+EFEAEOLF_01380	CDS	hypothetical protein
+EFEAEOLF_01381	CDS	hypothetical protein
+EFEAEOLF_01382	CDS	hypothetical protein
+EFEAEOLF_01383	CDS	ribBA	Riboflavin biosynthesis protein RibBA
+EFEAEOLF_01384	CDS	hypothetical protein
+EFEAEOLF_01385	CDS	rimI_2	2.3.1.255	N-alpha-acetyltransferase RimI
+EFEAEOLF_01386	CDS	hypothetical protein
+EFEAEOLF_01387	CDS	Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+EFEAEOLF_01388	CDS	purS	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurS
+EFEAEOLF_01389	CDS	hypothetical protein
+EFEAEOLF_01390	CDS	purL_1	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+EFEAEOLF_01391	CDS	purL_2	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+EFEAEOLF_01392	CDS	purL_3	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+EFEAEOLF_01393	CDS	purL_4	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+EFEAEOLF_01394	CDS	hypothetical protein
+EFEAEOLF_01395	CDS	hypothetical protein
+EFEAEOLF_01396	CDS	hypothetical protein
+EFEAEOLF_01397	CDS	hypothetical protein
+EFEAEOLF_01398	CDS	hypothetical protein
+EFEAEOLF_01399	CDS	hypothetical protein
+EFEAEOLF_01400	CDS	hypothetical protein
+EFEAEOLF_01401	CDS	hypothetical protein
+EFEAEOLF_01402	CDS	pyrI	Aspartate carbamoyltransferase regulatory chain
+EFEAEOLF_01403	CDS	pyrB_1	2.1.3.2	Aspartate carbamoyltransferase
+EFEAEOLF_01404	CDS	pyrB_2	2.1.3.2	Aspartate carbamoyltransferase catalytic subunit
+EFEAEOLF_01405	CDS	mvaA_1	1.1.1.88	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+EFEAEOLF_01406	CDS	mvaA_2	1.1.1.88	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+EFEAEOLF_01407	CDS	mvaA_3	1.1.1.88	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+EFEAEOLF_01408	CDS	hypothetical protein
+EFEAEOLF_01409	CDS	hypothetical protein
+EFEAEOLF_01410	CDS	bcp_1	1.11.1.15	Putative peroxiredoxin
+EFEAEOLF_01411	CDS	hypothetical protein
+EFEAEOLF_01412	CDS	hypothetical protein
+EFEAEOLF_01413	CDS	hypothetical protein
+EFEAEOLF_01414	CDS	hypothetical protein
+EFEAEOLF_01415	CDS	hypothetical protein
+EFEAEOLF_01416	CDS	purB_1	4.3.2.2	Adenylosuccinate lyase
+EFEAEOLF_01417	CDS	purB_2	4.3.2.2	Adenylosuccinate lyase
+EFEAEOLF_01418	CDS	hypothetical protein
+EFEAEOLF_01419	CDS	purB_3	4.3.2.2	Adenylosuccinate lyase
+EFEAEOLF_01420	CDS	putC	1.2.1.88	1-pyrroline-5-carboxylate dehydrogenase 2
+EFEAEOLF_01421	CDS	rocA	1.2.1.88	1-pyrroline-5-carboxylate dehydrogenase
+EFEAEOLF_01422	CDS	hypothetical protein
+EFEAEOLF_01423	CDS	hypothetical protein
+EFEAEOLF_01424	CDS	speH	4.1.1.50	S-adenosylmethionine decarboxylase proenzyme
+EFEAEOLF_01425	CDS	hypothetical protein
+EFEAEOLF_01426	CDS	hypothetical protein
+EFEAEOLF_01427	CDS	hypothetical protein
+EFEAEOLF_01428	CDS	infB	Translation initiation factor IF-2
+EFEAEOLF_01429	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+EFEAEOLF_01430	CDS	hypothetical protein
+EFEAEOLF_01431	CDS	hypothetical protein
+EFEAEOLF_01432	CDS	Putative ribosomal protein L7Ae-like protein
+EFEAEOLF_01433	CDS	dapA_2	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+EFEAEOLF_01434	CDS	dapA_3	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+EFEAEOLF_01435	CDS	hypothetical protein
+EFEAEOLF_01436	CDS	hypothetical protein
+EFEAEOLF_01437	CDS	hypothetical protein
+EFEAEOLF_01438	CDS	hypothetical protein
+EFEAEOLF_01439	CDS	hypothetical protein
+EFEAEOLF_01440	CDS	htrA	Putative serine protease HtrA
+EFEAEOLF_01441	CDS	hhoB	Putative serine protease HhoB
+EFEAEOLF_01442	CDS	hypothetical protein
+EFEAEOLF_01443	CDS	hypothetical protein
+EFEAEOLF_01444	CDS	hypothetical protein
+EFEAEOLF_01445	CDS	hypothetical protein
+EFEAEOLF_01446	CDS	cysS_1	6.1.1.16	Cysteine--tRNA ligase
+EFEAEOLF_01447	CDS	cysS_2	6.1.1.16	Cysteine--tRNA ligase
+EFEAEOLF_01448	CDS	cysS_3	6.1.1.16	Cysteine--tRNA ligase
+EFEAEOLF_01449	CDS	hypothetical protein
+EFEAEOLF_01450	CDS	arsB_1	Arsenical pump membrane protein
+EFEAEOLF_01451	CDS	arsB_2	Arsenical pump membrane protein
+EFEAEOLF_01452	CDS	hypothetical protein
+EFEAEOLF_01453	CDS	hypothetical protein
+EFEAEOLF_01454	CDS	hypothetical protein
+EFEAEOLF_01455	CDS	hypothetical protein
+EFEAEOLF_01456	CDS	hypothetical protein
+EFEAEOLF_01457	CDS	hypothetical protein
+EFEAEOLF_01458	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+EFEAEOLF_01459	CDS	hypothetical protein
+EFEAEOLF_01460	CDS	tatA_2	Sec-independent protein translocase protein TatA
+EFEAEOLF_01461	CDS	hypothetical protein
+EFEAEOLF_01462	CDS	hypothetical protein
+EFEAEOLF_01463	CDS	hypothetical protein
+EFEAEOLF_01464	CDS	dhaT	1.1.1.202	1,3-propanediol dehydrogenase
+EFEAEOLF_01465	CDS	hypothetical protein
+EFEAEOLF_01466	CDS	hypothetical protein
+EFEAEOLF_01467	CDS	hypothetical protein
+EFEAEOLF_01468	CDS	hypothetical protein
+EFEAEOLF_01469	CDS	hypothetical protein
+EFEAEOLF_01470	CDS	hypothetical protein
+EFEAEOLF_01471	CDS	hypothetical protein
+EFEAEOLF_01472	CDS	hypothetical protein
+EFEAEOLF_01473	CDS	hypothetical protein
+EFEAEOLF_01474	CDS	hypothetical protein
+EFEAEOLF_01475	CDS	rps1	30S ribosomal protein S1
+EFEAEOLF_01476	CDS	acdA_2	1.3.99.-	Acyl-CoA dehydrogenase
+EFEAEOLF_01477	CDS	hypothetical protein
+EFEAEOLF_01478	CDS	mmgC_1	1.3.99.-	Acyl-CoA dehydrogenase
+EFEAEOLF_01479	CDS	hypothetical protein
+EFEAEOLF_01480	CDS	hypothetical protein
+EFEAEOLF_01481	CDS	arcA	3.5.3.6	Arginine deiminase
+EFEAEOLF_01482	CDS	hypothetical protein
+EFEAEOLF_01483	CDS	hypothetical protein
+EFEAEOLF_01484	CDS	hypothetical protein
+EFEAEOLF_01485	CDS	hypothetical protein
+EFEAEOLF_01486	CDS	hypothetical protein
+EFEAEOLF_01487	CDS	hypothetical protein
+EFEAEOLF_01488	CDS	fabG_1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+EFEAEOLF_01489	CDS	hypothetical protein
+EFEAEOLF_01490	CDS	hdhA	1.1.1.159	7-alpha-hydroxysteroid dehydrogenase
+EFEAEOLF_01491	CDS	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+EFEAEOLF_01492	CDS	hypothetical protein
+EFEAEOLF_01493	CDS	hypothetical protein
+EFEAEOLF_01494	CDS	adhT_1	1.1.1.1	Alcohol dehydrogenase
+EFEAEOLF_01495	CDS	fabL	1.3.1.104	Enoyl-[acyl-carrier-protein] reductase [NADPH] FabL
+EFEAEOLF_01496	CDS	tsaC1_1	1.2.1.62	4-formylbenzenesulfonate dehydrogenase TsaC1/TsaC2
+EFEAEOLF_01497	CDS	hypothetical protein
+EFEAEOLF_01498	CDS	abfD	4.2.1.120	4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+EFEAEOLF_01499	CDS	hypothetical protein
+EFEAEOLF_01500	CDS	nphA1	1.14.13.29	4-nitrophenol 2-monooxygenase, oxygenase component
+EFEAEOLF_01501	CDS	hypothetical protein
+EFEAEOLF_01502	CDS	hbd_1	1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase
+EFEAEOLF_01503	CDS	lcdH	1.1.1.108	L-carnitine dehydrogenase
+EFEAEOLF_01504	CDS	hypothetical protein
+EFEAEOLF_01505	CDS	crt_1	4.2.1.150	Short-chain-enoyl-CoA hydratase
+EFEAEOLF_01506	CDS	crt_2	4.2.1.150	Short-chain-enoyl-CoA hydratase
+EFEAEOLF_01507	CDS	carC_1	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarC
+EFEAEOLF_01508	CDS	mmgC_2	1.3.99.-	Acyl-CoA dehydrogenase
+EFEAEOLF_01509	CDS	hypothetical protein
+EFEAEOLF_01510	CDS	tsaC1_2	1.2.1.62	4-formylbenzenesulfonate dehydrogenase TsaC1/TsaC2
+EFEAEOLF_01511	CDS	rhlG	1.1.1.100	Rhamnolipids biosynthesis 3-oxoacyl-[acyl-carrier-protein] reductase
+EFEAEOLF_01512	CDS	fabG_2	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+EFEAEOLF_01513	CDS	hypothetical protein
+EFEAEOLF_01514	CDS	hypothetical protein
+EFEAEOLF_01515	CDS	hypothetical protein
+EFEAEOLF_01516	CDS	hypothetical protein
+EFEAEOLF_01517	CDS	hypothetical protein
+EFEAEOLF_01518	CDS	hypothetical protein
+EFEAEOLF_01519	CDS	hypothetical protein
+EFEAEOLF_01520	CDS	hypothetical protein
+EFEAEOLF_01521	CDS	hypothetical protein
+EFEAEOLF_01522	CDS	lysY_1	1.2.1.-	[LysW]-L-2-aminoadipate 6-phosphate reductase
+EFEAEOLF_01523	CDS	lysY_2	1.2.1.-	[LysW]-L-2-aminoadipate 6-phosphate reductase
+EFEAEOLF_01524	CDS	hypothetical protein
+EFEAEOLF_01525	CDS	lysZ	2.7.2.-	[LysW]-aminoadipate kinase
+EFEAEOLF_01526	CDS	lysJ	2.6.1.-	[LysW]-aminoadipate semialdehyde transaminase
+EFEAEOLF_01527	CDS	lysX_1	6.3.2.43	Alpha-aminoadipate--LysW ligase LysX
+EFEAEOLF_01528	CDS	lysX_2	6.3.2.43	Alpha-aminoadipate--LysW ligase LysX
+EFEAEOLF_01529	CDS	lysK	3.5.1.-	[LysW]-lysine hydrolase
+EFEAEOLF_01530	CDS	hypothetical protein
+EFEAEOLF_01531	CDS	hisZ_1	ATP phosphoribosyltransferase regulatory subunit
+EFEAEOLF_01532	CDS	hisZ_2	ATP phosphoribosyltransferase regulatory subunit
+EFEAEOLF_01533	CDS	hisG	2.4.2.17	ATP phosphoribosyltransferase
+EFEAEOLF_01534	CDS	hisD_1	1.1.1.23	Histidinol dehydrogenase
+EFEAEOLF_01535	CDS	hisD_2	1.1.1.23	Histidinol dehydrogenase
+EFEAEOLF_01536	CDS	hisD_3	1.1.1.23	Histidinol dehydrogenase
+EFEAEOLF_01537	CDS	hisD_4	1.1.1.23	Histidinol dehydrogenase
+EFEAEOLF_01538	CDS	hisB	4.2.1.19	Imidazoleglycerol-phosphate dehydratase
+EFEAEOLF_01539	CDS	hisH	2.4.2.-	Imidazole glycerol phosphate synthase subunit HisH
+EFEAEOLF_01540	CDS	hisA	5.3.1.16	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+EFEAEOLF_01541	CDS	hisF	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+EFEAEOLF_01542	CDS	hisI	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+EFEAEOLF_01543	CDS	hisC_2	2.6.1.9	Histidinol-phosphate aminotransferase
+EFEAEOLF_01544	CDS	yveA_1	Aspartate-proton symporter
+EFEAEOLF_01545	CDS	yveA_2	Aspartate-proton symporter
+EFEAEOLF_01546	CDS	dmdA_4	4.2.1.85	2,3-dimethylmalate dehydratase large subunit
+EFEAEOLF_01547	CDS	dmdA_5	4.2.1.85	2,3-dimethylmalate dehydratase large subunit
+EFEAEOLF_01548	CDS	hacB	4.2.1.33	Methanogen homoaconitase small subunit
+EFEAEOLF_01549	CDS	hypothetical protein
+EFEAEOLF_01550	CDS	leuB_1	1.1.1.85	3-isopropylmalate dehydrogenase
+EFEAEOLF_01551	CDS	hicd_2	1.1.1.87	Homoisocitrate dehydrogenase
+EFEAEOLF_01552	CDS	hypothetical protein
+EFEAEOLF_01553	CDS	leuA_2	2.3.3.13	2-isopropylmalate synthase
+EFEAEOLF_01554	CDS	leuA_3	2.3.3.13	2-isopropylmalate synthase
+EFEAEOLF_01555	CDS	2.3.3.14	Homocitrate synthase
+EFEAEOLF_01556	CDS	hypothetical protein
+EFEAEOLF_01557	CDS	paiB	Protease synthase and sporulation protein PAI 2
+EFEAEOLF_01558	CDS	hypothetical protein
+EFEAEOLF_01559	CDS	hypothetical protein
+EFEAEOLF_01560	CDS	hypothetical protein
+EFEAEOLF_01561	CDS	hypothetical protein
+EFEAEOLF_01562	CDS	hypothetical protein
+EFEAEOLF_01563	CDS	hypothetical protein
+EFEAEOLF_01564	CDS	hypothetical protein
+EFEAEOLF_01565	CDS	ribZ_4	Riboflavin transporter RibZ
+EFEAEOLF_01566	CDS	hypothetical protein
+EFEAEOLF_01567	CDS	hypothetical protein
+EFEAEOLF_01568	CDS	hypothetical protein
+EFEAEOLF_01569	CDS	pncC	3.5.1.42	Nicotinamide-nucleotide amidohydrolase PncC
+EFEAEOLF_01570	CDS	hypothetical protein
+EFEAEOLF_01571	CDS	hypothetical protein
+EFEAEOLF_01572	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+EFEAEOLF_01573	CDS	hypothetical protein
+EFEAEOLF_01574	CDS	hypothetical protein
+EFEAEOLF_01575	CDS	hypothetical protein
+EFEAEOLF_01576	CDS	hypothetical protein
+EFEAEOLF_01577	CDS	hypothetical protein
+EFEAEOLF_01578	CDS	ileS_1	6.1.1.5	Isoleucine--tRNA ligase
+EFEAEOLF_01579	CDS	ileS_2	6.1.1.5	Isoleucine--tRNA ligase
+EFEAEOLF_01580	CDS	ileS_3	6.1.1.5	Isoleucine--tRNA ligase
+EFEAEOLF_01581	CDS	ileS_4	6.1.1.5	Isoleucine--tRNA ligase
+EFEAEOLF_01582	CDS	Bifunctional NMN adenylyltransferase/Nudix hydrolase
+EFEAEOLF_01583	CDS	hypothetical protein
+EFEAEOLF_01584	CDS	morA	1.1.1.218	Morphine 6-dehydrogenase
+EFEAEOLF_01585	CDS	yvgN	1.1.1.-	Glyoxal reductase
+EFEAEOLF_01586	CDS	hypothetical protein
+EFEAEOLF_01587	CDS	hypothetical protein
+EFEAEOLF_01588	CDS	hypothetical protein
+EFEAEOLF_01589	CDS	ydaD	1.-.-.-	General stress protein 39
+EFEAEOLF_01590	CDS	cpnA	1.1.1.163	Cyclopentanol dehydrogenase
+EFEAEOLF_01591	CDS	hypothetical protein
+EFEAEOLF_01592	CDS	hypothetical protein
+EFEAEOLF_01593	CDS	araD	4.2.1.43	L-2-keto-3-deoxyarabonate dehydratase
+EFEAEOLF_01594	CDS	hypothetical protein
+EFEAEOLF_01595	CDS	hypothetical protein
+EFEAEOLF_01596	CDS	hypothetical protein
+EFEAEOLF_01597	CDS	hypothetical protein
+EFEAEOLF_01598	CDS	hypothetical protein
+EFEAEOLF_01599	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+EFEAEOLF_01600	CDS	hypothetical protein
+EFEAEOLF_01601	CDS	hypothetical protein
+EFEAEOLF_01602	CDS	smc_2	Chromosome partition protein Smc
+EFEAEOLF_01603	CDS	smc_3	Chromosome partition protein Smc
+EFEAEOLF_01604	CDS	smc_4	Chromosome partition protein Smc
+EFEAEOLF_01605	CDS	smc_5	Chromosome partition protein Smc
+EFEAEOLF_01606	CDS	smc_6	Chromosome partition protein Smc
+EFEAEOLF_01607	CDS	paaF_2	4.2.1.17	2,3-dehydroadipyl-CoA hydratase
+EFEAEOLF_01608	CDS	hbd_2	1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase
+EFEAEOLF_01609	CDS	mmgB	1.1.1.157	putative 3-hydroxybutyryl-CoA dehydrogenase
+EFEAEOLF_01610	CDS	hbd_3	1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase
+EFEAEOLF_01611	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+EFEAEOLF_01612	CDS	2.3.1.9	putative acetyl-CoA acyltransferase
+EFEAEOLF_01613	CDS	atoB_1	2.3.1.9	Acetyl-CoA acetyltransferase
+EFEAEOLF_01614	CDS	hypothetical protein
+EFEAEOLF_01615	CDS	hypothetical protein
+EFEAEOLF_01616	CDS	hypothetical protein
+EFEAEOLF_01617	CDS	hypothetical protein
+EFEAEOLF_01618	CDS	hypothetical protein
+EFEAEOLF_01619	CDS	hypothetical protein
+EFEAEOLF_01620	CDS	sauU	putative sulfoacetate transporter SauU
+EFEAEOLF_01621	CDS	hypothetical protein
+EFEAEOLF_01622	CDS	pdxA2	1.1.1.262	4-hydroxythreonine-4-phosphate dehydrogenase 2
+EFEAEOLF_01623	CDS	dagK	2.7.1.107	Diacylglycerol kinase
+EFEAEOLF_01624	CDS	glpD	1.1.5.3	Aerobic glycerol-3-phosphate dehydrogenase
+EFEAEOLF_01625	CDS	hypothetical protein
+EFEAEOLF_01626	CDS	hypothetical protein
+EFEAEOLF_01627	CDS	hypothetical protein
+EFEAEOLF_01628	CDS	hypothetical protein
+EFEAEOLF_01629	CDS	iolT_1	Major myo-inositol transporter IolT
+EFEAEOLF_01630	CDS	hypothetical protein
+EFEAEOLF_01631	CDS	glxR	1.1.1.60	2-hydroxy-3-oxopropionate reductase
+EFEAEOLF_01632	CDS	yihU	1.1.1.373	3-sulfolactaldehyde reductase
+EFEAEOLF_01633	CDS	1.-.-.-	putative oxidoreductase
+EFEAEOLF_01634	CDS	hypothetical protein
+EFEAEOLF_01635	CDS	hypothetical protein
+EFEAEOLF_01636	CDS	hypothetical protein
+EFEAEOLF_01637	CDS	serB	3.1.3.3	Phosphoserine phosphatase
+EFEAEOLF_01638	CDS	hypothetical protein
+EFEAEOLF_01639	CDS	hypothetical protein
+EFEAEOLF_01640	CDS	hypothetical protein
+EFEAEOLF_01641	CDS	lppC	Putative lipoprotein LppC
+EFEAEOLF_01642	CDS	hypothetical protein
+EFEAEOLF_01643	CDS	hypothetical protein
+EFEAEOLF_01644	CDS	hypothetical protein
+EFEAEOLF_01645	CDS	hypothetical protein
+EFEAEOLF_01646	CDS	yabJ	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+EFEAEOLF_01647	CDS	hypothetical protein
+EFEAEOLF_01648	CDS	galP	Galactose-proton symporter
+EFEAEOLF_01649	CDS	araE_1	Arabinose-proton symporter
+EFEAEOLF_01650	CDS	hypothetical protein
+EFEAEOLF_01651	CDS	hypothetical protein
+EFEAEOLF_01652	CDS	hypothetical protein
+EFEAEOLF_01653	CDS	hypothetical protein
+EFEAEOLF_01654	CDS	amaA	3.5.1.14	N-acyl-L-amino acid amidohydrolase
+EFEAEOLF_01655	CDS	hypothetical protein
+EFEAEOLF_01656	CDS	hypothetical protein
+EFEAEOLF_01657	CDS	hypothetical protein
+EFEAEOLF_01658	CDS	hypothetical protein
+EFEAEOLF_01659	CDS	hypothetical protein
+EFEAEOLF_01660	CDS	yecD	3.-.-.-	Isochorismatase family protein YecD
+EFEAEOLF_01661	CDS	hypothetical protein
+EFEAEOLF_01662	CDS	hypothetical protein
+EFEAEOLF_01663	CDS	hypothetical protein
+EFEAEOLF_01664	CDS	hypothetical protein
+EFEAEOLF_01665	CDS	hypothetical protein
+EFEAEOLF_01666	CDS	hypothetical protein
+EFEAEOLF_01667	CDS	hypothetical protein
+EFEAEOLF_01668	CDS	hypothetical protein
+EFEAEOLF_01669	CDS	hypothetical protein
+EFEAEOLF_01670	CDS	polX_1	DNA polymerase/3'-5' exonuclease PolX
+EFEAEOLF_01671	CDS	hypothetical protein
+EFEAEOLF_01672	CDS	polX_2	DNA polymerase/3'-5' exonuclease PolX
+EFEAEOLF_01673	CDS	hypothetical protein
+EFEAEOLF_01674	CDS	hypothetical protein
+EFEAEOLF_01675	CDS	hypothetical protein
+EFEAEOLF_01676	CDS	hypothetical protein
+EFEAEOLF_01677	CDS	glpA_1	1.1.5.3	Anaerobic glycerol-3-phosphate dehydrogenase subunit A
+EFEAEOLF_01678	CDS	glpA_2	1.1.5.3	Anaerobic glycerol-3-phosphate dehydrogenase subunit A
+EFEAEOLF_01679	CDS	hypothetical protein
+EFEAEOLF_01680	CDS	yhdG_2	putative amino acid permease YhdG
+EFEAEOLF_01681	CDS	yveA_3	Aspartate-proton symporter
+EFEAEOLF_01682	CDS	hypothetical protein
+EFEAEOLF_01683	CDS	hypothetical protein
+EFEAEOLF_01684	CDS	hypothetical protein
+EFEAEOLF_01685	CDS	hypothetical protein
+EFEAEOLF_01686	CDS	hypothetical protein
+EFEAEOLF_01687	CDS	hypothetical protein
+EFEAEOLF_01688	CDS	hypothetical protein
+EFEAEOLF_01689	CDS	hypothetical protein
+EFEAEOLF_01690	CDS	sad_1	1.2.1.16	Succinate semialdehyde dehydrogenase [NAD(P)+] Sad
+EFEAEOLF_01691	CDS	sad_2	1.2.1.16	Succinate semialdehyde dehydrogenase [NAD(P)+] Sad
+EFEAEOLF_01692	CDS	hypothetical protein
+EFEAEOLF_01693	CDS	mdh_3	1.1.1.244	NAD-dependent methanol dehydrogenase
+EFEAEOLF_01694	CDS	hypothetical protein
+EFEAEOLF_01695	CDS	hypothetical protein
+EFEAEOLF_01696	CDS	attM	3.1.1.81	N-acyl homoserine lactonase AttM
+EFEAEOLF_01697	CDS	hypothetical protein
+EFEAEOLF_01698	CDS	hypothetical protein
+EFEAEOLF_01699	CDS	hypothetical protein
+EFEAEOLF_01700	CDS	hypothetical protein
+EFEAEOLF_01701	CDS	acnA_1	4.2.1.3	Aconitate hydratase A
+EFEAEOLF_01702	CDS	acn	4.2.1.3	Aconitate hydratase A
+EFEAEOLF_01703	CDS	rapF	3.1.-.-	Response regulator aspartate phosphatase F
+EFEAEOLF_01704	CDS	glnA_1	6.3.1.2	Glutamine synthetase
+EFEAEOLF_01705	CDS	hypothetical protein
+EFEAEOLF_01706	CDS	glnA_2	6.3.1.2	Glutamine synthetase
+EFEAEOLF_01707	CDS	glnA_3	6.3.1.2	Glutamine synthetase 2
+EFEAEOLF_01708	tRNA	tRNA-Pro(tgg)
+EFEAEOLF_01709	CDS	hypothetical protein
+EFEAEOLF_01710	CDS	hypothetical protein
+EFEAEOLF_01711	CDS	hypothetical protein
+EFEAEOLF_01712	CDS	hypothetical protein
+EFEAEOLF_01713	CDS	hypothetical protein
+EFEAEOLF_01714	CDS	hypothetical protein
+EFEAEOLF_01715	CDS	hypothetical protein
+EFEAEOLF_01716	CDS	hypothetical protein
+EFEAEOLF_01717	CDS	hypothetical protein
+EFEAEOLF_01718	CDS	hypothetical protein
+EFEAEOLF_01719	CDS	hypothetical protein
+EFEAEOLF_01720	CDS	hypothetical protein
+EFEAEOLF_01721	CDS	hypothetical protein
+EFEAEOLF_01722	CDS	hypothetical protein
+EFEAEOLF_01723	CDS	hypothetical protein
+EFEAEOLF_01724	CDS	hypothetical protein
+EFEAEOLF_01725	CDS	hypothetical protein
+EFEAEOLF_01726	CDS	hypothetical protein
+EFEAEOLF_01727	CDS	mscS	Small-conductance mechanosensitive channel
+EFEAEOLF_01728	CDS	hypothetical protein
+EFEAEOLF_01729	CDS	drrA_2	3.6.3.-	Doxorubicin resistance ATP-binding protein DrrA
+EFEAEOLF_01730	CDS	drrA_3	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+EFEAEOLF_01731	CDS	hypothetical protein
+EFEAEOLF_01732	CDS	hypothetical protein
+EFEAEOLF_01733	CDS	hypothetical protein
+EFEAEOLF_01734	CDS	yicI_2	3.2.1.177	Alpha-xylosidase
+EFEAEOLF_01735	CDS	3.2.1.177	Alpha-xylosidase BoGH31A
+EFEAEOLF_01736	CDS	hypothetical protein
+EFEAEOLF_01737	CDS	egsA_1	1.1.1.261	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+EFEAEOLF_01738	CDS	davT	2.6.1.48	5-aminovalerate aminotransferase DavT
+EFEAEOLF_01739	CDS	dat_1	2.6.1.76	Diaminobutyrate--2-oxoglutarate aminotransferase
+EFEAEOLF_01740	CDS	patA	2.6.1.82	Putrescine aminotransferase
+EFEAEOLF_01741	CDS	dat_2	2.6.1.76	Diaminobutyrate--2-oxoglutarate aminotransferase
+EFEAEOLF_01742	CDS	plaP_2	Low-affinity putrescine importer PlaP
+EFEAEOLF_01743	CDS	hypothetical protein
+EFEAEOLF_01744	CDS	decR	DNA-binding transcriptional activator DecR
+EFEAEOLF_01745	CDS	glpE_2	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+EFEAEOLF_01746	CDS	1.1.1.81	Hydroxypyruvate reductase
+EFEAEOLF_01747	CDS	hypothetical protein
+EFEAEOLF_01748	CDS	mctP_3	Monocarboxylate transport permease protein
+EFEAEOLF_01749	CDS	hypothetical protein
+EFEAEOLF_01750	CDS	hypothetical protein
+EFEAEOLF_01751	CDS	yodF	putative symporter YodF
+EFEAEOLF_01752	CDS	hypothetical protein
+EFEAEOLF_01753	CDS	hypothetical protein
+EFEAEOLF_01754	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid aminotransferase
+EFEAEOLF_01755	CDS	ydaP	Putative thiamine pyrophosphate-containing protein YdaP
+EFEAEOLF_01756	CDS	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+EFEAEOLF_01757	CDS	hypothetical protein
+EFEAEOLF_01758	CDS	hypothetical protein
+EFEAEOLF_01759	CDS	hypothetical protein
+EFEAEOLF_01760	CDS	pdxT_1	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxT
+EFEAEOLF_01761	CDS	pdxT_2	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxT
+EFEAEOLF_01762	CDS	hypothetical protein
+EFEAEOLF_01763	CDS	gcvT_1	2.1.2.10	Aminomethyltransferase
+EFEAEOLF_01764	CDS	gcvT_2	2.1.2.10	Aminomethyltransferase
+EFEAEOLF_01765	CDS	hypothetical protein
+EFEAEOLF_01766	CDS	hypothetical protein
+EFEAEOLF_01767	CDS	hypothetical protein
+EFEAEOLF_01768	CDS	thrC_1	4.2.3.1	Threonine synthase
+EFEAEOLF_01769	CDS	thrC_2	4.2.3.1	Threonine synthase
+EFEAEOLF_01770	CDS	hypothetical protein
+EFEAEOLF_01771	CDS	hypothetical protein
+EFEAEOLF_01772	CDS	hypothetical protein
+EFEAEOLF_01773	CDS	hypothetical protein
+EFEAEOLF_01774	CDS	hypothetical protein
+EFEAEOLF_01775	CDS	pyrG_1	6.3.4.2	CTP synthase
+EFEAEOLF_01776	CDS	pyrG_2	6.3.4.2	CTP synthase
+EFEAEOLF_01777	CDS	hypothetical protein
+EFEAEOLF_01778	CDS	pyrG_3	6.3.4.2	CTP synthase
+EFEAEOLF_01779	CDS	hypothetical protein
+EFEAEOLF_01780	CDS	hypothetical protein
+EFEAEOLF_01781	CDS	hypothetical protein
+EFEAEOLF_01782	CDS	tmk	2.7.4.9	Thymidylate kinase
+EFEAEOLF_01783	CDS	mdeA_1	4.4.1.11	L-methionine gamma-lyase
+EFEAEOLF_01784	CDS	megL	4.4.1.11	L-methionine gamma-lyase
+EFEAEOLF_01785	CDS	hypothetical protein
+EFEAEOLF_01786	CDS	hypothetical protein
+EFEAEOLF_01787	CDS	hypothetical protein
+EFEAEOLF_01788	CDS	hypothetical protein
+EFEAEOLF_01789	CDS	hypothetical protein
+EFEAEOLF_01790	CDS	hypothetical protein
+EFEAEOLF_01791	CDS	hypothetical protein
+EFEAEOLF_01792	CDS	ytnP	3.1.1.-	putative quorum-quenching lactonase YtnP
+EFEAEOLF_01793	CDS	acs_4	6.2.1.1	Acetyl-coenzyme A synthetase
+EFEAEOLF_01794	CDS	acs_5	6.2.1.1	Acetyl-coenzyme A synthetase
+EFEAEOLF_01795	CDS	srfAC	Surfactin synthase subunit 3
+EFEAEOLF_01796	CDS	acsA_3	6.2.1.1	Acetyl-coenzyme A synthetase
+EFEAEOLF_01797	CDS	carC_2	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarC
+EFEAEOLF_01798	CDS	hypothetical protein
+EFEAEOLF_01799	CDS	hypothetical protein
+EFEAEOLF_01800	CDS	1.3.99.-	putative acyl-CoA dehydrogenase fadE25
+EFEAEOLF_01801	CDS	mmgC_3	1.3.99.-	Acyl-CoA dehydrogenase
+EFEAEOLF_01802	CDS	hypothetical protein
+EFEAEOLF_01803	CDS	atoB_2	2.3.1.9	Acetyl-CoA acetyltransferase
+EFEAEOLF_01804	CDS	phaA	2.3.1.9	Acetyl-CoA acetyltransferase
+EFEAEOLF_01805	CDS	fadA	2.3.1.16	3-ketoacyl-CoA thiolase
+EFEAEOLF_01806	CDS	etfB_2	Electron transfer flavoprotein subunit beta
+EFEAEOLF_01807	CDS	carE_3	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarE
+EFEAEOLF_01808	CDS	hypothetical protein
+EFEAEOLF_01809	CDS	hypothetical protein
+EFEAEOLF_01810	CDS	hypothetical protein
+EFEAEOLF_01811	CDS	hypothetical protein
+EFEAEOLF_01812	CDS	hypothetical protein
+EFEAEOLF_01813	CDS	nagAb	Naphthalene 1,2-dioxygenase/salicylate 5-hydroxylase systems, ferredoxin component
+EFEAEOLF_01814	CDS	hypothetical protein
+EFEAEOLF_01815	CDS	carD_2	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarD
+EFEAEOLF_01816	CDS	hypothetical protein
+EFEAEOLF_01817	CDS	carE_4	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarE
+EFEAEOLF_01818	CDS	hypothetical protein
+EFEAEOLF_01819	CDS	hypothetical protein
+EFEAEOLF_01820	CDS	hypothetical protein
+EFEAEOLF_01821	CDS	hypothetical protein
+EFEAEOLF_01822	CDS	hutU_1	4.2.1.49	Urocanate hydratase
+EFEAEOLF_01823	CDS	hypothetical protein
+EFEAEOLF_01824	CDS	hutU_2	4.2.1.49	Urocanate hydratase
+EFEAEOLF_01825	CDS	hutU_3	4.2.1.49	Urocanate hydratase
+EFEAEOLF_01826	CDS	hutU_4	4.2.1.49	Urocanate hydratase
+EFEAEOLF_01827	CDS	hypothetical protein
+EFEAEOLF_01828	CDS	hypothetical protein
+EFEAEOLF_01829	CDS	hypothetical protein
+EFEAEOLF_01830	CDS	glgC	2.7.7.27	Glucose-1-phosphate adenylyltransferase
+EFEAEOLF_01831	CDS	hypothetical protein
+EFEAEOLF_01832	CDS	hypothetical protein
+EFEAEOLF_01833	CDS	hypothetical protein
+EFEAEOLF_01834	CDS	hypothetical protein
+EFEAEOLF_01835	CDS	hypothetical protein
+EFEAEOLF_01836	CDS	hypothetical protein
+EFEAEOLF_01837	CDS	hypothetical protein
+EFEAEOLF_01838	CDS	hypothetical protein
+EFEAEOLF_01839	CDS	hypothetical protein
+EFEAEOLF_01840	CDS	hypothetical protein
+EFEAEOLF_01841	CDS	smc_7	Chromosome partition protein Smc
+EFEAEOLF_01842	CDS	hypothetical protein
+EFEAEOLF_01843	CDS	hypothetical protein
+EFEAEOLF_01844	CDS	asnS_3	6.1.1.22	Asparagine--tRNA ligase
+EFEAEOLF_01845	CDS	asnS_4	6.1.1.22	Asparagine--tRNA ligase
+EFEAEOLF_01846	CDS	hypothetical protein
+EFEAEOLF_01847	CDS	hypothetical protein
+EFEAEOLF_01848	CDS	lrp_1	Leucine-responsive regulatory protein
+EFEAEOLF_01849	CDS	glpC	Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+EFEAEOLF_01850	CDS	hypothetical protein
+EFEAEOLF_01851	CDS	hypothetical protein
+EFEAEOLF_01852	CDS	hypothetical protein
+EFEAEOLF_01853	CDS	hypothetical protein
+EFEAEOLF_01854	CDS	hypothetical protein
+EFEAEOLF_01855	CDS	hypothetical protein
+EFEAEOLF_01856	CDS	hypothetical protein
+EFEAEOLF_01857	CDS	hypothetical protein
+EFEAEOLF_01858	CDS	hypothetical protein
+EFEAEOLF_01859	CDS	hypothetical protein
+EFEAEOLF_01860	CDS	hypothetical protein
+EFEAEOLF_01861	CDS	hypothetical protein
+EFEAEOLF_01862	CDS	hypothetical protein
+EFEAEOLF_01863	CDS	lipA	2.8.1.8	Lipoyl synthase
+EFEAEOLF_01864	CDS	pdhA	1.2.4.1	Pyruvate dehydrogenase E1 component subunit alpha
+EFEAEOLF_01865	CDS	bfmBAA	1.2.4.4	2-oxoisovalerate dehydrogenase subunit alpha
+EFEAEOLF_01866	CDS	1.2.4.4	2-oxoisovalerate dehydrogenase subunit beta
+EFEAEOLF_01867	CDS	bkdA2	1.2.4.4	2-oxoisovalerate dehydrogenase subunit beta
+EFEAEOLF_01868	CDS	pdhC	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+EFEAEOLF_01869	CDS	pdhD_1	1.8.1.4	Dihydrolipoyl dehydrogenase
+EFEAEOLF_01870	CDS	pdhD_2	1.8.1.4	Dihydrolipoyl dehydrogenase
+EFEAEOLF_01871	CDS	pdhD_3	1.8.1.4	Dihydrolipoyl dehydrogenase
+EFEAEOLF_01872	CDS	lpd	1.8.1.4	Dihydrolipoyl dehydrogenase
+EFEAEOLF_01873	CDS	lipB_1	2.3.1.181	Octanoyltransferase
+EFEAEOLF_01874	CDS	lipB_2	2.3.1.181	Octanoyltransferase
+EFEAEOLF_01875	CDS	yvqK	2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+EFEAEOLF_01876	CDS	hypothetical protein
+EFEAEOLF_01877	CDS	hypothetical protein
+EFEAEOLF_01878	CDS	mhbT_2	3-hydroxybenzoate transporter MhbT
+EFEAEOLF_01879	CDS	araE_2	Arabinose-proton symporter
+EFEAEOLF_01880	CDS	hypothetical protein
+EFEAEOLF_01881	CDS	hypothetical protein
+EFEAEOLF_01882	CDS	hypothetical protein
+EFEAEOLF_01883	CDS	rhmD	4.2.1.90	L-rhamnonate dehydratase
+EFEAEOLF_01884	CDS	hypothetical protein
+EFEAEOLF_01885	CDS	hypothetical protein
+EFEAEOLF_01886	CDS	hypothetical protein
+EFEAEOLF_01887	CDS	hypothetical protein
+EFEAEOLF_01888	CDS	4.3.2.3	Ureidoglycolate lyase
+EFEAEOLF_01889	CDS	hypothetical protein
+EFEAEOLF_01890	CDS	1.1.1.401	2-dehydro-3-deoxy-L-rhamnonate dehydrogenase (NAD(+))
+EFEAEOLF_01891	CDS	1.1.1.401	2-dehydro-3-deoxy-L-rhamnonate dehydrogenase (NAD(+))
+EFEAEOLF_01892	CDS	hypothetical protein
+EFEAEOLF_01893	CDS	lutB	Lactate utilization protein B
+EFEAEOLF_01894	CDS	hypothetical protein
+EFEAEOLF_01895	CDS	hypothetical protein
+EFEAEOLF_01896	CDS	hypothetical protein
+EFEAEOLF_01897	CDS	hypothetical protein
+EFEAEOLF_01898	CDS	ped_1	1.1.1.311	(S)-1-Phenylethanol dehydrogenase
+EFEAEOLF_01899	CDS	hypothetical protein
+EFEAEOLF_01900	CDS	hypothetical protein
+EFEAEOLF_01901	CDS	ahpF_1	1.6.99.3	NADH dehydrogenase
+EFEAEOLF_01902	CDS	hypothetical protein
+EFEAEOLF_01903	CDS	hypothetical protein
+EFEAEOLF_01904	CDS	hypothetical protein
+EFEAEOLF_01905	CDS	hbd_4	1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase
+EFEAEOLF_01906	CDS	crt_3	4.2.1.150	Short-chain-enoyl-CoA hydratase
+EFEAEOLF_01907	CDS	hypothetical protein
+EFEAEOLF_01908	CDS	1.-.-.-	putative FAD-linked oxidoreductase
+EFEAEOLF_01909	CDS	hypothetical protein
+EFEAEOLF_01910	CDS	1.-.-.-	putative FAD-linked oxidoreductase
+EFEAEOLF_01911	CDS	hypothetical protein
+EFEAEOLF_01912	CDS	hypothetical protein
+EFEAEOLF_01913	CDS	hypothetical protein
+EFEAEOLF_01914	CDS	hypothetical protein
+EFEAEOLF_01915	CDS	hypothetical protein
+EFEAEOLF_01916	tRNA	tRNA-Thr(tgt)
+EFEAEOLF_01917	CDS	hypothetical protein
+EFEAEOLF_01918	CDS	hypothetical protein
+EFEAEOLF_01919	CDS	hypothetical protein
+EFEAEOLF_01920	CDS	hypothetical protein
+EFEAEOLF_01921	CDS	hypothetical protein
+EFEAEOLF_01922	CDS	hypothetical protein
+EFEAEOLF_01923	CDS	csbC_2	putative metabolite transport protein CsbC
+EFEAEOLF_01924	CDS	hypothetical protein
+EFEAEOLF_01925	CDS	htpX_2	3.4.24.-	Protease HtpX
+EFEAEOLF_01926	CDS	hypothetical protein
+EFEAEOLF_01927	CDS	hypothetical protein
+EFEAEOLF_01928	CDS	hypothetical protein
+EFEAEOLF_01929	CDS	hypothetical protein
+EFEAEOLF_01930	CDS	hypothetical protein
+EFEAEOLF_01931	CDS	hypothetical protein
+EFEAEOLF_01932	CDS	hypothetical protein
+EFEAEOLF_01933	CDS	hypothetical protein
+EFEAEOLF_01934	CDS	hypothetical protein
+EFEAEOLF_01935	CDS	2.6.1.51	Serine-pyruvate aminotransferase
+EFEAEOLF_01936	CDS	gltA_1	2.3.3.16	Citrate synthase
+EFEAEOLF_01937	CDS	hypothetical protein
+EFEAEOLF_01938	CDS	hypothetical protein
+EFEAEOLF_01939	CDS	hypothetical protein
+EFEAEOLF_01940	CDS	hypothetical protein
+EFEAEOLF_01941	CDS	hypothetical protein
+EFEAEOLF_01942	CDS	hypothetical protein
+EFEAEOLF_01943	tRNA	tRNA-Ala(cgc)
+EFEAEOLF_01944	CDS	ygiD	1.13.11.29	4,5-DOPA dioxygenase extradiol
+EFEAEOLF_01945	CDS	hypothetical protein
+EFEAEOLF_01946	CDS	yycJ	3.-.-.-	Putative metallo-hydrolase YycJ
+EFEAEOLF_01947	CDS	hypothetical protein
+EFEAEOLF_01948	CDS	Hgd	1.1.1.291	2-(hydroxymethyl)glutarate dehydrogenase
+EFEAEOLF_01949	CDS	hypothetical protein
+EFEAEOLF_01950	CDS	hypothetical protein
+EFEAEOLF_01951	CDS	hypothetical protein
+EFEAEOLF_01952	CDS	hypothetical protein
+EFEAEOLF_01953	CDS	hypothetical protein
+EFEAEOLF_01954	CDS	hypothetical protein
+EFEAEOLF_01955	CDS	hypothetical protein
+EFEAEOLF_01956	CDS	hutI_1	3.5.2.7	Imidazolonepropionase
+EFEAEOLF_01957	CDS	hutI_2	3.5.2.7	Imidazolonepropionase
+EFEAEOLF_01958	CDS	hutI_3	3.5.2.7	Imidazolonepropionase
+EFEAEOLF_01959	CDS	hypothetical protein
+EFEAEOLF_01960	CDS	hypothetical protein
+EFEAEOLF_01961	CDS	actP_1	3.6.3.4	Copper-transporting P-type ATPase
+EFEAEOLF_01962	CDS	pacS	3.6.3.54	putative copper-transporting ATPase PacS
+EFEAEOLF_01963	CDS	actP_2	3.6.3.4	Copper-transporting P-type ATPase
+EFEAEOLF_01964	CDS	hypothetical protein
+EFEAEOLF_01965	CDS	hypothetical protein
+EFEAEOLF_01966	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+EFEAEOLF_01967	CDS	rimO_1	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+EFEAEOLF_01968	CDS	rimO_2	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+EFEAEOLF_01969	CDS	hypothetical protein
+EFEAEOLF_01970	CDS	aspA	4.3.1.1	Aspartate ammonia-lyase
+EFEAEOLF_01971	CDS	korA_1	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+EFEAEOLF_01972	CDS	korA_2	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+EFEAEOLF_01973	CDS	korB_1	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorB
+EFEAEOLF_01974	CDS	hypothetical protein
+EFEAEOLF_01975	CDS	hypothetical protein
+EFEAEOLF_01976	CDS	hypothetical protein
+EFEAEOLF_01977	CDS	hypothetical protein
+EFEAEOLF_01978	CDS	hypothetical protein
+EFEAEOLF_01979	CDS	queE_1	4.3.99.3	7-carboxy-7-deazaguanine synthase
+EFEAEOLF_01980	CDS	rimI_3	2.3.1.128	Ribosomal-protein-alanine acetyltransferase
+EFEAEOLF_01981	CDS	hypothetical protein
+EFEAEOLF_01982	CDS	hypothetical protein
+EFEAEOLF_01983	CDS	hypothetical protein
+EFEAEOLF_01984	CDS	lysS_1	6.1.1.6	Lysine--tRNA ligase
+EFEAEOLF_01985	CDS	lysS_2	6.1.1.6	Lysine--tRNA ligase
+EFEAEOLF_01986	CDS	lysS_3	6.1.1.6	Lysine--tRNA ligase
+EFEAEOLF_01987	CDS	metG_1	6.1.1.10	Methionine--tRNA ligase
+EFEAEOLF_01988	CDS	metG_2	6.1.1.10	Methionine--tRNA ligase
+EFEAEOLF_01989	CDS	hypothetical protein
+EFEAEOLF_01990	CDS	metG_3	6.1.1.10	Methionine--tRNA ligase
+EFEAEOLF_01991	CDS	salA	Iron-sulfur cluster carrier protein
+EFEAEOLF_01992	CDS	apbC	Iron-sulfur cluster carrier protein
+EFEAEOLF_01993	CDS	hypothetical protein
+EFEAEOLF_01994	CDS	hypothetical protein
+EFEAEOLF_01995	CDS	hypothetical protein
+EFEAEOLF_01996	CDS	hypothetical protein
+EFEAEOLF_01997	CDS	rgy	5.99.1.3	Reverse gyrase
+EFEAEOLF_01998	CDS	dbpA_2	3.6.4.13	ATP-dependent RNA helicase DbpA
+EFEAEOLF_01999	CDS	dnaX	2.7.7.7	DNA polymerase III subunit gamma/tau
+EFEAEOLF_02000	CDS	purN	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+EFEAEOLF_02001	CDS	hypothetical protein
+EFEAEOLF_02002	CDS	hypothetical protein
+EFEAEOLF_02003	CDS	hypothetical protein
+EFEAEOLF_02004	CDS	hypothetical protein
+EFEAEOLF_02005	CDS	hypothetical protein
+EFEAEOLF_02006	CDS	mngB	3.2.1.170	Mannosylglycerate hydrolase
+EFEAEOLF_02007	CDS	hypothetical protein
+EFEAEOLF_02008	CDS	hypothetical protein
+EFEAEOLF_02009	CDS	hypothetical protein
+EFEAEOLF_02010	tRNA	tRNA-Leu(gag)
+EFEAEOLF_02011	CDS	hypothetical protein
+EFEAEOLF_02012	CDS	hypothetical protein
+EFEAEOLF_02013	CDS	nrdB	1.17.4.1	Ribonucleoside-diphosphate reductase subunit beta
+EFEAEOLF_02014	CDS	hypothetical protein
+EFEAEOLF_02015	CDS	nrdA_1	1.17.4.1	Ribonucleoside-diphosphate reductase 1 subunit alpha
+EFEAEOLF_02016	CDS	nrdE	1.17.4.1	Ribonucleoside-diphosphate reductase 2 subunit alpha
+EFEAEOLF_02017	CDS	nrdA_2	1.17.4.1	Ribonucleoside-diphosphate reductase 1 subunit alpha
+EFEAEOLF_02018	CDS	2.1.2.5	Glutamate formimidoyltransferase
+EFEAEOLF_02019	CDS	2.1.2.5	Glutamate formimidoyltransferase
+EFEAEOLF_02020	CDS	fchA	3.5.4.9	Methenyltetrahydrofolate cyclohydrolase
+EFEAEOLF_02021	CDS	hypothetical protein
+EFEAEOLF_02022	CDS	gatA_1	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+EFEAEOLF_02023	CDS	gatA_2	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+EFEAEOLF_02024	CDS	tdcB_1	4.3.1.19	L-threonine dehydratase catabolic TdcB
+EFEAEOLF_02025	CDS	tdcB_2	4.3.1.19	L-threonine ammonia-lyase
+EFEAEOLF_02026	CDS	yccX	3.6.1.7	Acylphosphatase
+EFEAEOLF_02027	CDS	der_2	GTPase Der
+EFEAEOLF_02028	CDS	obg_1	3.6.5.-	GTPase Obg
+EFEAEOLF_02029	CDS	hypothetical protein
+EFEAEOLF_02030	CDS	rsmC	2.1.1.172	Ribosomal RNA small subunit methyltransferase C
+EFEAEOLF_02031	CDS	topA_1	5.99.1.2	DNA topoisomerase 1
+EFEAEOLF_02032	CDS	hypothetical protein
+EFEAEOLF_02033	CDS	hypothetical protein
+EFEAEOLF_02034	CDS	topA_2	5.99.1.2	DNA topoisomerase 1
+EFEAEOLF_02035	CDS	purH_1	Bifunctional purine biosynthesis protein PurH
+EFEAEOLF_02036	CDS	purH_2	Bifunctional purine biosynthesis protein PurH
+EFEAEOLF_02037	CDS	purH_3	3.5.4.10	Bifunctional purine biosynthesis protein PurH
+EFEAEOLF_02038	CDS	purH_4	Bifunctional purine biosynthesis protein PurH
+EFEAEOLF_02039	CDS	hypothetical protein
+EFEAEOLF_02040	CDS	hypothetical protein
+EFEAEOLF_02041	CDS	hypothetical protein
+EFEAEOLF_02042	CDS	gcvPA_1	1.4.4.2	putative glycine dehydrogenase (decarboxylating) subunit 1
+EFEAEOLF_02043	CDS	gcvPA_2	1.4.4.2	putative glycine dehydrogenase (decarboxylating) subunit 1
+EFEAEOLF_02044	CDS	gcvPA_3	1.4.4.2	glycine dehydrogenase (decarboxylating) subunit 1
+EFEAEOLF_02045	CDS	gcvPB_1	1.4.4.2	putative glycine dehydrogenase (decarboxylating) subunit 2
+EFEAEOLF_02046	CDS	hypothetical protein
+EFEAEOLF_02047	CDS	gcvPB_2	1.4.4.2	putative glycine dehydrogenase (decarboxylating) subunit 2
+EFEAEOLF_02048	CDS	cpg2	3.4.17.11	Carboxypeptidase G2
+EFEAEOLF_02049	CDS	menC_1	4.2.1.113	o-succinylbenzoate synthase
+EFEAEOLF_02050	CDS	menC_2	4.2.1.113	o-succinylbenzoate synthase
+EFEAEOLF_02051	CDS	menC_3	4.2.1.113	o-succinylbenzoate synthase
+EFEAEOLF_02052	CDS	menC_4	4.2.1.113	o-succinylbenzoate synthase
+EFEAEOLF_02053	CDS	hypothetical protein
+EFEAEOLF_02054	CDS	hypothetical protein
+EFEAEOLF_02055	CDS	hypothetical protein
+EFEAEOLF_02056	CDS	hypothetical protein
+EFEAEOLF_02057	CDS	hypothetical protein
+EFEAEOLF_02058	CDS	hypothetical protein
+EFEAEOLF_02059	CDS	hypothetical protein
+EFEAEOLF_02060	CDS	hypothetical protein
+EFEAEOLF_02061	CDS	hypothetical protein
+EFEAEOLF_02062	CDS	hypothetical protein
+EFEAEOLF_02063	CDS	hypothetical protein
+EFEAEOLF_02064	CDS	dppB_3	Dipeptide transport system permease protein DppB
+EFEAEOLF_02065	CDS	hypothetical protein
+EFEAEOLF_02066	CDS	hypothetical protein
+EFEAEOLF_02067	CDS	ddpC	putative D,D-dipeptide transport system permease protein DdpC
+EFEAEOLF_02068	CDS	hypothetical protein
+EFEAEOLF_02069	CDS	oppD_2	Oligopeptide transport ATP-binding protein OppD
+EFEAEOLF_02070	CDS	oppD_3	Oligopeptide transport ATP-binding protein OppD
+EFEAEOLF_02071	CDS	ddpF	putative D,D-dipeptide transport ATP-binding protein DdpF
+EFEAEOLF_02072	CDS	hypothetical protein
+EFEAEOLF_02073	CDS	hypothetical protein
+EFEAEOLF_02074	CDS	hypothetical protein
+EFEAEOLF_02075	CDS	hypothetical protein
+EFEAEOLF_02076	CDS	hypothetical protein
+EFEAEOLF_02077	tRNA	tRNA-Val(cac)
+EFEAEOLF_02078	CDS	yjcD	3.6.4.12	Putative ATP-dependent DNA helicase YjcD
+EFEAEOLF_02079	CDS	hypothetical protein
+EFEAEOLF_02080	CDS	hypothetical protein
+EFEAEOLF_02081	CDS	hypothetical protein
+EFEAEOLF_02082	CDS	hypothetical protein
+EFEAEOLF_02083	CDS	hypothetical protein
+EFEAEOLF_02084	CDS	hypothetical protein
+EFEAEOLF_02085	CDS	hypothetical protein
+EFEAEOLF_02086	CDS	hypothetical protein
+EFEAEOLF_02087	CDS	hypothetical protein
+EFEAEOLF_02088	CDS	hypothetical protein
+EFEAEOLF_02089	CDS	hypothetical protein
+EFEAEOLF_02090	CDS	hypothetical protein
+EFEAEOLF_02091	CDS	hypothetical protein
+EFEAEOLF_02092	CDS	hypothetical protein
+EFEAEOLF_02093	CDS	hypothetical protein
+EFEAEOLF_02094	CDS	hypothetical protein
+EFEAEOLF_02095	CDS	hypothetical protein
+EFEAEOLF_02096	CDS	hypothetical protein
+EFEAEOLF_02097	CDS	hypothetical protein
+EFEAEOLF_02098	CDS	hypothetical protein
+EFEAEOLF_02099	CDS	hypothetical protein
+EFEAEOLF_02100	CDS	hypothetical protein
+EFEAEOLF_02101	CDS	hypothetical protein
+EFEAEOLF_02102	CDS	adhT_2	1.1.1.1	Alcohol dehydrogenase
+EFEAEOLF_02103	CDS	adh_1	1.1.1.1	Alcohol dehydrogenase
+EFEAEOLF_02104	CDS	hypothetical protein
+EFEAEOLF_02105	CDS	hypothetical protein
+EFEAEOLF_02106	CDS	hypothetical protein
+EFEAEOLF_02107	CDS	hypothetical protein
+EFEAEOLF_02108	CDS	hypothetical protein
+EFEAEOLF_02109	CDS	hypothetical protein
+EFEAEOLF_02110	CDS	hypothetical protein
+EFEAEOLF_02111	CDS	hemA_1	1.2.1.70	Glutamyl-tRNA reductase
+EFEAEOLF_02112	CDS	hemA_2	1.2.1.70	Glutamyl-tRNA reductase
+EFEAEOLF_02113	CDS	hypothetical protein
+EFEAEOLF_02114	CDS	hemL_2	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+EFEAEOLF_02115	CDS	hypothetical protein
+EFEAEOLF_02116	CDS	prxU	1.11.1.15	Selenocysteine-containing peroxiredoxin PrxU
+EFEAEOLF_02117	CDS	hypothetical protein
+EFEAEOLF_02118	CDS	hypothetical protein
+EFEAEOLF_02119	CDS	hypothetical protein
+EFEAEOLF_02120	CDS	hypothetical protein
+EFEAEOLF_02121	CDS	hypothetical protein
+EFEAEOLF_02122	CDS	hypothetical protein
+EFEAEOLF_02123	CDS	aroD	4.2.1.10	3-dehydroquinate dehydratase
+EFEAEOLF_02124	CDS	hypothetical protein
+EFEAEOLF_02125	CDS	hypothetical protein
+EFEAEOLF_02126	CDS	thpR	3.1.4.-	RNA 2',3'-cyclic phosphodiesterase
+EFEAEOLF_02127	CDS	gcvH_1	Glycine cleavage system H protein
+EFEAEOLF_02128	CDS	gcvH_2	Glycine cleavage system H protein
+EFEAEOLF_02129	CDS	rlmE	2.1.1.166	Ribosomal RNA large subunit methyltransferase E
+EFEAEOLF_02130	CDS	hypothetical protein
+EFEAEOLF_02131	CDS	hypothetical protein
+EFEAEOLF_02132	CDS	hypothetical protein
+EFEAEOLF_02133	CDS	hypothetical protein
+EFEAEOLF_02134	CDS	hypothetical protein
+EFEAEOLF_02135	CDS	hypothetical protein
+EFEAEOLF_02136	CDS	hypothetical protein
+EFEAEOLF_02137	CDS	hypothetical protein
+EFEAEOLF_02138	CDS	hypothetical protein
+EFEAEOLF_02139	CDS	hypothetical protein
+EFEAEOLF_02140	CDS	hypothetical protein
+EFEAEOLF_02141	CDS	hypothetical protein
+EFEAEOLF_02142	CDS	dnaG	2.7.7.-	DNA primase
+EFEAEOLF_02143	CDS	hypothetical protein
+EFEAEOLF_02144	CDS	hypothetical protein
+EFEAEOLF_02145	CDS	hypothetical protein
+EFEAEOLF_02146	CDS	hup	DNA-binding protein HU
+EFEAEOLF_02147	CDS	speE_1	2.5.1.16	Polyamine aminopropyltransferase
+EFEAEOLF_02148	CDS	speE_2	2.5.1.16	Polyamine aminopropyltransferase
+EFEAEOLF_02149	CDS	hypothetical protein
+EFEAEOLF_02150	CDS	3.6.1.9	Non-canonical purine NTP pyrophosphatase
+EFEAEOLF_02151	CDS	tsaD_1	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+EFEAEOLF_02152	CDS	tsaD_2	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+EFEAEOLF_02153	CDS	hypothetical protein
+EFEAEOLF_02154	CDS	hypothetical protein
+EFEAEOLF_02155	CDS	hypothetical protein
+EFEAEOLF_02156	CDS	moaB	Molybdenum cofactor biosynthesis protein B
+EFEAEOLF_02157	CDS	moeA_2	2.10.1.1	Molybdopterin molybdenumtransferase
+EFEAEOLF_02158	CDS	moeA_3	2.10.1.1	Molybdopterin molybdenumtransferase
+EFEAEOLF_02159	CDS	hypothetical protein
+EFEAEOLF_02160	CDS	hypothetical protein
+EFEAEOLF_02161	CDS	hypothetical protein
+EFEAEOLF_02162	CDS	hypothetical protein
+EFEAEOLF_02163	CDS	hypothetical protein
+EFEAEOLF_02164	CDS	hypothetical protein
+EFEAEOLF_02165	CDS	guaB_2	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+EFEAEOLF_02166	CDS	guaB_3	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+EFEAEOLF_02167	CDS	guaB_4	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+EFEAEOLF_02168	CDS	mqnA	4.2.1.151	Chorismate dehydratase
+EFEAEOLF_02169	CDS	1.2.1.2	Putative formate dehydrogenase
+EFEAEOLF_02170	CDS	1.2.1.2	Putative formate dehydrogenase
+EFEAEOLF_02171	CDS	hypothetical protein
+EFEAEOLF_02172	CDS	fdhD_1	Protein FdhD
+EFEAEOLF_02173	CDS	fdhD_2	Sulfurtransferase FdhD
+EFEAEOLF_02174	CDS	hypothetical protein
+EFEAEOLF_02175	CDS	hypothetical protein
+EFEAEOLF_02176	CDS	hypothetical protein
+EFEAEOLF_02177	CDS	moaE	2.8.1.12	Molybdopterin synthase catalytic subunit
+EFEAEOLF_02178	CDS	hypothetical protein
+EFEAEOLF_02179	CDS	hypothetical protein
+EFEAEOLF_02180	CDS	hypothetical protein
+EFEAEOLF_02181	CDS	hypothetical protein
+EFEAEOLF_02182	CDS	hypothetical protein
+EFEAEOLF_02183	CDS	hypothetical protein
+EFEAEOLF_02184	CDS	hypothetical protein
+EFEAEOLF_02185	CDS	hypothetical protein
+EFEAEOLF_02186	CDS	mobA	2.7.7.77	Molybdenum cofactor guanylyltransferase
+EFEAEOLF_02187	CDS	hypothetical protein
+EFEAEOLF_02188	CDS	hypothetical protein
+EFEAEOLF_02189	CDS	selB_2	Selenocysteine-specific elongation factor
+EFEAEOLF_02190	CDS	tuf_1	Elongation factor Tu
+EFEAEOLF_02191	CDS	nth_2	4.2.99.18	Endonuclease III
+EFEAEOLF_02192	CDS	hypothetical protein
+EFEAEOLF_02193	CDS	1.5.5.1	Electron transfer flavoprotein-ubiquinone oxidoreductase
+EFEAEOLF_02194	CDS	hypothetical protein
+EFEAEOLF_02195	CDS	fixX	Ferredoxin-like protein FixX
+EFEAEOLF_02196	CDS	thrZ	6.1.1.3	Threonine--tRNA ligase 2
+EFEAEOLF_02197	CDS	hutH_1	4.3.1.3	Histidine ammonia-lyase
+EFEAEOLF_02198	CDS	hutH_2	4.3.1.3	Histidine ammonia-lyase
+EFEAEOLF_02199	CDS	5.4.3.6	MIO-dependent tyrosine 2,3-aminomutase
+EFEAEOLF_02200	CDS	hypothetical protein
+EFEAEOLF_02201	tRNA	tRNA-Gly(tcc)
+EFEAEOLF_02202	CDS	hypothetical protein
+EFEAEOLF_02203	CDS	hypothetical protein
+EFEAEOLF_02204	CDS	hypothetical protein
+EFEAEOLF_02205	CDS	hypothetical protein
+EFEAEOLF_02206	CDS	qacA	Antiseptic resistance protein
+EFEAEOLF_02207	CDS	yusO	putative HTH-type transcriptional regulator YusO
+EFEAEOLF_02208	CDS	hypothetical protein
+EFEAEOLF_02209	CDS	bepA	3.4.-.-	Beta-barrel assembly-enhancing protease
+EFEAEOLF_02210	CDS	rnhB	3.1.26.4	Ribonuclease HII
+EFEAEOLF_02211	CDS	hypothetical protein
+EFEAEOLF_02212	CDS	asd2	1.2.1.11	Aspartate-semialdehyde dehydrogenase 2
+EFEAEOLF_02213	CDS	hypothetical protein
+EFEAEOLF_02214	CDS	hypothetical protein
+EFEAEOLF_02215	CDS	hypothetical protein
+EFEAEOLF_02216	CDS	hypothetical protein
+EFEAEOLF_02217	CDS	hypothetical protein
+EFEAEOLF_02218	CDS	ywrD_1	2.3.2.2	Putative gamma-glutamyltransferase YwrD
+EFEAEOLF_02219	CDS	ywrD_2	2.3.2.2	Putative gamma-glutamyltransferase YwrD
+EFEAEOLF_02220	CDS	hypothetical protein
+EFEAEOLF_02221	CDS	cdhA_1	1.17.5.2	Caffeine dehydrogenase subunit alpha
+EFEAEOLF_02222	CDS	hypothetical protein
+EFEAEOLF_02223	CDS	hypothetical protein
+EFEAEOLF_02224	CDS	cutL_1	1.2.5.3	Carbon monoxide dehydrogenase large chain
+EFEAEOLF_02225	CDS	hypothetical protein
+EFEAEOLF_02226	CDS	cutS	1.2.5.3	Carbon monoxide dehydrogenase small chain
+EFEAEOLF_02227	CDS	hypothetical protein
+EFEAEOLF_02228	CDS	cutM_1	1.2.5.3	Carbon monoxide dehydrogenase medium chain
+EFEAEOLF_02229	CDS	hypothetical protein
+EFEAEOLF_02230	CDS	hypothetical protein
+EFEAEOLF_02231	CDS	hypothetical protein
+EFEAEOLF_02232	CDS	hypothetical protein
+EFEAEOLF_02233	CDS	hypothetical protein
+EFEAEOLF_02234	CDS	hypothetical protein
+EFEAEOLF_02235	CDS	rtcB_1	6.5.1.-	RNA-splicing ligase RtcB
+EFEAEOLF_02236	CDS	rtcB_2	6.5.1.-	RNA-splicing ligase RtcB
+EFEAEOLF_02237	CDS	hypothetical protein
+EFEAEOLF_02238	CDS	hypothetical protein
+EFEAEOLF_02239	CDS	dadD	3.5.4.31	5'-deoxyadenosine deaminase
+EFEAEOLF_02240	CDS	hypothetical protein
+EFEAEOLF_02241	CDS	hypothetical protein
+EFEAEOLF_02242	CDS	argS_1	6.1.1.19	Arginine--tRNA ligase
+EFEAEOLF_02243	CDS	hypothetical protein
+EFEAEOLF_02244	CDS	argS_2	6.1.1.19	Arginine--tRNA ligase
+EFEAEOLF_02245	CDS	aroA_1	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+EFEAEOLF_02246	CDS	aroA_2	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+EFEAEOLF_02247	CDS	hypothetical protein
+EFEAEOLF_02248	CDS	hypothetical protein
+EFEAEOLF_02249	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+EFEAEOLF_02250	CDS	hypothetical protein
+EFEAEOLF_02251	CDS	aroB_1	4.2.3.4	3-dehydroquinate synthase
+EFEAEOLF_02252	CDS	aroB_2	4.2.3.4	3-dehydroquinate synthase
+EFEAEOLF_02253	CDS	3.2.1.28	Trehalase
+EFEAEOLF_02254	CDS	3.2.1.28	Trehalase
+EFEAEOLF_02255	CDS	hypothetical protein
+EFEAEOLF_02256	CDS	putative ABC transporter ATP-binding protein
+EFEAEOLF_02257	CDS	ddpD	putative D,D-dipeptide transport ATP-binding protein DdpD
+EFEAEOLF_02258	CDS	gsiA	3.6.3.-	Glutathione import ATP-binding protein GsiA
+EFEAEOLF_02259	CDS	hypothetical protein
+EFEAEOLF_02260	CDS	lysDH_1	1.4.1.18	Lysine 6-dehydrogenase
+EFEAEOLF_02261	CDS	lysDH_2	1.4.1.18	Lysine 6-dehydrogenase
+EFEAEOLF_02262	CDS	hemL_3	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+EFEAEOLF_02263	CDS	gbsA	1.2.1.8	Betaine aldehyde dehydrogenase
+EFEAEOLF_02264	CDS	puuC	1.2.1.5	Aldehyde dehydrogenase PuuC
+EFEAEOLF_02265	CDS	gsiD_2	Glutathione transport system permease protein GsiD
+EFEAEOLF_02266	CDS	gsiC	Glutathione transport system permease protein GsiC
+EFEAEOLF_02267	CDS	ddpB_2	putative D,D-dipeptide transport system permease protein DdpB
+EFEAEOLF_02268	CDS	ddpB_3	putative D,D-dipeptide transport system permease protein DdpB
+EFEAEOLF_02269	CDS	hypothetical protein
+EFEAEOLF_02270	CDS	hypothetical protein
+EFEAEOLF_02271	CDS	hypothetical protein
+EFEAEOLF_02272	CDS	hypothetical protein
+EFEAEOLF_02273	CDS	tpa	2.6.1.77	Taurine--pyruvate aminotransferase
+EFEAEOLF_02274	CDS	dgdA	4.1.1.64	2,2-dialkylglycine decarboxylase
+EFEAEOLF_02275	CDS	lrp_2	Leucine-responsive regulatory protein
+EFEAEOLF_02276	CDS	hypothetical protein
+EFEAEOLF_02277	CDS	hypothetical protein
+EFEAEOLF_02278	CDS	hypothetical protein
+EFEAEOLF_02279	CDS	hypothetical protein
+EFEAEOLF_02280	CDS	hypothetical protein
+EFEAEOLF_02281	CDS	hypothetical protein
+EFEAEOLF_02282	CDS	hypothetical protein
+EFEAEOLF_02283	CDS	hypothetical protein
+EFEAEOLF_02284	CDS	hypothetical protein
+EFEAEOLF_02285	CDS	hypothetical protein
+EFEAEOLF_02286	CDS	1.12.-.-	Soluble hydrogenase 42 kDa subunit
+EFEAEOLF_02287	CDS	1.12.-.-	Soluble hydrogenase 42 kDa subunit
+EFEAEOLF_02288	CDS	1.1.1.81	Hydroxypyruvate reductase
+EFEAEOLF_02289	CDS	hypothetical protein
+EFEAEOLF_02290	CDS	hypothetical protein
+EFEAEOLF_02291	CDS	hypothetical protein
+EFEAEOLF_02292	CDS	hypothetical protein
+EFEAEOLF_02293	CDS	2.4.-.-	putative glycosyltransferase
+EFEAEOLF_02294	CDS	hypothetical protein
+EFEAEOLF_02295	CDS	hypothetical protein
+EFEAEOLF_02296	CDS	hypothetical protein
+EFEAEOLF_02297	CDS	tdh	1.1.1.103	L-threonine 3-dehydrogenase
+EFEAEOLF_02298	CDS	hypothetical protein
+EFEAEOLF_02299	CDS	hypothetical protein
+EFEAEOLF_02300	CDS	hypothetical protein
+EFEAEOLF_02301	CDS	ped_2	1.1.1.311	(S)-1-Phenylethanol dehydrogenase
+EFEAEOLF_02302	CDS	fabG_3	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase
+EFEAEOLF_02303	CDS	hypothetical protein
+EFEAEOLF_02304	CDS	hypothetical protein
+EFEAEOLF_02305	CDS	kch	Voltage-gated potassium channel Kch
+EFEAEOLF_02306	tRNA	tRNA-Glu(ttc)
+EFEAEOLF_02307	CDS	hypothetical protein
+EFEAEOLF_02308	CDS	hypothetical protein
+EFEAEOLF_02309	CDS	2.4.1.161	Oligosaccharide 4-alpha-D-glucosyltransferase
+EFEAEOLF_02310	CDS	hypothetical protein
+EFEAEOLF_02311	CDS	hypothetical protein
+EFEAEOLF_02312	CDS	hypothetical protein
+EFEAEOLF_02313	CDS	hypothetical protein
+EFEAEOLF_02314	CDS	ugpC_2	3.6.3.20	sn-glycerol-3-phosphate import ATP-binding protein UgpC
+EFEAEOLF_02315	CDS	hypothetical protein
+EFEAEOLF_02316	CDS	sugB	Trehalose transport system permease protein SugB
+EFEAEOLF_02317	CDS	hypothetical protein
+EFEAEOLF_02318	CDS	yteP	putative multiple-sugar transport system permease YteP
+EFEAEOLF_02319	CDS	hypothetical protein
+EFEAEOLF_02320	CDS	hypothetical protein
+EFEAEOLF_02321	CDS	lysDH_3	1.4.1.18	Lysine 6-dehydrogenase
+EFEAEOLF_02322	CDS	hypothetical protein
+EFEAEOLF_02323	CDS	drrA_4	3.6.3.-	Doxorubicin resistance ATP-binding protein DrrA
+EFEAEOLF_02324	CDS	hypothetical protein
+EFEAEOLF_02325	CDS	drrA_5	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+EFEAEOLF_02326	CDS	hypothetical protein
+EFEAEOLF_02327	CDS	hypothetical protein
+EFEAEOLF_02328	CDS	hypothetical protein
+EFEAEOLF_02329	CDS	hypothetical protein
+EFEAEOLF_02330	CDS	hypothetical protein
+EFEAEOLF_02331	CDS	hypothetical protein
+EFEAEOLF_02332	CDS	hypothetical protein
+EFEAEOLF_02333	CDS	hypothetical protein
+EFEAEOLF_02334	CDS	bsdB	2.5.1.129	putative UbiX-like flavin prenyltransferase
+EFEAEOLF_02335	CDS	hypothetical protein
+EFEAEOLF_02336	CDS	hypothetical protein
+EFEAEOLF_02337	CDS	hypothetical protein
+EFEAEOLF_02338	CDS	hypothetical protein
+EFEAEOLF_02339	CDS	hypothetical protein
+EFEAEOLF_02340	CDS	hypothetical protein
+EFEAEOLF_02341	CDS	hypothetical protein
+EFEAEOLF_02342	CDS	hypothetical protein
+EFEAEOLF_02343	CDS	hypothetical protein
+EFEAEOLF_02344	CDS	recA	Protein RecA
+EFEAEOLF_02345	CDS	hypothetical protein
+EFEAEOLF_02346	CDS	hypothetical protein
+EFEAEOLF_02347	CDS	purK	6.3.4.18	N5-carboxyaminoimidazole ribonucleotide synthase
+EFEAEOLF_02348	CDS	purE_1	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+EFEAEOLF_02349	CDS	purE_2	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+EFEAEOLF_02350	CDS	hypothetical protein
+EFEAEOLF_02351	CDS	ywlC_1	2.7.7.87	Threonylcarbamoyl-AMP synthase
+EFEAEOLF_02352	CDS	ywlC_2	2.7.7.87	Threonylcarbamoyl-AMP synthase
+EFEAEOLF_02353	CDS	hypothetical protein
+EFEAEOLF_02354	CDS	hypothetical protein
+EFEAEOLF_02355	CDS	hypothetical protein
+EFEAEOLF_02356	CDS	hypothetical protein
+EFEAEOLF_02357	CDS	adh_2	1.1.1.1	Alcohol dehydrogenase
+EFEAEOLF_02358	CDS	groL_1	60 kDa chaperonin
+EFEAEOLF_02359	CDS	groL_2	60 kDa chaperonin
+EFEAEOLF_02360	CDS	hypothetical protein
+EFEAEOLF_02361	CDS	hypothetical protein
+EFEAEOLF_02362	CDS	queE_2	4.3.99.3	7-carboxy-7-deazaguanine synthase
+EFEAEOLF_02363	CDS	mmgC_4	1.3.99.-	Acyl-CoA dehydrogenase
+EFEAEOLF_02364	CDS	mmgC_5	1.3.99.-	Acyl-CoA dehydrogenase
+EFEAEOLF_02365	CDS	hypothetical protein
+EFEAEOLF_02366	CDS	hypothetical protein
+EFEAEOLF_02367	CDS	hypothetical protein
+EFEAEOLF_02368	CDS	metG_4	6.1.1.10	Methionine--tRNA ligase
+EFEAEOLF_02369	CDS	hypothetical protein
+EFEAEOLF_02370	CDS	hypothetical protein
+EFEAEOLF_02371	CDS	hypothetical protein
+EFEAEOLF_02372	CDS	hypothetical protein
+EFEAEOLF_02373	CDS	hypothetical protein
+EFEAEOLF_02374	tRNA	tRNA-Ser(tga)
+EFEAEOLF_02375	CDS	hypothetical protein
+EFEAEOLF_02376	CDS	hypothetical protein
+EFEAEOLF_02377	CDS	hypothetical protein
+EFEAEOLF_02378	CDS	hypothetical protein
+EFEAEOLF_02379	CDS	hypothetical protein
+EFEAEOLF_02380	CDS	hypothetical protein
+EFEAEOLF_02381	tRNA	tRNA-Val(gac)
+EFEAEOLF_02382	CDS	3.4.19.5	Isoaspartyl peptidase/L-asparaginase
+EFEAEOLF_02383	CDS	iaaA	3.4.19.5	Isoaspartyl peptidase
+EFEAEOLF_02384	CDS	hypothetical protein
+EFEAEOLF_02385	CDS	hypothetical protein
+EFEAEOLF_02386	CDS	hypothetical protein
+EFEAEOLF_02387	CDS	hypothetical protein
+EFEAEOLF_02388	CDS	hypothetical protein
+EFEAEOLF_02389	CDS	egsA_2	1.1.1.261	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+EFEAEOLF_02390	CDS	hypothetical protein
+EFEAEOLF_02391	CDS	ychF	Ribosome-binding ATPase YchF
+EFEAEOLF_02392	CDS	obg_2	3.6.5.-	GTPase Obg
+EFEAEOLF_02393	CDS	hypothetical protein
+EFEAEOLF_02394	CDS	hypothetical protein
+EFEAEOLF_02395	CDS	hypothetical protein
+EFEAEOLF_02396	CDS	argH_1	4.3.2.1	Argininosuccinate lyase
+EFEAEOLF_02397	CDS	argH_2	4.3.2.1	Argininosuccinate lyase
+EFEAEOLF_02398	CDS	argG_1	6.3.4.5	Argininosuccinate synthase
+EFEAEOLF_02399	CDS	argG_2	6.3.4.5	Argininosuccinate synthase
+EFEAEOLF_02400	CDS	rpsL	30S ribosomal protein S12
+EFEAEOLF_02401	CDS	hypothetical protein
+EFEAEOLF_02402	CDS	rpsG	30S ribosomal protein S7
+EFEAEOLF_02403	CDS	hypothetical protein
+EFEAEOLF_02404	CDS	2.5.-.-	Deoxyhypusine synthase-like protein
+EFEAEOLF_02405	CDS	hypothetical protein
+EFEAEOLF_02406	CDS	hypothetical protein
+EFEAEOLF_02407	CDS	arcB	1.5.1.49	Delta(1)-pyrroline-2-carboxylate reductase
+EFEAEOLF_02408	CDS	hypothetical protein
+EFEAEOLF_02409	CDS	hypothetical protein
+EFEAEOLF_02410	CDS	trxA	Thioredoxin 1
+EFEAEOLF_02411	CDS	trxB_2	1.8.1.9	Thioredoxin reductase
+EFEAEOLF_02412	CDS	trxB_3	1.8.1.9	Thioredoxin reductase
+EFEAEOLF_02413	CDS	ahpF_2	1.6.99.3	NADH dehydrogenase
+EFEAEOLF_02414	CDS	mqo	1.1.5.4	malate:quinone oxidoreductase
+EFEAEOLF_02415	CDS	hypothetical protein
+EFEAEOLF_02416	CDS	hypothetical protein
+EFEAEOLF_02417	CDS	hypothetical protein
+EFEAEOLF_02418	CDS	hypothetical protein
+EFEAEOLF_02419	CDS	hypothetical protein
+EFEAEOLF_02420	CDS	hypothetical protein
+EFEAEOLF_02421	CDS	yfdE	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+EFEAEOLF_02422	CDS	uctC	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+EFEAEOLF_02423	CDS	hypothetical protein
+EFEAEOLF_02424	CDS	hypothetical protein
+EFEAEOLF_02425	CDS	hypothetical protein
+EFEAEOLF_02426	CDS	hypothetical protein
+EFEAEOLF_02427	CDS	hypothetical protein
+EFEAEOLF_02428	CDS	hypothetical protein
+EFEAEOLF_02429	CDS	smtA_1	2.8.3.22	Succinyl-CoA--L-malate CoA-transferase alpha subunit
+EFEAEOLF_02430	CDS	smtA_2	2.8.3.22	Succinyl-CoA--L-malate CoA-transferase alpha subunit
+EFEAEOLF_02431	CDS	hypothetical protein
+EFEAEOLF_02432	CDS	hypothetical protein
+EFEAEOLF_02433	CDS	hypothetical protein
+EFEAEOLF_02434	CDS	hypothetical protein
+EFEAEOLF_02435	CDS	hypothetical protein
+EFEAEOLF_02436	CDS	exuT	Hexuronate transporter
+EFEAEOLF_02437	CDS	hypothetical protein
+EFEAEOLF_02438	CDS	1.13.11.24	Putative quercetin 2,3-dioxygenase
+EFEAEOLF_02439	CDS	fhs_1	6.3.4.3	Formate--tetrahydrofolate ligase
+EFEAEOLF_02440	CDS	fhs_2	6.3.4.3	Formate--tetrahydrofolate ligase
+EFEAEOLF_02441	CDS	fhs_3	6.3.4.3	Formate--tetrahydrofolate ligase
+EFEAEOLF_02442	CDS	hypothetical protein
+EFEAEOLF_02443	CDS	hypothetical protein
+EFEAEOLF_02444	CDS	hypothetical protein
+EFEAEOLF_02445	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+EFEAEOLF_02446	CDS	hypothetical protein
+EFEAEOLF_02447	CDS	hypothetical protein
+EFEAEOLF_02448	CDS	hypothetical protein
+EFEAEOLF_02449	CDS	hypothetical protein
+EFEAEOLF_02450	CDS	hypothetical protein
+EFEAEOLF_02451	CDS	hypothetical protein
+EFEAEOLF_02452	CDS	hypothetical protein
+EFEAEOLF_02453	CDS	hypothetical protein
+EFEAEOLF_02454	CDS	hypothetical protein
+EFEAEOLF_02455	CDS	hypothetical protein
+EFEAEOLF_02456	CDS	hypothetical protein
+EFEAEOLF_02457	CDS	Epimerase family protein
+EFEAEOLF_02458	CDS	hypothetical protein
+EFEAEOLF_02459	CDS	Epimerase family protein
+EFEAEOLF_02460	CDS	hypothetical protein
+EFEAEOLF_02461	CDS	hypothetical protein
+EFEAEOLF_02462	CDS	hypothetical protein
+EFEAEOLF_02463	CDS	comB	3.1.3.71	putative 2-phosphosulfolactate phosphatase
+EFEAEOLF_02464	CDS	rplK	50S ribosomal protein L11
+EFEAEOLF_02465	CDS	hypothetical protein
+EFEAEOLF_02466	CDS	hypothetical protein
+EFEAEOLF_02467	CDS	hypothetical protein
+EFEAEOLF_02468	CDS	rplJ	50S ribosomal protein L10
+EFEAEOLF_02469	CDS	hypothetical protein
+EFEAEOLF_02470	CDS	hypothetical protein
+EFEAEOLF_02471	CDS	hypothetical protein
+EFEAEOLF_02472	CDS	bcp_2	1.11.1.15	Putative peroxiredoxin bcp
+EFEAEOLF_02473	CDS	hypothetical protein
+EFEAEOLF_02474	CDS	hypothetical protein
+EFEAEOLF_02475	CDS	hypothetical protein
+EFEAEOLF_02476	CDS	hypothetical protein
+EFEAEOLF_02477	CDS	hypothetical protein
+EFEAEOLF_02478	CDS	hypothetical protein
+EFEAEOLF_02479	CDS	hypothetical protein
+EFEAEOLF_02480	CDS	hypothetical protein
+EFEAEOLF_02481	CDS	hypothetical protein
+EFEAEOLF_02482	CDS	ycgJ	2.1.1.-	putative methyltransferase YcgJ
+EFEAEOLF_02483	CDS	hypothetical protein
+EFEAEOLF_02484	CDS	rny	3.1.-.-	Ribonuclease Y
+EFEAEOLF_02485	CDS	hypothetical protein
+EFEAEOLF_02486	CDS	hypothetical protein
+EFEAEOLF_02487	CDS	csbC_3	putative metabolite transport protein CsbC
+EFEAEOLF_02488	CDS	hypothetical protein
+EFEAEOLF_02489	tRNA	tRNA-Phe(gaa)
+EFEAEOLF_02490	CDS	hypothetical protein
+EFEAEOLF_02491	CDS	hypothetical protein
+EFEAEOLF_02492	CDS	cutM_2	1.2.5.3	Carbon monoxide dehydrogenase medium chain
+EFEAEOLF_02493	CDS	coxS_1	1.2.5.3	Carbon monoxide dehydrogenase small chain
+EFEAEOLF_02494	CDS	coxS_2	1.2.5.3	Carbon monoxide dehydrogenase small chain
+EFEAEOLF_02495	CDS	cdhA_2	1.17.5.2	Caffeine dehydrogenase subunit alpha
+EFEAEOLF_02496	CDS	kdhC	1.5.99.14	6-hydroxypseudooxynicotine dehydrogenase complex subunit gamma
+EFEAEOLF_02497	CDS	coxL	1.2.5.3	Carbon monoxide dehydrogenase large chain
+EFEAEOLF_02498	CDS	hypothetical protein
+EFEAEOLF_02499	CDS	cutL_2	1.2.5.3	Carbon monoxide dehydrogenase large chain
+EFEAEOLF_02500	CDS	hypothetical protein
+EFEAEOLF_02501	CDS	hypothetical protein
+EFEAEOLF_02502	CDS	hypothetical protein
+EFEAEOLF_02503	CDS	hypothetical protein
+EFEAEOLF_02504	CDS	hypothetical protein
+EFEAEOLF_02505	CDS	hypothetical protein
+EFEAEOLF_02506	CDS	ygcS_3	Inner membrane metabolite transport protein YgcS
+EFEAEOLF_02507	CDS	hypothetical protein
+EFEAEOLF_02508	CDS	hypothetical protein
+EFEAEOLF_02509	CDS	glmU	2.3.1.157	Bifunctional protein GlmU
+EFEAEOLF_02510	CDS	hypothetical protein
+EFEAEOLF_02511	CDS	hypothetical protein
+EFEAEOLF_02512	CDS	hypothetical protein
+EFEAEOLF_02513	CDS	hypothetical protein
+EFEAEOLF_02514	CDS	hypothetical protein
+EFEAEOLF_02515	CDS	hypothetical protein
+EFEAEOLF_02516	CDS	purM	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+EFEAEOLF_02517	CDS	hypothetical protein
+EFEAEOLF_02518	tRNA	tRNA-Gln(ttg)
+EFEAEOLF_02519	CDS	ndhI_3	1.6.5.11	NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+EFEAEOLF_02520	CDS	nrdZ_1	1.17.4.1	Vitamin B12-dependent ribonucleoside-diphosphate reductase
+EFEAEOLF_02521	CDS	nrdZ_2	1.17.4.1	Vitamin B12-dependent ribonucleoside-diphosphate reductase
+EFEAEOLF_02522	CDS	nrdZ_3	1.17.4.1	Vitamin B12-dependent ribonucleoside-diphosphate reductase
+EFEAEOLF_02523	CDS	nrdZ_4	1.17.4.1	Vitamin B12-dependent ribonucleoside-diphosphate reductase
+EFEAEOLF_02524	CDS	hypothetical protein
+EFEAEOLF_02525	CDS	hypothetical protein
+EFEAEOLF_02526	CDS	hypothetical protein
+EFEAEOLF_02527	CDS	hypothetical protein
+EFEAEOLF_02528	CDS	hypothetical protein
+EFEAEOLF_02529	CDS	hypothetical protein
+EFEAEOLF_02530	CDS	hypothetical protein
+EFEAEOLF_02531	CDS	hypothetical protein
+EFEAEOLF_02532	CDS	hypothetical protein
+EFEAEOLF_02533	CDS	hypothetical protein
+EFEAEOLF_02534	CDS	hypothetical protein
+EFEAEOLF_02535	CDS	hypothetical protein
+EFEAEOLF_02536	CDS	hypothetical protein
+EFEAEOLF_02537	CDS	3.4.-.-	putative peptidase
+EFEAEOLF_02538	CDS	hypothetical protein
+EFEAEOLF_02539	CDS	queE_3	4.3.99.3	7-carboxy-7-deazaguanine synthase
+EFEAEOLF_02540	CDS	pyrC_1	3.5.2.3	Dihydroorotase
+EFEAEOLF_02541	CDS	pyrC_2	3.5.2.3	Dihydroorotase
+EFEAEOLF_02542	CDS	allB	3.5.2.5	Allantoinase
+EFEAEOLF_02543	CDS	hypothetical protein
+EFEAEOLF_02544	CDS	hypothetical protein
+EFEAEOLF_02545	CDS	hypothetical protein
+EFEAEOLF_02546	CDS	hypothetical protein
+EFEAEOLF_02547	CDS	mmpL1_2	putative transport protein MmpL1
+EFEAEOLF_02548	CDS	ydfJ	Membrane protein YdfJ
+EFEAEOLF_02549	CDS	ydgH	Putative membrane protein YdgH
+EFEAEOLF_02550	CDS	hypothetical protein
+EFEAEOLF_02551	CDS	csaA	putative chaperone CsaA
+EFEAEOLF_02552	CDS	hypothetical protein
+EFEAEOLF_02553	CDS	hypothetical protein
+EFEAEOLF_02554	CDS	mntH	Divalent metal cation transporter MntH
+EFEAEOLF_02555	tRNA	tRNA-Arg(tcg)
+EFEAEOLF_02556	CDS	hypothetical protein
+EFEAEOLF_02557	CDS	hypothetical protein
+EFEAEOLF_02558	CDS	hypothetical protein
+EFEAEOLF_02559	CDS	nodM	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+EFEAEOLF_02560	CDS	hypothetical protein
+EFEAEOLF_02561	CDS	hypothetical protein
+EFEAEOLF_02562	CDS	hypothetical protein
+EFEAEOLF_02563	CDS	hypothetical protein
+EFEAEOLF_02564	CDS	hypothetical protein
+EFEAEOLF_02565	CDS	hypothetical protein
+EFEAEOLF_02566	tRNA	tRNA-Leu(tag)
+EFEAEOLF_02567	CDS	hypothetical protein
+EFEAEOLF_02568	CDS	3.1.1.99	6-deoxy-6-sulfogluconolactonase
+EFEAEOLF_02569	CDS	menE	6.2.1.26	2-succinylbenzoate--CoA ligase
+EFEAEOLF_02570	CDS	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+EFEAEOLF_02571	CDS	ppcA_1	4.1.1.31	Phosphoenolpyruvate carboxylase
+EFEAEOLF_02572	CDS	ppcA_2	4.1.1.31	Phosphoenolpyruvate carboxylase
+EFEAEOLF_02573	CDS	ppcA_3	4.1.1.31	Phosphoenolpyruvate carboxylase
+EFEAEOLF_02574	CDS	amt_1	Ammonia channel
+EFEAEOLF_02575	CDS	amt_2	Ammonia channel
+EFEAEOLF_02576	CDS	hypothetical protein
+EFEAEOLF_02577	CDS	hypothetical protein
+EFEAEOLF_02578	CDS	gltA_2	1.4.1.13	Glutamate synthase [NADPH] large chain
+EFEAEOLF_02579	CDS	gltA_3	1.4.1.13	Glutamate synthase [NADPH] large chain
+EFEAEOLF_02580	CDS	hypothetical protein
+EFEAEOLF_02581	CDS	hypothetical protein
+EFEAEOLF_02582	CDS	hypothetical protein
+EFEAEOLF_02583	CDS	purF_3	2.4.2.14	Amidophosphoribosyltransferase
+EFEAEOLF_02584	CDS	hypothetical protein
+EFEAEOLF_02585	CDS	hypothetical protein
+EFEAEOLF_02586	CDS	hypothetical protein
+EFEAEOLF_02587	CDS	hypothetical protein
+EFEAEOLF_02588	CDS	cmk_2	2.7.4.25	Cytidylate kinase
+EFEAEOLF_02589	CDS	hypothetical protein
+EFEAEOLF_02590	CDS	hypothetical protein
+EFEAEOLF_02591	CDS	hypothetical protein
+EFEAEOLF_02592	CDS	hypothetical protein
+EFEAEOLF_02593	CDS	hypothetical protein
+EFEAEOLF_02594	CDS	metC	4.4.1.8	Cystathionine beta-lyase
+EFEAEOLF_02595	CDS	mdeA_2	4.4.1.11	L-methionine gamma-lyase
+EFEAEOLF_02596	CDS	thrB_1	2.7.1.39	Homoserine kinase
+EFEAEOLF_02597	CDS	thrB_2	2.7.1.39	Homoserine kinase
+EFEAEOLF_02598	CDS	hypothetical protein
+EFEAEOLF_02599	CDS	hypothetical protein
+EFEAEOLF_02600	CDS	hypothetical protein
+EFEAEOLF_02601	CDS	cysK_1	2.5.1.47	Cysteine synthase
+EFEAEOLF_02602	CDS	cysK_2	2.5.1.47	Cysteine synthase
+EFEAEOLF_02603	CDS	hypothetical protein
+EFEAEOLF_02604	CDS	sseB	2.8.1.1	Putative thiosulfate sulfurtransferase SseB
+EFEAEOLF_02605	CDS	hypothetical protein
+EFEAEOLF_02606	CDS	ftsH3_1	3.4.24.-	ATP-dependent zinc metalloprotease FtsH 3
+EFEAEOLF_02607	CDS	ftsH_1	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+EFEAEOLF_02608	CDS	ftsH_2	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+EFEAEOLF_02609	CDS	hypothetical protein
+EFEAEOLF_02610	CDS	lhgO	1.1.3.15	L-2-hydroxyglutarate oxidase LhgO
+EFEAEOLF_02611	CDS	hypothetical protein
+EFEAEOLF_02612	CDS	hypothetical protein
+EFEAEOLF_02613	CDS	ppsC	2.3.1.41	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+EFEAEOLF_02614	CDS	hypothetical protein
+EFEAEOLF_02615	CDS	pcaK	4-hydroxybenzoate transporter PcaK
+EFEAEOLF_02616	CDS	hypothetical protein
+EFEAEOLF_02617	CDS	hypothetical protein
+EFEAEOLF_02618	CDS	hypothetical protein
+EFEAEOLF_02619	CDS	hypothetical protein
+EFEAEOLF_02620	CDS	hypothetical protein
+EFEAEOLF_02621	CDS	hypothetical protein
+EFEAEOLF_02622	CDS	hypothetical protein
+EFEAEOLF_02623	CDS	hypothetical protein
+EFEAEOLF_02624	CDS	hypothetical protein
+EFEAEOLF_02625	CDS	hypothetical protein
+EFEAEOLF_02626	CDS	hypothetical protein
+EFEAEOLF_02627	CDS	hypothetical protein
+EFEAEOLF_02628	CDS	cshB	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshB
+EFEAEOLF_02629	CDS	hypothetical protein
+EFEAEOLF_02630	CDS	hypothetical protein
+EFEAEOLF_02631	CDS	hypothetical protein
+EFEAEOLF_02632	CDS	hypothetical protein
+EFEAEOLF_02633	CDS	hypothetical protein
+EFEAEOLF_02634	CDS	yqjI	Transcriptional regulator YqjI
+EFEAEOLF_02635	CDS	ybhF	putative ABC transporter ATP-binding protein YbhF
+EFEAEOLF_02636	CDS	drrA_6	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+EFEAEOLF_02637	CDS	hypothetical protein
+EFEAEOLF_02638	CDS	hypothetical protein
+EFEAEOLF_02639	CDS	hypothetical protein
+EFEAEOLF_02640	CDS	hypothetical protein
+EFEAEOLF_02641	CDS	hypothetical protein
+EFEAEOLF_02642	CDS	hypothetical protein
+EFEAEOLF_02643	CDS	pyrH	2.7.4.22	Uridylate kinase
+EFEAEOLF_02644	CDS	hypothetical protein
+EFEAEOLF_02645	CDS	hypothetical protein
+EFEAEOLF_02646	CDS	hypothetical protein
+EFEAEOLF_02647	CDS	hypothetical protein
+EFEAEOLF_02648	CDS	hypothetical protein
+EFEAEOLF_02649	CDS	hypothetical protein
+EFEAEOLF_02650	CDS	hypothetical protein
+EFEAEOLF_02651	CDS	hypothetical protein
+EFEAEOLF_02652	CDS	kdpA	Potassium-transporting ATPase potassium-binding subunit
+EFEAEOLF_02653	CDS	kdpB_1	3.6.3.12	Potassium-transporting ATPase ATP-binding subunit
+EFEAEOLF_02654	CDS	kdpB_2	3.6.3.12	Potassium-transporting ATPase ATP-binding subunit
+EFEAEOLF_02655	CDS	hypothetical protein
+EFEAEOLF_02656	CDS	kdpC	Potassium-transporting ATPase KdpC subunit
+EFEAEOLF_02657	CDS	hypothetical protein
+EFEAEOLF_02658	CDS	hypothetical protein
+EFEAEOLF_02659	CDS	hypothetical protein
+EFEAEOLF_02660	CDS	pyrDB	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+EFEAEOLF_02661	CDS	asrB	Anaerobic sulfite reductase subunit B
+EFEAEOLF_02662	CDS	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+EFEAEOLF_02663	CDS	hypothetical protein
+EFEAEOLF_02664	CDS	hypothetical protein
+EFEAEOLF_02665	CDS	hypothetical protein
+EFEAEOLF_02666	CDS	rapG	3.1.-.-	Response regulator aspartate phosphatase G
+EFEAEOLF_02667	CDS	hypothetical protein
+EFEAEOLF_02668	CDS	hypothetical protein
+EFEAEOLF_02669	CDS	ftsH_3	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+EFEAEOLF_02670	CDS	ftsH3_2	3.4.24.-	ATP-dependent zinc metalloprotease FtsH 3
+EFEAEOLF_02671	CDS	hypothetical protein
+EFEAEOLF_02672	CDS	hypothetical protein
+EFEAEOLF_02673	CDS	hypothetical protein
+EFEAEOLF_02674	CDS	hypothetical protein
+EFEAEOLF_02675	CDS	hypothetical protein
+EFEAEOLF_02676	CDS	wbgU	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+EFEAEOLF_02677	CDS	hypothetical protein
+EFEAEOLF_02678	CDS	hddA_3	2.7.1.168	D-glycero-alpha-D-manno-heptose 7-phosphate kinase
+EFEAEOLF_02679	CDS	5.1.3.2	UDP-glucose 4-epimerase
+EFEAEOLF_02680	CDS	gmhA1	5.3.1.28	Phosphoheptose isomerase 1
+EFEAEOLF_02681	CDS	hypothetical protein
+EFEAEOLF_02682	CDS	hypothetical protein
+EFEAEOLF_02683	CDS	hypothetical protein
+EFEAEOLF_02684	CDS	hypothetical protein
+EFEAEOLF_02685	CDS	hypothetical protein
+EFEAEOLF_02686	CDS	hypothetical protein
+EFEAEOLF_02687	CDS	hypothetical protein
+EFEAEOLF_02688	CDS	hypothetical protein
+EFEAEOLF_02689	CDS	hypothetical protein
+EFEAEOLF_02690	CDS	rph_1	2.7.7.56	Ribonuclease PH
+EFEAEOLF_02691	CDS	hypothetical protein
+EFEAEOLF_02692	CDS	hypothetical protein
+EFEAEOLF_02693	CDS	hypothetical protein
+EFEAEOLF_02694	CDS	hypothetical protein
+EFEAEOLF_02695	CDS	hypothetical protein
+EFEAEOLF_02696	CDS	hypothetical protein
+EFEAEOLF_02697	CDS	hypothetical protein
+EFEAEOLF_02698	CDS	hypothetical protein
+EFEAEOLF_02699	CDS	rsmA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+EFEAEOLF_02700	CDS	hypothetical protein
+EFEAEOLF_02701	CDS	hypothetical protein
+EFEAEOLF_02702	CDS	ydaF	2.3.1.-	Putative ribosomal N-acetyltransferase YdaF
+EFEAEOLF_02703	CDS	hypothetical protein
+EFEAEOLF_02704	CDS	hypothetical protein
+EFEAEOLF_02705	CDS	hypothetical protein
+EFEAEOLF_02706	CDS	arcC1_1	2.7.2.2	Carbamate kinase 1
+EFEAEOLF_02707	CDS	arcC1_2	2.7.2.2	Carbamate kinase 1
+EFEAEOLF_02708	CDS	arcC2	2.7.2.2	Carbamate kinase 2
+EFEAEOLF_02709	CDS	mqnD	4.1.-.-	1,4-dihydroxy-6-naphtoate synthase
+EFEAEOLF_02710	CDS	hypothetical protein
+EFEAEOLF_02711	CDS	hypothetical protein
+EFEAEOLF_02712	CDS	hypothetical protein
+EFEAEOLF_02713	CDS	hypothetical protein
+EFEAEOLF_02714	CDS	icd_1	1.1.1.42	Isocitrate dehydrogenase [NADP]
+EFEAEOLF_02715	CDS	icd_2	1.1.1.42	Isocitrate dehydrogenase [NADP]
+EFEAEOLF_02716	CDS	purA_1	6.3.4.4	Adenylosuccinate synthetase
+EFEAEOLF_02717	CDS	purA_2	6.3.4.4	Adenylosuccinate synthetase
+EFEAEOLF_02718	CDS	kynB_3	3.5.1.9	Kynurenine formamidase
+EFEAEOLF_02719	CDS	vapC	3.1.-.-	tRNA(fMet)-specific endonuclease VapC
+EFEAEOLF_02720	CDS	hypothetical protein
+EFEAEOLF_02721	CDS	hypothetical protein
+EFEAEOLF_02722	CDS	hypothetical protein
+EFEAEOLF_02723	CDS	hypothetical protein
+EFEAEOLF_02724	CDS	hypothetical protein
+EFEAEOLF_02725	CDS	hypothetical protein
+EFEAEOLF_02726	CDS	3.4.21.101	Xanthomonalisin
+EFEAEOLF_02727	CDS	drrA_7	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+EFEAEOLF_02728	CDS	hypothetical protein
+EFEAEOLF_02729	CDS	lcfB_1	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+EFEAEOLF_02730	CDS	hypothetical protein
+EFEAEOLF_02731	CDS	hypothetical protein
+EFEAEOLF_02732	CDS	hypothetical protein
+EFEAEOLF_02733	CDS	nnr	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+EFEAEOLF_02734	CDS	nnrE	5.1.99.6	NAD(P)H-hydrate epimerase
+EFEAEOLF_02735	CDS	ogg	putative N-glycosylase/DNA lyase
+EFEAEOLF_02736	CDS	sodB	1.15.1.1	Superoxide dismutase [Fe]
+EFEAEOLF_02737	CDS	hypothetical protein
+EFEAEOLF_02738	CDS	hypothetical protein
+EFEAEOLF_02739	CDS	hypothetical protein
+EFEAEOLF_02740	CDS	hypothetical protein
+EFEAEOLF_02741	CDS	hypothetical protein
+EFEAEOLF_02742	CDS	hypothetical protein
+EFEAEOLF_02743	CDS	hypothetical protein
+EFEAEOLF_02744	CDS	hypothetical protein
+EFEAEOLF_02745	CDS	hypothetical protein
+EFEAEOLF_02746	CDS	hypothetical protein
+EFEAEOLF_02747	CDS	hypothetical protein
+EFEAEOLF_02748	CDS	hypothetical protein
+EFEAEOLF_02749	CDS	hypothetical protein
+EFEAEOLF_02750	CDS	hypothetical protein
+EFEAEOLF_02751	CDS	npr	1.11.1.1	NADH peroxidase
+EFEAEOLF_02752	CDS	hypothetical protein
+EFEAEOLF_02753	CDS	hypothetical protein
+EFEAEOLF_02754	CDS	hypothetical protein
+EFEAEOLF_02755	CDS	hypothetical protein
+EFEAEOLF_02756	CDS	hypothetical protein
+EFEAEOLF_02757	CDS	hypothetical protein
+EFEAEOLF_02758	CDS	hypothetical protein
+EFEAEOLF_02759	CDS	hypothetical protein
+EFEAEOLF_02760	CDS	thrC_3	4.2.3.1	Threonine synthase
+EFEAEOLF_02761	CDS	thrC_4	4.2.3.1	Threonine synthase
+EFEAEOLF_02762	CDS	hypothetical protein
+EFEAEOLF_02763	CDS	hypothetical protein
+EFEAEOLF_02764	CDS	hypothetical protein
+EFEAEOLF_02765	CDS	hypothetical protein
+EFEAEOLF_02766	CDS	hypothetical protein
+EFEAEOLF_02767	CDS	hypothetical protein
+EFEAEOLF_02768	CDS	hypothetical protein
+EFEAEOLF_02769	CDS	hypothetical protein
+EFEAEOLF_02770	CDS	hypothetical protein
+EFEAEOLF_02771	CDS	hypothetical protein
+EFEAEOLF_02772	CDS	hypothetical protein
+EFEAEOLF_02773	CDS	hypothetical protein
+EFEAEOLF_02774	CDS	yhdN_1	1.1.1.-	General stress protein 69
+EFEAEOLF_02775	CDS	cobQ_1	Cobyric acid synthase
+EFEAEOLF_02776	CDS	cobQ_2	Cobyric acid synthase
+EFEAEOLF_02777	CDS	cobD_2	Cobalamin biosynthesis protein CobD
+EFEAEOLF_02778	CDS	sppA	3.4.21.-	Putative signal peptide peptidase SppA
+EFEAEOLF_02779	CDS	hypothetical protein
+EFEAEOLF_02780	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+EFEAEOLF_02781	CDS	ftsZ_3	Cell division protein FtsZ
+EFEAEOLF_02782	CDS	ftsZ_4	Cell division protein FtsZ
+EFEAEOLF_02783	CDS	hypothetical protein
+EFEAEOLF_02784	CDS	hypothetical protein
+EFEAEOLF_02785	CDS	perR	Peroxide-responsive repressor PerR
+EFEAEOLF_02786	CDS	folP_1	Bifunctional dihydropteroate synthase/dihydropteroate reductase
+EFEAEOLF_02787	CDS	folP_2	2.5.1.15	Dihydropteroate synthase
+EFEAEOLF_02788	CDS	hypothetical protein
+EFEAEOLF_02789	CDS	hypothetical protein
+EFEAEOLF_02790	CDS	hypothetical protein
+EFEAEOLF_02791	CDS	ettA	Energy-dependent translational throttle protein EttA
+EFEAEOLF_02792	CDS	hypothetical protein
+EFEAEOLF_02793	CDS	tgt_1	2.4.2.29	Queuine tRNA-ribosyltransferase
+EFEAEOLF_02794	CDS	tgt_2	2.4.2.29	Queuine tRNA-ribosyltransferase
+EFEAEOLF_02795	CDS	hypothetical protein
+EFEAEOLF_02796	CDS	hypothetical protein
+EFEAEOLF_02797	CDS	hypothetical protein
+EFEAEOLF_02798	CDS	hypothetical protein
+EFEAEOLF_02799	CDS	hypothetical protein
+EFEAEOLF_02800	CDS	hypothetical protein
+EFEAEOLF_02801	CDS	polB_1	2.7.7.7	DNA polymerase II
+EFEAEOLF_02802	CDS	polB_2	2.7.7.7	DNA polymerase II
+EFEAEOLF_02803	CDS	hypothetical protein
+EFEAEOLF_02804	CDS	2.2.1.8	Fluorothreonine transaldolase
+EFEAEOLF_02805	CDS	guaB_5	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+EFEAEOLF_02806	CDS	hypothetical protein
+EFEAEOLF_02807	CDS	hypothetical protein
+EFEAEOLF_02808	CDS	hypothetical protein
+EFEAEOLF_02809	CDS	hypothetical protein
+EFEAEOLF_02810	CDS	tldD	3.4.-.-	Metalloprotease TldD
+EFEAEOLF_02811	CDS	hypothetical protein
+EFEAEOLF_02812	CDS	hypothetical protein
+EFEAEOLF_02813	CDS	pmbA	3.4.-.-	Metalloprotease PmbA
+EFEAEOLF_02814	CDS	hypothetical protein
+EFEAEOLF_02815	CDS	hypothetical protein
+EFEAEOLF_02816	CDS	hypothetical protein
+EFEAEOLF_02817	CDS	hypothetical protein
+EFEAEOLF_02818	CDS	hypothetical protein
+EFEAEOLF_02819	CDS	korB_2	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorB
+EFEAEOLF_02820	CDS	hypothetical protein
+EFEAEOLF_02821	CDS	korA_3	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+EFEAEOLF_02822	CDS	korA_4	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+EFEAEOLF_02823	CDS	hypothetical protein
+EFEAEOLF_02824	CDS	hypothetical protein
+EFEAEOLF_02825	CDS	hypothetical protein
+EFEAEOLF_02826	CDS	purQ	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurQ
+EFEAEOLF_02827	CDS	hypothetical protein
+EFEAEOLF_02828	CDS	hypothetical protein
+EFEAEOLF_02829	CDS	hypothetical protein
+EFEAEOLF_02830	CDS	hypothetical protein
+EFEAEOLF_02831	CDS	fbp_1	3.1.3.11	Fructose-1,6-bisphosphate aldolase/phosphatase
+EFEAEOLF_02832	CDS	fbp_2	3.1.3.11	Fructose-1,6-bisphosphate aldolase/phosphatase
+EFEAEOLF_02833	CDS	ctaC	1.9.3.1	Cytochrome c oxidase subunit 2
+EFEAEOLF_02834	CDS	hypothetical protein
+EFEAEOLF_02835	CDS	qoxB_1	1.10.3.-	Quinol oxidase subunit 1
+EFEAEOLF_02836	CDS	hypothetical protein
+EFEAEOLF_02837	CDS	qoxB_2	1.10.3.-	Quinol oxidase subunit 1
+EFEAEOLF_02838	CDS	hypothetical protein
+EFEAEOLF_02839	CDS	ctaB	2.5.1.-	Protoheme IX farnesyltransferase
+EFEAEOLF_02840	CDS	hypothetical protein
+EFEAEOLF_02841	CDS	hypothetical protein
+EFEAEOLF_02842	CDS	hypothetical protein
+EFEAEOLF_02843	CDS	hypothetical protein
+EFEAEOLF_02844	CDS	3.1.2.28	1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+EFEAEOLF_02845	CDS	hypothetical protein
+EFEAEOLF_02846	CDS	cysM	2.5.1.47	Cysteine synthase B
+EFEAEOLF_02847	CDS	hypothetical protein
+EFEAEOLF_02848	CDS	hypothetical protein
+EFEAEOLF_02849	CDS	hypothetical protein
+EFEAEOLF_02850	CDS	hypothetical protein
+EFEAEOLF_02851	CDS	hypothetical protein
+EFEAEOLF_02852	CDS	hypothetical protein
+EFEAEOLF_02853	CDS	hypothetical protein
+EFEAEOLF_02854	CDS	hypothetical protein
+EFEAEOLF_02855	CDS	hypothetical protein
+EFEAEOLF_02856	CDS	hypothetical protein
+EFEAEOLF_02857	CDS	tuf_2	Elongation factor Tu
+EFEAEOLF_02858	CDS	rpsJ	30S ribosomal protein S10
+EFEAEOLF_02859	CDS	fusA_1	Elongation factor G
+EFEAEOLF_02860	CDS	hypothetical protein
+EFEAEOLF_02861	CDS	fusA_2	Elongation factor G
+EFEAEOLF_02862	CDS	fusA_3	Elongation factor G
+EFEAEOLF_02863	CDS	thrC_5	4.2.3.1	Threonine synthase
+EFEAEOLF_02864	CDS	hypothetical protein
+EFEAEOLF_02865	CDS	hypothetical protein
+EFEAEOLF_02866	CDS	hypothetical protein
+EFEAEOLF_02867	CDS	1.8.5.4	Sulfide-quinone reductase
+EFEAEOLF_02868	CDS	hypothetical protein
+EFEAEOLF_02869	CDS	hypothetical protein
+EFEAEOLF_02870	CDS	hypothetical protein
+EFEAEOLF_02871	CDS	hypothetical protein
+EFEAEOLF_02872	CDS	hypothetical protein
+EFEAEOLF_02873	CDS	hypothetical protein
+EFEAEOLF_02874	CDS	grpE_1	Protein GrpE
+EFEAEOLF_02875	CDS	grpE_2	Protein GrpE
+EFEAEOLF_02876	CDS	dnaK_1	Chaperone protein DnaK
+EFEAEOLF_02877	CDS	dnaK_2	Chaperone protein DnaK
+EFEAEOLF_02878	CDS	dnaK_3	Chaperone protein DnaK
+EFEAEOLF_02879	CDS	dnaJ_1	Chaperone protein DnaJ
+EFEAEOLF_02880	CDS	dnaJ_2	Chaperone protein DnaJ
+EFEAEOLF_02881	CDS	dnaJ_3	Chaperone protein DnaJ
+EFEAEOLF_02882	CDS	hypothetical protein
+EFEAEOLF_02883	CDS	hypothetical protein
+EFEAEOLF_02884	CDS	hypothetical protein
+EFEAEOLF_02885	CDS	hypothetical protein
+EFEAEOLF_02886	CDS	hypothetical protein
+EFEAEOLF_02887	CDS	pspA	3.1.3.3	Phosphoserine phosphatase 1
+EFEAEOLF_02888	CDS	hypothetical protein
+EFEAEOLF_02889	CDS	hypothetical protein
+EFEAEOLF_02890	CDS	hypothetical protein
+EFEAEOLF_02891	CDS	hypothetical protein
+EFEAEOLF_02892	CDS	ligB_1	6.5.1.1	DNA ligase B
+EFEAEOLF_02893	CDS	ligB_2	6.5.1.1	DNA ligase B
+EFEAEOLF_02894	CDS	lig	6.5.1.1	DNA ligase
+EFEAEOLF_02895	CDS	hypothetical protein
+EFEAEOLF_02896	CDS	btuF_2	Vitamin B12-binding protein
+EFEAEOLF_02897	CDS	hypothetical protein
+EFEAEOLF_02898	CDS	hypothetical protein
+EFEAEOLF_02899	CDS	hypothetical protein
+EFEAEOLF_02900	tRNA	tRNA-Arg(ccg)
+EFEAEOLF_02901	CDS	hutI_4	3.5.2.7	Imidazolonepropionase
+EFEAEOLF_02902	CDS	hypothetical protein
+EFEAEOLF_02903	CDS	merA_1	1.16.1.1	Mercuric reductase
+EFEAEOLF_02904	CDS	merA_2	1.16.1.1	Mercuric reductase
+EFEAEOLF_02905	CDS	hypothetical protein
+EFEAEOLF_02906	tRNA	tRNA-Gly(gcc)
+EFEAEOLF_02907	CDS	hypothetical protein
+EFEAEOLF_02908	CDS	hypothetical protein
+EFEAEOLF_02909	CDS	hypothetical protein
+EFEAEOLF_02910	CDS	hypothetical protein
+EFEAEOLF_02911	CDS	Protein archease
+EFEAEOLF_02912	CDS	hypothetical protein
+EFEAEOLF_02913	CDS	hypothetical protein
+EFEAEOLF_02914	CDS	hypothetical protein
+EFEAEOLF_02915	CDS	1.1.1.38	NAD-dependent malic enzyme
+EFEAEOLF_02916	CDS	1.1.1.38	NAD-dependent malic enzyme
+EFEAEOLF_02917	CDS	hypothetical protein
+EFEAEOLF_02918	CDS	1.1.1.38	NAD-dependent malic enzyme
+EFEAEOLF_02919	CDS	mshD	2.3.1.189	Mycothiol acetyltransferase
+EFEAEOLF_02920	CDS	hypothetical protein
+EFEAEOLF_02921	CDS	ideR	Iron-dependent repressor IdeR
+EFEAEOLF_02922	CDS	hypothetical protein
+EFEAEOLF_02923	CDS	hypothetical protein
+EFEAEOLF_02924	CDS	yxlF_2	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+EFEAEOLF_02925	CDS	cysA_2	3.6.3.25	Sulfate/thiosulfate import ATP-binding protein CysA
+EFEAEOLF_02926	CDS	hypothetical protein
+EFEAEOLF_02927	CDS	hypothetical protein
+EFEAEOLF_02928	CDS	hypothetical protein
+EFEAEOLF_02929	CDS	hypothetical protein
+EFEAEOLF_02930	CDS	hypothetical protein
+EFEAEOLF_02931	CDS	hypothetical protein
+EFEAEOLF_02932	CDS	aroF_3	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+EFEAEOLF_02933	CDS	kdsA	2.5.1.55	2-dehydro-3-deoxyphosphooctonate aldolase
+EFEAEOLF_02934	CDS	hypothetical protein
+EFEAEOLF_02935	CDS	hypothetical protein
+EFEAEOLF_02936	CDS	hypothetical protein
+EFEAEOLF_02937	CDS	hypothetical protein
+EFEAEOLF_02938	CDS	hypothetical protein
+EFEAEOLF_02939	CDS	hypothetical protein
+EFEAEOLF_02940	CDS	yxlF_3	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+EFEAEOLF_02941	CDS	hypothetical protein
+EFEAEOLF_02942	CDS	hypothetical protein
+EFEAEOLF_02943	CDS	hypothetical protein
+EFEAEOLF_02944	CDS	hypothetical protein
+EFEAEOLF_02945	CDS	4.1.2.42	D-threonine aldolase
+EFEAEOLF_02946	CDS	dhaa	4.1.3.41	3-hydroxy-D-aspartate aldolase
+EFEAEOLF_02947	CDS	hypothetical protein
+EFEAEOLF_02948	CDS	ppaX	3.6.1.1	Pyrophosphatase PpaX
+EFEAEOLF_02949	CDS	hypothetical protein
+EFEAEOLF_02950	CDS	hypothetical protein
+EFEAEOLF_02951	CDS	oxlT	Oxalate:formate antiporter
+EFEAEOLF_02952	CDS	hypothetical protein
+EFEAEOLF_02953	CDS	hypothetical protein
+EFEAEOLF_02954	CDS	hypothetical protein
+EFEAEOLF_02955	CDS	yveA_4	Aspartate-proton symporter
+EFEAEOLF_02956	CDS	hypothetical protein
+EFEAEOLF_02957	CDS	yveA_5	Aspartate-proton symporter
+EFEAEOLF_02958	CDS	yveA_6	Aspartate-proton symporter
+EFEAEOLF_02959	CDS	hypothetical protein
+EFEAEOLF_02960	CDS	hypothetical protein
+EFEAEOLF_02961	CDS	hypothetical protein
+EFEAEOLF_02962	CDS	hypothetical protein
+EFEAEOLF_02963	CDS	natA_2	ABC transporter ATP-binding protein NatA
+EFEAEOLF_02964	CDS	bioM	3.6.3.-	Biotin transport ATP-binding protein BioM
+EFEAEOLF_02965	CDS	hypothetical protein
+EFEAEOLF_02966	CDS	hypothetical protein
+EFEAEOLF_02967	tRNA	tRNA-Leu(cag)
+EFEAEOLF_02968	CDS	hypothetical protein
+EFEAEOLF_02969	CDS	hypothetical protein
+EFEAEOLF_02970	CDS	nfi_1	3.1.21.7	Endonuclease V
+EFEAEOLF_02971	CDS	nfi_2	3.1.21.7	Endonuclease V
+EFEAEOLF_02972	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+EFEAEOLF_02973	CDS	hypothetical protein
+EFEAEOLF_02974	CDS	bioH	3.1.1.85	Pimeloyl-[acyl-carrier protein] methyl ester esterase
+EFEAEOLF_02975	CDS	hypothetical protein
+EFEAEOLF_02976	CDS	hypothetical protein
+EFEAEOLF_02977	CDS	hypothetical protein
+EFEAEOLF_02978	CDS	hypothetical protein
+EFEAEOLF_02979	CDS	hypothetical protein
+EFEAEOLF_02980	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+EFEAEOLF_02981	CDS	hypothetical protein
+EFEAEOLF_02982	CDS	hypothetical protein
+EFEAEOLF_02983	CDS	bacC_3	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+EFEAEOLF_02984	CDS	hypothetical protein
+EFEAEOLF_02985	CDS	hypothetical protein
+EFEAEOLF_02986	CDS	hypothetical protein
+EFEAEOLF_02987	CDS	hypothetical protein
+EFEAEOLF_02988	CDS	valS_1	6.1.1.9	Valine--tRNA ligase
+EFEAEOLF_02989	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+EFEAEOLF_02990	CDS	pdaD	4.1.1.19	Pyruvoyl-dependent arginine decarboxylase
+EFEAEOLF_02991	CDS	1.1.1.1	Alcohol dehydrogenase
+EFEAEOLF_02992	CDS	hypothetical protein
+EFEAEOLF_02993	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+EFEAEOLF_02994	CDS	hicd_3	1.1.1.87	Homoisocitrate dehydrogenase
+EFEAEOLF_02995	CDS	leuB_2	1.1.1.85	3-isopropylmalate dehydrogenase
+EFEAEOLF_02996	CDS	leuB_3	1.1.1.85	3-isopropylmalate dehydrogenase
+EFEAEOLF_02997	CDS	ilvD_1	4.2.1.9	Dihydroxy-acid dehydratase
+EFEAEOLF_02998	CDS	ilvD_2	4.2.1.9	Dihydroxy-acid dehydratase
+EFEAEOLF_02999	CDS	hypothetical protein
+EFEAEOLF_03000	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+EFEAEOLF_03001	CDS	kptA	2.7.1.-	RNA 2'-phosphotransferase
+EFEAEOLF_03002	CDS	hypothetical protein
+EFEAEOLF_03003	CDS	dpnM_1	2.1.1.72	Modification methylase DpnIIA
+EFEAEOLF_03004	CDS	dpnM_2	2.1.1.72	Modification methylase DpnIIA
+EFEAEOLF_03005	CDS	hypothetical protein
+EFEAEOLF_03006	CDS	hypothetical protein
+EFEAEOLF_03007	CDS	1.-.-.-	NADH oxidase
+EFEAEOLF_03008	CDS	1.-.-.-	NADH oxidase
+EFEAEOLF_03009	CDS	1.1.1.81	Hydroxypyruvate reductase
+EFEAEOLF_03010	CDS	mdlC_1	4.1.1.7	Benzoylformate decarboxylase
+EFEAEOLF_03011	CDS	mdlC_2	4.1.1.7	Benzoylformate decarboxylase
+EFEAEOLF_03012	CDS	coaA_1	2.7.1.33	Pantothenate kinase
+EFEAEOLF_03013	CDS	coaA_2	2.7.1.33	Pantothenate kinase
+EFEAEOLF_03014	CDS	coaA_3	2.7.1.33	Pantothenate kinase
+EFEAEOLF_03015	CDS	proP	Proline/betaine transporter
+EFEAEOLF_03016	CDS	kynB_4	3.5.1.9	Kynurenine formamidase
+EFEAEOLF_03017	CDS	hypothetical protein
+EFEAEOLF_03018	CDS	hypothetical protein
+EFEAEOLF_03019	CDS	hypothetical protein
+EFEAEOLF_03020	CDS	hypothetical protein
+EFEAEOLF_03021	CDS	lysN_2	2.6.1.39	2-aminoadipate transaminase
+EFEAEOLF_03022	CDS	lysN_3	2.6.1.39	2-aminoadipate transaminase
+EFEAEOLF_03023	CDS	hypothetical protein
+EFEAEOLF_03024	CDS	glyA_1	2.1.2.1	Serine hydroxymethyltransferase
+EFEAEOLF_03025	CDS	glyA_2	2.1.2.-	Serine hydroxymethyltransferase
+EFEAEOLF_03026	CDS	2.2.1.8	Fluorothreonine transaldolase
+EFEAEOLF_03027	CDS	bacC_4	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+EFEAEOLF_03028	CDS	hypothetical protein
+EFEAEOLF_03029	CDS	butA	1.1.1.304	Diacetyl reductase [(S)-acetoin forming]
+EFEAEOLF_03030	CDS	hypothetical protein
+EFEAEOLF_03031	CDS	hypothetical protein
+EFEAEOLF_03032	CDS	hypothetical protein
+EFEAEOLF_03033	CDS	hypothetical protein
+EFEAEOLF_03034	CDS	valS_2	6.1.1.9	Valine--tRNA ligase
+EFEAEOLF_03035	CDS	valS_3	6.1.1.9	Valine--tRNA ligase
+EFEAEOLF_03036	CDS	valS_4	6.1.1.9	Valine--tRNA ligase
+EFEAEOLF_03037	CDS	valS_5	6.1.1.9	Valine--tRNA ligase
+EFEAEOLF_03038	CDS	valS_6	6.1.1.9	Valine--tRNA ligase
+EFEAEOLF_03039	CDS	hypothetical protein
+EFEAEOLF_03040	CDS	hypothetical protein
+EFEAEOLF_03041	CDS	hypothetical protein
+EFEAEOLF_03042	CDS	pgdA	3.5.1.-	Peptidoglycan deacetylase
+EFEAEOLF_03043	CDS	hypothetical protein
+EFEAEOLF_03044	CDS	hypothetical protein
+EFEAEOLF_03045	CDS	hypothetical protein
+EFEAEOLF_03046	CDS	dgoD	4.2.1.6	D-galactonate dehydratase
+EFEAEOLF_03047	CDS	4.2.1.-	D-galactonate dehydratase family member
+EFEAEOLF_03048	CDS	citB	4.2.1.3	Aconitate hydratase A
+EFEAEOLF_03049	CDS	acnA_2	4.2.1.3	Aconitate hydratase A
+EFEAEOLF_03050	CDS	acnA_3	4.2.1.3	Aconitate hydratase A
+EFEAEOLF_03051	tRNA	tRNA-Leu(caa)
+EFEAEOLF_03052	CDS	kynB_5	3.5.1.9	Kynurenine formamidase
+EFEAEOLF_03053	CDS	hypothetical protein
+EFEAEOLF_03054	CDS	hypothetical protein
+EFEAEOLF_03055	CDS	1.-.-.-	putative oxidoreductase
+EFEAEOLF_03056	CDS	yhdN_2	1.1.1.-	General stress protein 69
+EFEAEOLF_03057	CDS	gpr	1.1.1.-	L-glyceraldehyde 3-phosphate reductase
+EFEAEOLF_03058	CDS	hypothetical protein
+EFEAEOLF_03059	CDS	hypothetical protein
+EFEAEOLF_03060	CDS	hypothetical protein
+EFEAEOLF_03061	CDS	hypothetical protein
+EFEAEOLF_03062	CDS	hypothetical protein
+EFEAEOLF_03063	CDS	guaA_3	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+EFEAEOLF_03064	CDS	hypothetical protein
+EFEAEOLF_03065	CDS	hypothetical protein
+EFEAEOLF_03066	CDS	glnS	6.1.1.18	Glutamine--tRNA ligase
+EFEAEOLF_03067	CDS	obg_3	3.6.5.-	GTPase Obg
+EFEAEOLF_03068	CDS	hypothetical protein
+EFEAEOLF_03069	CDS	gfo	1.1.99.28	Glucose--fructose oxidoreductase
+EFEAEOLF_03070	CDS	hypothetical protein
+EFEAEOLF_03071	CDS	gyrB_1	5.99.1.3	Type 2 topoisomerase subunit B
+EFEAEOLF_03072	CDS	gyrB_2	5.99.1.3	DNA gyrase subunit B
+EFEAEOLF_03073	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+EFEAEOLF_03074	CDS	thrA	Bifunctional aspartokinase/homoserine dehydrogenase 1
+EFEAEOLF_03075	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+EFEAEOLF_03076	CDS	gloB_2	3.1.2.6	Hydroxyacylglutathione hydrolase
+EFEAEOLF_03077	CDS	yhdN_3	1.1.1.-	General stress protein 69
+EFEAEOLF_03078	CDS	hypothetical protein
+EFEAEOLF_03079	CDS	hypothetical protein
+EFEAEOLF_03080	CDS	hypothetical protein
+EFEAEOLF_03081	CDS	hypothetical protein
+EFEAEOLF_03082	CDS	hypothetical protein
+EFEAEOLF_03083	CDS	addA	3.6.4.12	ATP-dependent helicase/nuclease subunit A
+EFEAEOLF_03084	CDS	hypothetical protein
+EFEAEOLF_03085	CDS	dpnM_3	2.1.1.72	Modification methylase DpnIIA
+EFEAEOLF_03086	CDS	hypothetical protein
+EFEAEOLF_03087	CDS	hypothetical protein
+EFEAEOLF_03088	tRNA	tRNA-Met(cat)
+EFEAEOLF_03089	CDS	ecfA2	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA2
+EFEAEOLF_03090	CDS	hypothetical protein
+EFEAEOLF_03091	CDS	hypothetical protein
+EFEAEOLF_03092	CDS	hypothetical protein
+EFEAEOLF_03093	CDS	hypothetical protein
+EFEAEOLF_03094	CDS	acxA	6.4.1.6	Acetone carboxylase beta subunit
+EFEAEOLF_03095	CDS	hypothetical protein
+EFEAEOLF_03096	CDS	apc3_1	6.4.1.8	Acetophenone carboxylase gamma subunit
+EFEAEOLF_03097	CDS	hypothetical protein
+EFEAEOLF_03098	CDS	hypothetical protein
+EFEAEOLF_03099	CDS	apc4_1	6.4.1.8	Acetophenone carboxylase delta subunit
+EFEAEOLF_03100	CDS	hypothetical protein
+EFEAEOLF_03101	CDS	hypothetical protein
+EFEAEOLF_03102	CDS	hypothetical protein
+EFEAEOLF_03103	CDS	yhjE	Inner membrane metabolite transport protein YhjE
+EFEAEOLF_03104	CDS	hypothetical protein
+EFEAEOLF_03105	CDS	hypothetical protein
+EFEAEOLF_03106	CDS	hypothetical protein
+EFEAEOLF_03107	CDS	hypothetical protein
+EFEAEOLF_03108	CDS	hypothetical protein
+EFEAEOLF_03109	CDS	hypothetical protein
+EFEAEOLF_03110	CDS	hypothetical protein
+EFEAEOLF_03111	tRNA	tRNA-Asn(gtt)
+EFEAEOLF_03112	CDS	hypothetical protein
+EFEAEOLF_03113	CDS	hypothetical protein
+EFEAEOLF_03114	CDS	hypothetical protein
+EFEAEOLF_03115	tRNA	tRNA-Gln(ctg)
+EFEAEOLF_03116	CDS	hypothetical protein
+EFEAEOLF_03117	CDS	hypothetical protein
+EFEAEOLF_03118	CDS	hypothetical protein
+EFEAEOLF_03119	CDS	hypothetical protein
+EFEAEOLF_03120	CDS	hypothetical protein
+EFEAEOLF_03121	CDS	hypothetical protein
+EFEAEOLF_03122	CDS	thyX	2.1.1.148	Thymidylate synthase ThyX
+EFEAEOLF_03123	CDS	groL1	60 kDa chaperonin 1
+EFEAEOLF_03124	CDS	hypothetical protein
+EFEAEOLF_03125	CDS	hypothetical protein
+EFEAEOLF_03126	CDS	trxB_4	1.8.1.9	Thioredoxin reductase
+EFEAEOLF_03127	CDS	hypothetical protein
+EFEAEOLF_03128	CDS	hypothetical protein
+EFEAEOLF_03129	CDS	sucC_1	6.2.1.4	Succinate--CoA ligase [GDP-forming] subunit beta
+EFEAEOLF_03130	CDS	sucC_2	6.2.1.4	Succinate--CoA ligase [GDP-forming] subunit beta
+EFEAEOLF_03131	CDS	sucD	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+EFEAEOLF_03132	CDS	hypothetical protein
+EFEAEOLF_03133	CDS	argF_1	2.1.3.3	Ornithine carbamoyltransferase
+EFEAEOLF_03134	CDS	argF_2	2.1.3.3	Ornithine carbamoyltransferase
+EFEAEOLF_03135	CDS	hypothetical protein
+EFEAEOLF_03136	CDS	hypothetical protein
+EFEAEOLF_03137	CDS	echA8	4.2.1.17	putative enoyl-CoA hydratase echA8
+EFEAEOLF_03138	CDS	hypothetical protein
+EFEAEOLF_03139	CDS	hypothetical protein
+EFEAEOLF_03140	CDS	hypothetical protein
+EFEAEOLF_03141	CDS	hypothetical protein
+EFEAEOLF_03142	CDS	hypothetical protein
+EFEAEOLF_03143	CDS	hypothetical protein
+EFEAEOLF_03144	CDS	hypothetical protein
+EFEAEOLF_03145	CDS	hypothetical protein
+EFEAEOLF_03146	CDS	hypothetical protein
+EFEAEOLF_03147	CDS	hypothetical protein
+EFEAEOLF_03148	CDS	hypothetical protein
+EFEAEOLF_03149	CDS	hypothetical protein
+EFEAEOLF_03150	CDS	hypothetical protein
+EFEAEOLF_03151	CDS	hypothetical protein
+EFEAEOLF_03152	CDS	hypothetical protein
+EFEAEOLF_03153	CDS	hypothetical protein
+EFEAEOLF_03154	CDS	hypothetical protein
+EFEAEOLF_03155	CDS	hypothetical protein
+EFEAEOLF_03156	CDS	hypothetical protein
+EFEAEOLF_03157	CDS	hypothetical protein
+EFEAEOLF_03158	CDS	hypothetical protein
+EFEAEOLF_03159	CDS	hypothetical protein
+EFEAEOLF_03160	CDS	mtaD	3.5.4.28	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+EFEAEOLF_03161	CDS	efp	Elongation factor P
+EFEAEOLF_03162	CDS	speB	3.5.3.11	Agmatinase
+EFEAEOLF_03163	CDS	pah	3.5.3.22	Proclavaminate amidinohydrolase
+EFEAEOLF_03164	CDS	hypothetical protein
+EFEAEOLF_03165	CDS	hypothetical protein
+EFEAEOLF_03166	CDS	hypothetical protein
+EFEAEOLF_03167	CDS	hypothetical protein
+EFEAEOLF_03168	CDS	hypothetical protein
+EFEAEOLF_03169	CDS	hypothetical protein
+EFEAEOLF_03170	CDS	hypothetical protein
+EFEAEOLF_03171	CDS	hypothetical protein
+EFEAEOLF_03172	CDS	hypothetical protein
+EFEAEOLF_03173	CDS	fpgS_1	6.3.2.17	Folylpolyglutamate synthase
+EFEAEOLF_03174	CDS	fpgS_2	6.3.2.17	Folylpolyglutamate synthase
+EFEAEOLF_03175	CDS	hypothetical protein
+EFEAEOLF_03176	CDS	hypothetical protein
+EFEAEOLF_03177	CDS	hypothetical protein
+EFEAEOLF_03178	CDS	hypothetical protein
+EFEAEOLF_03179	CDS	hypothetical protein
+EFEAEOLF_03180	CDS	xerC_1	Tyrosine recombinase XerC
+EFEAEOLF_03181	CDS	xerD_1	Tyrosine recombinase XerD
+EFEAEOLF_03182	CDS	hypothetical protein
+EFEAEOLF_03183	CDS	scpA_1	5.4.99.2	Methylmalonyl-CoA mutase
+EFEAEOLF_03184	CDS	5.4.99.-	Pivalyl-CoA mutase large subunit
+EFEAEOLF_03185	CDS	scpA_2	5.4.99.2	Methylmalonyl-CoA mutase
+EFEAEOLF_03186	CDS	hypothetical protein
+EFEAEOLF_03187	CDS	hypothetical protein
+EFEAEOLF_03188	CDS	3.6.-.-	putative GTPase
+EFEAEOLF_03189	CDS	hypothetical protein
+EFEAEOLF_03190	CDS	hypothetical protein
+EFEAEOLF_03191	CDS	ubiB	2.7.-.-	putative protein kinase UbiB
+EFEAEOLF_03192	CDS	hypothetical protein
+EFEAEOLF_03193	CDS	hypothetical protein
+EFEAEOLF_03194	CDS	hypothetical protein
+EFEAEOLF_03195	CDS	hypothetical protein
+EFEAEOLF_03196	CDS	lcfB_2	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+EFEAEOLF_03197	CDS	hypothetical protein
+EFEAEOLF_03198	CDS	fadD	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+EFEAEOLF_03199	CDS	hypothetical protein
+EFEAEOLF_03200	CDS	hypothetical protein
+EFEAEOLF_03201	CDS	hypothetical protein
+EFEAEOLF_03202	CDS	hypothetical protein
+EFEAEOLF_03203	CDS	hypothetical protein
+EFEAEOLF_03204	CDS	hypothetical protein
+EFEAEOLF_03205	CDS	hypothetical protein
+EFEAEOLF_03206	CDS	hypothetical protein
+EFEAEOLF_03207	CDS	hypothetical protein
+EFEAEOLF_03208	CDS	hypothetical protein
+EFEAEOLF_03209	CDS	hypothetical protein
+EFEAEOLF_03210	CDS	hypothetical protein
+EFEAEOLF_03211	CDS	pnp_2	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+EFEAEOLF_03212	CDS	rph_2	2.7.7.56	Ribonuclease PH
+EFEAEOLF_03213	CDS	hypothetical protein
+EFEAEOLF_03214	CDS	hypothetical protein
+EFEAEOLF_03215	CDS	hypothetical protein
+EFEAEOLF_03216	CDS	hypothetical protein
+EFEAEOLF_03217	CDS	hypothetical protein
+EFEAEOLF_03218	CDS	hypothetical protein
+EFEAEOLF_03219	CDS	hypothetical protein
+EFEAEOLF_03220	CDS	hypothetical protein
+EFEAEOLF_03221	CDS	tri1_1	3.4.21.-	Tricorn protease 
+EFEAEOLF_03222	CDS	tri1_2	3.4.21.-	Tricorn protease 
+EFEAEOLF_03223	CDS	tri1_3	3.4.21.-	Tricorn protease 
+EFEAEOLF_03224	CDS	hypothetical protein
+EFEAEOLF_03225	CDS	hypothetical protein
+EFEAEOLF_03226	CDS	xerD_2	Tyrosine recombinase XerD
+EFEAEOLF_03227	CDS	xerC_2	Tyrosine recombinase XerC
+EFEAEOLF_03228	CDS	hypothetical protein
+EFEAEOLF_03229	CDS	cpdA	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+EFEAEOLF_03230	CDS	hypothetical protein
+EFEAEOLF_03231	CDS	hypothetical protein
+EFEAEOLF_03232	CDS	hypothetical protein
+EFEAEOLF_03233	CDS	hypothetical protein
+EFEAEOLF_03234	CDS	hypothetical protein
+EFEAEOLF_03235	CDS	hypothetical protein
+EFEAEOLF_03236	CDS	hypothetical protein
+EFEAEOLF_03237	CDS	hypothetical protein
+EFEAEOLF_03238	CDS	hypothetical protein
+EFEAEOLF_03239	CDS	hypothetical protein
+EFEAEOLF_03240	CDS	hypothetical protein
+EFEAEOLF_03241	CDS	yhaO	putative metallophosphoesterase YhaO
+EFEAEOLF_03242	CDS	hypothetical protein
+EFEAEOLF_03243	CDS	recF	DNA replication and repair protein RecF
+EFEAEOLF_03244	CDS	smc_8	Chromosome partition protein Smc
+EFEAEOLF_03245	CDS	hypothetical protein
+EFEAEOLF_03246	CDS	yveA_7	Aspartate-proton symporter
+EFEAEOLF_03247	CDS	yveA_8	Aspartate-proton symporter
+EFEAEOLF_03248	CDS	hypothetical protein
+EFEAEOLF_03249	CDS	iolT_2	Major myo-inositol transporter IolT
+EFEAEOLF_03250	CDS	hypothetical protein
+repeat_region
+EFEAEOLF_03251	tRNA	tRNA-Asp(gtc)
+EFEAEOLF_03252	CDS	hypothetical protein
+EFEAEOLF_03253	CDS	hypothetical protein
+EFEAEOLF_03254	CDS	apc3_2	6.4.1.8	Acetophenone carboxylase gamma subunit
+EFEAEOLF_03255	CDS	apc3_3	6.4.1.8	Acetophenone carboxylase gamma subunit
+EFEAEOLF_03256	CDS	hypothetical protein
+EFEAEOLF_03257	CDS	hypothetical protein
+EFEAEOLF_03258	CDS	apc4_2	6.4.1.8	Acetophenone carboxylase delta subunit
+EFEAEOLF_03259	CDS	naiP_2	Putative niacin/nicotinamide transporter NaiP
+EFEAEOLF_03260	CDS	hypothetical protein
+EFEAEOLF_03261	CDS	hypothetical protein
+EFEAEOLF_03262	CDS	hypothetical protein
+EFEAEOLF_03263	CDS	hypothetical protein
+EFEAEOLF_03264	CDS	hypothetical protein
+EFEAEOLF_03265	CDS	hypothetical protein
+EFEAEOLF_03266	CDS	dpnA_2	2.1.1.72	Modification methylase DpnIIB
+EFEAEOLF_03267	CDS	hypothetical protein
+EFEAEOLF_03268	CDS	hypothetical protein
+EFEAEOLF_03269	CDS	hypothetical protein
+repeat_region

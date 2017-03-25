@@ -1,0 +1,231 @@
+[08:46:27] This is prokka 1.12
+[08:46:27] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[08:46:27] Homepage is https://github.com/tseemann/prokka
+[08:46:27] Local time is Sat Mar 25 08:46:27 2017
+[08:46:27] You are not telling me who you are!
+[08:46:27] Operating system is linux
+[08:46:27] You have BioPerl 1.006923
+[08:46:27] System has 4 cores.
+[08:46:27] Option --cpu asked for 8 cores, but system only has 4
+[08:46:27] Will use maximum of 4 cores.
+[08:46:27] Annotating as >>> Bacteria <<<
+[08:46:27] Generating locus_tag from 'data/circos/fasta/arman_2.fasta' contents.
+[08:46:27] Setting --locustag NDMPBBBD from MD5 7d69bbbd51022ce7bae9e7ce492f1d8f
+[08:46:27] Creating new output folder: data/circos/prokka/arman_2
+[08:46:27] Running: mkdir -p data\/circos\/prokka\/arman_2
+[08:46:27] Using filename prefix: PROKKA_03252017.XXX
+[08:46:27] Setting HMMER_NCPU=1
+[08:46:27] Writing log to: data/circos/prokka/arman_2/PROKKA_03252017.log
+[08:46:27] Command: /prokka/bin/prokka --outdir data/circos/prokka/arman_2 data/circos/fasta/arman_2.fasta
+[08:46:27] Appending to PATH: /prokka/bin/../binaries/linux
+[08:46:27] Appending to PATH: /prokka/bin/../binaries/linux/../common
+[08:46:27] Appending to PATH: /prokka/bin
+[08:46:27] Looking for 'aragorn' - found /prokka/bin/../binaries/linux/aragorn
+[08:46:27] Determined aragorn version is 1.2
+[08:46:27] Looking for 'blastp' - found /opt/blast/bin/blastp
+[08:46:27] Determined blastp version is 2.2
+[08:46:27] Looking for 'cmpress' - found /usr/bin/cmpress
+[08:46:27] Determined cmpress version is 1.1
+[08:46:27] Looking for 'cmscan' - found /usr/bin/cmscan
+[08:46:27] Determined cmscan version is 1.1
+[08:46:27] Looking for 'egrep' - found /bin/egrep
+[08:46:27] Looking for 'find' - found /usr/bin/find
+[08:46:27] Looking for 'grep' - found /bin/grep
+[08:46:27] Looking for 'hmmpress' - found /usr/local/bin/hmmpress
+[08:46:27] Determined hmmpress version is 3.1
+[08:46:27] Looking for 'hmmscan' - found /usr/local/bin/hmmscan
+[08:46:27] Determined hmmscan version is 3.1
+[08:46:27] Looking for 'java' - found /usr/bin/java
+[08:46:27] Looking for 'less' - found /usr/bin/less
+[08:46:27] Looking for 'makeblastdb' - found /opt/blast/bin/makeblastdb
+[08:46:27] Determined makeblastdb version is 2.2
+[08:46:27] Looking for 'minced' - found /prokka/bin/../binaries/linux/../common/minced
+[08:46:27] Determined minced version is 2.0
+[08:46:27] Looking for 'parallel' - found /prokka/bin/../binaries/linux/../common/parallel
+[08:46:27] Determined parallel version is 20150122
+[08:46:27] Looking for 'prodigal' - found /usr/local/bin/prodigal
+[08:46:27] Determined prodigal version is 2.6
+[08:46:27] Looking for 'prokka-genbank_to_fasta_db' - found /prokka/bin/prokka-genbank_to_fasta_db
+[08:46:27] Looking for 'sed' - found /bin/sed
+[08:46:27] Looking for 'tbl2asn' - found /prokka/bin/../binaries/linux/tbl2asn
+[08:46:27] Determined tbl2asn version is 25.3
+[08:46:27] Using genetic code table 11.
+[08:46:27] Loading and checking input file: data/circos/fasta/arman_2.fasta
+[08:46:27] Wrote 8 contigs totalling 1010785 bp.
+[08:46:27] Predicting tRNAs and tmRNAs
+[08:46:27] Running: aragorn -l -gc11  -w data\/circos\/prokka\/arman_2\/PROKKA_03252017\.fna
+[08:46:27] 1 tRNA-Gly c[73251,73324] 35 (gcc)
+[08:46:27] 1 tRNA-Asn [76989,77062] 34 (gtt)
+[08:46:27] 1 tRNA-Val [29581,29652] 33 (cac)
+[08:46:27] 1 tRNA-Val c[91261,91334] 33 (gac)
+[08:46:27] 2 tRNA-Glu c[113638,113714] 38 (ttc)
+[08:46:27] 3 tRNA-Leu [140678,140766] 38 (tag)
+[08:46:27] 4 tRNA-Arg c[155511,155585] 36 (gcg)
+[08:46:27] 5 tRNA-Leu [182329,182415] 37 (cag)
+[08:46:27] 6 tRNA-Lys c[184315,184390] 36 (ttt)
+[08:46:27] 7 tRNA-Ala [213769,213841] 33 (cgc)
+[08:46:27] 8 tRNA-Pro c[248972,249045] 35 (tgg)
+[08:46:27] 9 tRNA-Glu c[285918,285992] 37 (ctc)
+[08:46:27] 1 tRNA-Gln c[86843,86915] 35 (ttg)
+[08:46:27] 2 tRNA-Lys c[129642,129717] 36 (ctt)
+[08:46:27] 3 tRNA-Met [153733,153807] 36 (cat)
+[08:46:27] 4 tRNA-Gly [156387,156477] 35 (ccc)
+[08:46:27] 5 tRNA-Pro [192522,192594] 35 (cgg)
+[08:46:27] 6 tRNA-Ala [259647,259719] 33 (tgc)
+[08:46:27] 7 tRNA-Val [283082,283156] 34 (tac)
+[08:46:27] 8 tRNA-Asp [287862,287934] 34 (gtc)
+[08:46:27] Found 20 tRNAs
+[08:46:27] Predicting Ribosomal RNAs
+[08:46:27] You need either Barrnap or RNAmmer installed to predict rRNAs!
+[08:46:27] Skipping ncRNA search, enable with --rfam if desired.
+[08:46:27] Total of 20 tRNA + rRNA features
+[08:46:27] Searching for CRISPR repeats
+[08:46:28] Found 0 CRISPRs
+[08:46:28] Predicting coding sequences
+[08:46:28] Contigs total 1010785 bp, so using single mode
+[08:46:28] Running: prodigal -i data\/circos\/prokka\/arman_2\/PROKKA_03252017\.fna -c -m -g 11 -p single -f sco -q
+[08:46:30] Excluding CDS which overlaps existing RNA (tRNA) at arman_2-contig-5:76307..76999 on + strand
+[08:46:30] Excluding CDS which overlaps existing RNA (tRNA) at arman_2-contig-7:91325..92227 on - strand
+[08:46:30] Excluding CDS which overlaps existing RNA (tRNA) at arman_2-contig-7:140695..141633 on + strand
+[08:46:31] Found 1078 CDS
+[08:46:31] Connecting features back to sequences
+[08:46:31] Not using genus-specific database. Try --usegenus to enable it.
+[08:46:31] Annotating CDS, please be patient.
+[08:46:31] Will use 4 CPUs for similarity searching.
+[08:46:31] There are still 1078 unannotated CDS left (started with 1078)
+[08:46:31] Will use blast to search against /prokka/bin/../db/kingdom/Bacteria/sprot with 4 CPUs
+[08:46:31] Running: cat data\/circos\/prokka\/arman_2\/sprot\.faa | parallel --gnu --plain -j 4 --block 38957 --recstart '>' --pipe blastp -query - -db /prokka/bin/../db/kingdom/Bacteria/sprot -evalue 1e-06 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > data\/circos\/prokka\/arman_2\/sprot\.blast 2> /dev/null
+[08:46:54] Modify product: Probable succinyl-diaminopimelate desuccinylase => putative succinyl-diaminopimelate desuccinylase
+[08:46:54] Modify product: Putative conjugal transfer protein Rv3659c => Putative conjugal transfer protein
+[08:46:54] Modify product: Uncharacterized HIT-like protein Rv0759c => putative HIT-like protein
+[08:46:54] Modify product: Probable tRNA sulfurtransferase => putative tRNA sulfurtransferase
+[08:46:54] Modify product: Ribonuclease TTHA0252 => Ribonuclease
+[08:46:54] Modify product: Probable helicase HelY => putative helicase HelY
+[08:46:54] Modify product: Uncharacterized amino acid permease YhdG => putative amino acid permease YhdG
+[08:46:54] Modify product: Probable succinyl-diaminopimelate desuccinylase => putative succinyl-diaminopimelate desuccinylase
+[08:46:54] Modify product: Putative heme-dependent peroxidase TTHA1714 => Putative heme-dependent peroxidase
+[08:46:54] Modify product: Uncharacterized ABC transporter ATP-binding protein YknY => putative ABC transporter ATP-binding protein YknY
+[08:46:54] Modify product: Probable 2-keto-3-deoxy-galactonate aldolase YagE => putative 2-keto-3-deoxy-galactonate aldolase YagE
+[08:46:54] Modify product: Uncharacterized glycosyltransferase Rv0539 => putative glycosyltransferase
+[08:46:54] Modify product: Protease HtpX homolog => Protease HtpX 
+[08:46:54] Modify product: Segregation and condensation protein B homolog => Segregation and condensation protein B 
+[08:46:54] Modify product: NAD(P)H-dependent FMN reductase PA1204 => NAD(P)H-dependent FMN reductase
+[08:46:54] Modify product: Ribonuclease TTHA0252 => Ribonuclease
+[08:46:54] Modify product: Probable chaperone CsaA => putative chaperone CsaA
+[08:46:54] Modify product: Uncharacterized transporter Rv1999c => putative transporter
+[08:46:54] Modify product: Calcium-transporting ATPase lmo0841 => Calcium-transporting ATPase
+[08:46:54] Modify product: Probable alcohol dehydrogenase AdhA => putative alcohol dehydrogenase AdhA
+[08:46:54] Modify product: Putative conjugal transfer protein Rv3659c => Putative conjugal transfer protein
+[08:46:54] Modify product: Ribonuclease TTHA0252 => Ribonuclease
+[08:46:54] Modify product: Probable aspartate aminotransferase => putative aspartate aminotransferase
+[08:46:54] Modify product: Uncharacterized amino acid permease YhdG => putative amino acid permease YhdG
+[08:46:54] Modify product: Putative conjugal transfer protein Rv3659c => Putative conjugal transfer protein
+[08:46:54] Modify product: Uncharacterized AAA domain-containing protein Rv2559c => putative AAA domain-containing protein
+[08:46:54] Modify product: Probable succinyl-diaminopimelate desuccinylase => putative succinyl-diaminopimelate desuccinylase
+[08:46:54] Modify product: Probable DNA double-strand break repair Rad50 ATPase => putative DNA double-strand break repair Rad50 ATPase
+[08:46:54] Modify product: Uncharacterized metal-dependent hydrolase YjjV => putative metal-dependent hydrolase YjjV
+[08:46:54] Modify product: Ribonuclease TTHA0252 => Ribonuclease
+[08:46:54] Modify product: Probable cysteine desulfurase => putative cysteine desulfurase
+[08:46:55] Modify product: Uncharacterized MscS family protein YkuT => putative MscS family protein YkuT
+[08:46:55] Modify product: Probable murein peptide carboxypeptidase => putative murein peptide carboxypeptidase
+[08:46:55] Cleaned 33 /product names
+[08:46:55] Deleting unwanted file: data/circos/prokka/arman_2/sprot.faa
+[08:46:55] Deleting unwanted file: data/circos/prokka/arman_2/sprot.blast
+[08:46:55] There are still 697 unannotated CDS left (started with 1078)
+[08:46:55] Will use hmmer3 to search against /prokka/bin/../db/hmm/HAMAP.hmm with 4 CPUs
+[08:46:55] Running: cat data\/circos\/prokka\/arman_2\/HAMAP\.hmm\.faa | parallel --gnu --plain -j 4 --block 21656 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-06 --cpu 1 /prokka/bin/../db/hmm/HAMAP.hmm /dev/stdin > data\/circos\/prokka\/arman_2\/HAMAP\.hmm\.hmmer3 2> /dev/null
+[08:47:06] Modify product: Putative ribosomal protein L7Ae-like => Putative ribosomal protein L7Ae-like protein
+[08:47:06] Cleaned 1 /product names
+[08:47:06] Deleting unwanted file: data/circos/prokka/arman_2/HAMAP.hmm.faa
+[08:47:06] Deleting unwanted file: data/circos/prokka/arman_2/HAMAP.hmm.hmmer3
+[08:47:06] Labelling remaining 627 proteins as 'hypothetical protein'
+[08:47:06] Possible /pseudo '4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE' at arman_2-contig-5 position 25579
+[08:47:06] Possible /pseudo 'Cell division protein FtsZ' at arman_2-contig-5 position 45598
+[08:47:06] Possible /pseudo 'DNA-directed RNA polymerase subunit beta'' at arman_2-contig-7 position 133261
+[08:47:06] Possible /pseudo 'DNA-directed RNA polymerase subunit beta' at arman_2-contig-7 position 137660
+[08:47:06] Possible /pseudo 'Ribonuclease PH' at arman_2-contig-8 position 26534
+[08:47:06] Possible /pseudo 'Circadian clock protein kinase KaiC' at arman_2-contig-8 position 264903
+[08:47:06] Found 353 unique /gene codes.
+[08:47:06] Fixed 4 duplicate /gene - ftsZ_1 ftsZ_2 ftsZ_3 ftsZ_4
+[08:47:06] Fixed 3 duplicate /gene - arnE_1 arnE_2 arnE_3
+[08:47:06] Fixed 2 duplicate /gene - rlmD_1 rlmD_2
+[08:47:06] Fixed 2 duplicate /gene - crt_1 crt_2
+[08:47:06] Fixed 2 duplicate /gene - resA_1 resA_2
+[08:47:06] Fixed 2 duplicate /gene - selB_1 selB_2
+[08:47:06] Fixed 2 duplicate /gene - alaS_1 alaS_2
+[08:47:06] Fixed 4 duplicate /gene - tmk_1 tmk_2 tmk_3 tmk_4
+[08:47:06] Fixed 2 duplicate /gene - ydeN_1 ydeN_2
+[08:47:06] Fixed 2 duplicate /gene - asnS_1 asnS_2
+[08:47:06] Fixed 2 duplicate /gene - argD_1 argD_2
+[08:47:06] Fixed 2 duplicate /gene - nnr_1 nnr_2
+[08:47:06] Fixed 2 duplicate /gene - rph_1 rph_2
+[08:47:06] Fixed 2 duplicate /gene - slyD_1 slyD_2
+[08:47:06] Fixed 2 duplicate /gene - rpoB_1 rpoB_2
+[08:47:06] Fixed 2 duplicate /gene - dnaJ_1 dnaJ_2
+[08:47:06] Fixed 2 duplicate /gene - yhdG_1 yhdG_2
+[08:47:06] Fixed 3 duplicate /gene - dapE_1 dapE_2 dapE_3
+[08:47:06] Fixed 2 duplicate /gene - act_1 act_2
+[08:47:06] Fixed 3 duplicate /gene - ftsH_1 ftsH_2 ftsH_3
+[08:47:06] Fixed 2 duplicate /gene - ppm1_1 ppm1_2
+[08:47:06] Fixed 2 duplicate /gene - natA_1 natA_2
+[08:47:06] Fixed 2 duplicate /gene - ribZ_1 ribZ_2
+[08:47:06] Fixed 2 duplicate /gene - menA_1 menA_2
+[08:47:06] Fixed 2 duplicate /gene - ykfB_1 ykfB_2
+[08:47:06] Fixed 2 duplicate /gene - rpoC_1 rpoC_2
+[08:47:06] Fixed 2 duplicate /gene - rsmC_1 rsmC_2
+[08:47:06] Fixed 2 duplicate /gene - proB_1 proB_2
+[08:47:06] Fixed 2 duplicate /gene - ndhI_1 ndhI_2
+[08:47:06] Fixed 2 duplicate /gene - cmk_1 cmk_2
+[08:47:06] Fixed 2 duplicate /gene - dbpA_1 dbpA_2
+[08:47:06] Fixed 2 duplicate /gene - valS_1 valS_2
+[08:47:06] Fixed 3 duplicate /gene - drrA_1 drrA_2 drrA_3
+[08:47:06] Fixed 2 duplicate /gene - adh_1 adh_2
+[08:47:06] Fixed 3 duplicate /gene - arsC_1 arsC_2 arsC_3
+[08:47:06] Fixed 2 duplicate /gene - mftC_1 mftC_2
+[08:47:06] Fixed 2 duplicate /gene - moaA_1 moaA_2
+[08:47:06] Fixed 2 duplicate /gene - asnC_1 asnC_2
+[08:47:06] Fixed 2 duplicate /gene - dcd_1 dcd_2
+[08:47:06] Fixed 2 duplicate /gene - coaE_1 coaE_2
+[08:47:06] Fixed 3 duplicate /gene - gph_1 gph_2 gph_3
+[08:47:06] Fixed 2 duplicate /gene - ppa_1 ppa_2
+[08:47:06] Fixed 2 duplicate /gene - sufU_1 sufU_2
+[08:47:06] Fixed 2 duplicate /gene - crhR_1 crhR_2
+[08:47:06] Fixed 2 duplicate /gene - trpS_1 trpS_2
+[08:47:06] Fixed 3 duplicate /gene - kch_1 kch_2 kch_3
+[08:47:06] Fixed 2 duplicate /gene - smc_1 smc_2
+[08:47:06] Fixed 3 duplicate /gene - kaiC_1 kaiC_2 kaiC_3
+[08:47:06] Fixed 3 duplicate /gene - nth_1 nth_2 nth_3
+[08:47:06] Fixed 49 colliding /gene names.
+[08:47:06] Adding /locus_tag identifiers
+[08:47:06] Assigned 1098 locus_tags to CDS and RNA features.
+[08:47:06] Writing outputs to data/circos/prokka/arman_2/
+[08:47:07] Generating annotation statistics file
+[08:47:07] Generating Genbank and Sequin files
+[08:47:07] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.12 from https://github.com/tseemann/prokka' -Z data\/circos\/prokka\/arman_2\/PROKKA_03252017\.err -i data\/circos\/prokka\/arman_2\/PROKKA_03252017\.fsa 2> /dev/null
+[08:47:08] Deleting unwanted file: data/circos/prokka/arman_2/errorsummary.val
+[08:47:08] Deleting unwanted file: data/circos/prokka/arman_2/PROKKA_03252017.dr
+[08:47:08] Deleting unwanted file: data/circos/prokka/arman_2/PROKKA_03252017.fixedproducts
+[08:47:08] Deleting unwanted file: data/circos/prokka/arman_2/PROKKA_03252017.ecn
+[08:47:08] Deleting unwanted file: data/circos/prokka/arman_2/PROKKA_03252017.val
+[08:47:08] Repairing broken .GBK output that tbl2asn produces...
+[08:47:08] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < data\/circos\/prokka\/arman_2\/PROKKA_03252017\.gbf > data\/circos\/prokka\/arman_2\/PROKKA_03252017\.gbk
+[08:47:08] Deleting unwanted file: data/circos/prokka/arman_2/PROKKA_03252017.gbf
+[08:47:08] Output files:
+[08:47:08] data/circos/prokka/arman_2/PROKKA_03252017.faa
+[08:47:08] data/circos/prokka/arman_2/PROKKA_03252017.ffn
+[08:47:08] data/circos/prokka/arman_2/PROKKA_03252017.fsa
+[08:47:08] data/circos/prokka/arman_2/PROKKA_03252017.tbl
+[08:47:08] data/circos/prokka/arman_2/PROKKA_03252017.log
+[08:47:08] data/circos/prokka/arman_2/PROKKA_03252017.gff
+[08:47:08] data/circos/prokka/arman_2/PROKKA_03252017.txt
+[08:47:08] data/circos/prokka/arman_2/PROKKA_03252017.err
+[08:47:08] data/circos/prokka/arman_2/PROKKA_03252017.sqn
+[08:47:08] data/circos/prokka/arman_2/PROKKA_03252017.tsv
+[08:47:08] data/circos/prokka/arman_2/PROKKA_03252017.gbk
+[08:47:08] data/circos/prokka/arman_2/PROKKA_03252017.fna
+[08:47:08] Annotation finished successfully.
+[08:47:08] Walltime used: 0.68 minutes
+[08:47:08] If you use this result please cite the Prokka paper:
+[08:47:08] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[08:47:08] Type 'prokka --citation' for more details.
+[08:47:08] Share and enjoy!
