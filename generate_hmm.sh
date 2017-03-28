@@ -2,6 +2,7 @@
 # extract hmm hits
 
 # $1: hmmnsearch output
+# $2: export file path
 
 echo "generate HMM data"
 
@@ -24,5 +25,5 @@ paste data/circos/hmm/${1##*/}_chr.tmp \
   data/circos/hmm/${1##*/}_end.tmp \
   | sed -e "s/[[:space:]]\+/ /g" > data/circos/hmm/${1##*/}_hmm.txt
 
-cat data/circos/hmm/${1##*/}_hmm.txt >> data/circos/hmm/hmm_all.txt
+cat data/circos/hmm/${1##*/}_hmm.txt >> $2
 
