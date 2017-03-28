@@ -112,6 +112,11 @@ RUN mkdir /opt/blast \
 ENV PATH /opt/blast/bin:$PATH
 
 
+# install R
+RUN apt-get -y install r-base libcurl4-openssl-dev
+RUN echo "r <- getOption('repos'); r['CRAN'] <- 'http://cran.us.r-project.org'; options(repos = r);" > ~/.Rprofile
+RUN Rscript -e "install.packages('reshape2')"
+
 COPY etc/symbols.otf /fonts/symbols/symbols.otf
 COPY etc/fonts/* /fonts/
 COPY start_circos.sh /start_circos.sh
