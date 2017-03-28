@@ -1,3 +1,5 @@
+source("http://bioconductor.org/biocLite.R")
+biocLite("GenomicRanges", suppressUpdates=T, suppressAutoUpdate=T, ask=F)
 library(GenomicRanges)
 
 updateCol <- function(links, hmm, color){
@@ -26,13 +28,13 @@ updateCol <- function(links, hmm, color){
   return(links)
 }
 
-links <- as.data.frame(read.table('../data/circos/blast/blast_links.txt', header=F))
-hmm1 <- read.table('../data/circos/hmm/hmm_all_1.txt', header=F)
-hmm2 <- read.table('../data/circos/hmm/hmm_all_2.txt', header=F)
-hmm3 <- read.table('../data/circos/hmm/hmm_all_3.txt', header=F)
-hmm4 <- read.table('../data/circos/hmm/hmm_all_4.txt', header=F)
-hmm5 <- read.table('../data/circos/hmm/hmm_all_5.txt', header=F)
-hmm6 <- read.table('../data/circos/hmm/hmm_all_6.txt', header=F)
+links <- as.data.frame(read.table('/data/circos/blast/blast_links.txt', header=F))
+hmm1 <- read.table('/data/circos/hmm/hmm_all_1.txt', header=F)
+hmm2 <- read.table('/data/circos/hmm/hmm_all_2.txt', header=F)
+hmm3 <- read.table('/data/circos/hmm/hmm_all_3.txt', header=F)
+hmm4 <- read.table('/data/circos/hmm/hmm_all_4.txt', header=F)
+hmm5 <- read.table('/data/circos/hmm/hmm_all_5.txt', header=F)
+hmm6 <- read.table('/data/circos/hmm/hmm_all_6.txt', header=F)
 
 links <- updateCol(links, hmm1, "red" )
 links <- updateCol(links, hmm2, "green" )
@@ -41,4 +43,4 @@ links <- updateCol(links, hmm4, "blue" )
 links <- updateCol(links, hmm5, "black" )
 links <- updateCol(links, hmm6, "yellow" )
 
-write.table(links, file='../data/circos/blast/blast_links_colored.txt', sep='\t', col.names=F, row.names=F, quote=F)
+write.table(links, file='data/circos/blast/blast_links_colored.txt', sep='\t', col.names=F, row.names=F, quote=F)
