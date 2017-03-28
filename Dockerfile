@@ -111,11 +111,11 @@ RUN mkdir /opt/blast \
 
 ENV PATH /opt/blast/bin:$PATH
 
-
 # install R
 RUN apt-get -y install r-base libcurl4-openssl-dev
 RUN echo "r <- getOption('repos'); r['CRAN'] <- 'http://cran.us.r-project.org'; options(repos = r);" > ~/.Rprofile
-RUN Rscript -e "install.packages('reshape2')"
+#RUN Rscript -e "source('https://bioconductor.org/biocLite.R')"
+#RUN Rscript -e "biocLite('GenomicRanges')"
 
 COPY etc/symbols.otf /fonts/symbols/symbols.otf
 COPY etc/fonts/* /fonts/
@@ -129,5 +129,6 @@ COPY generate_hmm.sh /generate_hmm.sh
 COPY generate_orf_prokka.sh /generate_orf_prokka.sh
 COPY generate_coverage.sh /generate_coverage.sh
 COPY generate_blast.sh /generate_blast.sh
+COPY R/updateLinkColors.R updateLinkColors.R
 
 #ENTRYPOINT ["/bin/bash","start.sh"]
