@@ -1,11 +1,11 @@
 #/bin/sh
 # runs blast all vs. all of $a against $band generates circos output
 
-a=data/circos/hmmvis/arman_2.fasta
+a=$1
 a1=${a##*/}
 a2=${a1%.*}
 
-b=data/circos/hmmvis/dke_a.fasta
+b=$2
 b1=${b##*/}
 b2=${b1%.*}
 
@@ -15,13 +15,11 @@ makeblastdb -in $a \
   -title $a2 \
   -out $a.blast.out
 
-
 # blast sample against one other
 blastp -query $b -db $a.blast.out \
   -out data/circos/blast/$b2.out \
-  -evalue 0.00001 \
+  -evalue 0.0000001 \
   -outfmt '6 qseqid qstart qend sseqid sstart send ppos'
-
 
 # search terms
 awk '{print ">"$1"[[:space:]]"}' \
@@ -40,23 +38,21 @@ awk '{print ">"$4"[[:space:]]"}' \
 while read f; do
   start_pos=$(grep $f $a | awk '{print $3}')
   end_pos=$(grep $f $a | awk '{print $5}')
-  echo "$f $start_pos $end_pos" >> data/circos/blast/$a2.pos
+  echo "$f $start_pos $end_pos" >> /data/circos/blast/$a2.pos
 done </data/circos/blast/$a2.out.searchterms
 
-# add ORF position to blast output position
-
 # process chr
- data/circos/blast/$b2.out
+# data/circos/blast/$b2.out
 
 # merge to one big file
-paste  data/circos/blast/$b2.out \
-  data/circos/blast/$b2.pos data/circos/blast/$a2.pos > data/circos/blast/$b2.$a2.joined
+paste  /data/circos/blast/$b2.out \
+  /data/circos/blast/$b2.pos data/circos/blast/$a2.pos > data/circos/blast/$b2.$a2.joined
 
 # sum columns
 cat data/circos/blast/$b2.$a2.joined \
-  | awk '{print $1" "$2+$9" "$3+$10" "$4" "$5+$9" "$6+$10}' > data/circos/blast/blast.$a2.$b2.tmp
+  | awk '{print $1" "$2+$9" "$3+$10" "$4" "$5+$9" "$6+$10}' > /data/circos/blast/blast.$a2.$b2.tmp
 
-cat data/circos/blast/blast.$a2.$b2.tmp \
+cat /data/circos/blast/blast.$a2.$b2.tmp \
   | awk '{sub(/\_/,"-",$1)};2' \
   | awk '{sub(/\_/,"-",$4)};2' \
   | awk '{sub(/\_/," ",$1)};2' \
@@ -64,4 +60,11 @@ cat data/circos/blast/blast.$a2.$b2.tmp \
   | awk '{print $1" "$3" "$4" "$5" "$7" "$8}' \
   | awk '{sub(/\-/,"_",$1)};2' \
   | awk '{sub(/\-/,"_",$4)};2' \
-  | sed 's/ /\t/g' > data/circos/blast/blast.txt
+  | sed 's/ /\t/g' >> /data/circos/blast/blast_links.txt
+
+rm -f /data/circos/blast/*.pos
+rm -f /data/circos/blast/*.tmp
+rm -f /data/circos/blast/*.joined
+rm -f /data/circos/blast/*.out
+rm -f /data/circos/blast/*.searchterms
+rm -f /data/circos/blast/*out.searchterms
