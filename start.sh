@@ -74,7 +74,6 @@ echo "make blast search"
 ls -1 data/circos/hmmvis/*.fasta > data/circos/blast/list.txt
 
 # step 1: pick one and run vs. all others
-
 firstline=$(head -n 1 data/circos/blast/list.txt)
 tail -n +2 data/circos/blast/list.txt > data/circos/blast/list2.txt # to prevent self-comparison
 while read line; do
@@ -83,7 +82,28 @@ while read line; do
 done <data/circos/blast/list2.txt
 
 # step 2: pick another one and run vs. all other without the first one picket
+samplenum=$(wc -l /data/circos/blast/list2.txt | awk '{print $1}')
+if [ $samplenum -gt 1 ]
+then
+  firstline=$(head -n 1 data/circos/blast/list2.txt)
+  tail -n +2 /data/circos/blast/list2.txt > /data/circos/blast/list3.txt # to 
+  while read line; do
+    echo "comparing $firstline with $line"
+    ./generate_blast.sh $firstline $line >/dev/null 2>/dev/null
+  done </data/circos/blast/list3.txt
 
+  # step 3: this should be recursive...
+  samplenum=$(wc -l /data/circos/blast/list3.txt | awk '{print $1}')
+  if [ $samplenum -gt 1 ]
+  then
+    firstline=$(head -n 1 /data/circos/blast/list3.txt)
+    tail -n +2 /data/circos/blast/list3.txt > /data/circos/blast/list4.txt # to 
+    while read line; do
+      echo "comparing $firstline with $line"
+      ./generate_blast.sh $firstline $line >/dev/null 2>/dev/null
+     done <data/circos/blast/list4.txt
+  fi
+fi
 
 # draw circos plot
 /root/software/circos/current/bin/circos -conf data/config/circos.conf -noparanoid >/dev/null 2>/dev/null
