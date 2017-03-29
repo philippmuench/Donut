@@ -11,7 +11,7 @@ just a simple tool that generates a circos plot from a bunch of fasta files
 5. inspect the output written to `data/output/`
 
 # example output
-![image](data/output/circos_2.png)
+![image](data/output/comp_2.png)
 
 from outer to inner:
 - GC content
