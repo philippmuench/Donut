@@ -59,7 +59,7 @@ cat /data/circos/blast/blast.$a2.$b2.tmp \
   | awk '{sub(/\_/,"-",$4)};2' \
   | awk '{sub(/\_/," ",$1)};2' \
   | awk '{sub(/\_/," ",$5)};2' \
-  | awk '{print $1" "$3" "$4" "$5" "$7" "$8" color=black,thickness=1p"}' \
+  | awk '{print $1" "$3" "$4" "$5" "$7" "$8" color=vlgrey,thickness=1p"}' \
   | awk '{sub(/\-/,"_",$1)};2' \
   | awk '{sub(/\-/,"_",$4)};2' \
   | sed 's/ /\t/g' >> /data/circos/blast/blast_links.txt
