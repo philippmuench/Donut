@@ -13,13 +13,13 @@ samtools faidx $2
 
 # generating windows
 bedtools makewindows -g $2.fai \
-  -w 1000 > data/circos/coverage/${2##*/}_windows.bed
+  -w 10000 > data/circos/coverage/${2##*/}_windows.bed
 
 # extract coverage informations
 bedtools coverage -a data/circos/coverage/${2##*/}_windows.bed\
    -b data/circos/coverage/${1##*/}_windows.bed.clean -counts > data/circos/coverage/${1##*/}_coverage.tmp
 
 # reformat
-awk '{print $1" " $2" "$3" "$7}' data/circos/coverage/${1##*/}_coverage.tmp > data/circos/coverage/${1##*/}_cov.txt
+awk '{print $1" " $2" "$3" "$4}' data/circos/coverage/${1##*/}_coverage.tmp > data/circos/coverage/${1##*/}_cov.txt
 
 cat data/circos/coverage/${1##*/}_cov.txt >> data/circos/coverage/cov_all.txt
