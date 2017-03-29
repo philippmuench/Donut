@@ -128,6 +128,7 @@ COPY generate_orf.sh /generate_orf.sh
 COPY generate_hmm.sh /generate_hmm.sh
 COPY generate_orf_prokka.sh /generate_orf_prokka.sh
 COPY generate_coverage.sh /generate_coverage.sh
+COPY generate_coverage_hyp.sh /generate_coverage_hyp.sh
 COPY generate_blast.sh /generate_blast.sh
 COPY R/updateLinkColors.R updateLinkColors.R
 

@@ -109,6 +109,8 @@ for i in data/circos/prokka/*.gff; do
   basename=${i##*/}
   name=${basename%.*}
  ./generate_coverage.sh $i data/circos/fasta/$name.fasta >/dev/null 2>/dev/null
+ ./generate_coverage_hyp.sh $i data/circos/fasta/$name.fasta >/dev/null 2>/dev/null
+
 done
 
 # multiple karyotypes
