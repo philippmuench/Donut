@@ -1,0 +1,2063 @@
+locus_tag	ftype	gene	EC_number	product
+ILEKFHAL_00001	CDS	hypothetical protein
+ILEKFHAL_00002	CDS	hypothetical protein
+ILEKFHAL_00003	CDS	hypothetical protein
+ILEKFHAL_00004	CDS	hypothetical protein
+ILEKFHAL_00005	CDS	hypothetical protein
+ILEKFHAL_00006	CDS	hypothetical protein
+ILEKFHAL_00007	CDS	hypothetical protein
+ILEKFHAL_00008	CDS	hypothetical protein
+ILEKFHAL_00009	CDS	hypothetical protein
+ILEKFHAL_00010	CDS	hypothetical protein
+ILEKFHAL_00011	CDS	hypothetical protein
+ILEKFHAL_00012	CDS	hypothetical protein
+ILEKFHAL_00013	CDS	smc_1	Chromosome partition protein Smc
+ILEKFHAL_00014	CDS	hypothetical protein
+ILEKFHAL_00015	CDS	mboIIM_1	2.1.1.72	Modification methylase MboII
+ILEKFHAL_00016	CDS	hypothetical protein
+ILEKFHAL_00017	CDS	hypothetical protein
+ILEKFHAL_00018	CDS	hypothetical protein
+ILEKFHAL_00019	CDS	hypothetical protein
+ILEKFHAL_00020	CDS	ettA	Energy-dependent translational throttle protein EttA
+ILEKFHAL_00021	CDS	hypothetical protein
+ILEKFHAL_00022	CDS	hypothetical protein
+ILEKFHAL_00023	CDS	hypothetical protein
+ILEKFHAL_00024	CDS	hypothetical protein
+ILEKFHAL_00025	CDS	hypothetical protein
+ILEKFHAL_00026	CDS	hypothetical protein
+ILEKFHAL_00027	CDS	hypothetical protein
+ILEKFHAL_00028	CDS	hypothetical protein
+ILEKFHAL_00029	CDS	hypothetical protein
+ILEKFHAL_00030	CDS	hypothetical protein
+ILEKFHAL_00031	CDS	hypothetical protein
+ILEKFHAL_00032	tRNA	tRNA-Met(cat)
+ILEKFHAL_00033	CDS	hypothetical protein
+ILEKFHAL_00034	CDS	hypothetical protein
+ILEKFHAL_00035	CDS	hypothetical protein
+ILEKFHAL_00036	tRNA	tRNA-Asn(gtt)
+ILEKFHAL_00037	CDS	rny	3.1.-.-	Ribonuclease Y
+ILEKFHAL_00038	CDS	hypothetical protein
+ILEKFHAL_00039	CDS	hypothetical protein
+ILEKFHAL_00040	tRNA	tRNA-Gln(ctg)
+ILEKFHAL_00041	CDS	hypothetical protein
+ILEKFHAL_00042	CDS	hypothetical protein
+ILEKFHAL_00043	CDS	pcaF_1	2.3.1.174	Beta-ketoadipyl-CoA thiolase
+ILEKFHAL_00044	CDS	hypothetical protein
+ILEKFHAL_00045	CDS	thyX	2.1.1.148	Thymidylate synthase ThyX
+ILEKFHAL_00046	CDS	hemB	4.2.1.24	Delta-aminolevulinic acid dehydratase
+ILEKFHAL_00047	CDS	hypothetical protein
+ILEKFHAL_00048	CDS	hypothetical protein
+ILEKFHAL_00049	CDS	hypothetical protein
+ILEKFHAL_00050	CDS	hypothetical protein
+ILEKFHAL_00051	CDS	hypothetical protein
+ILEKFHAL_00052	CDS	hypothetical protein
+ILEKFHAL_00053	CDS	hypothetical protein
+ILEKFHAL_00054	CDS	hypothetical protein
+ILEKFHAL_00055	CDS	yxlF_1	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+ILEKFHAL_00056	CDS	hypothetical protein
+ILEKFHAL_00057	CDS	hypothetical protein
+ILEKFHAL_00058	CDS	hypothetical protein
+ILEKFHAL_00059	CDS	hypothetical protein
+ILEKFHAL_00060	CDS	hypothetical protein
+ILEKFHAL_00061	CDS	yqjI_1	Transcriptional regulator YqjI
+ILEKFHAL_00062	CDS	rsmC	2.1.1.172	Ribosomal RNA small subunit methyltransferase C
+ILEKFHAL_00063	CDS	hypothetical protein
+ILEKFHAL_00064	CDS	hypothetical protein
+ILEKFHAL_00065	CDS	hypothetical protein
+ILEKFHAL_00066	CDS	hypothetical protein
+ILEKFHAL_00067	CDS	obg_1	3.6.5.-	GTPase Obg
+ILEKFHAL_00068	CDS	hypothetical protein
+ILEKFHAL_00069	CDS	mug	3.2.2.28	G/U mismatch-specific DNA glycosylase
+ILEKFHAL_00070	CDS	acyP	3.6.1.7	Acylphosphatase
+ILEKFHAL_00071	CDS	tdcB	4.3.1.19	L-threonine ammonia-lyase
+ILEKFHAL_00072	CDS	fchA	3.5.4.9	Methenyltetrahydrofolate cyclohydrolase
+ILEKFHAL_00073	CDS	2.1.2.5	Glutamate formimidoyltransferase
+ILEKFHAL_00074	CDS	nrdZ	1.17.4.1	Vitamin B12-dependent ribonucleoside-diphosphate reductase
+ILEKFHAL_00075	CDS	napA	Na(+)/H(+) antiporter
+ILEKFHAL_00076	CDS	csbC_1	putative metabolite transport protein CsbC
+ILEKFHAL_00077	CDS	hypothetical protein
+ILEKFHAL_00078	CDS	hypothetical protein
+ILEKFHAL_00079	CDS	glpK	2.7.1.30	Glycerol kinase
+ILEKFHAL_00080	CDS	hypothetical protein
+ILEKFHAL_00081	CDS	hypothetical protein
+ILEKFHAL_00082	CDS	hypothetical protein
+ILEKFHAL_00083	CDS	groL_1	60 kDa chaperonin
+ILEKFHAL_00084	CDS	npr	1.11.1.1	NADH peroxidase
+ILEKFHAL_00085	CDS	hypothetical protein
+ILEKFHAL_00086	CDS	ydjE_1	Inner membrane metabolite transport protein YdjE
+ILEKFHAL_00087	CDS	hypothetical protein
+ILEKFHAL_00088	CDS	hypothetical protein
+ILEKFHAL_00089	CDS	hypothetical protein
+ILEKFHAL_00090	CDS	hypothetical protein
+ILEKFHAL_00091	CDS	hypothetical protein
+ILEKFHAL_00092	CDS	hypothetical protein
+ILEKFHAL_00093	CDS	kch	Voltage-gated potassium channel Kch
+ILEKFHAL_00094	CDS	hypothetical protein
+ILEKFHAL_00095	CDS	yxlF_2	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+ILEKFHAL_00096	CDS	hypothetical protein
+ILEKFHAL_00097	CDS	hypothetical protein
+ILEKFHAL_00098	CDS	hypothetical protein
+ILEKFHAL_00099	CDS	dat	2.6.1.76	Diaminobutyrate--2-oxoglutarate aminotransferase
+ILEKFHAL_00100	CDS	hypothetical protein
+ILEKFHAL_00101	CDS	acsA	6.2.1.1	Acetyl-coenzyme A synthetase
+ILEKFHAL_00102	CDS	hypothetical protein
+ILEKFHAL_00103	CDS	hypothetical protein
+ILEKFHAL_00104	CDS	ytnP	3.1.1.-	putative quorum-quenching lactonase YtnP
+ILEKFHAL_00105	CDS	hypothetical protein
+ILEKFHAL_00106	CDS	hypothetical protein
+ILEKFHAL_00107	CDS	guaB_1	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+ILEKFHAL_00108	CDS	hypothetical protein
+ILEKFHAL_00109	CDS	hypothetical protein
+ILEKFHAL_00110	CDS	4.4.1.11	L-methionine gamma-lyase
+ILEKFHAL_00111	CDS	hypothetical protein
+ILEKFHAL_00112	CDS	ribZ_1	Riboflavin transporter RibZ
+ILEKFHAL_00113	CDS	hrp1	Hypoxic response protein 1
+ILEKFHAL_00114	CDS	tmk	2.7.4.9	Thymidylate kinase
+ILEKFHAL_00115	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+ILEKFHAL_00116	CDS	carAc	Ferredoxin CarAc
+ILEKFHAL_00117	CDS	carE_1	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarE
+ILEKFHAL_00118	CDS	hypothetical protein
+ILEKFHAL_00119	CDS	hypothetical protein
+ILEKFHAL_00120	CDS	kynB_1	3.5.1.9	Kynurenine formamidase
+ILEKFHAL_00121	CDS	vapC_1	3.1.-.-	tRNA(fMet)-specific endonuclease VapC
+ILEKFHAL_00122	CDS	ndoA	Naphthalene 1,2-dioxygenase system ferredoxin subunit
+ILEKFHAL_00123	CDS	fadD	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+ILEKFHAL_00124	CDS	nnr	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+ILEKFHAL_00125	CDS	ogg	putative N-glycosylase/DNA lyase
+ILEKFHAL_00126	CDS	ala	1.4.1.1	Alanine dehydrogenase
+ILEKFHAL_00127	CDS	arcB	1.5.1.49	Delta(1)-pyrroline-2-carboxylate reductase
+ILEKFHAL_00128	CDS	sodB	1.15.1.1	Superoxide dismutase [Fe]
+ILEKFHAL_00129	CDS	hypothetical protein
+ILEKFHAL_00130	CDS	hypothetical protein
+ILEKFHAL_00131	CDS	pyrG	6.3.4.2	CTP synthase
+ILEKFHAL_00132	CDS	ykoD	3.6.3.-	Putative HMP/thiamine import ATP-binding protein YkoD
+ILEKFHAL_00133	CDS	ykoC	Putative HMP/thiamine permease protein YkoC
+ILEKFHAL_00134	CDS	hypothetical protein
+ILEKFHAL_00135	CDS	hypothetical protein
+ILEKFHAL_00136	CDS	hypothetical protein
+ILEKFHAL_00137	CDS	hypothetical protein
+ILEKFHAL_00138	CDS	hypothetical protein
+ILEKFHAL_00139	CDS	thrC_1	4.2.3.1	Threonine synthase
+ILEKFHAL_00140	CDS	hypothetical protein
+ILEKFHAL_00141	CDS	valS_1	6.1.1.9	Valine--tRNA ligase
+ILEKFHAL_00142	CDS	hypothetical protein
+ILEKFHAL_00143	CDS	glnA	6.3.1.2	Glutamine synthetase
+ILEKFHAL_00144	CDS	ppa	3.6.1.1	Inorganic pyrophosphatase
+ILEKFHAL_00145	CDS	hddA_1	2.7.1.168	D-glycero-alpha-D-manno-heptose 7-phosphate kinase
+ILEKFHAL_00146	CDS	nudL	3.6.1.-	putative Nudix hydrolase NudL
+ILEKFHAL_00147	CDS	hypothetical protein
+ILEKFHAL_00148	CDS	nucS	3.1.-.-	Endonuclease NucS
+ILEKFHAL_00149	CDS	hypothetical protein
+ILEKFHAL_00150	CDS	secE	Protein translocase subunit SecE
+ILEKFHAL_00151	CDS	hypothetical protein
+ILEKFHAL_00152	CDS	hypothetical protein
+ILEKFHAL_00153	CDS	proB_1	2.7.2.11	Glutamate 5-kinase
+ILEKFHAL_00154	CDS	bcp_1	1.11.1.15	Putative peroxiredoxin bcp
+ILEKFHAL_00155	CDS	hypothetical protein
+ILEKFHAL_00156	tRNA	tRNA-Thr(tgt)
+ILEKFHAL_00157	CDS	hbd_1	1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase
+ILEKFHAL_00158	CDS	hypothetical protein
+ILEKFHAL_00159	CDS	ahpF	1.6.99.3	NADH dehydrogenase
+ILEKFHAL_00160	CDS	hypothetical protein
+ILEKFHAL_00161	CDS	yxlF_3	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+ILEKFHAL_00162	CDS	pepN	3.4.11.2	Aminopeptidase N
+ILEKFHAL_00163	CDS	sthA	1.6.1.1	Soluble pyridine nucleotide transhydrogenase
+ILEKFHAL_00164	CDS	glkA	2.7.1.2	Glucokinase
+ILEKFHAL_00165	CDS	hypothetical protein
+ILEKFHAL_00166	CDS	aspS2	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+ILEKFHAL_00167	CDS	hypothetical protein
+ILEKFHAL_00168	CDS	hypothetical protein
+ILEKFHAL_00169	CDS	hypothetical protein
+ILEKFHAL_00170	CDS	radD_1	3.6.4.12	Putative DNA repair helicase RadD
+ILEKFHAL_00171	CDS	hypothetical protein
+ILEKFHAL_00172	CDS	tenA	3.5.99.2	Aminopyrimidine aminohydrolase
+ILEKFHAL_00173	CDS	hypothetical protein
+ILEKFHAL_00174	CDS	4.2.1.79	2-methylcitrate dehydratase
+ILEKFHAL_00175	CDS	prpB	4.1.3.30	2-methylisocitrate lyase
+ILEKFHAL_00176	CDS	hypothetical protein
+ILEKFHAL_00177	CDS	nadK	2.7.1.23	NAD kinase
+ILEKFHAL_00178	CDS	suhB	3.1.3.25	Inositol-1-monophosphatase
+ILEKFHAL_00179	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+ILEKFHAL_00180	CDS	rpsK	30S ribosomal protein S11
+ILEKFHAL_00181	CDS	rpsD	30S ribosomal protein S4
+ILEKFHAL_00182	CDS	rpsM	30S ribosomal protein S13
+ILEKFHAL_00183	CDS	hypothetical protein
+ILEKFHAL_00184	CDS	hypothetical protein
+ILEKFHAL_00185	CDS	hypothetical protein
+ILEKFHAL_00186	CDS	hypothetical protein
+ILEKFHAL_00187	CDS	1.-.-.-	NAD(P)H-dependent FMN reductase
+ILEKFHAL_00188	CDS	hemL	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+ILEKFHAL_00189	CDS	hemC	2.5.1.61	Porphobilinogen deaminase
+ILEKFHAL_00190	CDS	hypothetical protein
+ILEKFHAL_00191	tRNA	tRNA-Met(cat)
+ILEKFHAL_00192	CDS	hypothetical protein
+ILEKFHAL_00193	CDS	kdkA	2.7.1.166	3-deoxy-D-manno-octulosonic acid kinase
+ILEKFHAL_00194	CDS	hypothetical protein
+ILEKFHAL_00195	CDS	mntH	Divalent metal cation transporter MntH
+ILEKFHAL_00196	CDS	ideR_1	Iron-dependent repressor IdeR
+ILEKFHAL_00197	CDS	hypothetical protein
+ILEKFHAL_00198	CDS	hypothetical protein
+ILEKFHAL_00199	CDS	rpoC_1	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+ILEKFHAL_00200	CDS	rpoC_2	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+ILEKFHAL_00201	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+ILEKFHAL_00202	CDS	hypothetical protein
+ILEKFHAL_00203	tRNA	tRNA-Lys(ttt)
+ILEKFHAL_00204	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+ILEKFHAL_00205	CDS	mtnA	5.3.1.23	Methylthioribose-1-phosphate isomerase
+ILEKFHAL_00206	CDS	sucD_1	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+ILEKFHAL_00207	CDS	hypothetical protein
+ILEKFHAL_00208	CDS	hypothetical protein
+ILEKFHAL_00209	CDS	hypothetical protein
+ILEKFHAL_00210	CDS	hypothetical protein
+ILEKFHAL_00211	CDS	otsA	2.4.1.15	Trehalose-6-phosphate synthase
+ILEKFHAL_00212	CDS	3.2.1.-	putative glycosyl hydrolase
+ILEKFHAL_00213	CDS	3.5.-.-	Hydrolase
+ILEKFHAL_00214	CDS	top6A	5.99.1.3	Type 2 DNA topoisomerase 6 subunit A
+ILEKFHAL_00215	CDS	top6B	5.99.1.3	Type 2 DNA topoisomerase 6 subunit B
+ILEKFHAL_00216	CDS	hypothetical protein
+ILEKFHAL_00217	CDS	hypothetical protein
+ILEKFHAL_00218	CDS	hypothetical protein
+ILEKFHAL_00219	CDS	yugI	General stress protein 13
+ILEKFHAL_00220	CDS	hypothetical protein
+ILEKFHAL_00221	CDS	hypothetical protein
+ILEKFHAL_00222	CDS	1.-.-.-	putative oxidoreductase
+ILEKFHAL_00223	CDS	hypothetical protein
+ILEKFHAL_00224	CDS	hypothetical protein
+ILEKFHAL_00225	CDS	hypothetical protein
+ILEKFHAL_00226	CDS	albA_1	1.21.98.-	Antilisterial bacteriocin subtilosin biosynthesis protein AlbA
+ILEKFHAL_00227	CDS	hypothetical protein
+ILEKFHAL_00228	CDS	hypothetical protein
+ILEKFHAL_00229	CDS	bepA	3.4.-.-	Beta-barrel assembly-enhancing protease
+ILEKFHAL_00230	CDS	hypothetical protein
+ILEKFHAL_00231	CDS	purF	2.4.2.14	Amidophosphoribosyltransferase
+ILEKFHAL_00232	CDS	hypothetical protein
+ILEKFHAL_00233	CDS	truB	5.4.99.25	tRNA pseudouridine synthase B
+ILEKFHAL_00234	CDS	cmk_1	2.7.4.25	Cytidylate kinase
+ILEKFHAL_00235	CDS	hypothetical protein
+ILEKFHAL_00236	CDS	cmk_2	2.7.4.25	Cytidylate kinase
+ILEKFHAL_00237	CDS	secY	Protein translocase subunit SecY
+ILEKFHAL_00238	CDS	rplO	50S ribosomal protein L15
+ILEKFHAL_00239	CDS	hypothetical protein
+ILEKFHAL_00240	CDS	rpsE	30S ribosomal protein S5
+ILEKFHAL_00241	CDS	rplR	50S ribosomal protein L18
+ILEKFHAL_00242	CDS	hypothetical protein
+ILEKFHAL_00243	CDS	hypothetical protein
+ILEKFHAL_00244	CDS	rplF	50S ribosomal protein L6
+ILEKFHAL_00245	CDS	rpsH	30S ribosomal protein S8
+ILEKFHAL_00246	CDS	rplE	50S ribosomal protein L5
+ILEKFHAL_00247	CDS	hypothetical protein
+ILEKFHAL_00248	CDS	hypothetical protein
+ILEKFHAL_00249	CDS	rplN	50S ribosomal protein L14
+ILEKFHAL_00250	CDS	hypothetical protein
+ILEKFHAL_00251	CDS	hypothetical protein
+ILEKFHAL_00252	CDS	hypothetical protein
+ILEKFHAL_00253	CDS	rpmC	50S ribosomal protein L29
+ILEKFHAL_00254	CDS	rpsC	30S ribosomal protein S3
+ILEKFHAL_00255	CDS	rplV	50S ribosomal protein L22
+ILEKFHAL_00256	CDS	rpsS	30S ribosomal protein S19
+ILEKFHAL_00257	CDS	rplB	50S ribosomal protein L2
+ILEKFHAL_00258	CDS	rplW	50S ribosomal protein L23
+ILEKFHAL_00259	CDS	hypothetical protein
+ILEKFHAL_00260	CDS	rplC	50S ribosomal protein L3
+ILEKFHAL_00261	tRNA	tRNA-Lys(ctt)
+ILEKFHAL_00262	CDS	hypothetical protein
+ILEKFHAL_00263	CDS	hypothetical protein
+ILEKFHAL_00264	CDS	hypothetical protein
+ILEKFHAL_00265	CDS	hypothetical protein
+ILEKFHAL_00266	CDS	hypothetical protein
+ILEKFHAL_00267	tRNA	tRNA-Gly(tcc)
+ILEKFHAL_00268	CDS	hypothetical protein
+ILEKFHAL_00269	CDS	ytrA_1	HTH-type transcriptional repressor YtrA
+ILEKFHAL_00270	CDS	hutH	4.3.1.3	Histidine ammonia-lyase
+ILEKFHAL_00271	CDS	thrS	6.1.1.3	Threonine--tRNA ligase
+ILEKFHAL_00272	CDS	carE_2	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarE
+ILEKFHAL_00273	CDS	carD	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarD
+ILEKFHAL_00274	CDS	fixX	Ferredoxin-like protein FixX
+ILEKFHAL_00275	CDS	1.5.5.1	Electron transfer flavoprotein-ubiquinone oxidoreductase
+ILEKFHAL_00276	CDS	pdg	Ultraviolet N-glycosylase/AP lyase
+ILEKFHAL_00277	CDS	selB	Selenocysteine-specific elongation factor
+ILEKFHAL_00278	CDS	hypothetical protein
+ILEKFHAL_00279	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+ILEKFHAL_00280	CDS	3.6.1.9	Non-canonical purine NTP pyrophosphatase
+ILEKFHAL_00281	CDS	hypothetical protein
+ILEKFHAL_00282	CDS	speE	2.5.1.16	Polyamine aminopropyltransferase
+ILEKFHAL_00283	CDS	hup	DNA-binding protein HU
+ILEKFHAL_00284	CDS	mftC	2.-.-.-	Putative mycofactocin radical SAM maturase MftC
+ILEKFHAL_00285	CDS	hypothetical protein
+ILEKFHAL_00286	CDS	ribZ_2	Riboflavin transporter RibZ
+ILEKFHAL_00287	CDS	hypothetical protein
+ILEKFHAL_00288	CDS	hypothetical protein
+ILEKFHAL_00289	CDS	dnaG	2.7.7.-	DNA primase
+ILEKFHAL_00290	CDS	ravA_1	3.6.3.-	ATPase RavA
+ILEKFHAL_00291	CDS	hypothetical protein
+ILEKFHAL_00292	CDS	hypothetical protein
+ILEKFHAL_00293	CDS	hypothetical protein
+ILEKFHAL_00294	CDS	hypothetical protein
+ILEKFHAL_00295	CDS	rlmE	2.1.1.166	Ribosomal RNA large subunit methyltransferase E
+ILEKFHAL_00296	CDS	gcvH	Glycine cleavage system H protein
+ILEKFHAL_00297	CDS	3.1.4.-	RNA 2',3'-cyclic phosphodiesterase
+ILEKFHAL_00298	CDS	hypothetical protein
+ILEKFHAL_00299	CDS	hypothetical protein
+ILEKFHAL_00300	CDS	aroD	4.2.1.10	3-dehydroquinate dehydratase
+ILEKFHAL_00301	CDS	hypothetical protein
+ILEKFHAL_00302	CDS	gapN	1.2.1.9	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+ILEKFHAL_00303	CDS	hypothetical protein
+ILEKFHAL_00304	CDS	hypothetical protein
+ILEKFHAL_00305	CDS	hypothetical protein
+ILEKFHAL_00306	CDS	hypothetical protein
+ILEKFHAL_00307	CDS	hypothetical protein
+ILEKFHAL_00308	CDS	icaA_1	2.4.1.-	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+ILEKFHAL_00309	CDS	hypothetical protein
+ILEKFHAL_00310	CDS	cmoM	2.1.1.-	tRNA 5-carboxymethoxyuridine methyltransferase
+ILEKFHAL_00311	CDS	hypothetical protein
+ILEKFHAL_00312	CDS	hypothetical protein
+ILEKFHAL_00313	CDS	hypothetical protein
+ILEKFHAL_00314	CDS	hypothetical protein
+ILEKFHAL_00315	CDS	hypothetical protein
+ILEKFHAL_00316	CDS	yhdN_1	1.1.1.-	General stress protein 69
+ILEKFHAL_00317	CDS	hypothetical protein
+ILEKFHAL_00318	CDS	hypothetical protein
+ILEKFHAL_00319	CDS	hypothetical protein
+ILEKFHAL_00320	CDS	hsaD	3.7.1.17	4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase
+ILEKFHAL_00321	CDS	4.4.1.11	L-methionine gamma-lyase
+ILEKFHAL_00322	CDS	thrB_1	2.7.1.39	Homoserine kinase
+ILEKFHAL_00323	CDS	hypothetical protein
+ILEKFHAL_00324	CDS	hypothetical protein
+ILEKFHAL_00325	CDS	drrA_1	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+ILEKFHAL_00326	CDS	hypothetical protein
+ILEKFHAL_00327	CDS	hypothetical protein
+ILEKFHAL_00328	CDS	hypothetical protein
+ILEKFHAL_00329	CDS	hypothetical protein
+ILEKFHAL_00330	CDS	hypothetical protein
+ILEKFHAL_00331	CDS	hypothetical protein
+ILEKFHAL_00332	CDS	hypothetical protein
+ILEKFHAL_00333	CDS	hypothetical protein
+ILEKFHAL_00334	CDS	hypothetical protein
+ILEKFHAL_00335	CDS	hypothetical protein
+ILEKFHAL_00336	CDS	hypothetical protein
+ILEKFHAL_00337	CDS	hypothetical protein
+ILEKFHAL_00338	CDS	hypothetical protein
+ILEKFHAL_00339	CDS	hypothetical protein
+ILEKFHAL_00340	tRNA	tRNA-Val(gac)
+ILEKFHAL_00341	CDS	moaE	2.8.1.12	Molybdopterin synthase catalytic subunit
+ILEKFHAL_00342	CDS	moaA	4.1.99.22	GTP 3',8-cyclase
+ILEKFHAL_00343	CDS	moaD	Molybdopterin synthase sulfur carrier subunit
+ILEKFHAL_00344	CDS	moeA_1	2.10.1.1	Molybdopterin molybdenumtransferase
+ILEKFHAL_00345	CDS	moeA_2	2.10.1.1	Molybdopterin molybdenumtransferase
+ILEKFHAL_00346	CDS	moeB_1	2.7.7.80	Molybdopterin-synthase adenylyltransferase
+ILEKFHAL_00347	CDS	mobA_1	2.7.7.77	Molybdenum cofactor guanylyltransferase
+ILEKFHAL_00348	CDS	proP_1	Proline/betaine transporter
+ILEKFHAL_00349	CDS	ydjP_1	3.-.-.-	AB hydrolase superfamily protein YdjP
+ILEKFHAL_00350	CDS	mtnB_1	4.2.1.109	Methylthioribulose-1-phosphate dehydratase
+ILEKFHAL_00351	CDS	bsdC_1	4.1.1.-	Phenolic acid decarboxylase subunit C
+ILEKFHAL_00352	CDS	vdcC_1	4.1.1.-	Phenolic acid decarboxylase subunit C
+ILEKFHAL_00353	CDS	hsaB_1	1.5.1.36	Flavin-dependent monooxygenase, reductase subunit HsaB
+ILEKFHAL_00354	CDS	hypothetical protein
+ILEKFHAL_00355	CDS	hpaH_1	1.14.14.8	Anthranilate 3-monooxygenase oxygenase component
+ILEKFHAL_00356	CDS	hypothetical protein
+ILEKFHAL_00357	CDS	nicF_1	3.5.1.107	Maleamate amidohydrolase
+ILEKFHAL_00358	CDS	hypothetical protein
+ILEKFHAL_00359	CDS	hypothetical protein
+ILEKFHAL_00360	CDS	hypothetical protein
+ILEKFHAL_00361	CDS	hypothetical protein
+ILEKFHAL_00362	CDS	rus	Rusticyanin
+ILEKFHAL_00363	CDS	metC	4.4.1.8	Cystathionine beta-lyase
+ILEKFHAL_00364	CDS	cbs	4.2.1.22	Putative cystathionine beta-synthase
+ILEKFHAL_00365	CDS	hypothetical protein
+ILEKFHAL_00366	CDS	copA	3.6.3.54	Copper-exporting P-type ATPase A
+ILEKFHAL_00367	CDS	actP	3.6.3.4	Copper-transporting P-type ATPase
+ILEKFHAL_00368	CDS	hypothetical protein
+ILEKFHAL_00369	CDS	hypothetical protein
+ILEKFHAL_00370	CDS	hypothetical protein
+ILEKFHAL_00371	CDS	hypothetical protein
+ILEKFHAL_00372	CDS	hypothetical protein
+ILEKFHAL_00373	CDS	ydaP	Putative thiamine pyrophosphate-containing protein YdaP
+ILEKFHAL_00374	CDS	hypothetical protein
+ILEKFHAL_00375	CDS	hypothetical protein
+ILEKFHAL_00376	CDS	lhgO	1.1.3.15	L-2-hydroxyglutarate oxidase LhgO
+ILEKFHAL_00377	CDS	hypothetical protein
+ILEKFHAL_00378	CDS	hypothetical protein
+ILEKFHAL_00379	CDS	hypothetical protein
+ILEKFHAL_00380	CDS	hypothetical protein
+ILEKFHAL_00381	CDS	hypothetical protein
+ILEKFHAL_00382	CDS	colD	2.6.1.54	GDP-4-keto-6-deoxy-D-mannose-3-dehydratase / pyridoxamine-phosphate transaminase
+ILEKFHAL_00383	CDS	hmp_1	1.14.12.17	Flavohemoprotein
+ILEKFHAL_00384	CDS	rfbF	2.7.7.33	Glucose-1-phosphate cytidylyltransferase
+ILEKFHAL_00385	CDS	rfbB_1	4.2.1.46	dTDP-glucose 4,6-dehydratase
+ILEKFHAL_00386	CDS	ilvG	2.2.1.6	Acetolactate synthase isozyme 2 large subunit
+ILEKFHAL_00387	CDS	rfbG	4.2.1.45	CDP-glucose 4,6-dehydratase
+ILEKFHAL_00388	CDS	hypothetical protein
+ILEKFHAL_00389	CDS	galE_1	5.1.3.2	UDP-glucose 4-epimerase
+ILEKFHAL_00390	CDS	hypothetical protein
+ILEKFHAL_00391	CDS	hypothetical protein
+ILEKFHAL_00392	CDS	hypothetical protein
+ILEKFHAL_00393	CDS	hypothetical protein
+ILEKFHAL_00394	CDS	hypothetical protein
+ILEKFHAL_00395	CDS	hypothetical protein
+ILEKFHAL_00396	CDS	hypothetical protein
+ILEKFHAL_00397	CDS	hypothetical protein
+ILEKFHAL_00398	CDS	hypothetical protein
+ILEKFHAL_00399	CDS	hypothetical protein
+ILEKFHAL_00400	CDS	hypothetical protein
+ILEKFHAL_00401	CDS	hypothetical protein
+ILEKFHAL_00402	CDS	hypothetical protein
+ILEKFHAL_00403	CDS	hypothetical protein
+ILEKFHAL_00404	CDS	hypothetical protein
+ILEKFHAL_00405	CDS	hypothetical protein
+ILEKFHAL_00406	CDS	hypothetical protein
+ILEKFHAL_00407	CDS	hypothetical protein
+ILEKFHAL_00408	CDS	hypothetical protein
+ILEKFHAL_00409	CDS	hypothetical protein
+ILEKFHAL_00410	CDS	hypothetical protein
+ILEKFHAL_00411	CDS	hypothetical protein
+ILEKFHAL_00412	CDS	hypothetical protein
+ILEKFHAL_00413	CDS	soxA	1.5.3.1	Monomeric sarcosine oxidase
+ILEKFHAL_00414	CDS	ilvB	2.2.1.6	Acetolactate synthase large subunit
+ILEKFHAL_00415	CDS	apc4	6.4.1.8	Acetophenone carboxylase delta subunit
+ILEKFHAL_00416	CDS	apc3	6.4.1.8	Acetophenone carboxylase gamma subunit
+ILEKFHAL_00417	CDS	yhjE	Inner membrane metabolite transport protein YhjE
+ILEKFHAL_00418	CDS	hypothetical protein
+ILEKFHAL_00419	CDS	yitD	4.4.1.19	Phosphosulfolactate synthase
+ILEKFHAL_00420	CDS	cysH	1.8.4.10	Thioredoxin-dependent 5'-adenylylsulfate reductase
+ILEKFHAL_00421	CDS	sat	2.7.7.4	Sulfate adenylyltransferase
+ILEKFHAL_00422	CDS	hypothetical protein
+ILEKFHAL_00423	CDS	hypothetical protein
+ILEKFHAL_00424	CDS	hypothetical protein
+ILEKFHAL_00425	CDS	tetA_1	Tetracycline resistance protein, class B
+ILEKFHAL_00426	CDS	hypothetical protein
+ILEKFHAL_00427	CDS	rmlA	2.7.7.24	Glucose-1-phosphate thymidylyltransferase
+ILEKFHAL_00428	CDS	rfbD	1.1.1.133	dTDP-4-dehydrorhamnose reductase
+ILEKFHAL_00429	CDS	rfbC	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+ILEKFHAL_00430	CDS	galE_2	5.1.3.2	UDP-glucose 4-epimerase
+ILEKFHAL_00431	CDS	hypothetical protein
+ILEKFHAL_00432	CDS	hypothetical protein
+ILEKFHAL_00433	CDS	hypothetical protein
+ILEKFHAL_00434	CDS	ubiG_1	2.1.1.222	Ubiquinone biosynthesis O-methyltransferase
+ILEKFHAL_00435	CDS	hypothetical protein
+ILEKFHAL_00436	CDS	hypothetical protein
+ILEKFHAL_00437	CDS	hypothetical protein
+ILEKFHAL_00438	CDS	epsD	2.4.-.-	Putative glycosyltransferase EpsD
+ILEKFHAL_00439	CDS	hypothetical protein
+ILEKFHAL_00440	CDS	hypothetical protein
+ILEKFHAL_00441	CDS	hypothetical protein
+ILEKFHAL_00442	CDS	hypothetical protein
+ILEKFHAL_00443	CDS	hypothetical protein
+ILEKFHAL_00444	CDS	hypothetical protein
+ILEKFHAL_00445	CDS	hypothetical protein
+ILEKFHAL_00446	CDS	galE_3	5.1.3.2	UDP-glucose 4-epimerase
+ILEKFHAL_00447	CDS	cmpD	3.6.3.-	Bicarbonate transport ATP-binding protein CmpD
+ILEKFHAL_00448	CDS	3.1.-.-	Ribonuclease
+ILEKFHAL_00449	CDS	mtnP	2.4.2.28	S-methyl-5'-thioadenosine phosphorylase
+ILEKFHAL_00450	CDS	hypothetical protein
+ILEKFHAL_00451	CDS	hypothetical protein
+ILEKFHAL_00452	CDS	pepA	3.4.11.1	Cytosol aminopeptidase
+ILEKFHAL_00453	CDS	ttcA	tRNA 2-thiocytidine biosynthesis protein TtcA
+ILEKFHAL_00454	tRNA	tRNA-Ile(gat)
+ILEKFHAL_00455	CDS	htpX_1	3.4.24.-	Protease HtpX
+ILEKFHAL_00456	CDS	ppaX_1	3.6.1.1	Pyrophosphatase PpaX
+ILEKFHAL_00457	CDS	nrgA	Ammonium transporter NrgA
+ILEKFHAL_00458	CDS	hypothetical protein
+ILEKFHAL_00459	CDS	mshD_1	2.3.1.189	Mycothiol acetyltransferase
+ILEKFHAL_00460	CDS	hypothetical protein
+ILEKFHAL_00461	CDS	hypothetical protein
+ILEKFHAL_00462	CDS	rtcB	6.5.1.-	RNA-splicing ligase RtcB
+ILEKFHAL_00463	CDS	dadD	3.5.4.31	5'-deoxyadenosine deaminase
+ILEKFHAL_00464	CDS	hypothetical protein
+ILEKFHAL_00465	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+ILEKFHAL_00466	CDS	aroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+ILEKFHAL_00467	CDS	thrB_2	2.7.1.39	Homoserine kinase
+ILEKFHAL_00468	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+ILEKFHAL_00469	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+ILEKFHAL_00470	CDS	hypothetical protein
+ILEKFHAL_00471	CDS	drrA_2	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+ILEKFHAL_00472	CDS	pdxT	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxT
+ILEKFHAL_00473	CDS	gcvT	2.1.2.10	Aminomethyltransferase
+ILEKFHAL_00474	CDS	hypothetical protein
+ILEKFHAL_00475	tRNA	tRNA-Ala(tgc)
+ILEKFHAL_00476	CDS	hypothetical protein
+ILEKFHAL_00477	CDS	hypothetical protein
+ILEKFHAL_00478	CDS	hypothetical protein
+ILEKFHAL_00479	CDS	hypothetical protein
+ILEKFHAL_00480	CDS	hypothetical protein
+ILEKFHAL_00481	CDS	hypothetical protein
+ILEKFHAL_00482	CDS	ada_1	Bifunctional transcriptional activator/DNA repair enzyme Ada
+ILEKFHAL_00483	CDS	hypothetical protein
+ILEKFHAL_00484	CDS	hypothetical protein
+ILEKFHAL_00485	CDS	hypothetical protein
+ILEKFHAL_00486	CDS	hypothetical protein
+ILEKFHAL_00487	CDS	hypothetical protein
+ILEKFHAL_00488	CDS	hypothetical protein
+ILEKFHAL_00489	CDS	ubiD_1	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+ILEKFHAL_00490	CDS	plqA	2.5.1.-	4-hydroxybenzoate solanesyltransferase
+ILEKFHAL_00491	CDS	mdtH_1	Multidrug resistance protein MdtH
+ILEKFHAL_00492	CDS	citB	4.2.1.3	Aconitate hydratase A
+ILEKFHAL_00493	CDS	dgoD_1	4.2.1.6	D-galactonate dehydratase
+ILEKFHAL_00494	CDS	hypothetical protein
+ILEKFHAL_00495	CDS	hypothetical protein
+ILEKFHAL_00496	CDS	hypothetical protein
+ILEKFHAL_00497	CDS	fadH	1.3.1.34	putative 2,4-dienoyl-CoA reductase
+ILEKFHAL_00498	tRNA	tRNA-Pro(tgg)
+ILEKFHAL_00499	CDS	hypothetical protein
+ILEKFHAL_00500	CDS	hypothetical protein
+ILEKFHAL_00501	CDS	hypothetical protein
+ILEKFHAL_00502	CDS	PE-PGRS family protein PE_PGRS18
+ILEKFHAL_00503	CDS	hypothetical protein
+ILEKFHAL_00504	CDS	hypothetical protein
+ILEKFHAL_00505	CDS	hypothetical protein
+ILEKFHAL_00506	CDS	hypothetical protein
+ILEKFHAL_00507	CDS	hypothetical protein
+ILEKFHAL_00508	CDS	paiA_1	2.3.1.57	Spermidine/spermine N(1)-acetyltransferase
+ILEKFHAL_00509	CDS	hypothetical protein
+ILEKFHAL_00510	CDS	trxA	Thioredoxin
+ILEKFHAL_00511	CDS	trxB_1	1.8.1.9	Thioredoxin reductase
+ILEKFHAL_00512	CDS	hypothetical protein
+ILEKFHAL_00513	CDS	hypothetical protein
+ILEKFHAL_00514	CDS	aspC	2.6.1.1	Aspartate aminotransferase
+ILEKFHAL_00515	CDS	hypothetical protein
+ILEKFHAL_00516	CDS	hypothetical protein
+ILEKFHAL_00517	CDS	ycgJ	2.1.1.-	putative methyltransferase YcgJ
+ILEKFHAL_00518	CDS	hypothetical protein
+ILEKFHAL_00519	CDS	hypothetical protein
+ILEKFHAL_00520	CDS	hypothetical protein
+ILEKFHAL_00521	CDS	hypothetical protein
+ILEKFHAL_00522	CDS	hypothetical protein
+ILEKFHAL_00523	CDS	hypothetical protein
+ILEKFHAL_00524	CDS	hypothetical protein
+ILEKFHAL_00525	CDS	hypothetical protein
+ILEKFHAL_00526	CDS	hypothetical protein
+ILEKFHAL_00527	CDS	hypothetical protein
+ILEKFHAL_00528	CDS	hypothetical protein
+ILEKFHAL_00529	CDS	hypothetical protein
+ILEKFHAL_00530	CDS	hypothetical protein
+ILEKFHAL_00531	CDS	hypothetical protein
+ILEKFHAL_00532	CDS	hypothetical protein
+ILEKFHAL_00533	CDS	hypothetical protein
+ILEKFHAL_00534	CDS	hypothetical protein
+ILEKFHAL_00535	CDS	hypothetical protein
+ILEKFHAL_00536	CDS	uvrD	3.6.4.12	DNA helicase II
+ILEKFHAL_00537	CDS	ribZ_3	Riboflavin transporter RibZ
+ILEKFHAL_00538	tRNA	tRNA-Ser(cga)
+ILEKFHAL_00539	CDS	asnS_1	6.1.1.22	Asparagine--tRNA ligase
+ILEKFHAL_00540	CDS	asnC_1	Regulatory protein AsnC
+ILEKFHAL_00541	tRNA	tRNA-Ser(gga)
+ILEKFHAL_00542	CDS	udp	2.4.2.3	Uridine phosphorylase
+ILEKFHAL_00543	CDS	ectC	4.2.1.108	L-ectoine synthase
+ILEKFHAL_00544	CDS	hypothetical protein
+ILEKFHAL_00545	CDS	aioB_1	1.20.9.1	Arsenite oxidase subunit AioB
+ILEKFHAL_00546	CDS	qcrB_1	Menaquinol-cytochrome c reductase cytochrome b subunit
+ILEKFHAL_00547	CDS	yceI	Protein YceI
+ILEKFHAL_00548	CDS	yodB	HTH-type transcriptional regulator YodB
+ILEKFHAL_00549	CDS	hypothetical protein
+ILEKFHAL_00550	CDS	sppA	3.4.21.-	Putative signal peptide peptidase SppA
+ILEKFHAL_00551	CDS	hypothetical protein
+ILEKFHAL_00552	CDS	hypothetical protein
+ILEKFHAL_00553	CDS	hypothetical protein
+ILEKFHAL_00554	CDS	hypothetical protein
+ILEKFHAL_00555	CDS	hypothetical protein
+ILEKFHAL_00556	CDS	hypothetical protein
+ILEKFHAL_00557	CDS	gsiC	Glutathione transport system permease protein GsiC
+ILEKFHAL_00558	CDS	gsiD	Glutathione transport system permease protein GsiD
+ILEKFHAL_00559	CDS	oppD	Oligopeptide transport ATP-binding protein OppD
+ILEKFHAL_00560	CDS	oppF	Oligopeptide transport ATP-binding protein OppF
+ILEKFHAL_00561	CDS	hypothetical protein
+ILEKFHAL_00562	CDS	hypothetical protein
+ILEKFHAL_00563	CDS	dppE	Dipeptide-binding protein DppE
+ILEKFHAL_00564	CDS	hypothetical protein
+ILEKFHAL_00565	CDS	hypothetical protein
+ILEKFHAL_00566	CDS	korB_1	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorB
+ILEKFHAL_00567	CDS	korA_1	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+ILEKFHAL_00568	CDS	hypothetical protein
+ILEKFHAL_00569	CDS	aspA	4.3.1.1	Aspartate ammonia-lyase
+ILEKFHAL_00570	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+ILEKFHAL_00571	CDS	hypothetical protein
+ILEKFHAL_00572	CDS	hutI	3.5.2.7	Imidazolonepropionase
+ILEKFHAL_00573	CDS	hypothetical protein
+ILEKFHAL_00574	CDS	garR_1	1.1.1.60	2-hydroxy-3-oxopropionate reductase
+ILEKFHAL_00575	CDS	yycJ_1	3.-.-.-	Putative metallo-hydrolase YycJ
+ILEKFHAL_00576	CDS	hypothetical protein
+ILEKFHAL_00577	CDS	glpQ_1	3.1.4.46	Glycerophosphodiester phosphodiesterase
+ILEKFHAL_00578	CDS	hypothetical protein
+ILEKFHAL_00579	CDS	hypothetical protein
+ILEKFHAL_00580	CDS	hypothetical protein
+ILEKFHAL_00581	CDS	hypothetical protein
+ILEKFHAL_00582	CDS	hypothetical protein
+ILEKFHAL_00583	CDS	hypothetical protein
+ILEKFHAL_00584	CDS	hypothetical protein
+ILEKFHAL_00585	CDS	natA_1	ABC transporter ATP-binding protein NatA
+ILEKFHAL_00586	CDS	hypothetical protein
+ILEKFHAL_00587	CDS	hypothetical protein
+ILEKFHAL_00588	CDS	hypothetical protein
+ILEKFHAL_00589	CDS	hypothetical protein
+ILEKFHAL_00590	CDS	hypothetical protein
+ILEKFHAL_00591	CDS	hypothetical protein
+ILEKFHAL_00592	CDS	pyrE_1	2.4.2.10	Orotate phosphoribosyltransferase
+ILEKFHAL_00593	CDS	ftsZ_1	Cell division protein FtsZ
+ILEKFHAL_00594	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+ILEKFHAL_00595	CDS	hypothetical protein
+ILEKFHAL_00596	CDS	hypothetical protein
+ILEKFHAL_00597	CDS	pacL	3.6.3.8	Calcium-transporting ATPase
+ILEKFHAL_00598	CDS	hypothetical protein
+ILEKFHAL_00599	CDS	cobD_1	Cobalamin biosynthesis protein CobD
+ILEKFHAL_00600	CDS	hypothetical protein
+ILEKFHAL_00601	CDS	cobQ	Cobyric acid synthase
+ILEKFHAL_00602	CDS	cobD_2	4.1.1.81	Threonine-phosphate decarboxylase
+ILEKFHAL_00603	CDS	dapA_1	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+ILEKFHAL_00604	CDS	hypothetical protein
+ILEKFHAL_00605	CDS	cugP	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+ILEKFHAL_00606	CDS	hypothetical protein
+ILEKFHAL_00607	CDS	hypothetical protein
+ILEKFHAL_00608	CDS	hypothetical protein
+ILEKFHAL_00609	CDS	hypothetical protein
+ILEKFHAL_00610	CDS	hypothetical protein
+ILEKFHAL_00611	CDS	hypothetical protein
+ILEKFHAL_00612	CDS	hypothetical protein
+ILEKFHAL_00613	CDS	hypothetical protein
+ILEKFHAL_00614	CDS	cga_1	3.2.1.3	Glucoamylase
+ILEKFHAL_00615	CDS	treY	5.4.99.15	Maltooligosyl trehalose synthase
+ILEKFHAL_00616	CDS	treZ	3.2.1.141	Malto-oligosyltrehalose trehalohydrolase
+ILEKFHAL_00617	CDS	glgX	3.2.1.-	Glycogen operon protein GlgX 
+ILEKFHAL_00618	CDS	mak1	2.7.1.175	Maltokinase
+ILEKFHAL_00619	CDS	treS	3.2.1.1	Trehalose synthase/amylase TreS
+ILEKFHAL_00620	CDS	glgE1	2.4.99.16	Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase 1
+ILEKFHAL_00621	CDS	glgB	2.4.1.18	1,4-alpha-glucan branching enzyme GlgB
+ILEKFHAL_00622	CDS	hypothetical protein
+ILEKFHAL_00623	CDS	hypothetical protein
+ILEKFHAL_00624	CDS	dapA_2	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+ILEKFHAL_00625	CDS	Putative ribosomal protein L7Ae-like protein
+ILEKFHAL_00626	CDS	hypothetical protein
+ILEKFHAL_00627	CDS	hypothetical protein
+ILEKFHAL_00628	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+ILEKFHAL_00629	CDS	infB	Translation initiation factor IF-2
+ILEKFHAL_00630	CDS	yrbG	Inner membrane protein YrbG
+ILEKFHAL_00631	CDS	speH	4.1.1.50	S-adenosylmethionine decarboxylase proenzyme
+ILEKFHAL_00632	CDS	hypothetical protein
+ILEKFHAL_00633	CDS	hypothetical protein
+ILEKFHAL_00634	CDS	thiE	2.5.1.3	Thiamine-phosphate synthase
+ILEKFHAL_00635	CDS	hypE	Hydrogenase isoenzymes formation protein HypE
+ILEKFHAL_00636	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+ILEKFHAL_00637	CDS	lipB_1	2.3.1.181	Octanoyltransferase
+ILEKFHAL_00638	CDS	rocA1	1.2.1.88	1-pyrroline-5-carboxylate dehydrogenase 1
+ILEKFHAL_00639	CDS	polX	DNA polymerase/3'-5' exonuclease PolX
+ILEKFHAL_00640	CDS	1.1.1.-	NADP-dependent 7-alpha-hydroxysteroid dehydrogenase
+ILEKFHAL_00641	CDS	hypothetical protein
+ILEKFHAL_00642	CDS	hypothetical protein
+ILEKFHAL_00643	CDS	yneB_1	Resolvase  YneB
+ILEKFHAL_00644	CDS	yxlF_4	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+ILEKFHAL_00645	CDS	hypothetical protein
+ILEKFHAL_00646	CDS	hypothetical protein
+ILEKFHAL_00647	CDS	hypothetical protein
+ILEKFHAL_00648	CDS	hypothetical protein
+ILEKFHAL_00649	CDS	hypothetical protein
+ILEKFHAL_00650	CDS	hypothetical protein
+ILEKFHAL_00651	CDS	hypothetical protein
+ILEKFHAL_00652	tRNA	tRNA-Ala(ggc)
+ILEKFHAL_00653	CDS	ptlH_1	Type IV secretion system protein PtlH
+ILEKFHAL_00654	CDS	hypothetical protein
+ILEKFHAL_00655	CDS	hypothetical protein
+ILEKFHAL_00656	CDS	ptlH_2	Type IV secretion system protein PtlH
+ILEKFHAL_00657	CDS	nhaP	K(+)/H(+) antiporter NhaP
+ILEKFHAL_00658	CDS	nadE	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+ILEKFHAL_00659	CDS	folD	Bifunctional protein FolD protein
+ILEKFHAL_00660	CDS	tdh	1.1.1.103	L-threonine 3-dehydrogenase
+ILEKFHAL_00661	CDS	hypothetical protein
+ILEKFHAL_00662	CDS	yneB_2	Resolvase  YneB
+ILEKFHAL_00663	CDS	hypothetical protein
+ILEKFHAL_00664	CDS	hypothetical protein
+ILEKFHAL_00665	CDS	hypothetical protein
+ILEKFHAL_00666	CDS	recF	DNA replication and repair protein RecF
+ILEKFHAL_00667	CDS	hypothetical protein
+ILEKFHAL_00668	CDS	hypothetical protein
+ILEKFHAL_00669	CDS	hypothetical protein
+ILEKFHAL_00670	CDS	hypothetical protein
+ILEKFHAL_00671	CDS	hypothetical protein
+ILEKFHAL_00672	CDS	hypothetical protein
+ILEKFHAL_00673	CDS	hypothetical protein
+ILEKFHAL_00674	CDS	hypothetical protein
+ILEKFHAL_00675	CDS	hypothetical protein
+ILEKFHAL_00676	CDS	hypothetical protein
+ILEKFHAL_00677	CDS	hypothetical protein
+ILEKFHAL_00678	CDS	hypothetical protein
+ILEKFHAL_00679	CDS	fokIM	2.1.1.72	Modification methylase FokI
+ILEKFHAL_00680	CDS	hypothetical protein
+ILEKFHAL_00681	CDS	hypothetical protein
+ILEKFHAL_00682	CDS	hypothetical protein
+ILEKFHAL_00683	CDS	hypothetical protein
+ILEKFHAL_00684	CDS	hypothetical protein
+ILEKFHAL_00685	CDS	hypothetical protein
+ILEKFHAL_00686	CDS	hypothetical protein
+ILEKFHAL_00687	CDS	hypothetical protein
+ILEKFHAL_00688	CDS	hypothetical protein
+ILEKFHAL_00689	tRNA	tRNA-Arg(tcg)
+ILEKFHAL_00690	CDS	hypothetical protein
+ILEKFHAL_00691	CDS	hypothetical protein
+ILEKFHAL_00692	CDS	hypothetical protein
+ILEKFHAL_00693	CDS	asrB	Anaerobic sulfite reductase subunit B
+ILEKFHAL_00694	CDS	pyrDB	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+ILEKFHAL_00695	CDS	hypothetical protein
+ILEKFHAL_00696	CDS	hypothetical protein
+ILEKFHAL_00697	CDS	kdpC	Potassium-transporting ATPase KdpC subunit
+ILEKFHAL_00698	CDS	kdpB	3.6.3.12	Potassium-transporting ATPase ATP-binding subunit
+ILEKFHAL_00699	CDS	kdpA	Potassium-transporting ATPase potassium-binding subunit
+ILEKFHAL_00700	CDS	hypothetical protein
+ILEKFHAL_00701	CDS	hypothetical protein
+ILEKFHAL_00702	CDS	moeB_2	2.7.7.80	Molybdopterin-synthase adenylyltransferase
+ILEKFHAL_00703	CDS	mobA_2	2.7.7.77	Molybdenum cofactor guanylyltransferase
+ILEKFHAL_00704	CDS	proP_2	Proline/betaine transporter
+ILEKFHAL_00705	CDS	ydjP_2	3.-.-.-	AB hydrolase superfamily protein YdjP
+ILEKFHAL_00706	CDS	mtnB_2	4.2.1.109	Methylthioribulose-1-phosphate dehydratase
+ILEKFHAL_00707	CDS	bsdC_2	4.1.1.-	Phenolic acid decarboxylase subunit C
+ILEKFHAL_00708	CDS	vdcC_2	4.1.1.-	Phenolic acid decarboxylase subunit C
+ILEKFHAL_00709	CDS	hsaB_2	1.5.1.36	Flavin-dependent monooxygenase, reductase subunit HsaB
+ILEKFHAL_00710	CDS	hypothetical protein
+ILEKFHAL_00711	CDS	hpaH_2	1.14.14.8	Anthranilate 3-monooxygenase oxygenase component
+ILEKFHAL_00712	CDS	hypothetical protein
+ILEKFHAL_00713	CDS	nicF_2	3.5.1.107	Maleamate amidohydrolase
+ILEKFHAL_00714	CDS	ubiD_2	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+ILEKFHAL_00715	CDS	hypothetical protein
+ILEKFHAL_00716	CDS	ubiX	2.5.1.129	Flavin prenyltransferase UbiX
+ILEKFHAL_00717	CDS	kynB_2	3.5.1.9	Kynurenine formamidase
+ILEKFHAL_00718	CDS	hypothetical protein
+ILEKFHAL_00719	CDS	hypothetical protein
+ILEKFHAL_00720	CDS	coxS	1.2.5.3	Carbon monoxide dehydrogenase small chain
+ILEKFHAL_00721	CDS	kdhA	1.5.99.14	6-hydroxypseudooxynicotine dehydrogenase complex subunit alpha
+ILEKFHAL_00722	CDS	cdhA_1	1.17.5.2	Caffeine dehydrogenase subunit alpha
+ILEKFHAL_00723	CDS	hypothetical protein
+ILEKFHAL_00724	CDS	yjhB	Putative metabolite transport protein YjhB
+ILEKFHAL_00725	CDS	hypothetical protein
+ILEKFHAL_00726	CDS	hypothetical protein
+ILEKFHAL_00727	CDS	hypothetical protein
+ILEKFHAL_00728	CDS	hypothetical protein
+ILEKFHAL_00729	CDS	hypothetical protein
+ILEKFHAL_00730	CDS	nanT	Putative sialic acid transporter
+ILEKFHAL_00731	CDS	hypothetical protein
+ILEKFHAL_00732	CDS	rutB	3.5.1.110	Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+ILEKFHAL_00733	CDS	hypothetical protein
+ILEKFHAL_00734	CDS	hypothetical protein
+ILEKFHAL_00735	CDS	vdcC_3	4.1.1.-	Phenolic acid decarboxylase subunit C
+ILEKFHAL_00736	CDS	moaB	Molybdenum cofactor biosynthesis protein B
+ILEKFHAL_00737	CDS	moaC2	4.6.1.17	Cyclic pyranopterin monophosphate synthase 2
+ILEKFHAL_00738	CDS	3.5.1.26	N(4)-(Beta-N-acetylglucosaminyl)-L-asparaginase
+ILEKFHAL_00739	CDS	egsA	1.1.1.261	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+ILEKFHAL_00740	CDS	hypothetical protein
+ILEKFHAL_00741	CDS	ychF	Ribosome-binding ATPase YchF
+ILEKFHAL_00742	CDS	rpsL	30S ribosomal protein S12
+ILEKFHAL_00743	CDS	rpsG	30S ribosomal protein S7
+ILEKFHAL_00744	CDS	hypothetical protein
+ILEKFHAL_00745	CDS	2.5.-.-	Deoxyhypusine synthase-like protein
+ILEKFHAL_00746	CDS	hypothetical protein
+ILEKFHAL_00747	CDS	1.5.1.49	Delta(1)-pyrroline-2-carboxylate reductase
+ILEKFHAL_00748	CDS	hypothetical protein
+ILEKFHAL_00749	CDS	hypothetical protein
+ILEKFHAL_00750	CDS	hypothetical protein
+ILEKFHAL_00751	CDS	hypothetical protein
+ILEKFHAL_00752	CDS	mhqR	HTH-type transcriptional regulator MhqR
+ILEKFHAL_00753	CDS	hypothetical protein
+ILEKFHAL_00754	CDS	hypothetical protein
+ILEKFHAL_00755	CDS	hypothetical protein
+ILEKFHAL_00756	CDS	hypothetical protein
+ILEKFHAL_00757	CDS	nhaX	Stress response protein NhaX
+ILEKFHAL_00758	CDS	3.6.3.8	Calcium-transporting ATPase 1
+ILEKFHAL_00759	CDS	2.1.1.315	27-O-demethylrifamycin SV methyltransferase
+ILEKFHAL_00760	CDS	hypothetical protein
+ILEKFHAL_00761	CDS	acs	6.2.1.1	Acetyl-coenzyme A synthetase
+ILEKFHAL_00762	CDS	tag	3.2.2.20	DNA-3-methyladenine glycosylase 1
+ILEKFHAL_00763	CDS	dgoD_2	4.2.1.6	D-galactonate dehydratase
+ILEKFHAL_00764	CDS	putative HTH-type transcriptional regulator
+ILEKFHAL_00765	CDS	hypothetical protein
+ILEKFHAL_00766	CDS	hypothetical protein
+ILEKFHAL_00767	CDS	bcd	1.3.8.1	Acyl-CoA dehydrogenase, short-chain specific
+ILEKFHAL_00768	CDS	hypothetical protein
+ILEKFHAL_00769	CDS	hypothetical protein
+ILEKFHAL_00770	CDS	hypothetical protein
+ILEKFHAL_00771	CDS	hypothetical protein
+ILEKFHAL_00772	tRNA	tRNA-Ser(tga)
+repeat_region
+ILEKFHAL_00773	CDS	hypothetical protein
+ILEKFHAL_00774	CDS	hypothetical protein
+ILEKFHAL_00775	CDS	garR_2	1.1.1.60	2-hydroxy-3-oxopropionate reductase
+ILEKFHAL_00776	CDS	yycJ_2	3.-.-.-	Putative metallo-hydrolase YycJ
+ILEKFHAL_00777	CDS	hypothetical protein
+ILEKFHAL_00778	CDS	glpQ_2	3.1.4.46	Glycerophosphodiester phosphodiesterase
+ILEKFHAL_00779	CDS	hypothetical protein
+ILEKFHAL_00780	CDS	hypothetical protein
+ILEKFHAL_00781	CDS	hypothetical protein
+ILEKFHAL_00782	CDS	prsA1	5.2.1.8	Foldase protein PrsA 1
+ILEKFHAL_00783	CDS	hypothetical protein
+ILEKFHAL_00784	CDS	hypothetical protein
+ILEKFHAL_00785	CDS	frdB_1	1.3.5.1	Fumarate reductase iron-sulfur subunit
+ILEKFHAL_00786	CDS	frdA	1.3.5.4	Fumarate reductase flavoprotein subunit
+ILEKFHAL_00787	CDS	stp	Multidrug resistance protein Stp
+ILEKFHAL_00788	CDS	fabG_1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ILEKFHAL_00789	CDS	hypothetical protein
+ILEKFHAL_00790	CDS	merA	1.16.1.1	Mercuric reductase
+ILEKFHAL_00791	CDS	hypothetical protein
+ILEKFHAL_00792	CDS	hxlR	HTH-type transcriptional activator HxlR
+ILEKFHAL_00793	CDS	hypothetical protein
+ILEKFHAL_00794	CDS	hypothetical protein
+ILEKFHAL_00795	CDS	yqjI_2	Transcriptional regulator YqjI
+ILEKFHAL_00796	CDS	hypothetical protein
+ILEKFHAL_00797	CDS	vapC_2	3.1.-.-	tRNA(fMet)-specific endonuclease VapC
+ILEKFHAL_00798	CDS	hypothetical protein
+ILEKFHAL_00799	CDS	hypothetical protein
+ILEKFHAL_00800	CDS	hypothetical protein
+ILEKFHAL_00801	CDS	hypothetical protein
+ILEKFHAL_00802	CDS	hypothetical protein
+ILEKFHAL_00803	CDS	hypothetical protein
+ILEKFHAL_00804	CDS	hypothetical protein
+ILEKFHAL_00805	CDS	hypothetical protein
+ILEKFHAL_00806	tRNA	tRNA-Ala(cgc)
+ILEKFHAL_00807	CDS	dnaX	2.7.7.7	DNA polymerase III subunit gamma/tau
+ILEKFHAL_00808	CDS	purN	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+ILEKFHAL_00809	CDS	hypothetical protein
+ILEKFHAL_00810	CDS	pcaF_2	2.3.1.174	Beta-ketoadipyl-CoA thiolase
+ILEKFHAL_00811	CDS	mvaS	2.3.3.10	Hydroxymethylglutaryl-CoA synthase
+ILEKFHAL_00812	CDS	hypothetical protein
+ILEKFHAL_00813	CDS	hypothetical protein
+ILEKFHAL_00814	CDS	alaS_1	6.1.1.7	Alanine--tRNA ligase
+ILEKFHAL_00815	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+ILEKFHAL_00816	CDS	trxB_2	1.8.1.9	Thioredoxin reductase
+ILEKFHAL_00817	CDS	csbC_2	putative metabolite transport protein CsbC
+ILEKFHAL_00818	CDS	carC	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarC
+ILEKFHAL_00819	CDS	mmgC_1	1.3.99.-	Acyl-CoA dehydrogenase
+ILEKFHAL_00820	CDS	thlA_1	2.3.1.9	Acetyl-CoA acetyltransferase
+ILEKFHAL_00821	CDS	lutA	Lactate utilization protein A
+ILEKFHAL_00822	CDS	hypothetical protein
+ILEKFHAL_00823	CDS	etfB	Electron transfer flavoprotein subunit beta
+ILEKFHAL_00824	CDS	carE_3	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarE
+ILEKFHAL_00825	CDS	hypothetical protein
+ILEKFHAL_00826	CDS	mctP	Monocarboxylate transport permease protein
+ILEKFHAL_00827	CDS	vioD	4.2.1.145	Capreomycidine synthase
+ILEKFHAL_00828	CDS	lipA	2.8.1.8	Lipoyl synthase
+ILEKFHAL_00829	CDS	bfmBAA	1.2.4.4	2-oxoisovalerate dehydrogenase subunit alpha
+ILEKFHAL_00830	CDS	1.2.4.4	2-oxoisovalerate dehydrogenase subunit beta
+ILEKFHAL_00831	CDS	pdhC	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+ILEKFHAL_00832	CDS	pdhD	1.8.1.4	Dihydrolipoyl dehydrogenase
+ILEKFHAL_00833	CDS	lipB_2	2.3.1.181	Octanoyltransferase
+ILEKFHAL_00834	CDS	yvqK	2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+ILEKFHAL_00835	CDS	hypothetical protein
+ILEKFHAL_00836	CDS	hypothetical protein
+ILEKFHAL_00837	CDS	exuT_1	Hexuronate transporter
+ILEKFHAL_00838	CDS	hypothetical protein
+ILEKFHAL_00839	CDS	sdpR	Transcriptional repressor SdpR
+ILEKFHAL_00840	CDS	hypothetical protein
+ILEKFHAL_00841	CDS	hypothetical protein
+ILEKFHAL_00842	CDS	menC	4.2.1.113	o-succinylbenzoate synthase
+ILEKFHAL_00843	CDS	cpg2	3.4.17.11	Carboxypeptidase G2
+ILEKFHAL_00844	CDS	ydjE_2	Inner membrane metabolite transport protein YdjE
+ILEKFHAL_00845	CDS	DmdB	4.2.1.85	2,3-dimethylmalate dehydratase small subunit
+ILEKFHAL_00846	CDS	hacA	4.2.1.36	Homoaconitase large subunit
+ILEKFHAL_00847	CDS	hypothetical protein
+ILEKFHAL_00848	CDS	ifcA	1.3.5.4	Fumarate reductase flavoprotein subunit
+ILEKFHAL_00849	CDS	leuA	2.3.3.13	2-isopropylmalate synthase
+ILEKFHAL_00850	CDS	smtA	2.8.3.22	Succinyl-CoA--L-malate CoA-transferase alpha subunit
+ILEKFHAL_00851	CDS	hypothetical protein
+ILEKFHAL_00852	tRNA	tRNA-Phe(gaa)
+ILEKFHAL_00853	CDS	hypothetical protein
+ILEKFHAL_00854	CDS	hypothetical protein
+ILEKFHAL_00855	CDS	hypothetical protein
+ILEKFHAL_00856	tRNA	tRNA-Gln(ttg)
+ILEKFHAL_00857	CDS	Ferredoxin-2
+ILEKFHAL_00858	CDS	purM	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+ILEKFHAL_00859	CDS	hypothetical protein
+ILEKFHAL_00860	CDS	hypothetical protein
+ILEKFHAL_00861	CDS	hypothetical protein
+ILEKFHAL_00862	CDS	hypothetical protein
+ILEKFHAL_00863	CDS	hypothetical protein
+ILEKFHAL_00864	CDS	hypothetical protein
+ILEKFHAL_00865	CDS	hypothetical protein
+ILEKFHAL_00866	CDS	hypothetical protein
+ILEKFHAL_00867	CDS	apbC	Iron-sulfur cluster carrier protein
+ILEKFHAL_00868	CDS	exuT_2	Hexuronate transporter
+ILEKFHAL_00869	CDS	hypothetical protein
+ILEKFHAL_00870	CDS	1.-.-.-	putative FAD-linked oxidoreductase
+ILEKFHAL_00871	CDS	hypothetical protein
+ILEKFHAL_00872	CDS	putative HIT-like protein
+ILEKFHAL_00873	CDS	pyrE_2	2.4.2.10	Orotate phosphoribosyltransferase
+ILEKFHAL_00874	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+ILEKFHAL_00875	CDS	hypothetical protein
+ILEKFHAL_00876	CDS	hypothetical protein
+ILEKFHAL_00877	CDS	hypothetical protein
+ILEKFHAL_00878	CDS	hypothetical protein
+ILEKFHAL_00879	CDS	hypothetical protein
+ILEKFHAL_00880	CDS	hutU	4.2.1.49	Urocanate hydratase
+ILEKFHAL_00881	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+ILEKFHAL_00882	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+ILEKFHAL_00883	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+ILEKFHAL_00884	CDS	puuC	1.2.1.5	Aldehyde dehydrogenase PuuC
+ILEKFHAL_00885	CDS	hypothetical protein
+ILEKFHAL_00886	CDS	hypothetical protein
+ILEKFHAL_00887	CDS	hypothetical protein
+ILEKFHAL_00888	CDS	hypothetical protein
+ILEKFHAL_00889	CDS	hypothetical protein
+ILEKFHAL_00890	CDS	hypothetical protein
+ILEKFHAL_00891	CDS	hypothetical protein
+ILEKFHAL_00892	CDS	hypothetical protein
+ILEKFHAL_00893	CDS	hypothetical protein
+ILEKFHAL_00894	CDS	mqnD	4.1.-.-	1,4-dihydroxy-6-naphtoate synthase
+ILEKFHAL_00895	CDS	arcC2	2.7.2.2	Carbamate kinase 2
+ILEKFHAL_00896	CDS	gpt	2.4.2.22	Xanthine phosphoribosyltransferase
+ILEKFHAL_00897	CDS	hflK	Modulator of FtsH protease HflK
+ILEKFHAL_00898	CDS	rsmA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+ILEKFHAL_00899	CDS	hypothetical protein
+ILEKFHAL_00900	CDS	hypothetical protein
+ILEKFHAL_00901	CDS	hypothetical protein
+ILEKFHAL_00902	CDS	hypothetical protein
+ILEKFHAL_00903	CDS	hypothetical protein
+ILEKFHAL_00904	CDS	rph_1	2.7.7.56	Ribonuclease PH
+ILEKFHAL_00905	CDS	rph_2	2.7.7.56	Ribonuclease PH
+ILEKFHAL_00906	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+ILEKFHAL_00907	CDS	hypothetical protein
+ILEKFHAL_00908	CDS	hypothetical protein
+ILEKFHAL_00909	CDS	hypothetical protein
+ILEKFHAL_00910	CDS	hypothetical protein
+ILEKFHAL_00911	CDS	hypothetical protein
+ILEKFHAL_00912	CDS	prcB_1	3.4.25.1	Proteasome subunit beta
+ILEKFHAL_00913	CDS	hypothetical protein
+ILEKFHAL_00914	CDS	hypothetical protein
+ILEKFHAL_00915	CDS	hypothetical protein
+ILEKFHAL_00916	CDS	ybhF	putative ABC transporter ATP-binding protein YbhF
+ILEKFHAL_00917	CDS	hypothetical protein
+ILEKFHAL_00918	CDS	hypothetical protein
+ILEKFHAL_00919	CDS	hypothetical protein
+ILEKFHAL_00920	CDS	camD	1.1.1.327	5-exo-hydroxycamphor dehydrogenase
+ILEKFHAL_00921	CDS	gabD	1.2.1.79	Succinate-semialdehyde dehydrogenase [NADP(+)]
+ILEKFHAL_00922	CDS	attM	3.1.1.81	N-acyl homoserine lactonase AttM
+ILEKFHAL_00923	CDS	hypothetical protein
+ILEKFHAL_00924	CDS	kynB_3	3.5.1.9	Kynurenine formamidase
+ILEKFHAL_00925	CDS	suyB_1	4.4.1.24	(2R)-sulfolactate sulfo-lyase subunit beta
+ILEKFHAL_00926	CDS	uxaA_1	4.2.1.7	Altronate dehydratase
+ILEKFHAL_00927	CDS	hypothetical protein
+ILEKFHAL_00928	CDS	naiP_1	Putative niacin/nicotinamide transporter NaiP
+ILEKFHAL_00929	CDS	fabG_2	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ILEKFHAL_00930	CDS	hypothetical protein
+ILEKFHAL_00931	CDS	hypothetical protein
+ILEKFHAL_00932	CDS	cysB	HTH-type transcriptional regulator CysB
+ILEKFHAL_00933	CDS	hypothetical protein
+ILEKFHAL_00934	CDS	hypothetical protein
+ILEKFHAL_00935	tRNA	tRNA-Leu(gag)
+ILEKFHAL_00936	CDS	hypothetical protein
+ILEKFHAL_00937	CDS	hypothetical protein
+ILEKFHAL_00938	CDS	hypothetical protein
+ILEKFHAL_00939	CDS	hypothetical protein
+ILEKFHAL_00940	CDS	hypothetical protein
+ILEKFHAL_00941	CDS	eno	4.2.1.11	Enolase
+ILEKFHAL_00942	CDS	caiE	Carnitine operon protein CaiE
+ILEKFHAL_00943	CDS	adoK	2.7.1.20	Adenosine kinase
+ILEKFHAL_00944	CDS	3.6.3.8	Calcium-transporting ATPase 1
+ILEKFHAL_00945	CDS	cobS	2.7.8.26	Adenosylcobinamide-GDP ribazoletransferase
+ILEKFHAL_00946	CDS	hypothetical protein
+ILEKFHAL_00947	CDS	lon2	3.4.21.53	Lon protease 2
+ILEKFHAL_00948	CDS	hypothetical protein
+ILEKFHAL_00949	CDS	ilvE_1	2.6.1.42	Branched-chain-amino-acid aminotransferase
+ILEKFHAL_00950	CDS	aroC	4.2.3.5	Chorismate synthase
+ILEKFHAL_00951	CDS	hypothetical protein
+ILEKFHAL_00952	CDS	2.4.1.337	Alpha-monoglucosyldiacylglycerol synthase
+ILEKFHAL_00953	CDS	hypothetical protein
+ILEKFHAL_00954	CDS	hypothetical protein
+ILEKFHAL_00955	CDS	alaS_2	6.1.1.7	Alanine--tRNA ligase
+ILEKFHAL_00956	CDS	hypothetical protein
+ILEKFHAL_00957	CDS	hypothetical protein
+ILEKFHAL_00958	CDS	hypothetical protein
+ILEKFHAL_00959	CDS	hbd_2	1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase
+ILEKFHAL_00960	CDS	Epimerase family protein
+ILEKFHAL_00961	CDS	mboIIM_2	2.1.1.72	Modification methylase MboII
+ILEKFHAL_00962	CDS	hypothetical protein
+ILEKFHAL_00963	CDS	hypothetical protein
+ILEKFHAL_00964	CDS	hypothetical protein
+ILEKFHAL_00965	CDS	aidB	1.3.99.-	Putative acyl-CoA dehydrogenase AidB
+ILEKFHAL_00966	CDS	yjeH	L-methionine/branched-chain amino acid exporter YjeH
+ILEKFHAL_00967	CDS	ada_2	Bifunctional transcriptional activator/DNA repair enzyme Ada
+ILEKFHAL_00968	CDS	hypothetical protein
+ILEKFHAL_00969	tRNA	tRNA-Arg(gcg)
+ILEKFHAL_00970	CDS	hypothetical protein
+ILEKFHAL_00971	CDS	btuF_1	Vitamin B12-binding protein
+ILEKFHAL_00972	CDS	hypothetical protein
+ILEKFHAL_00973	CDS	ligB	6.5.1.1	DNA ligase B
+ILEKFHAL_00974	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+ILEKFHAL_00975	CDS	hypothetical protein
+ILEKFHAL_00976	CDS	fabG_3	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ILEKFHAL_00977	CDS	valS_2	6.1.1.9	Valine--tRNA ligase
+ILEKFHAL_00978	CDS	pdaD	4.1.1.19	Pyruvoyl-dependent arginine decarboxylase
+ILEKFHAL_00979	CDS	Protein archease
+ILEKFHAL_00980	CDS	moaA1	4.1.99.22	GTP 3',8-cyclase 1
+ILEKFHAL_00981	tRNA	tRNA-Gly(gcc)
+ILEKFHAL_00982	CDS	arsA	3.6.3.16	Arsenical pump-driving ATPase
+ILEKFHAL_00983	CDS	galM	5.1.3.3	Aldose 1-epimerase
+ILEKFHAL_00984	CDS	hypothetical protein
+ILEKFHAL_00985	CDS	btrK	4.1.1.95	L-glutamyl-[BtrI acyl-carrier protein] decarboxylase
+ILEKFHAL_00986	CDS	hypothetical protein
+ILEKFHAL_00987	CDS	hypothetical protein
+ILEKFHAL_00988	CDS	1.1.1.38	NAD-dependent malic enzyme
+ILEKFHAL_00989	CDS	ypeA	2.3.1.-	Acetyltransferase YpeA
+ILEKFHAL_00990	CDS	hypothetical protein
+ILEKFHAL_00991	CDS	hypothetical protein
+ILEKFHAL_00992	CDS	yabJ	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+ILEKFHAL_00993	CDS	hypothetical protein
+ILEKFHAL_00994	CDS	hypothetical protein
+ILEKFHAL_00995	CDS	hicB_1	Antitoxin HicB
+ILEKFHAL_00996	CDS	hypothetical protein
+ILEKFHAL_00997	CDS	hypothetical protein
+ILEKFHAL_00998	CDS	hypothetical protein
+ILEKFHAL_00999	CDS	hypothetical protein
+ILEKFHAL_01000	CDS	hypothetical protein
+ILEKFHAL_01001	tRNA	tRNA-Arg(ccg)
+ILEKFHAL_01002	CDS	hypothetical protein
+ILEKFHAL_01003	CDS	hypothetical protein
+ILEKFHAL_01004	CDS	mapZ	Mid-cell-anchored protein Z
+ILEKFHAL_01005	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+ILEKFHAL_01006	CDS	hypothetical protein
+ILEKFHAL_01007	CDS	pcp_1	3.4.21.100	Pseudomonalisin
+ILEKFHAL_01008	CDS	hypothetical protein
+ILEKFHAL_01009	CDS	hypothetical protein
+ILEKFHAL_01010	CDS	hypothetical protein
+ILEKFHAL_01011	CDS	hypothetical protein
+ILEKFHAL_01012	CDS	hypothetical protein
+ILEKFHAL_01013	CDS	hypothetical protein
+ILEKFHAL_01014	CDS	hypothetical protein
+ILEKFHAL_01015	CDS	hypothetical protein
+ILEKFHAL_01016	CDS	puuP	Putrescine importer PuuP
+ILEKFHAL_01017	tRNA	tRNA-Pro(ggg)
+ILEKFHAL_01018	CDS	hypothetical protein
+ILEKFHAL_01019	CDS	rpsI	30S ribosomal protein S9
+ILEKFHAL_01020	CDS	rplM	50S ribosomal protein L13
+ILEKFHAL_01021	CDS	hypothetical protein
+ILEKFHAL_01022	CDS	2.1.1.-	putative tRNA/rRNA methyltransferase
+ILEKFHAL_01023	CDS	slyD	5.2.1.8	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+ILEKFHAL_01024	CDS	hypothetical protein
+ILEKFHAL_01025	CDS	Vejahgd	1.2.1.92	3,6-anhydro-alpha-L-galactose dehydrogenase
+ILEKFHAL_01026	CDS	pyk	2.7.1.40	Pyruvate kinase
+ILEKFHAL_01027	CDS	aroF_1	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+ILEKFHAL_01028	CDS	trpC_1	4.1.1.48	Indole-3-glycerol phosphate synthase
+ILEKFHAL_01029	CDS	trpG	4.1.3.27	Anthranilate synthase component 2
+ILEKFHAL_01030	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+ILEKFHAL_01031	CDS	trpC_2	Tryptophan biosynthesis protein TrpCF
+ILEKFHAL_01032	CDS	trpD	2.4.2.18	Anthranilate phosphoribosyltransferase
+ILEKFHAL_01033	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+ILEKFHAL_01034	CDS	trpB	4.2.1.20	Tryptophan synthase beta chain
+ILEKFHAL_01035	CDS	menG	2.1.1.163	Demethylmenaquinone methyltransferase
+ILEKFHAL_01036	CDS	hypothetical protein
+ILEKFHAL_01037	CDS	hypothetical protein
+ILEKFHAL_01038	tRNA	tRNA-Thr(ggt)
+ILEKFHAL_01039	CDS	hypothetical protein
+ILEKFHAL_01040	CDS	hypothetical protein
+ILEKFHAL_01041	CDS	hypothetical protein
+ILEKFHAL_01042	CDS	hypothetical protein
+ILEKFHAL_01043	CDS	hypothetical protein
+ILEKFHAL_01044	CDS	ythA	1.10.3.-	Putative cytochrome bd menaquinol oxidase subunit I
+ILEKFHAL_01045	CDS	hypothetical protein
+ILEKFHAL_01046	CDS	hypothetical protein
+ILEKFHAL_01047	CDS	hypothetical protein
+ILEKFHAL_01048	CDS	drrA_3	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+ILEKFHAL_01049	CDS	hypothetical protein
+ILEKFHAL_01050	CDS	pmbA	3.4.-.-	Metalloprotease PmbA
+ILEKFHAL_01051	CDS	tldD	3.4.-.-	Metalloprotease TldD
+ILEKFHAL_01052	CDS	guaB_2	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+ILEKFHAL_01053	CDS	2.2.1.8	Fluorothreonine transaldolase
+ILEKFHAL_01054	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+ILEKFHAL_01055	CDS	lysC	2.7.2.4	Aspartokinase
+ILEKFHAL_01056	CDS	hypothetical protein
+ILEKFHAL_01057	CDS	tyrA	T-protein
+ILEKFHAL_01058	CDS	aroF_2	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+ILEKFHAL_01059	CDS	hypothetical protein
+ILEKFHAL_01060	CDS	tetA_2	Tetracycline resistance protein, class B
+ILEKFHAL_01061	CDS	hypothetical protein
+ILEKFHAL_01062	CDS	hypothetical protein
+ILEKFHAL_01063	CDS	dpnM	2.1.1.72	Modification methylase DpnIIA
+ILEKFHAL_01064	CDS	hypothetical protein
+ILEKFHAL_01065	CDS	hypothetical protein
+ILEKFHAL_01066	CDS	hypothetical protein
+ILEKFHAL_01067	CDS	radD_2	3.6.4.12	Putative DNA repair helicase RadD
+ILEKFHAL_01068	CDS	hypothetical protein
+ILEKFHAL_01069	CDS	yecD_1	3.-.-.-	Isochorismatase family protein YecD
+ILEKFHAL_01070	CDS	hypothetical protein
+ILEKFHAL_01071	CDS	hypothetical protein
+ILEKFHAL_01072	CDS	cpdA	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+ILEKFHAL_01073	CDS	eamA	putative amino-acid metabolite efflux pump
+ILEKFHAL_01074	CDS	hypothetical protein
+ILEKFHAL_01075	CDS	guaB_3	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+ILEKFHAL_01076	CDS	mqnA	4.2.1.151	Chorismate dehydratase
+ILEKFHAL_01077	CDS	mqnE	2.5.1.120	Aminodeoxyfutalosine synthase
+ILEKFHAL_01078	CDS	mqnC	1.21.98.1	Cyclic dehypoxanthine futalosine synthase
+ILEKFHAL_01079	CDS	truD	5.4.99.27	tRNA pseudouridine synthase D
+ILEKFHAL_01080	CDS	hypothetical protein
+ILEKFHAL_01081	CDS	hypothetical protein
+ILEKFHAL_01082	CDS	3.6.1.-	Non-canonical purine NTP phosphatase
+ILEKFHAL_01083	CDS	hypothetical protein
+ILEKFHAL_01084	CDS	lysN	2.6.1.39	2-aminoadipate transaminase
+ILEKFHAL_01085	CDS	hypothetical protein
+ILEKFHAL_01086	CDS	hypothetical protein
+ILEKFHAL_01087	CDS	rpsB	30S ribosomal protein S2
+ILEKFHAL_01088	CDS	hypothetical protein
+ILEKFHAL_01089	CDS	dpp5	3.4.14.-	Dipeptidyl-peptidase 5
+ILEKFHAL_01090	CDS	hypothetical protein
+ILEKFHAL_01091	CDS	hypothetical protein
+ILEKFHAL_01092	CDS	comB	3.1.3.71	putative 2-phosphosulfolactate phosphatase
+ILEKFHAL_01093	CDS	rplK	50S ribosomal protein L11
+ILEKFHAL_01094	CDS	rplA	50S ribosomal protein L1
+ILEKFHAL_01095	CDS	rplJ	50S ribosomal protein L10
+ILEKFHAL_01096	CDS	hypothetical protein
+ILEKFHAL_01097	CDS	ribZ_4	Riboflavin transporter RibZ
+ILEKFHAL_01098	CDS	ndx1	3.6.1.61	Diadenosine hexaphosphate hydrolase
+ILEKFHAL_01099	CDS	rfbB_2	4.2.1.46	dTDP-glucose 4,6-dehydratase
+ILEKFHAL_01100	CDS	hypothetical protein
+ILEKFHAL_01101	CDS	hypothetical protein
+ILEKFHAL_01102	CDS	hypothetical protein
+ILEKFHAL_01103	CDS	hypothetical protein
+ILEKFHAL_01104	CDS	hypothetical protein
+ILEKFHAL_01105	CDS	ntpD	V-type sodium ATPase subunit D
+ILEKFHAL_01106	CDS	ntpB	V-type sodium ATPase subunit B
+ILEKFHAL_01107	CDS	ntpA	3.6.3.15	V-type sodium ATPase catalytic subunit A
+ILEKFHAL_01108	CDS	atpF	V-type ATP synthase subunit F
+ILEKFHAL_01109	CDS	atpC	V-type ATP synthase subunit C
+ILEKFHAL_01110	CDS	atpE	V-type proton ATPase subunit E
+ILEKFHAL_01111	CDS	hypothetical protein
+ILEKFHAL_01112	CDS	hypothetical protein
+ILEKFHAL_01113	CDS	fni	5.3.3.2	Isopentenyl-diphosphate delta-isomerase
+ILEKFHAL_01114	CDS	proB_2	2.7.2.11	Glutamate 5-kinase
+ILEKFHAL_01115	CDS	bcp_2	1.11.1.15	Putative peroxiredoxin bcp
+ILEKFHAL_01116	CDS	rimL	2.3.1.-	Ribosomal-protein-serine acetyltransferase
+ILEKFHAL_01117	CDS	crt_1	4.2.1.150	Short-chain-enoyl-CoA hydratase
+ILEKFHAL_01118	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+ILEKFHAL_01119	CDS	kptA	2.7.1.-	RNA 2'-phosphotransferase
+ILEKFHAL_01120	CDS	1.-.-.-	NADH oxidase
+ILEKFHAL_01121	CDS	hypothetical protein
+ILEKFHAL_01122	CDS	hypothetical protein
+ILEKFHAL_01123	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+ILEKFHAL_01124	CDS	3.2.1.28	Trehalase
+ILEKFHAL_01125	CDS	hypothetical protein
+ILEKFHAL_01126	CDS	hypothetical protein
+ILEKFHAL_01127	CDS	polB_1	2.7.7.7	DNA polymerase II
+ILEKFHAL_01128	CDS	hypothetical protein
+ILEKFHAL_01129	CDS	guaA_1	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+ILEKFHAL_01130	CDS	hypothetical protein
+ILEKFHAL_01131	CDS	hypothetical protein
+ILEKFHAL_01132	CDS	hypothetical protein
+ILEKFHAL_01133	CDS	hypothetical protein
+ILEKFHAL_01134	CDS	hypothetical protein
+ILEKFHAL_01135	CDS	hypothetical protein
+ILEKFHAL_01136	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+ILEKFHAL_01137	CDS	apeA	3.4.11.-	putative M18 family aminopeptidase 1
+ILEKFHAL_01138	CDS	cobB	6.3.5.9	Hydrogenobyrinate a,c-diamide synthase
+ILEKFHAL_01139	CDS	perR	Peroxide-responsive repressor PerR
+ILEKFHAL_01140	CDS	folP	2.5.1.15	Dihydropteroate synthase
+ILEKFHAL_01141	CDS	hypothetical protein
+ILEKFHAL_01142	CDS	yheS	putative ABC transporter ATP-binding protein YheS
+ILEKFHAL_01143	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+ILEKFHAL_01144	CDS	hypothetical protein
+ILEKFHAL_01145	CDS	mhpA	1.14.13.127	3-(3-hydroxy-phenyl)propionate/3-hydroxycinnamic acid hydroxylase
+ILEKFHAL_01146	CDS	hypothetical protein
+ILEKFHAL_01147	CDS	polB_2	2.7.7.7	DNA polymerase II
+ILEKFHAL_01148	CDS	afr	1.1.1.292	1,5-anhydro-D-fructose reductase
+ILEKFHAL_01149	CDS	hypothetical protein
+ILEKFHAL_01150	CDS	fhs	6.3.4.3	Formate--tetrahydrofolate ligase
+ILEKFHAL_01151	CDS	hypothetical protein
+ILEKFHAL_01152	CDS	tetA_3	Tetracycline resistance protein, class C
+ILEKFHAL_01153	CDS	hypothetical protein
+ILEKFHAL_01154	CDS	ywlC	2.7.7.87	Threonylcarbamoyl-AMP synthase
+ILEKFHAL_01155	CDS	purE	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+ILEKFHAL_01156	CDS	purK	6.3.4.18	N5-carboxyaminoimidazole ribonucleotide synthase
+ILEKFHAL_01157	CDS	hypothetical protein
+ILEKFHAL_01158	CDS	recA_1	Protein RecA
+ILEKFHAL_01159	CDS	hypothetical protein
+ILEKFHAL_01160	CDS	hypothetical protein
+ILEKFHAL_01161	CDS	hypothetical protein
+ILEKFHAL_01162	CDS	ecdB	2.5.1.129	putative UbiX-like flavin prenyltransferase
+ILEKFHAL_01163	CDS	hypothetical protein
+ILEKFHAL_01164	CDS	hypothetical protein
+ILEKFHAL_01165	tRNA	tRNA-Glu(ttc)
+ILEKFHAL_01166	CDS	hypothetical protein
+ILEKFHAL_01167	CDS	hypothetical protein
+ILEKFHAL_01168	CDS	hypothetical protein
+ILEKFHAL_01169	CDS	hypothetical protein
+ILEKFHAL_01170	CDS	hypothetical protein
+ILEKFHAL_01171	CDS	hypothetical protein
+ILEKFHAL_01172	CDS	hypothetical protein
+ILEKFHAL_01173	CDS	hypothetical protein
+ILEKFHAL_01174	CDS	hypothetical protein
+ILEKFHAL_01175	CDS	hypothetical protein
+ILEKFHAL_01176	CDS	hypothetical protein
+ILEKFHAL_01177	CDS	hypothetical protein
+ILEKFHAL_01178	CDS	hypothetical protein
+ILEKFHAL_01179	CDS	hypothetical protein
+ILEKFHAL_01180	CDS	hypothetical protein
+ILEKFHAL_01181	CDS	htpX_2	3.4.24.-	Protease HtpX
+ILEKFHAL_01182	CDS	hypothetical protein
+ILEKFHAL_01183	CDS	hypothetical protein
+ILEKFHAL_01184	CDS	hypothetical protein
+ILEKFHAL_01185	CDS	hypothetical protein
+ILEKFHAL_01186	CDS	hypothetical protein
+ILEKFHAL_01187	CDS	hypothetical protein
+ILEKFHAL_01188	CDS	ydaF_1	2.3.1.-	Putative ribosomal N-acetyltransferase YdaF
+ILEKFHAL_01189	CDS	hypothetical protein
+ILEKFHAL_01190	CDS	ppm1	2.4.1.-	Polyprenol monophosphomannose synthase
+ILEKFHAL_01191	CDS	hypothetical protein
+ILEKFHAL_01192	CDS	sdhA	1.3.5.1	Succinate dehydrogenase flavoprotein subunit
+ILEKFHAL_01193	CDS	frdB_2	1.3.5.1	Fumarate reductase iron-sulfur subunit
+ILEKFHAL_01194	CDS	hypothetical protein
+ILEKFHAL_01195	CDS	hypothetical protein
+ILEKFHAL_01196	CDS	emrY	putative multidrug resistance protein EmrY
+ILEKFHAL_01197	CDS	putative membrane protein
+ILEKFHAL_01198	CDS	tadA	3.5.4.33	tRNA-specific adenosine deaminase
+ILEKFHAL_01199	CDS	hypothetical protein
+ILEKFHAL_01200	CDS	hypothetical protein
+ILEKFHAL_01201	CDS	hypothetical protein
+ILEKFHAL_01202	CDS	hypothetical protein
+ILEKFHAL_01203	CDS	hypothetical protein
+ILEKFHAL_01204	CDS	hypothetical protein
+ILEKFHAL_01205	CDS	gtaB	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+ILEKFHAL_01206	CDS	hypothetical protein
+ILEKFHAL_01207	CDS	dpnA	2.1.1.72	Modification methylase DpnIIB
+ILEKFHAL_01208	CDS	hypothetical protein
+ILEKFHAL_01209	CDS	hypothetical protein
+ILEKFHAL_01210	CDS	hypothetical protein
+ILEKFHAL_01211	CDS	hypothetical protein
+ILEKFHAL_01212	CDS	hypothetical protein
+ILEKFHAL_01213	CDS	pgk/tpi	Bifunctional PGK/TIM
+ILEKFHAL_01214	CDS	pfdA_1	Prefoldin subunit alpha
+ILEKFHAL_01215	CDS	ftsY	Signal recognition particle receptor FtsY
+ILEKFHAL_01216	CDS	hypothetical protein
+ILEKFHAL_01217	CDS	hypothetical protein
+ILEKFHAL_01218	CDS	hypothetical protein
+ILEKFHAL_01219	CDS	hypothetical protein
+ILEKFHAL_01220	CDS	hypothetical protein
+ILEKFHAL_01221	CDS	hypothetical protein
+ILEKFHAL_01222	CDS	hypothetical protein
+ILEKFHAL_01223	CDS	hypothetical protein
+ILEKFHAL_01224	CDS	hypothetical protein
+ILEKFHAL_01225	CDS	cas3	3.1.-.-	CRISPR-associated nuclease/helicase Cas3
+ILEKFHAL_01226	CDS	hypothetical protein
+ILEKFHAL_01227	CDS	cas1	3.1.-.-	CRISPR-associated endonuclease Cas1
+ILEKFHAL_01228	CDS	cas2	3.1.-.-	CRISPR-associated endoribonuclease Cas2
+ILEKFHAL_01229	CDS	hypothetical protein
+repeat_region
+ILEKFHAL_01230	CDS	hypothetical protein
+ILEKFHAL_01231	CDS	hypothetical protein
+ILEKFHAL_01232	CDS	hypothetical protein
+ILEKFHAL_01233	CDS	hypothetical protein
+ILEKFHAL_01234	CDS	hypothetical protein
+ILEKFHAL_01235	CDS	hypothetical protein
+ILEKFHAL_01236	CDS	hypothetical protein
+ILEKFHAL_01237	CDS	hypothetical protein
+ILEKFHAL_01238	CDS	yxlF_5	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+ILEKFHAL_01239	CDS	hypothetical protein
+ILEKFHAL_01240	CDS	hypothetical protein
+ILEKFHAL_01241	CDS	hypothetical protein
+ILEKFHAL_01242	CDS	hypothetical protein
+ILEKFHAL_01243	CDS	ubiB	2.7.-.-	putative protein kinase UbiB
+ILEKFHAL_01244	CDS	hypothetical protein
+ILEKFHAL_01245	CDS	3.6.-.-	putative GTPase
+ILEKFHAL_01246	CDS	scpA	5.4.99.2	Methylmalonyl-CoA mutase
+ILEKFHAL_01247	CDS	mutB	5.4.99.2	putative methylmalonyl-CoA mutase large subunit
+ILEKFHAL_01248	CDS	mftF	2.-.-.-	Putative mycofactocin biosynthesis glycosyltransferase MftF
+ILEKFHAL_01249	CDS	hypothetical protein
+ILEKFHAL_01250	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+ILEKFHAL_01251	CDS	adhT_1	1.1.1.1	Alcohol dehydrogenase
+ILEKFHAL_01252	CDS	xerD_1	Tyrosine recombinase XerD
+ILEKFHAL_01253	CDS	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+ILEKFHAL_01254	CDS	rnhB	3.1.26.4	Ribonuclease HII
+ILEKFHAL_01255	CDS	yrrB	TPR repeat-containing protein YrrB
+ILEKFHAL_01256	CDS	hypothetical protein
+ILEKFHAL_01257	CDS	dinG	3.6.4.12	putative ATP-dependent helicase DinG 
+ILEKFHAL_01258	CDS	clcA	H(+)/Cl(-) exchange transporter ClcA
+ILEKFHAL_01259	CDS	rimI_1	2.3.1.128	Ribosomal-protein-alanine acetyltransferase
+ILEKFHAL_01260	CDS	mat	2.5.1.6	S-adenosylmethionine synthase
+ILEKFHAL_01261	CDS	purH	Bifunctional purine biosynthesis protein PurH
+ILEKFHAL_01262	CDS	hypothetical protein
+ILEKFHAL_01263	CDS	hypothetical protein
+ILEKFHAL_01264	CDS	hypothetical protein
+ILEKFHAL_01265	CDS	leuB	1.1.1.85	3-isopropylmalate dehydrogenase
+ILEKFHAL_01266	CDS	hypothetical protein
+ILEKFHAL_01267	CDS	topA	5.99.1.2	DNA topoisomerase 1
+ILEKFHAL_01268	CDS	hypothetical protein
+ILEKFHAL_01269	CDS	hypothetical protein
+ILEKFHAL_01270	CDS	hypothetical protein
+ILEKFHAL_01271	CDS	hypothetical protein
+ILEKFHAL_01272	CDS	xerC	Tyrosine recombinase XerC
+ILEKFHAL_01273	CDS	f1pep1	3.4.21.26	Prolyl endopeptidase
+ILEKFHAL_01274	CDS	1.13.11.24	Putative quercetin 2,3-dioxygenase
+ILEKFHAL_01275	CDS	hypothetical protein
+ILEKFHAL_01276	CDS	ade	3.5.4.2	Adenine deaminase
+ILEKFHAL_01277	CDS	hypothetical protein
+ILEKFHAL_01278	CDS	arsB	Arsenical pump membrane protein
+ILEKFHAL_01279	CDS	czrA	HTH-type transcriptional repressor CzrA
+ILEKFHAL_01280	CDS	hypothetical protein
+ILEKFHAL_01281	CDS	hypothetical protein
+ILEKFHAL_01282	CDS	hypothetical protein
+ILEKFHAL_01283	CDS	2.4.-.-	putative glycosyltransferase
+ILEKFHAL_01284	CDS	smc_2	Chromosome partition protein Smc
+ILEKFHAL_01285	CDS	yhaO	putative metallophosphoesterase YhaO
+ILEKFHAL_01286	CDS	hypothetical protein
+ILEKFHAL_01287	CDS	hypothetical protein
+ILEKFHAL_01288	CDS	hypothetical protein
+ILEKFHAL_01289	CDS	ddpA	putative D,D-dipeptide-binding periplasmic protein DdpA
+ILEKFHAL_01290	CDS	dppB	Dipeptide transport system permease protein DppB
+ILEKFHAL_01291	CDS	ddpC	putative D,D-dipeptide transport system permease protein DdpC
+ILEKFHAL_01292	CDS	putative ABC transporter ATP-binding protein
+ILEKFHAL_01293	CDS	ywrD	2.3.2.2	Putative gamma-glutamyltransferase YwrD
+ILEKFHAL_01294	CDS	aldA	1.2.1.3	Putative aldehyde dehydrogenase AldA
+ILEKFHAL_01295	CDS	adhE	Aldehyde-alcohol dehydrogenase
+ILEKFHAL_01296	CDS	hypothetical protein
+ILEKFHAL_01297	CDS	hypothetical protein
+ILEKFHAL_01298	CDS	hypothetical protein
+ILEKFHAL_01299	CDS	mdlC	4.1.1.7	Benzoylformate decarboxylase
+ILEKFHAL_01300	CDS	1.1.1.81	Hydroxypyruvate reductase
+ILEKFHAL_01301	CDS	hypothetical protein
+ILEKFHAL_01302	CDS	ligD	Multifunctional non-homologous end joining protein LigD
+ILEKFHAL_01303	CDS	hypothetical protein
+ILEKFHAL_01304	CDS	hypothetical protein
+ILEKFHAL_01305	CDS	hypothetical protein
+ILEKFHAL_01306	tRNA	tRNA-Val(cac)
+ILEKFHAL_01307	CDS	hypothetical protein
+ILEKFHAL_01308	CDS	hypothetical protein
+ILEKFHAL_01309	CDS	hypothetical protein
+ILEKFHAL_01310	CDS	hypothetical protein
+ILEKFHAL_01311	CDS	hypothetical protein
+ILEKFHAL_01312	CDS	hypothetical protein
+ILEKFHAL_01313	CDS	1.1.1.81	Hydroxypyruvate reductase
+ILEKFHAL_01314	CDS	yagE	4.1.2.-	putative 2-keto-3-deoxy-galactonate aldolase YagE
+ILEKFHAL_01315	CDS	yflN_1	3.-.-.-	putative metallo-hydrolase YflN
+ILEKFHAL_01316	CDS	dgoD_3	4.2.1.6	D-galactonate dehydratase
+ILEKFHAL_01317	CDS	gbsA	1.2.1.8	Betaine aldehyde dehydrogenase
+ILEKFHAL_01318	CDS	fabG_4	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ILEKFHAL_01319	CDS	gfo	1.1.99.28	Glucose--fructose oxidoreductase
+ILEKFHAL_01320	CDS	csbC_3	putative metabolite transport protein CsbC
+ILEKFHAL_01321	CDS	hypothetical protein
+ILEKFHAL_01322	CDS	uxaA_2	4.2.1.7	Altronate dehydratase
+ILEKFHAL_01323	CDS	suyB_2	4.4.1.24	(2R)-sulfolactate sulfo-lyase subunit beta
+ILEKFHAL_01324	CDS	Riboflavin biosynthesis protein
+ILEKFHAL_01325	CDS	hypothetical protein
+ILEKFHAL_01326	CDS	purC	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+ILEKFHAL_01327	CDS	hypothetical protein
+ILEKFHAL_01328	CDS	hypothetical protein
+ILEKFHAL_01329	CDS	hypothetical protein
+ILEKFHAL_01330	CDS	hypothetical protein
+ILEKFHAL_01331	CDS	hypothetical protein
+ILEKFHAL_01332	CDS	crhR	3.6.4.13	RNA helicase CrhR
+ILEKFHAL_01333	CDS	hypothetical protein
+ILEKFHAL_01334	CDS	rbn	3.1.-.-	Ribonuclease BN
+ILEKFHAL_01335	CDS	dcd	3.5.4.13	dCTP deaminase
+ILEKFHAL_01336	CDS	hypothetical protein
+ILEKFHAL_01337	CDS	scpB	Segregation and condensation protein B
+ILEKFHAL_01338	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+ILEKFHAL_01339	CDS	hypothetical protein
+ILEKFHAL_01340	CDS	hemH	4.99.1.1	Ferrochelatase
+ILEKFHAL_01341	CDS	hemE	4.1.1.37	Uroporphyrinogen decarboxylase
+ILEKFHAL_01342	CDS	asnS_2	6.1.1.22	Asparagine--tRNA ligase
+ILEKFHAL_01343	CDS	hypothetical protein
+ILEKFHAL_01344	CDS	hypothetical protein
+ILEKFHAL_01345	CDS	hypothetical protein
+ILEKFHAL_01346	CDS	hypothetical protein
+ILEKFHAL_01347	CDS	hypothetical protein
+ILEKFHAL_01348	tRNA	tRNA-Arg(cct)
+ILEKFHAL_01349	CDS	queD	4.1.2.50	6-carboxy-5,6,7,8-tetrahydropterin synthase
+ILEKFHAL_01350	CDS	queC	6.3.4.20	7-cyano-7-deazaguanine synthase
+ILEKFHAL_01351	CDS	mdh_1	1.1.1.37	Malate dehydrogenase
+ILEKFHAL_01352	CDS	hypothetical protein
+ILEKFHAL_01353	CDS	tuf	Elongation factor Tu
+ILEKFHAL_01354	CDS	rpsJ	30S ribosomal protein S10
+ILEKFHAL_01355	CDS	fusA	Elongation factor G
+ILEKFHAL_01356	CDS	mscS	Small-conductance mechanosensitive channel
+ILEKFHAL_01357	CDS	hypothetical protein
+ILEKFHAL_01358	CDS	hypothetical protein
+ILEKFHAL_01359	CDS	sqr	1.8.5.4	Sulfide-quinone reductase
+ILEKFHAL_01360	CDS	hypothetical protein
+ILEKFHAL_01361	CDS	hypothetical protein
+ILEKFHAL_01362	CDS	hypothetical protein
+ILEKFHAL_01363	tRNA	tRNA-Ser(gct)
+ILEKFHAL_01364	CDS	hypothetical protein
+ILEKFHAL_01365	CDS	hypothetical protein
+ILEKFHAL_01366	CDS	hypothetical protein
+ILEKFHAL_01367	CDS	hypothetical protein
+ILEKFHAL_01368	CDS	Insertion sequence IS5376 putative ATP-binding protein
+ILEKFHAL_01369	CDS	cysK_1	2.5.1.47	Cysteine synthase
+ILEKFHAL_01370	CDS	hypothetical protein
+ILEKFHAL_01371	CDS	hypothetical protein
+ILEKFHAL_01372	CDS	steT_1	Serine/threonine exchanger SteT
+ILEKFHAL_01373	CDS	hypothetical protein
+ILEKFHAL_01374	CDS	hypothetical protein
+ILEKFHAL_01375	CDS	cysK_2	2.5.1.47	Cysteine synthase
+ILEKFHAL_01376	CDS	hypothetical protein
+ILEKFHAL_01377	CDS	ilvE_2	2.6.1.42	Branched-chain-amino-acid aminotransferase
+ILEKFHAL_01378	CDS	hypothetical protein
+ILEKFHAL_01379	CDS	hypothetical protein
+ILEKFHAL_01380	CDS	hypothetical protein
+ILEKFHAL_01381	CDS	ydaF_2	2.3.1.-	Putative ribosomal N-acetyltransferase YdaF
+ILEKFHAL_01382	CDS	hypothetical protein
+ILEKFHAL_01383	CDS	hypothetical protein
+ILEKFHAL_01384	CDS	hypothetical protein
+ILEKFHAL_01385	CDS	hypothetical protein
+ILEKFHAL_01386	CDS	hypothetical protein
+ILEKFHAL_01387	CDS	hypothetical protein
+ILEKFHAL_01388	CDS	mobA_3	2.7.7.77	Molybdenum cofactor guanylyltransferase
+ILEKFHAL_01389	CDS	fepC	Ferric enterobactin transport ATP-binding protein FepC
+ILEKFHAL_01390	CDS	hmuU	Hemin transport system permease protein HmuU
+ILEKFHAL_01391	CDS	btuF_2	Vitamin B12-binding protein
+ILEKFHAL_01392	CDS	hypothetical protein
+ILEKFHAL_01393	CDS	rimI_2	2.3.1.255	N-alpha-acetyltransferase RimI
+ILEKFHAL_01394	CDS	ribBA	Riboflavin biosynthesis protein RibBA
+ILEKFHAL_01395	CDS	hypothetical protein
+ILEKFHAL_01396	CDS	hypothetical protein
+ILEKFHAL_01397	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+ILEKFHAL_01398	CDS	yflN_2	3.-.-.-	putative metallo-hydrolase YflN
+ILEKFHAL_01399	CDS	folE2	3.5.4.16	GTP cyclohydrolase FolE2
+ILEKFHAL_01400	CDS	pfdA_2	Prefoldin subunit alpha
+ILEKFHAL_01401	CDS	hypothetical protein
+ILEKFHAL_01402	CDS	ubiG_2	2.1.1.222	Ubiquinone biosynthesis O-methyltransferase
+ILEKFHAL_01403	tRNA	tRNA-Arg(tct)
+ILEKFHAL_01404	CDS	hypothetical protein
+ILEKFHAL_01405	CDS	1.3.1.103	2-haloacrylate reductase
+ILEKFHAL_01406	CDS	hypothetical protein
+ILEKFHAL_01407	CDS	bcpA	2.7.8.23	Carboxyvinyl-carboxyphosphonate phosphorylmutase
+ILEKFHAL_01408	CDS	hypothetical protein
+ILEKFHAL_01409	CDS	hypothetical protein
+ILEKFHAL_01410	CDS	hypothetical protein
+ILEKFHAL_01411	CDS	hypothetical protein
+ILEKFHAL_01412	CDS	hypothetical protein
+ILEKFHAL_01413	CDS	hypothetical protein
+ILEKFHAL_01414	CDS	hypothetical protein
+ILEKFHAL_01415	CDS	hypothetical protein
+ILEKFHAL_01416	CDS	ctaB1	2.5.1.-	Protoheme IX farnesyltransferase 1
+ILEKFHAL_01417	CDS	hypothetical protein
+ILEKFHAL_01418	CDS	qoxB	1.10.3.-	Quinol oxidase subunit 1
+ILEKFHAL_01419	CDS	coxM	1.9.3.1	Alternative cytochrome c oxidase subunit 2
+ILEKFHAL_01420	CDS	hypothetical protein
+ILEKFHAL_01421	CDS	hypothetical protein
+ILEKFHAL_01422	CDS	fbp	3.1.3.11	Fructose-1,6-bisphosphate aldolase/phosphatase
+ILEKFHAL_01423	CDS	hypothetical protein
+ILEKFHAL_01424	CDS	hypothetical protein
+ILEKFHAL_01425	CDS	hypothetical protein
+ILEKFHAL_01426	CDS	hypothetical protein
+ILEKFHAL_01427	CDS	hypothetical protein
+ILEKFHAL_01428	CDS	hypothetical protein
+ILEKFHAL_01429	CDS	hypothetical protein
+ILEKFHAL_01430	CDS	czcD	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+ILEKFHAL_01431	CDS	hypothetical protein
+ILEKFHAL_01432	CDS	hypothetical protein
+ILEKFHAL_01433	CDS	hypothetical protein
+ILEKFHAL_01434	CDS	ytrA_2	HTH-type transcriptional repressor YtrA
+ILEKFHAL_01435	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+ILEKFHAL_01436	CDS	hypothetical protein
+ILEKFHAL_01437	CDS	hypothetical protein
+ILEKFHAL_01438	CDS	arcA	3.5.3.6	Arginine deiminase
+ILEKFHAL_01439	CDS	hypothetical protein
+ILEKFHAL_01440	CDS	acdA	1.3.99.-	Acyl-CoA dehydrogenase
+ILEKFHAL_01441	CDS	rnr	3.1.13.1	Ribonuclease R
+ILEKFHAL_01442	CDS	hypothetical protein
+ILEKFHAL_01443	CDS	hypothetical protein
+ILEKFHAL_01444	CDS	hypothetical protein
+ILEKFHAL_01445	CDS	hypothetical protein
+ILEKFHAL_01446	CDS	hypothetical protein
+ILEKFHAL_01447	CDS	cshA_1	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshA
+ILEKFHAL_01448	CDS	hypothetical protein
+ILEKFHAL_01449	CDS	hypothetical protein
+ILEKFHAL_01450	CDS	hypothetical protein
+ILEKFHAL_01451	CDS	hypothetical protein
+ILEKFHAL_01452	CDS	hypothetical protein
+ILEKFHAL_01453	CDS	adhT_2	1.1.1.1	Alcohol dehydrogenase
+ILEKFHAL_01454	CDS	ppaX_2	3.6.1.1	Pyrophosphatase PpaX
+ILEKFHAL_01455	CDS	pncB1	6.3.4.21	Nicotinate phosphoribosyltransferase pncB1
+ILEKFHAL_01456	CDS	yecD_2	3.-.-.-	Isochorismatase family protein YecD
+ILEKFHAL_01457	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+ILEKFHAL_01458	CDS	msrC	1.8.4.14	Free methionine-R-sulfoxide reductase
+ILEKFHAL_01459	CDS	yajR	Inner membrane transport protein YajR
+ILEKFHAL_01460	CDS	pspB	3.1.3.3	Putative phosphoserine phosphatase 2
+ILEKFHAL_01461	CDS	hypothetical protein
+ILEKFHAL_01462	CDS	hypothetical protein
+ILEKFHAL_01463	CDS	epsH_1	2.4.-.-	Putative glycosyltransferase EpsH
+ILEKFHAL_01464	CDS	epsH_2	2.4.-.-	Putative glycosyltransferase EpsH
+ILEKFHAL_01465	CDS	hypothetical protein
+ILEKFHAL_01466	CDS	hddA_2	2.7.1.168	D-glycero-alpha-D-manno-heptose 7-phosphate kinase
+ILEKFHAL_01467	CDS	wbgU	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+ILEKFHAL_01468	CDS	hypothetical protein
+ILEKFHAL_01469	CDS	gmhA1	5.3.1.28	Phosphoheptose isomerase 1
+ILEKFHAL_01470	CDS	hypothetical protein
+ILEKFHAL_01471	CDS	hypothetical protein
+ILEKFHAL_01472	CDS	bshA	2.4.1.-	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+ILEKFHAL_01473	CDS	hypothetical protein
+ILEKFHAL_01474	CDS	hypothetical protein
+ILEKFHAL_01475	CDS	hypothetical protein
+ILEKFHAL_01476	CDS	2.4.1.336	Beta-monoglucosyldiacylglycerol synthase
+ILEKFHAL_01477	CDS	gmhB	3.1.3.83	D-glycero-alpha-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+ILEKFHAL_01478	CDS	dagK	2.7.1.107	Diacylglycerol kinase
+ILEKFHAL_01479	CDS	glpD	1.1.5.3	Aerobic glycerol-3-phosphate dehydrogenase
+ILEKFHAL_01480	CDS	hypothetical protein
+ILEKFHAL_01481	CDS	hypothetical protein
+ILEKFHAL_01482	CDS	hypothetical protein
+ILEKFHAL_01483	CDS	hypothetical protein
+ILEKFHAL_01484	CDS	pacS	3.6.3.54	putative copper-transporting ATPase PacS
+ILEKFHAL_01485	CDS	hypothetical protein
+ILEKFHAL_01486	CDS	hypothetical protein
+ILEKFHAL_01487	CDS	hypothetical protein
+ILEKFHAL_01488	CDS	hypothetical protein
+ILEKFHAL_01489	CDS	hypothetical protein
+ILEKFHAL_01490	CDS	yveA	Aspartate-proton symporter
+ILEKFHAL_01491	CDS	hypothetical protein
+ILEKFHAL_01492	CDS	hypothetical protein
+ILEKFHAL_01493	CDS	ideR_2	Iron-dependent repressor IdeR
+ILEKFHAL_01494	CDS	hypothetical protein
+ILEKFHAL_01495	CDS	pncC	3.5.1.42	Nicotinamide-nucleotide amidohydrolase PncC
+ILEKFHAL_01496	CDS	hypothetical protein
+ILEKFHAL_01497	CDS	hypothetical protein
+ILEKFHAL_01498	CDS	Type IV secretion system protein VirB11
+ILEKFHAL_01499	CDS	hypothetical protein
+ILEKFHAL_01500	CDS	hypothetical protein
+ILEKFHAL_01501	CDS	hypothetical protein
+ILEKFHAL_01502	CDS	hypothetical protein
+ILEKFHAL_01503	CDS	hypothetical protein
+ILEKFHAL_01504	CDS	hypothetical protein
+ILEKFHAL_01505	CDS	dapH	2.3.1.89	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+ILEKFHAL_01506	CDS	nikR	Putative nickel-responsive regulator
+ILEKFHAL_01507	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+ILEKFHAL_01508	CDS	hypothetical protein
+ILEKFHAL_01509	CDS	hypothetical protein
+ILEKFHAL_01510	CDS	hypothetical protein
+ILEKFHAL_01511	CDS	hypothetical protein
+ILEKFHAL_01512	CDS	hypothetical protein
+ILEKFHAL_01513	CDS	hypothetical protein
+ILEKFHAL_01514	CDS	hypothetical protein
+ILEKFHAL_01515	CDS	hypothetical protein
+ILEKFHAL_01516	CDS	hypothetical protein
+ILEKFHAL_01517	CDS	hypothetical protein
+ILEKFHAL_01518	CDS	thiI	2.8.1.4	tRNA sulfurtransferase
+ILEKFHAL_01519	CDS	1.11.1.-	Putative heme-dependent peroxidase
+ILEKFHAL_01520	CDS	hypothetical protein
+ILEKFHAL_01521	CDS	xecA1	4.4.1.23	2-hydroxypropyl-CoM lyase
+ILEKFHAL_01522	CDS	hpd	1.13.11.27	4-hydroxyphenylpyruvate dioxygenase
+ILEKFHAL_01523	CDS	4.3.2.3	Ureidoglycolate lyase
+ILEKFHAL_01524	CDS	hmgA	1.13.11.5	Homogentisate 1,2-dioxygenase
+ILEKFHAL_01525	CDS	mdh_2	1.1.1.244	NAD-dependent methanol dehydrogenase
+ILEKFHAL_01526	CDS	hypothetical protein
+ILEKFHAL_01527	CDS	hypothetical protein
+ILEKFHAL_01528	CDS	hypothetical protein
+ILEKFHAL_01529	CDS	alkA	3.2.2.21	DNA-3-methyladenine glycosylase
+ILEKFHAL_01530	CDS	hypothetical protein
+ILEKFHAL_01531	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+ILEKFHAL_01532	CDS	ynbA	Inner membrane protein YnbA
+ILEKFHAL_01533	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+ILEKFHAL_01534	CDS	hypothetical protein
+ILEKFHAL_01535	CDS	2.5.1.68	(2Z,6E)-farnesyl diphosphate synthase
+ILEKFHAL_01536	CDS	hypothetical protein
+ILEKFHAL_01537	CDS	hypothetical protein
+ILEKFHAL_01538	CDS	hypothetical protein
+ILEKFHAL_01539	CDS	hypothetical protein
+ILEKFHAL_01540	CDS	hypothetical protein
+ILEKFHAL_01541	CDS	Insertion sequence IS5376 putative ATP-binding protein
+ILEKFHAL_01542	CDS	hypothetical protein
+ILEKFHAL_01543	CDS	hypothetical protein
+ILEKFHAL_01544	CDS	hypothetical protein
+ILEKFHAL_01545	CDS	hypothetical protein
+ILEKFHAL_01546	CDS	mscL	Large-conductance mechanosensitive channel
+ILEKFHAL_01547	CDS	purQ	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurQ
+ILEKFHAL_01548	CDS	hypothetical protein
+ILEKFHAL_01549	CDS	hypothetical protein
+ILEKFHAL_01550	CDS	korA_2	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+ILEKFHAL_01551	CDS	korB_2	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorB
+ILEKFHAL_01552	CDS	hypothetical protein
+ILEKFHAL_01553	CDS	hypothetical protein
+ILEKFHAL_01554	CDS	hypothetical protein
+ILEKFHAL_01555	CDS	hypothetical protein
+ILEKFHAL_01556	CDS	fpgS	6.3.2.17	Folylpolyglutamate synthase
+ILEKFHAL_01557	CDS	hypothetical protein
+ILEKFHAL_01558	CDS	alaS_3	6.1.1.7	Alanine--tRNA ligase
+ILEKFHAL_01559	CDS	hypothetical protein
+ILEKFHAL_01560	CDS	hypothetical protein
+ILEKFHAL_01561	CDS	hypothetical protein
+ILEKFHAL_01562	CDS	hypothetical protein
+ILEKFHAL_01563	CDS	speB	3.5.3.11	Agmatinase
+ILEKFHAL_01564	CDS	efp	Elongation factor P
+ILEKFHAL_01565	CDS	mtaD	3.5.4.28	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+ILEKFHAL_01566	CDS	hypothetical protein
+ILEKFHAL_01567	CDS	hypothetical protein
+ILEKFHAL_01568	CDS	ravA_2	3.6.3.-	ATPase RavA
+ILEKFHAL_01569	CDS	hypothetical protein
+ILEKFHAL_01570	CDS	hypothetical protein
+ILEKFHAL_01571	CDS	hypothetical protein
+ILEKFHAL_01572	CDS	hypothetical protein
+ILEKFHAL_01573	CDS	hypothetical protein
+ILEKFHAL_01574	CDS	hypothetical protein
+ILEKFHAL_01575	CDS	cga_2	3.2.1.3	Glucoamylase
+ILEKFHAL_01576	CDS	hypothetical protein
+ILEKFHAL_01577	CDS	hypothetical protein
+ILEKFHAL_01578	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+ILEKFHAL_01579	tRNA	tRNA-His(gtg)
+ILEKFHAL_01580	CDS	argF	2.1.3.3	Ornithine carbamoyltransferase
+ILEKFHAL_01581	CDS	sucD_2	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+ILEKFHAL_01582	CDS	sucC	6.2.1.4	Succinate--CoA ligase [GDP-forming] subunit beta
+ILEKFHAL_01583	CDS	groL_2	60 kDa chaperonin
+ILEKFHAL_01584	CDS	prxU	1.11.1.15	Selenocysteine-containing peroxiredoxin PrxU
+ILEKFHAL_01585	CDS	hypothetical protein
+ILEKFHAL_01586	CDS	hypothetical protein
+ILEKFHAL_01587	CDS	tatA	Sec-independent protein translocase protein TatA
+ILEKFHAL_01588	CDS	tatC	Sec-independent protein translocase protein TatC
+ILEKFHAL_01589	CDS	crt_2	4.2.1.150	Short-chain-enoyl-CoA hydratase
+ILEKFHAL_01590	CDS	hypothetical protein
+ILEKFHAL_01591	CDS	hypothetical protein
+ILEKFHAL_01592	CDS	nuoN	1.6.5.11	NADH-quinone oxidoreductase subunit N
+ILEKFHAL_01593	CDS	nuoM	1.6.5.11	NADH-quinone oxidoreductase subunit M
+ILEKFHAL_01594	CDS	nuoL	1.6.5.11	NADH-quinone oxidoreductase subunit L
+ILEKFHAL_01595	CDS	nuoK	1.6.5.11	NADH-quinone oxidoreductase subunit K
+ILEKFHAL_01596	CDS	hypothetical protein
+ILEKFHAL_01597	CDS	nuoJ	1.6.5.11	NADH-quinone oxidoreductase subunit J
+ILEKFHAL_01598	CDS	ndhI	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit I
+ILEKFHAL_01599	CDS	nuoH	1.6.5.11	NADH-quinone oxidoreductase subunit H
+ILEKFHAL_01600	CDS	nqo4	1.6.5.11	NADH-quinone oxidoreductase subunit 4
+ILEKFHAL_01601	CDS	nqo5	1.6.5.11	NADH-quinone oxidoreductase subunit 5
+ILEKFHAL_01602	CDS	nqo6	1.6.5.11	NADH-quinone oxidoreductase subunit 6
+ILEKFHAL_01603	CDS	ndhC	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit 3
+ILEKFHAL_01604	CDS	hypothetical protein
+ILEKFHAL_01605	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+ILEKFHAL_01606	CDS	ansA	3.5.1.1	L-asparaginase 1
+ILEKFHAL_01607	CDS	hypothetical protein
+ILEKFHAL_01608	CDS	mmgC_2	1.3.99.-	Acyl-CoA dehydrogenase
+ILEKFHAL_01609	CDS	hypothetical protein
+ILEKFHAL_01610	CDS	rbr	Rubrerythrin
+ILEKFHAL_01611	CDS	hypothetical protein
+ILEKFHAL_01612	CDS	pcp_2	3.4.21.100	Pseudomonalisin
+ILEKFHAL_01613	CDS	metE	2.1.1.14	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+ILEKFHAL_01614	CDS	hypothetical protein
+ILEKFHAL_01615	CDS	yitJ	Bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase
+ILEKFHAL_01616	CDS	aldHT	1.2.1.5	Aldehyde dehydrogenase, thermostable
+ILEKFHAL_01617	CDS	ispB	2.5.1.90	Octaprenyl diphosphate synthase
+ILEKFHAL_01618	CDS	hypothetical protein
+ILEKFHAL_01619	CDS	asnC_2	Regulatory protein AsnC
+ILEKFHAL_01620	CDS	hypothetical protein
+ILEKFHAL_01621	CDS	hypothetical protein
+ILEKFHAL_01622	CDS	mazF9	3.1.-.-	Endoribonuclease MazF9
+ILEKFHAL_01623	tRNA	tRNA-Leu(taa)
+ILEKFHAL_01624	CDS	nphA2	1.5.1.36	NADH-dependent flavin reductase
+ILEKFHAL_01625	CDS	hypothetical protein
+ILEKFHAL_01626	CDS	pucA	1.17.1.4	putative xanthine dehydrogenase subunit A
+ILEKFHAL_01627	CDS	hypothetical protein
+ILEKFHAL_01628	CDS	pucB	Purine catabolism protein PucB
+ILEKFHAL_01629	CDS	cdhA_2	1.17.5.2	Caffeine dehydrogenase subunit alpha
+ILEKFHAL_01630	CDS	cutS	1.2.5.3	Carbon monoxide dehydrogenase small chain
+ILEKFHAL_01631	CDS	cutM	1.2.5.3	Carbon monoxide dehydrogenase medium chain
+ILEKFHAL_01632	CDS	ribZ_5	Riboflavin transporter RibZ
+ILEKFHAL_01633	CDS	hypothetical protein
+ILEKFHAL_01634	CDS	steT_2	Serine/threonine exchanger SteT
+ILEKFHAL_01635	CDS	hypothetical protein
+ILEKFHAL_01636	CDS	xerD_2	Tyrosine recombinase XerD
+ILEKFHAL_01637	CDS	hypothetical protein
+ILEKFHAL_01638	CDS	hypothetical protein
+ILEKFHAL_01639	CDS	hypothetical protein
+ILEKFHAL_01640	CDS	hypothetical protein
+ILEKFHAL_01641	tRNA	tRNA-Glu(ctc)
+ILEKFHAL_01642	CDS	hypothetical protein
+ILEKFHAL_01643	CDS	hypothetical protein
+ILEKFHAL_01644	CDS	hypothetical protein
+ILEKFHAL_01645	CDS	hypothetical protein
+ILEKFHAL_01646	CDS	gcvPA	1.4.4.2	putative glycine dehydrogenase (decarboxylating) subunit 1
+ILEKFHAL_01647	CDS	gcvPB	1.4.4.2	putative glycine dehydrogenase (decarboxylating) subunit 2
+ILEKFHAL_01648	CDS	hypothetical protein
+ILEKFHAL_01649	CDS	fccB_1	1.8.2.3	Sulfide dehydrogenase [flavocytochrome c] flavoprotein chain
+ILEKFHAL_01650	CDS	tusA	2.8.1.-	Sulfurtransferase TusA
+ILEKFHAL_01651	CDS	hypothetical protein
+ILEKFHAL_01652	CDS	hypothetical protein
+ILEKFHAL_01653	CDS	hypothetical protein
+ILEKFHAL_01654	CDS	hypothetical protein
+ILEKFHAL_01655	CDS	hypothetical protein
+ILEKFHAL_01656	CDS	lgoT	putative L-galactonate transporter
+ILEKFHAL_01657	CDS	hypothetical protein
+ILEKFHAL_01658	CDS	mdtH_2	Multidrug resistance protein MdtH
+ILEKFHAL_01659	CDS	hypothetical protein
+ILEKFHAL_01660	CDS	yecD_3	3.-.-.-	Isochorismatase family protein YecD
+ILEKFHAL_01661	CDS	ribZ_6	Riboflavin transporter RibZ
+ILEKFHAL_01662	CDS	potA	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+ILEKFHAL_01663	CDS	cysT	Sulfate transport system permease protein CysT
+ILEKFHAL_01664	CDS	hypothetical protein
+ILEKFHAL_01665	CDS	hypothetical protein
+ILEKFHAL_01666	CDS	aqpZ2	Aquaporin Z 2
+ILEKFHAL_01667	CDS	hypothetical protein
+ILEKFHAL_01668	CDS	hypothetical protein
+ILEKFHAL_01669	CDS	hypothetical protein
+ILEKFHAL_01670	CDS	hypothetical protein
+ILEKFHAL_01671	CDS	hypothetical protein
+ILEKFHAL_01672	CDS	hypothetical protein
+ILEKFHAL_01673	CDS	vapC_3	3.1.-.-	tRNA(fMet)-specific endonuclease VapC
+ILEKFHAL_01674	CDS	hypothetical protein
+ILEKFHAL_01675	CDS	hypothetical protein
+ILEKFHAL_01676	CDS	hypothetical protein
+ILEKFHAL_01677	CDS	hypothetical protein
+ILEKFHAL_01678	CDS	hypothetical protein
+ILEKFHAL_01679	CDS	hypothetical protein
+ILEKFHAL_01680	tRNA	tRNA-Thr(cgt)
+ILEKFHAL_01681	CDS	hypothetical protein
+ILEKFHAL_01682	CDS	nfo	3.1.21.2	Endonuclease 4
+ILEKFHAL_01683	CDS	hypothetical protein
+ILEKFHAL_01684	CDS	menI	3.1.2.28	1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+ILEKFHAL_01685	CDS	coaBC	Coenzyme A biosynthesis bifunctional protein CoaBC
+ILEKFHAL_01686	CDS	ramA	3.5.1.100	(R)-stereoselective amidase
+ILEKFHAL_01687	CDS	lip3	3.1.1.3	Lipase 3
+ILEKFHAL_01688	CDS	ppdK	2.7.9.1	Pyruvate, phosphate dikinase
+ILEKFHAL_01689	CDS	hypothetical protein
+ILEKFHAL_01690	CDS	hmoB	1.14.14.18	Heme-degrading monooxygenase HmoB
+ILEKFHAL_01691	CDS	glyQS	6.1.1.14	Glycine--tRNA ligase
+ILEKFHAL_01692	CDS	guaB_4	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+ILEKFHAL_01693	CDS	sufU	2.-.-.-	Zinc-dependent sulfurtransferase SufU
+ILEKFHAL_01694	CDS	sufS	2.8.1.7	Cysteine desulfurase SufS
+ILEKFHAL_01695	CDS	sufB_1	FeS cluster assembly protein SufB
+ILEKFHAL_01696	CDS	sufB_2	FeS cluster assembly protein SufB
+ILEKFHAL_01697	CDS	sufC	Vegetative protein 296
+ILEKFHAL_01698	CDS	hypothetical protein
+ILEKFHAL_01699	CDS	coaA	2.7.1.33	Pantothenate kinase
+ILEKFHAL_01700	CDS	proP_3	Proline/betaine transporter
+ILEKFHAL_01701	CDS	hypothetical protein
+ILEKFHAL_01702	CDS	hpnR_1	2.1.1.-	Hopanoid C-3 methylase
+ILEKFHAL_01703	CDS	putative epimerase/dehydratase
+ILEKFHAL_01704	CDS	2.3.1.-	Putative pyridoxal phosphate-dependent acyltransferase
+ILEKFHAL_01705	CDS	sfsA	Sugar fermentation stimulation protein A
+ILEKFHAL_01706	CDS	cutA	Divalent-cation tolerance protein CutA
+ILEKFHAL_01707	CDS	nth	4.2.99.18	Endonuclease III
+ILEKFHAL_01708	CDS	hypothetical protein
+ILEKFHAL_01709	CDS	5.3.1.29	Putative thiazole biosynthetic enzyme
+ILEKFHAL_01710	CDS	ffh	Signal recognition particle protein
+ILEKFHAL_01711	CDS	hypothetical protein
+ILEKFHAL_01712	CDS	3.6.3.-	Fluoroquinolones export ATP-binding protein
+ILEKFHAL_01713	CDS	hypothetical protein
+ILEKFHAL_01714	CDS	hypothetical protein
+ILEKFHAL_01715	CDS	mshD_2	2.3.1.189	Mycothiol acetyltransferase
+ILEKFHAL_01716	CDS	hddC	2.7.7.71	D-glycero-alpha-D-manno-heptose 1-phosphate guanylyltransferase
+ILEKFHAL_01717	CDS	hypothetical protein
+ILEKFHAL_01718	CDS	yicL	putative inner membrane transporter YicL
+ILEKFHAL_01719	CDS	hypothetical protein
+ILEKFHAL_01720	CDS	trxB_3	1.8.1.9	Thioredoxin reductase
+ILEKFHAL_01721	CDS	hypothetical protein
+ILEKFHAL_01722	CDS	hypothetical protein
+ILEKFHAL_01723	CDS	naiP_2	Putative niacin/nicotinamide transporter NaiP
+ILEKFHAL_01724	CDS	hypothetical protein
+ILEKFHAL_01725	CDS	argG	6.3.4.5	Argininosuccinate synthase
+ILEKFHAL_01726	CDS	argH	4.3.2.1	Argininosuccinate lyase
+ILEKFHAL_01727	CDS	lysK	3.5.1.-	[LysW]-lysine hydrolase
+ILEKFHAL_01728	CDS	lysX	6.3.2.43	Alpha-aminoadipate--LysW ligase LysX
+ILEKFHAL_01729	CDS	lysJ	2.6.1.-	[LysW]-aminoadipate semialdehyde transaminase
+ILEKFHAL_01730	CDS	lysZ	2.7.2.-	[LysW]-aminoadipate kinase
+ILEKFHAL_01731	CDS	lysY	1.2.1.-	[LysW]-L-2-aminoadipate 6-phosphate reductase
+ILEKFHAL_01732	CDS	lysW	Alpha-aminoadipate carrier protein LysW
+ILEKFHAL_01733	CDS	hypothetical protein
+ILEKFHAL_01734	CDS	hypothetical protein
+ILEKFHAL_01735	CDS	hypothetical protein
+ILEKFHAL_01736	CDS	hypothetical protein
+ILEKFHAL_01737	CDS	bmr3	Multidrug resistance protein 3
+ILEKFHAL_01738	CDS	yusO	putative HTH-type transcriptional regulator YusO
+ILEKFHAL_01739	CDS	hypothetical protein
+ILEKFHAL_01740	CDS	asnC_3	Regulatory protein AsnC
+ILEKFHAL_01741	CDS	hypothetical protein
+ILEKFHAL_01742	CDS	hypothetical protein
+ILEKFHAL_01743	CDS	paiB	Protease synthase and sporulation protein PAI 2
+ILEKFHAL_01744	CDS	hmp_2	1.14.12.17	Flavohemoprotein
+ILEKFHAL_01745	CDS	1.2.1.2	Putative formate dehydrogenase
+ILEKFHAL_01746	CDS	hypothetical protein
+ILEKFHAL_01747	CDS	fdhD	Sulfurtransferase FdhD
+ILEKFHAL_01748	CDS	hypothetical protein
+ILEKFHAL_01749	CDS	quiP	3.5.1.97	Acyl-homoserine lactone acylase QuiP
+ILEKFHAL_01750	CDS	hypothetical protein
+ILEKFHAL_01751	CDS	1.2.1.2	Putative formate dehydrogenase
+ILEKFHAL_01752	CDS	hndC	1.12.1.3	NADP-reducing hydrogenase subunit HndC
+ILEKFHAL_01753	CDS	yhdN_2	1.1.1.-	General stress protein 69
+ILEKFHAL_01754	CDS	hypothetical protein
+ILEKFHAL_01755	CDS	hypothetical protein
+ILEKFHAL_01756	tRNA	tRNA-Val(tac)
+ILEKFHAL_01757	CDS	aioB_2	1.20.9.1	Arsenite oxidase subunit AioB
+ILEKFHAL_01758	CDS	qcrB_2	Menaquinol-cytochrome c reductase cytochrome b subunit
+ILEKFHAL_01759	CDS	paaF	4.2.1.17	2,3-dehydroadipyl-CoA hydratase
+ILEKFHAL_01760	CDS	hypothetical protein
+ILEKFHAL_01761	CDS	pdxS	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxS
+ILEKFHAL_01762	CDS	hypothetical protein
+ILEKFHAL_01763	CDS	hypothetical protein
+ILEKFHAL_01764	CDS	hypothetical protein
+ILEKFHAL_01765	CDS	hypothetical protein
+ILEKFHAL_01766	CDS	hypothetical protein
+ILEKFHAL_01767	CDS	hypothetical protein
+ILEKFHAL_01768	CDS	gltD	1.4.1.13	Glutamate synthase [NADPH] small chain
+ILEKFHAL_01769	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+ILEKFHAL_01770	CDS	helY	3.6.4.-	putative helicase HelY
+ILEKFHAL_01771	CDS	ribD	Riboflavin biosynthesis protein RibD
+ILEKFHAL_01772	CDS	ahcY	3.3.1.1	Adenosylhomocysteinase
+ILEKFHAL_01773	CDS	moeZ	putative adenylyltransferase/sulfurtransferase MoeZ
+ILEKFHAL_01774	CDS	gpmI	5.4.2.12	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+ILEKFHAL_01775	CDS	hypothetical protein
+ILEKFHAL_01776	CDS	hypothetical protein
+ILEKFHAL_01777	CDS	hypothetical protein
+ILEKFHAL_01778	CDS	hypothetical protein
+ILEKFHAL_01779	CDS	hypothetical protein
+ILEKFHAL_01780	CDS	hypothetical protein
+ILEKFHAL_01781	CDS	hypothetical protein
+ILEKFHAL_01782	CDS	hypothetical protein
+ILEKFHAL_01783	CDS	hypothetical protein
+ILEKFHAL_01784	CDS	hypothetical protein
+ILEKFHAL_01785	CDS	hypothetical protein
+ILEKFHAL_01786	CDS	hypothetical protein
+ILEKFHAL_01787	CDS	hypothetical protein
+ILEKFHAL_01788	CDS	hypothetical protein
+ILEKFHAL_01789	CDS	serS	6.1.1.11	Serine--tRNA ligase
+ILEKFHAL_01790	CDS	hypothetical protein
+ILEKFHAL_01791	CDS	hypothetical protein
+ILEKFHAL_01792	CDS	hypothetical protein
+ILEKFHAL_01793	CDS	hypothetical protein
+ILEKFHAL_01794	CDS	hypothetical protein
+ILEKFHAL_01795	CDS	hypothetical protein
+ILEKFHAL_01796	CDS	hypothetical protein
+ILEKFHAL_01797	CDS	hypothetical protein
+ILEKFHAL_01798	CDS	hypothetical protein
+ILEKFHAL_01799	CDS	hypothetical protein
+ILEKFHAL_01800	CDS	hypothetical protein
+ILEKFHAL_01801	CDS	hypothetical protein
+ILEKFHAL_01802	CDS	hypothetical protein
+ILEKFHAL_01803	tRNA	tRNA-Cys(gca)
+ILEKFHAL_01804	CDS	hypothetical protein
+ILEKFHAL_01805	CDS	gyrB	5.99.1.3	DNA gyrase subunit B
+ILEKFHAL_01806	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+ILEKFHAL_01807	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+ILEKFHAL_01808	CDS	gloB	3.1.2.6	Hydroxyacylglutathione hydrolase
+ILEKFHAL_01809	CDS	hypothetical protein
+ILEKFHAL_01810	tRNA	tRNA-Gly(ccc)
+ILEKFHAL_01811	CDS	ygaZ	Inner membrane protein YgaZ
+ILEKFHAL_01812	CDS	hypothetical protein
+ILEKFHAL_01813	CDS	gdhA	1.4.1.3	Glutamate dehydrogenase
+ILEKFHAL_01814	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+ILEKFHAL_01815	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+ILEKFHAL_01816	CDS	hypothetical protein
+ILEKFHAL_01817	CDS	fccB_2	1.8.2.3	Sulfide dehydrogenase [flavocytochrome c] flavoprotein chain
+ILEKFHAL_01818	CDS	hypothetical protein
+ILEKFHAL_01819	CDS	arsR2	Arsenic resistance transcriptional regulator ArsR2
+ILEKFHAL_01820	CDS	hypothetical protein
+ILEKFHAL_01821	CDS	hypothetical protein
+ILEKFHAL_01822	CDS	hypothetical protein
+ILEKFHAL_01823	CDS	hypothetical protein
+ILEKFHAL_01824	CDS	hypothetical protein
+ILEKFHAL_01825	tRNA	tRNA-Leu(tag)
+ILEKFHAL_01826	CDS	hypothetical protein
+ILEKFHAL_01827	CDS	cmk_3	2.7.4.25	Cytidylate kinase
+ILEKFHAL_01828	CDS	hypothetical protein
+ILEKFHAL_01829	CDS	dadA	1.4.99.-	D-amino acid dehydrogenase
+ILEKFHAL_01830	CDS	ftsH	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+ILEKFHAL_01831	CDS	mtnC	3.1.3.77	Enolase-phosphatase E1
+ILEKFHAL_01832	CDS	mtnD	1.13.11.54	Acireductone dioxygenase
+ILEKFHAL_01833	CDS	mtnB_3	4.2.1.109	Methylthioribulose-1-phosphate dehydratase
+ILEKFHAL_01834	CDS	hypothetical protein
+ILEKFHAL_01835	CDS	hypothetical protein
+ILEKFHAL_01836	tRNA	tRNA-Leu(cag)
+ILEKFHAL_01837	CDS	lvr	1.1.1.-	Levodione reductase
+ILEKFHAL_01838	CDS	hypothetical protein
+ILEKFHAL_01839	CDS	hypothetical protein
+ILEKFHAL_01840	CDS	hypothetical protein
+ILEKFHAL_01841	CDS	ydfJ	Membrane protein YdfJ
+ILEKFHAL_01842	CDS	fmdA	3.5.1.49	Formamidase
+ILEKFHAL_01843	CDS	hypothetical protein
+ILEKFHAL_01844	CDS	hypothetical protein
+ILEKFHAL_01845	CDS	hypothetical protein
+ILEKFHAL_01846	CDS	pyrC	3.5.2.3	Dihydroorotase
+ILEKFHAL_01847	CDS	queE	4.3.99.3	7-carboxy-7-deazaguanine synthase
+ILEKFHAL_01848	CDS	3.4.-.-	putative peptidase
+ILEKFHAL_01849	CDS	hypothetical protein
+ILEKFHAL_01850	CDS	hypothetical protein
+ILEKFHAL_01851	CDS	hypothetical protein
+ILEKFHAL_01852	CDS	hypothetical protein
+ILEKFHAL_01853	CDS	hypothetical protein
+ILEKFHAL_01854	CDS	paiA_2	2.3.1.57	Spermidine/spermine N(1)-acetyltransferase
+ILEKFHAL_01855	CDS	hypothetical protein
+ILEKFHAL_01856	CDS	hypothetical protein
+ILEKFHAL_01857	CDS	hypothetical protein
+ILEKFHAL_01858	CDS	hypothetical protein
+ILEKFHAL_01859	tRNA	tRNA-Asp(gtc)
+ILEKFHAL_01860	CDS	hprA	1.1.1.29	Glycerate dehydrogenase
+ILEKFHAL_01861	CDS	hemA	1.2.1.70	Glutamyl-tRNA reductase
+ILEKFHAL_01862	CDS	hypothetical protein
+ILEKFHAL_01863	CDS	hypothetical protein
+ILEKFHAL_01864	CDS	thiL	2.7.4.16	Thiamine-monophosphate kinase
+ILEKFHAL_01865	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+ILEKFHAL_01866	CDS	hypothetical protein
+ILEKFHAL_01867	CDS	hypothetical protein
+ILEKFHAL_01868	CDS	thlA_2	2.3.1.9	Acetyl-CoA acetyltransferase
+ILEKFHAL_01869	CDS	fadB	4.2.1.17	putative enoyl-CoA hydratase
+ILEKFHAL_01870	CDS	cysM	2.5.1.47	Cysteine synthase B
+ILEKFHAL_01871	CDS	hypothetical protein
+ILEKFHAL_01872	CDS	yneB_3	Resolvase  YneB
+ILEKFHAL_01873	CDS	hypothetical protein
+ILEKFHAL_01874	CDS	hypothetical protein
+ILEKFHAL_01875	tRNA	tRNA-Pro(cgg)
+ILEKFHAL_01876	CDS	1.-.-.-	putative oxidoreductase
+ILEKFHAL_01877	CDS	fadA	2.3.1.-	Putative acyltransferase
+ILEKFHAL_01878	CDS	hypothetical protein
+ILEKFHAL_01879	CDS	ppiB	5.2.1.8	putative peptidyl-prolyl cis-trans isomerase
+ILEKFHAL_01880	CDS	3.6.3.-	Putative multidrug export ATP-binding/permease protein
+ILEKFHAL_01881	CDS	yheI	3.6.3.-	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+ILEKFHAL_01882	CDS	hypothetical protein
+ILEKFHAL_01883	CDS	hypothetical protein
+ILEKFHAL_01884	CDS	hypothetical protein
+ILEKFHAL_01885	CDS	drrA_4	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+ILEKFHAL_01886	CDS	hypothetical protein
+ILEKFHAL_01887	CDS	cshA_2	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshA
+ILEKFHAL_01888	CDS	hypothetical protein
+ILEKFHAL_01889	CDS	hypothetical protein
+ILEKFHAL_01890	CDS	hypothetical protein
+ILEKFHAL_01891	CDS	petB	Cytochrome b6
+ILEKFHAL_01892	CDS	aioB_3	1.20.9.1	Arsenite oxidase subunit AioB
+ILEKFHAL_01893	CDS	hpnR_2	2.1.1.-	Hopanoid C-3 methylase
+ILEKFHAL_01894	CDS	hypothetical protein
+ILEKFHAL_01895	CDS	hypothetical protein
+ILEKFHAL_01896	CDS	hypothetical protein
+ILEKFHAL_01897	CDS	hypothetical protein
+ILEKFHAL_01898	CDS	hypothetical protein
+ILEKFHAL_01899	CDS	hypothetical protein
+ILEKFHAL_01900	CDS	natA_2	ABC transporter ATP-binding protein NatA
+ILEKFHAL_01901	CDS	hypothetical protein
+ILEKFHAL_01902	CDS	hypothetical protein
+ILEKFHAL_01903	CDS	hypothetical protein
+ILEKFHAL_01904	CDS	hypothetical protein
+ILEKFHAL_01905	CDS	hypothetical protein
+ILEKFHAL_01906	CDS	natA_3	ABC transporter ATP-binding protein NatA
+ILEKFHAL_01907	CDS	hypothetical protein
+ILEKFHAL_01908	CDS	ugpC	3.6.3.20	sn-glycerol-3-phosphate import ATP-binding protein UgpC
+ILEKFHAL_01909	CDS	hypothetical protein
+ILEKFHAL_01910	CDS	ycjP	Inner membrane ABC transporter permease protein YcjP
+ILEKFHAL_01911	CDS	araP	L-arabinose transport system permease protein AraP
+ILEKFHAL_01912	CDS	hypothetical protein
+ILEKFHAL_01913	CDS	clcD	3.1.1.45	Carboxymethylenebutenolidase
+ILEKFHAL_01914	CDS	hypothetical protein
+ILEKFHAL_01915	CDS	hypothetical protein
+ILEKFHAL_01916	CDS	pyrH	2.7.4.22	Uridylate kinase
+ILEKFHAL_01917	CDS	hypothetical protein
+ILEKFHAL_01918	CDS	hypothetical protein
+ILEKFHAL_01919	CDS	hypothetical protein
+ILEKFHAL_01920	CDS	hypothetical protein
+ILEKFHAL_01921	CDS	hypothetical protein
+ILEKFHAL_01922	CDS	hypothetical protein
+ILEKFHAL_01923	CDS	hypothetical protein
+ILEKFHAL_01924	CDS	rnz	3.1.26.11	Ribonuclease Z
+ILEKFHAL_01925	CDS	ygcS	Inner membrane metabolite transport protein YgcS
+ILEKFHAL_01926	CDS	hypothetical protein
+ILEKFHAL_01927	CDS	hypothetical protein
+ILEKFHAL_01928	CDS	hypothetical protein
+ILEKFHAL_01929	CDS	pckG	4.1.1.32	Phosphoenolpyruvate carboxykinase [GTP]
+ILEKFHAL_01930	CDS	cmpB	Bicarbonate transport system permease protein CmpB
+ILEKFHAL_01931	CDS	hypothetical protein
+ILEKFHAL_01932	CDS	hypothetical protein
+ILEKFHAL_01933	CDS	hypothetical protein
+ILEKFHAL_01934	CDS	hypothetical protein
+ILEKFHAL_01935	CDS	Bifunctional NMN adenylyltransferase/Nudix hydrolase
+ILEKFHAL_01936	CDS	argE	3.5.1.16	Acetylornithine deacetylase
+ILEKFHAL_01937	CDS	proS	6.1.1.15	Proline--tRNA ligase
+ILEKFHAL_01938	CDS	serB_2	3.1.3.3	Phosphoserine phosphatase
+ILEKFHAL_01939	CDS	recA_2	Protein RecA
+ILEKFHAL_01940	CDS	hypothetical protein
+ILEKFHAL_01941	CDS	hypothetical protein
+ILEKFHAL_01942	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+ILEKFHAL_01943	CDS	hypothetical protein
+ILEKFHAL_01944	CDS	hypothetical protein
+ILEKFHAL_01945	CDS	hypothetical protein
+ILEKFHAL_01946	CDS	smc_3	Chromosome partition protein Smc
+ILEKFHAL_01947	CDS	hypothetical protein
+ILEKFHAL_01948	CDS	hypothetical protein
+ILEKFHAL_01949	CDS	hypothetical protein
+ILEKFHAL_01950	CDS	hypothetical protein
+ILEKFHAL_01951	CDS	hypothetical protein
+ILEKFHAL_01952	tRNA	tRNA-Leu(caa)
+ILEKFHAL_01953	CDS	hypothetical protein
+ILEKFHAL_01954	CDS	hypothetical protein
+ILEKFHAL_01955	CDS	msrB	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+ILEKFHAL_01956	CDS	msrA2	1.8.4.11	Peptide methionine sulfoxide reductase MsrA 2
+ILEKFHAL_01957	CDS	hypothetical protein
+ILEKFHAL_01958	CDS	4.3.2.3	Ureidoglycolate lyase
+ILEKFHAL_01959	CDS	hypothetical protein
+ILEKFHAL_01960	CDS	hycD	Formate hydrogenlyase subunit 4
+ILEKFHAL_01961	CDS	hypothetical protein
+ILEKFHAL_01962	CDS	hyfB_1	1.-.-.-	Hydrogenase-4 component B
+ILEKFHAL_01963	CDS	hycE	Formate hydrogenlyase subunit 5
+ILEKFHAL_01964	CDS	hycG	Formate hydrogenlyase subunit 7
+ILEKFHAL_01965	CDS	hyfB_2	1.-.-.-	Hydrogenase-4 component B
+ILEKFHAL_01966	CDS	gltA	2.3.3.16	Citrate synthase
+ILEKFHAL_01967	CDS	dnaJ	Chaperone protein DnaJ
+ILEKFHAL_01968	CDS	dnaK	Chaperone protein DnaK
+ILEKFHAL_01969	CDS	grpE	Protein GrpE
+ILEKFHAL_01970	CDS	hypothetical protein
+ILEKFHAL_01971	CDS	naiP_3	Putative niacin/nicotinamide transporter NaiP
+ILEKFHAL_01972	CDS	hypothetical protein
+ILEKFHAL_01973	CDS	prcB_2	3.4.25.1	Proteasome subunit beta
+ILEKFHAL_01974	CDS	3.1.-.-	Ribonuclease
+ILEKFHAL_01975	CDS	hypothetical protein
+ILEKFHAL_01976	CDS	tal	2.2.1.2	Transaldolase
+ILEKFHAL_01977	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+ILEKFHAL_01978	CDS	tktA	2.2.1.1	Transketolase 1
+ILEKFHAL_01979	CDS	ftsZ_2	Cell division protein FtsZ
+ILEKFHAL_01980	CDS	hypothetical protein
+ILEKFHAL_01981	CDS	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+ILEKFHAL_01982	CDS	icaA_2	2.4.1.-	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+ILEKFHAL_01983	CDS	hypothetical protein
+ILEKFHAL_01984	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+ILEKFHAL_01985	CDS	hypothetical protein
+ILEKFHAL_01986	CDS	albA_2	1.21.98.-	Antilisterial bacteriocin subtilosin biosynthesis protein AlbA
+ILEKFHAL_01987	CDS	hypothetical protein
+ILEKFHAL_01988	CDS	hypothetical protein
+ILEKFHAL_01989	CDS	bcp_3	1.11.1.15	Putative peroxiredoxin
+ILEKFHAL_01990	CDS	hypothetical protein
+ILEKFHAL_01991	CDS	hypothetical protein
+ILEKFHAL_01992	CDS	hypothetical protein
+ILEKFHAL_01993	CDS	mvaA	1.1.1.88	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+ILEKFHAL_01994	CDS	hypothetical protein
+ILEKFHAL_01995	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase catalytic subunit
+ILEKFHAL_01996	CDS	pyrI	Aspartate carbamoyltransferase regulatory chain
+ILEKFHAL_01997	CDS	hypothetical protein
+ILEKFHAL_01998	CDS	hypothetical protein
+ILEKFHAL_01999	CDS	hypothetical protein
+ILEKFHAL_02000	CDS	hypothetical protein
+ILEKFHAL_02001	CDS	hypothetical protein
+ILEKFHAL_02002	CDS	hypothetical protein
+ILEKFHAL_02003	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+ILEKFHAL_02004	CDS	purS	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurS
+ILEKFHAL_02005	CDS	2.5.1.41	Geranylgeranylglyceryl phosphate synthase
+ILEKFHAL_02006	CDS	cyoE	2.5.1.-	Protoheme IX farnesyltransferase
+ILEKFHAL_02007	CDS	trm1	2.1.1.215	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+ILEKFHAL_02008	CDS	3.6.1.15	Nucleoside-triphosphatase THEP1
+ILEKFHAL_02009	CDS	hypothetical protein
+ILEKFHAL_02010	CDS	hypothetical protein
+ILEKFHAL_02011	CDS	hypothetical protein
+ILEKFHAL_02012	CDS	hypothetical protein
+ILEKFHAL_02013	CDS	hypothetical protein
+ILEKFHAL_02014	CDS	hypothetical protein
+ILEKFHAL_02015	CDS	3.1.2.-	putative acyl-CoA thioester hydrolase
+ILEKFHAL_02016	CDS	rpiA	5.3.1.6	Ribose-5-phosphate isomerase A
+ILEKFHAL_02017	CDS	hypothetical protein
+ILEKFHAL_02018	CDS	hypothetical protein
+ILEKFHAL_02019	CDS	lrp	Leucine-responsive regulatory protein
+ILEKFHAL_02020	CDS	trmI	2.1.1.220	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+ILEKFHAL_02021	CDS	2.7.1.165	D-glycerate 2-kinase
+ILEKFHAL_02022	CDS	pspE	2.8.1.1	Thiosulfate sulfurtransferase PspE
+ILEKFHAL_02023	CDS	cobO	2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+ILEKFHAL_02024	CDS	sttH	3.5.2.19	Streptothricin hydrolase
+ILEKFHAL_02025	CDS	hypothetical protein
+ILEKFHAL_02026	CDS	hypothetical protein
+ILEKFHAL_02027	CDS	hypothetical protein
+ILEKFHAL_02028	CDS	hypothetical protein
+ILEKFHAL_02029	CDS	hypothetical protein
+ILEKFHAL_02030	CDS	hypothetical protein
+ILEKFHAL_02031	CDS	thpR	3.1.4.-	RNA 2',3'-cyclic phosphodiesterase
+ILEKFHAL_02032	CDS	hypothetical protein
+ILEKFHAL_02033	CDS	hypothetical protein
+ILEKFHAL_02034	CDS	hypothetical protein
+ILEKFHAL_02035	CDS	hypothetical protein
+ILEKFHAL_02036	CDS	hypothetical protein
+ILEKFHAL_02037	CDS	hypothetical protein
+ILEKFHAL_02038	CDS	hypothetical protein
+ILEKFHAL_02039	CDS	hypothetical protein
+ILEKFHAL_02040	CDS	hypothetical protein
+ILEKFHAL_02041	CDS	hypothetical protein
+ILEKFHAL_02042	CDS	hypothetical protein
+ILEKFHAL_02043	CDS	hypothetical protein
+ILEKFHAL_02044	CDS	hypothetical protein
+ILEKFHAL_02045	CDS	hypothetical protein
+ILEKFHAL_02046	CDS	hypothetical protein
+ILEKFHAL_02047	CDS	hypothetical protein
+ILEKFHAL_02048	CDS	hypothetical protein
+ILEKFHAL_02049	CDS	hicB_2	Antitoxin HicB
+ILEKFHAL_02050	CDS	hypothetical protein
+ILEKFHAL_02051	tRNA	tRNA-Cys(gca)
+ILEKFHAL_02052	CDS	hypothetical protein
+ILEKFHAL_02053	CDS	guaA_2	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+ILEKFHAL_02054	CDS	hypothetical protein
+ILEKFHAL_02055	CDS	glnS	6.1.1.18	Glutamine--tRNA ligase
+ILEKFHAL_02056	CDS	obg_2	3.6.5.-	GTPase Obg
+ILEKFHAL_02057	CDS	hypothetical protein
+ILEKFHAL_02058	CDS	hypothetical protein
+ILEKFHAL_02059	CDS	thrC_2	4.2.3.1	Threonine synthase
+ILEKFHAL_02060	CDS	hypothetical protein

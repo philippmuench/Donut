@@ -1,7 +1,0 @@
-chr - dke_a-contig-1 dke_a-contig-1 0 60296 paired-12-qual-6
-chr - dke_a-contig-2 dke_a-contig-2 0 87751 paired-12-qual-6
-chr - dke_a-contig-3 dke_a-contig-3 0 74399 paired-12-qual-6
-chr - dke_a-contig-4 dke_a-contig-4 0 66370 paired-12-qual-6
-chr - dke_a-contig-5 dke_a-contig-5 0 156675 paired-12-qual-6
-chr - dke_a-contig-6 dke_a-contig-6 0 336535 paired-12-qual-6
-chr - dke_a-contig-7 dke_a-contig-7 0 194415 paired-12-qual-6

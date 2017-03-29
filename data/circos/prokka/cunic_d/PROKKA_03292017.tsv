@@ -1,0 +1,1905 @@
+locus_tag	ftype	gene	EC_number	product
+ALDNNEPI_00001	CDS	topB	5.99.1.2	DNA topoisomerase 3
+ALDNNEPI_00002	CDS	hypothetical protein
+ALDNNEPI_00003	CDS	tri1_1	3.4.21.-	Tricorn protease 
+ALDNNEPI_00004	CDS	3.4.21.101	Xanthomonalisin
+ALDNNEPI_00005	CDS	purH	Bifunctional purine biosynthesis protein PurH
+ALDNNEPI_00006	CDS	mat	2.5.1.6	S-adenosylmethionine synthase
+ALDNNEPI_00007	CDS	ytnP	3.1.1.-	putative quorum-quenching lactonase YtnP
+ALDNNEPI_00008	CDS	hypothetical protein
+ALDNNEPI_00009	CDS	hypothetical protein
+ALDNNEPI_00010	CDS	hypothetical protein
+ALDNNEPI_00011	CDS	hypothetical protein
+ALDNNEPI_00012	CDS	thrC	4.2.3.1	Threonine synthase
+ALDNNEPI_00013	CDS	hypothetical protein
+ALDNNEPI_00014	CDS	hypothetical protein
+ALDNNEPI_00015	CDS	valS	6.1.1.9	Valine--tRNA ligase
+ALDNNEPI_00016	CDS	hypothetical protein
+ALDNNEPI_00017	CDS	hypothetical protein
+ALDNNEPI_00018	CDS	argD	2.6.1.11	Acetylornithine aminotransferase
+ALDNNEPI_00019	CDS	hypothetical protein
+ALDNNEPI_00020	CDS	acs_1	6.2.1.1	Acetyl-coenzyme A synthetase
+ALDNNEPI_00021	CDS	hypothetical protein
+ALDNNEPI_00022	CDS	hypothetical protein
+ALDNNEPI_00023	CDS	hypothetical protein
+ALDNNEPI_00024	CDS	pyrG	6.3.4.2	CTP synthase
+ALDNNEPI_00025	CDS	hypothetical protein
+ALDNNEPI_00026	CDS	hypothetical protein
+ALDNNEPI_00027	CDS	hypothetical protein
+ALDNNEPI_00028	CDS	hypothetical protein
+ALDNNEPI_00029	CDS	nanT	Putative sialic acid transporter
+ALDNNEPI_00030	CDS	sodB	1.15.1.1	Superoxide dismutase [Fe]
+ALDNNEPI_00031	CDS	2.7.8.-	Cardiolipin synthase
+ALDNNEPI_00032	CDS	ogg	putative N-glycosylase/DNA lyase
+ALDNNEPI_00033	CDS	hypothetical protein
+ALDNNEPI_00034	CDS	hypothetical protein
+ALDNNEPI_00035	CDS	atpE	V-type proton ATPase subunit E
+ALDNNEPI_00036	CDS	atpC	V-type ATP synthase subunit C
+ALDNNEPI_00037	CDS	atpF	V-type ATP synthase subunit F
+ALDNNEPI_00038	CDS	ntpA	3.6.3.15	V-type sodium ATPase catalytic subunit A
+ALDNNEPI_00039	CDS	ntpB	V-type sodium ATPase subunit B
+ALDNNEPI_00040	CDS	ntpD	V-type sodium ATPase subunit D
+ALDNNEPI_00041	CDS	hypothetical protein
+ALDNNEPI_00042	CDS	hypothetical protein
+ALDNNEPI_00043	CDS	hypothetical protein
+ALDNNEPI_00044	CDS	aspC	2.6.1.1	Aspartate aminotransferase
+ALDNNEPI_00045	CDS	hypothetical protein
+ALDNNEPI_00046	CDS	galE1	5.1.3.2	UDP-glucose 4-epimerase
+ALDNNEPI_00047	CDS	hypothetical protein
+ALDNNEPI_00048	CDS	fni	5.3.3.2	Isopentenyl-diphosphate delta-isomerase
+ALDNNEPI_00049	CDS	proB	2.7.2.11	Glutamate 5-kinase
+ALDNNEPI_00050	tRNA	tRNA-Ala(tgc)
+ALDNNEPI_00051	CDS	hypothetical protein
+ALDNNEPI_00052	CDS	dpnA_1	2.1.1.72	Modification methylase DpnIIB
+ALDNNEPI_00053	CDS	hypothetical protein
+ALDNNEPI_00054	CDS	recF_1	DNA replication and repair protein RecF
+ALDNNEPI_00055	CDS	hypothetical protein
+ALDNNEPI_00056	CDS	hypothetical protein
+ALDNNEPI_00057	CDS	hypothetical protein
+ALDNNEPI_00058	CDS	hypothetical protein
+ALDNNEPI_00059	CDS	drrA_1	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+ALDNNEPI_00060	CDS	hypothetical protein
+ALDNNEPI_00061	CDS	hypothetical protein
+ALDNNEPI_00062	CDS	hypothetical protein
+ALDNNEPI_00063	CDS	hypothetical protein
+ALDNNEPI_00064	CDS	hypothetical protein
+ALDNNEPI_00065	CDS	hypothetical protein
+ALDNNEPI_00066	CDS	hypothetical protein
+ALDNNEPI_00067	CDS	vapC_1	3.1.-.-	tRNA(fMet)-specific endonuclease VapC
+ALDNNEPI_00068	CDS	vapC_2	3.1.-.-	tRNA(fMet)-specific endonuclease VapC
+ALDNNEPI_00069	CDS	hypothetical protein
+ALDNNEPI_00070	CDS	hypothetical protein
+ALDNNEPI_00071	CDS	hypothetical protein
+ALDNNEPI_00072	CDS	hypothetical protein
+ALDNNEPI_00073	CDS	hypothetical protein
+ALDNNEPI_00074	CDS	hypothetical protein
+ALDNNEPI_00075	CDS	hypothetical protein
+ALDNNEPI_00076	CDS	ygiD	1.13.11.29	4,5-DOPA dioxygenase extradiol
+ALDNNEPI_00077	CDS	hypothetical protein
+ALDNNEPI_00078	CDS	hypothetical protein
+ALDNNEPI_00079	CDS	lpdA	1.8.1.4	Dihydrolipoyl dehydrogenase
+ALDNNEPI_00080	CDS	hypothetical protein
+ALDNNEPI_00081	CDS	hypothetical protein
+ALDNNEPI_00082	CDS	radD	3.6.4.12	Putative DNA repair helicase RadD
+ALDNNEPI_00083	CDS	hypothetical protein
+ALDNNEPI_00084	CDS	hypothetical protein
+ALDNNEPI_00085	CDS	hypothetical protein
+ALDNNEPI_00086	CDS	sdpR	Transcriptional repressor SdpR
+ALDNNEPI_00087	CDS	3.6.3.8	Calcium-transporting ATPase 1
+ALDNNEPI_00088	CDS	hypothetical protein
+ALDNNEPI_00089	CDS	hypothetical protein
+ALDNNEPI_00090	CDS	hypothetical protein
+ALDNNEPI_00091	CDS	hypothetical protein
+ALDNNEPI_00092	CDS	hypothetical protein
+ALDNNEPI_00093	CDS	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+ALDNNEPI_00094	CDS	yicI_1	3.2.1.177	Alpha-xylosidase
+ALDNNEPI_00095	CDS	katG	1.11.1.21	Catalase-peroxidase
+ALDNNEPI_00096	CDS	hypothetical protein
+ALDNNEPI_00097	CDS	hypothetical protein
+ALDNNEPI_00098	CDS	hypothetical protein
+ALDNNEPI_00099	CDS	3.4.-.-	putative peptidase
+ALDNNEPI_00100	CDS	hypothetical protein
+ALDNNEPI_00101	CDS	3.1.1.99	6-deoxy-6-sulfogluconolactonase
+ALDNNEPI_00102	CDS	hypothetical protein
+ALDNNEPI_00103	CDS	hypothetical protein
+ALDNNEPI_00104	CDS	yhdN_1	1.1.1.-	General stress protein 69
+ALDNNEPI_00105	CDS	hypothetical protein
+ALDNNEPI_00106	CDS	hypothetical protein
+ALDNNEPI_00107	CDS	hypothetical protein
+ALDNNEPI_00108	CDS	hypothetical protein
+ALDNNEPI_00109	CDS	ftsE	Cell division ATP-binding protein FtsE
+ALDNNEPI_00110	CDS	pepO_1	3.4.24.-	Neutral endopeptidase
+ALDNNEPI_00111	CDS	gspK_1	2.7.1.8	Glucosamine kinase GspK
+ALDNNEPI_00112	CDS	hypothetical protein
+ALDNNEPI_00113	CDS	hypothetical protein
+ALDNNEPI_00114	CDS	hypothetical protein
+ALDNNEPI_00115	CDS	hypothetical protein
+ALDNNEPI_00116	CDS	putative ABC transporter-binding protein
+ALDNNEPI_00117	CDS	gsiC	Glutathione transport system permease protein GsiC
+ALDNNEPI_00118	CDS	ddpC_1	putative D,D-dipeptide transport system permease protein DdpC
+ALDNNEPI_00119	CDS	oppD_1	Oligopeptide transport ATP-binding protein OppD
+ALDNNEPI_00120	CDS	ddpF	putative D,D-dipeptide transport ATP-binding protein DdpF
+ALDNNEPI_00121	CDS	yhdN_2	1.1.1.-	General stress protein 69
+ALDNNEPI_00122	CDS	gghA_1	3.2.1.74	1,4-beta-D-glucan glucohydrolase
+ALDNNEPI_00123	CDS	hypothetical protein
+ALDNNEPI_00124	CDS	hypothetical protein
+ALDNNEPI_00125	CDS	hypothetical protein
+ALDNNEPI_00126	CDS	gfo	1.1.99.28	Glucose--fructose oxidoreductase
+ALDNNEPI_00127	CDS	dadA	1.4.99.-	D-amino acid dehydrogenase
+ALDNNEPI_00128	CDS	csbC_1	putative metabolite transport protein CsbC
+ALDNNEPI_00129	CDS	ygcS_1	Inner membrane metabolite transport protein YgcS
+ALDNNEPI_00130	CDS	lrpC	HTH-type transcriptional regulator LrpC
+ALDNNEPI_00131	CDS	hypothetical protein
+ALDNNEPI_00132	CDS	hypothetical protein
+ALDNNEPI_00133	CDS	chuR	1.1.99.-	Anaerobic sulfatase-maturating enzyme
+ALDNNEPI_00134	CDS	hypothetical protein
+ALDNNEPI_00135	CDS	hypothetical protein
+ALDNNEPI_00136	CDS	hypothetical protein
+ALDNNEPI_00137	CDS	hypothetical protein
+ALDNNEPI_00138	CDS	hypothetical protein
+ALDNNEPI_00139	CDS	hypothetical protein
+ALDNNEPI_00140	CDS	hypothetical protein
+ALDNNEPI_00141	CDS	hypothetical protein
+ALDNNEPI_00142	CDS	hypothetical protein
+ALDNNEPI_00143	CDS	hypothetical protein
+ALDNNEPI_00144	CDS	hypothetical protein
+ALDNNEPI_00145	CDS	hypothetical protein
+ALDNNEPI_00146	CDS	hypothetical protein
+ALDNNEPI_00147	CDS	hypothetical protein
+ALDNNEPI_00148	tRNA	tRNA-Val(gac)
+ALDNNEPI_00149	CDS	iaaA	3.4.19.5	Isoaspartyl peptidase
+ALDNNEPI_00150	CDS	egsA	1.1.1.261	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+ALDNNEPI_00151	CDS	hypothetical protein
+ALDNNEPI_00152	CDS	ychF	Ribosome-binding ATPase YchF
+ALDNNEPI_00153	CDS	hypothetical protein
+ALDNNEPI_00154	CDS	ydaF	2.3.1.-	Putative ribosomal N-acetyltransferase YdaF
+ALDNNEPI_00155	CDS	hypothetical protein
+ALDNNEPI_00156	CDS	carD_1	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarD
+ALDNNEPI_00157	CDS	bphA3	Biphenyl 2,3-dioxygenase, ferredoxin component
+ALDNNEPI_00158	CDS	hypothetical protein
+ALDNNEPI_00159	CDS	hypothetical protein
+ALDNNEPI_00160	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+ALDNNEPI_00161	CDS	tmk	2.7.4.9	Thymidylate kinase
+ALDNNEPI_00162	CDS	megL	4.4.1.11	L-methionine gamma-lyase
+ALDNNEPI_00163	CDS	yhdG_1	putative amino acid permease YhdG
+ALDNNEPI_00164	CDS	hypothetical protein
+ALDNNEPI_00165	CDS	natA_1	ABC transporter ATP-binding protein NatA
+ALDNNEPI_00166	CDS	hbd_1	1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase
+ALDNNEPI_00167	CDS	hypothetical protein
+ALDNNEPI_00168	CDS	ahpF_1	1.8.1.-	Alkyl hydroperoxide reductase subunit F
+ALDNNEPI_00169	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+ALDNNEPI_00170	CDS	gltA_1	2.3.3.16	Citrate synthase
+ALDNNEPI_00171	CDS	yecD	3.-.-.-	Isochorismatase family protein YecD
+ALDNNEPI_00172	CDS	glgX	3.2.1.-	Glycogen operon protein GlgX 
+ALDNNEPI_00173	CDS	hypothetical protein
+ALDNNEPI_00174	CDS	hypothetical protein
+ALDNNEPI_00175	CDS	2.7.7.53	AP-4-A phosphorylase
+ALDNNEPI_00176	CDS	pyrE_1	2.4.2.10	Orotate phosphoribosyltransferase
+ALDNNEPI_00177	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+ALDNNEPI_00178	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+ALDNNEPI_00179	CDS	hypothetical protein
+ALDNNEPI_00180	CDS	2.3.1.82	Aminoglycoside N(6')-acetyltransferase type 1
+ALDNNEPI_00181	CDS	yveA_1	Aspartate-proton symporter
+ALDNNEPI_00182	CDS	hypothetical protein
+ALDNNEPI_00183	CDS	hypothetical protein
+ALDNNEPI_00184	CDS	hypothetical protein
+ALDNNEPI_00185	CDS	hypothetical protein
+ALDNNEPI_00186	CDS	bcp_1	1.11.1.15	Putative peroxiredoxin bcp
+ALDNNEPI_00187	CDS	hypothetical protein
+ALDNNEPI_00188	CDS	pcaF	2.3.1.174	Beta-ketoadipyl-CoA thiolase
+ALDNNEPI_00189	CDS	mvaS	2.3.3.10	Hydroxymethylglutaryl-CoA synthase
+ALDNNEPI_00190	CDS	hypothetical protein
+ALDNNEPI_00191	CDS	hypothetical protein
+ALDNNEPI_00192	CDS	hypothetical protein
+ALDNNEPI_00193	CDS	comB	3.1.3.71	putative 2-phosphosulfolactate phosphatase
+ALDNNEPI_00194	CDS	rplK	50S ribosomal protein L11
+ALDNNEPI_00195	CDS	rplA	50S ribosomal protein L1
+ALDNNEPI_00196	CDS	rplJ	50S ribosomal protein L10
+ALDNNEPI_00197	CDS	hypothetical protein
+ALDNNEPI_00198	CDS	hypothetical protein
+ALDNNEPI_00199	CDS	hypothetical protein
+ALDNNEPI_00200	CDS	pcp_1	3.4.19.3	Pyrrolidone-carboxylate peptidase
+ALDNNEPI_00201	CDS	2.1.2.5	Glutamate formimidoyltransferase
+ALDNNEPI_00202	CDS	fchA	3.5.4.9	Methenyltetrahydrofolate cyclohydrolase
+ALDNNEPI_00203	CDS	tdcB	4.3.1.19	L-threonine ammonia-lyase
+ALDNNEPI_00204	CDS	obg_1	3.6.5.-	GTPase Obg
+ALDNNEPI_00205	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+ALDNNEPI_00206	CDS	thrB_1	2.7.1.39	Homoserine kinase
+ALDNNEPI_00207	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+ALDNNEPI_00208	CDS	hypothetical protein
+ALDNNEPI_00209	CDS	hypothetical protein
+ALDNNEPI_00210	CDS	hypothetical protein
+ALDNNEPI_00211	CDS	lipB_1	2.3.1.181	Octanoyltransferase
+ALDNNEPI_00212	CDS	pdhD	1.8.1.4	Dihydrolipoyl dehydrogenase
+ALDNNEPI_00213	CDS	pdhC	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+ALDNNEPI_00214	CDS	1.2.4.4	2-oxoisovalerate dehydrogenase subunit beta
+ALDNNEPI_00215	CDS	1.2.4.4	2-oxoisovalerate dehydrogenase subunit alpha
+ALDNNEPI_00216	CDS	lipA	2.8.1.8	Lipoyl synthase
+ALDNNEPI_00217	tRNA	tRNA-Ile(gat)
+ALDNNEPI_00218	CDS	hypothetical protein
+ALDNNEPI_00219	CDS	hypothetical protein
+ALDNNEPI_00220	CDS	3.4.21.26	Prolyl endopeptidase
+ALDNNEPI_00221	CDS	hypothetical protein
+ALDNNEPI_00222	CDS	hypothetical protein
+ALDNNEPI_00223	CDS	hypothetical protein
+ALDNNEPI_00224	CDS	hypothetical protein
+ALDNNEPI_00225	CDS	hypothetical protein
+ALDNNEPI_00226	CDS	adh	1.1.1.1	Alcohol dehydrogenase
+ALDNNEPI_00227	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+ALDNNEPI_00228	CDS	hypothetical protein
+ALDNNEPI_00229	CDS	ubiB	2.7.-.-	putative protein kinase UbiB
+ALDNNEPI_00230	CDS	hypothetical protein
+ALDNNEPI_00231	CDS	hypothetical protein
+ALDNNEPI_00232	CDS	hypothetical protein
+ALDNNEPI_00233	CDS	hypothetical protein
+ALDNNEPI_00234	CDS	hypothetical protein
+ALDNNEPI_00235	CDS	hypothetical protein
+ALDNNEPI_00236	CDS	hypothetical protein
+ALDNNEPI_00237	tRNA	tRNA-Ser(cga)
+ALDNNEPI_00238	CDS	hypothetical protein
+ALDNNEPI_00239	CDS	hypothetical protein
+ALDNNEPI_00240	CDS	hypothetical protein
+ALDNNEPI_00241	CDS	korA_1	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+ALDNNEPI_00242	CDS	korB_1	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorB
+ALDNNEPI_00243	CDS	hypothetical protein
+ALDNNEPI_00244	CDS	mdtH	Multidrug resistance protein MdtH
+ALDNNEPI_00245	CDS	rpsL	30S ribosomal protein S12
+ALDNNEPI_00246	CDS	rpsG	30S ribosomal protein S7
+ALDNNEPI_00247	CDS	hypothetical protein
+ALDNNEPI_00248	CDS	hypothetical protein
+ALDNNEPI_00249	CDS	hypothetical protein
+ALDNNEPI_00250	CDS	hypothetical protein
+ALDNNEPI_00251	CDS	yxlF_1	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+ALDNNEPI_00252	CDS	csbC_2	putative metabolite transport protein CsbC
+ALDNNEPI_00253	CDS	2.5.-.-	Deoxyhypusine synthase-like protein
+ALDNNEPI_00254	CDS	hypothetical protein
+ALDNNEPI_00255	CDS	hypothetical protein
+ALDNNEPI_00256	CDS	hypothetical protein
+ALDNNEPI_00257	tRNA	tRNA-Phe(gaa)
+ALDNNEPI_00258	CDS	hypothetical protein
+ALDNNEPI_00259	CDS	hypothetical protein
+ALDNNEPI_00260	CDS	hypothetical protein
+ALDNNEPI_00261	tRNA	tRNA-Gln(ttg)
+ALDNNEPI_00262	CDS	ndhI_1	1.6.5.11	NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+ALDNNEPI_00263	CDS	purM	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+ALDNNEPI_00264	CDS	phrA	4.1.99.3	Deoxyribodipyrimidine photo-lyase
+ALDNNEPI_00265	CDS	hypothetical protein
+ALDNNEPI_00266	CDS	citB	4.2.1.3	Aconitate hydratase A
+ALDNNEPI_00267	CDS	tri1_2	3.4.21.-	Tricorn protease 
+ALDNNEPI_00268	CDS	xerD_1	Tyrosine recombinase XerD
+ALDNNEPI_00269	CDS	hypothetical protein
+ALDNNEPI_00270	CDS	2.5.1.10	Farnesyl diphosphate synthase
+ALDNNEPI_00271	CDS	rnhB	3.1.26.4	Ribonuclease HII
+ALDNNEPI_00272	CDS	bepA_1	3.4.-.-	Beta-barrel assembly-enhancing protease
+ALDNNEPI_00273	CDS	dinG	3.6.4.12	putative ATP-dependent helicase DinG
+ALDNNEPI_00274	CDS	gloB	3.1.2.6	Hydroxyacylglutathione hydrolase
+ALDNNEPI_00275	CDS	rimI_1	2.3.1.128	Ribosomal-protein-alanine acetyltransferase
+ALDNNEPI_00276	CDS	hddC	2.7.7.71	D-glycero-alpha-D-manno-heptose 1-phosphate guanylyltransferase
+ALDNNEPI_00277	CDS	2.3.1.-	Putative pyridoxal phosphate-dependent acyltransferase
+ALDNNEPI_00278	CDS	alaS_1	6.1.1.7	Alanine--tRNA ligase
+ALDNNEPI_00279	CDS	hypothetical protein
+ALDNNEPI_00280	CDS	htpX	3.4.24.-	Protease HtpX 
+ALDNNEPI_00281	CDS	hypothetical protein
+ALDNNEPI_00282	CDS	carA_1	6.3.5.5	Carbamoyl-phosphate synthase small chain
+ALDNNEPI_00283	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+ALDNNEPI_00284	CDS	hypothetical protein
+ALDNNEPI_00285	CDS	sfsA	Sugar fermentation stimulation protein A
+ALDNNEPI_00286	CDS	guaB_1	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+ALDNNEPI_00287	CDS	glyQS	6.1.1.14	Glycine--tRNA ligase
+ALDNNEPI_00288	CDS	2.4.-.-	putative glycosyltransferase
+ALDNNEPI_00289	CDS	hypothetical protein
+ALDNNEPI_00290	CDS	hypothetical protein
+ALDNNEPI_00291	CDS	recA_1	Protein RecA
+ALDNNEPI_00292	CDS	hypothetical protein
+ALDNNEPI_00293	CDS	hypothetical protein
+ALDNNEPI_00294	CDS	hypothetical protein
+ALDNNEPI_00295	CDS	hypothetical protein
+ALDNNEPI_00296	CDS	nikB_1	Nickel transport system permease protein NikB
+ALDNNEPI_00297	CDS	oppC	Oligopeptide transport system permease protein OppC
+ALDNNEPI_00298	CDS	gsiA	3.6.3.-	Glutathione import ATP-binding protein GsiA
+ALDNNEPI_00299	CDS	hypothetical protein
+ALDNNEPI_00300	CDS	quiP	3.5.1.97	Acyl-homoserine lactone acylase QuiP
+ALDNNEPI_00301	CDS	hypothetical protein
+ALDNNEPI_00302	CDS	hypothetical protein
+ALDNNEPI_00303	CDS	hypothetical protein
+ALDNNEPI_00304	CDS	bsdB	2.5.1.129	putative UbiX-like flavin prenyltransferase
+ALDNNEPI_00305	CDS	hypothetical protein
+ALDNNEPI_00306	CDS	hypothetical protein
+ALDNNEPI_00307	tRNA	tRNA-Leu(tag)
+ALDNNEPI_00308	CDS	hypothetical protein
+ALDNNEPI_00309	CDS	hypothetical protein
+ALDNNEPI_00310	CDS	hypothetical protein
+ALDNNEPI_00311	CDS	hypothetical protein
+ALDNNEPI_00312	CDS	fabG_1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALDNNEPI_00313	CDS	pdg	Ultraviolet N-glycosylase/AP lyase
+ALDNNEPI_00314	CDS	hypothetical protein
+ALDNNEPI_00315	CDS	ffh	Signal recognition particle protein
+ALDNNEPI_00316	CDS	hypothetical protein
+ALDNNEPI_00317	CDS	hypothetical protein
+ALDNNEPI_00318	CDS	hypothetical protein
+ALDNNEPI_00319	CDS	rph_1	2.7.7.56	Ribonuclease PH
+ALDNNEPI_00320	CDS	rph_2	2.7.7.56	Ribonuclease PH
+ALDNNEPI_00321	CDS	hypothetical protein
+ALDNNEPI_00322	CDS	hypothetical protein
+ALDNNEPI_00323	CDS	hypothetical protein
+ALDNNEPI_00324	CDS	hypothetical protein
+ALDNNEPI_00325	CDS	hypothetical protein
+ALDNNEPI_00326	CDS	rsmA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+ALDNNEPI_00327	CDS	hflK	Modulator of FtsH protease HflK
+ALDNNEPI_00328	CDS	hypothetical protein
+ALDNNEPI_00329	CDS	cmk_1	2.7.4.25	Cytidylate kinase
+ALDNNEPI_00330	CDS	gabD1	1.2.1.79	Succinate-semialdehyde dehydrogenase [NADP(+)] 1
+ALDNNEPI_00331	CDS	alsS	2.2.1.6	Acetolactate synthase
+ALDNNEPI_00332	CDS	yicL	putative inner membrane transporter YicL
+ALDNNEPI_00333	CDS	hypothetical protein
+ALDNNEPI_00334	CDS	hypothetical protein
+ALDNNEPI_00335	CDS	hypothetical protein
+ALDNNEPI_00336	CDS	hypothetical protein
+ALDNNEPI_00337	CDS	sfrB	1.-.-.-	NADPH-Fe(3+) oxidoreductase subunit beta
+ALDNNEPI_00338	CDS	hypothetical protein
+ALDNNEPI_00339	CDS	serS	6.1.1.11	Serine--tRNA ligase
+ALDNNEPI_00340	CDS	hypothetical protein
+ALDNNEPI_00341	CDS	guaB_2	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+ALDNNEPI_00342	CDS	hypothetical protein
+ALDNNEPI_00343	CDS	ynbA	Inner membrane protein YnbA
+ALDNNEPI_00344	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+ALDNNEPI_00345	CDS	hypothetical protein
+ALDNNEPI_00346	CDS	2.5.1.68	(2Z,6E)-farnesyl diphosphate synthase
+ALDNNEPI_00347	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+ALDNNEPI_00348	CDS	helY	3.6.4.-	putative helicase HelY
+ALDNNEPI_00349	CDS	hypothetical protein
+ALDNNEPI_00350	CDS	hypothetical protein
+ALDNNEPI_00351	CDS	ribD	Riboflavin biosynthesis protein RibD
+ALDNNEPI_00352	CDS	ahcY	3.3.1.1	Adenosylhomocysteinase
+ALDNNEPI_00353	CDS	hypothetical protein
+ALDNNEPI_00354	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+ALDNNEPI_00355	CDS	hypothetical protein
+ALDNNEPI_00356	CDS	hypothetical protein
+ALDNNEPI_00357	CDS	hypothetical protein
+ALDNNEPI_00358	CDS	hypothetical protein
+ALDNNEPI_00359	CDS	hypothetical protein
+ALDNNEPI_00360	CDS	alaS_2	6.1.1.7	Alanine--tRNA ligase
+ALDNNEPI_00361	CDS	hypothetical protein
+ALDNNEPI_00362	CDS	hypothetical protein
+ALDNNEPI_00363	CDS	hypothetical protein
+ALDNNEPI_00364	CDS	aroC	4.2.3.5	Chorismate synthase
+ALDNNEPI_00365	CDS	mscS	Small-conductance mechanosensitive channel
+ALDNNEPI_00366	CDS	lysC	2.7.2.4	Aspartokinase
+ALDNNEPI_00367	CDS	asd2	1.2.1.11	Aspartate-semialdehyde dehydrogenase 2
+ALDNNEPI_00368	CDS	hypothetical protein
+ALDNNEPI_00369	CDS	hypothetical protein
+ALDNNEPI_00370	CDS	hypothetical protein
+ALDNNEPI_00371	CDS	rmlA	2.7.7.24	Glucose-1-phosphate thymidylyltransferase
+ALDNNEPI_00372	CDS	rmlD	1.1.1.133	dTDP-4-dehydrorhamnose reductase
+ALDNNEPI_00373	CDS	hypothetical protein
+ALDNNEPI_00374	CDS	hypothetical protein
+ALDNNEPI_00375	CDS	hypothetical protein
+ALDNNEPI_00376	CDS	hypothetical protein
+ALDNNEPI_00377	CDS	hypothetical protein
+ALDNNEPI_00378	CDS	aroD	4.2.1.10	3-dehydroquinate dehydratase
+ALDNNEPI_00379	CDS	hypothetical protein
+ALDNNEPI_00380	CDS	gcvH	Glycine cleavage system H protein
+ALDNNEPI_00381	CDS	rlmE	2.1.1.166	Ribosomal RNA large subunit methyltransferase E
+ALDNNEPI_00382	CDS	hypothetical protein
+ALDNNEPI_00383	CDS	hypothetical protein
+ALDNNEPI_00384	CDS	hypothetical protein
+ALDNNEPI_00385	CDS	hemB	4.2.1.24	Delta-aminolevulinic acid dehydratase
+ALDNNEPI_00386	CDS	hypothetical protein
+ALDNNEPI_00387	CDS	mdh	1.1.1.37	Malate dehydrogenase
+ALDNNEPI_00388	CDS	queC	6.3.4.20	7-cyano-7-deazaguanine synthase
+ALDNNEPI_00389	CDS	hypothetical protein
+ALDNNEPI_00390	CDS	fadH	1.3.1.34	putative 2,4-dienoyl-CoA reductase
+ALDNNEPI_00391	tRNA	tRNA-Arg(cct)
+ALDNNEPI_00392	CDS	hypothetical protein
+ALDNNEPI_00393	CDS	hypothetical protein
+ALDNNEPI_00394	CDS	gcvPA	1.4.4.2	putative glycine dehydrogenase (decarboxylating) subunit 1
+ALDNNEPI_00395	CDS	gcvPB	1.4.4.2	putative glycine dehydrogenase (decarboxylating) subunit 2
+ALDNNEPI_00396	CDS	hypothetical protein
+ALDNNEPI_00397	CDS	hypothetical protein
+ALDNNEPI_00398	CDS	mtnP	2.4.2.28	S-methyl-5'-thioadenosine phosphorylase
+ALDNNEPI_00399	CDS	3.1.-.-	Ribonuclease
+ALDNNEPI_00400	CDS	hypothetical protein
+ALDNNEPI_00401	CDS	galE	5.1.3.2	UDP-glucose 4-epimerase
+ALDNNEPI_00402	CDS	hypothetical protein
+ALDNNEPI_00403	CDS	hypothetical protein
+ALDNNEPI_00404	CDS	hypothetical protein
+ALDNNEPI_00405	CDS	natA_2	ABC transporter ATP-binding protein NatA
+ALDNNEPI_00406	CDS	hypothetical protein
+ALDNNEPI_00407	CDS	hypothetical protein
+ALDNNEPI_00408	CDS	rfbA	2.7.7.24	Glucose-1-phosphate thymidylyltransferase 1
+ALDNNEPI_00409	CDS	hypothetical protein
+ALDNNEPI_00410	CDS	putB	1.5.5.2	Proline dehydrogenase 2
+ALDNNEPI_00411	CDS	hypothetical protein
+ALDNNEPI_00412	CDS	ftsY	Signal recognition particle receptor FtsY
+ALDNNEPI_00413	CDS	pfdA	Prefoldin subunit alpha
+ALDNNEPI_00414	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+ALDNNEPI_00415	CDS	mutT4	3.6.1.-	Putative mutator protein MutT4
+ALDNNEPI_00416	CDS	hypothetical protein
+ALDNNEPI_00417	CDS	maa	2.3.1.79	Maltose O-acetyltransferase
+ALDNNEPI_00418	tRNA	tRNA-Ser(tga)
+ALDNNEPI_00419	CDS	hypothetical protein
+ALDNNEPI_00420	CDS	hypothetical protein
+ALDNNEPI_00421	CDS	hypothetical protein
+ALDNNEPI_00422	CDS	hddA_1	2.7.1.168	D-glycero-alpha-D-manno-heptose 7-phosphate kinase
+ALDNNEPI_00423	CDS	Bifunctional NMN adenylyltransferase/Nudix hydrolase
+ALDNNEPI_00424	CDS	groL_1	60 kDa chaperonin
+ALDNNEPI_00425	CDS	hypothetical protein
+ALDNNEPI_00426	CDS	mmgC	1.3.99.-	Acyl-CoA dehydrogenase
+ALDNNEPI_00427	CDS	hypothetical protein
+ALDNNEPI_00428	CDS	ppa	3.6.1.1	Inorganic pyrophosphatase
+ALDNNEPI_00429	CDS	hypothetical protein
+ALDNNEPI_00430	CDS	hypothetical protein
+ALDNNEPI_00431	CDS	hypothetical protein
+ALDNNEPI_00432	CDS	hypothetical protein
+ALDNNEPI_00433	CDS	hypothetical protein
+ALDNNEPI_00434	CDS	hypothetical protein
+ALDNNEPI_00435	CDS	hypothetical protein
+ALDNNEPI_00436	CDS	btuF_1	Vitamin B12-binding protein
+ALDNNEPI_00437	CDS	hypothetical protein
+ALDNNEPI_00438	CDS	ligB	6.5.1.1	DNA ligase B
+ALDNNEPI_00439	CDS	pcm	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+ALDNNEPI_00440	CDS	gerN	Na(+)/H(+)-K(+) antiporter GerN
+ALDNNEPI_00441	CDS	sdhA	1.3.5.1	Succinate dehydrogenase flavoprotein subunit
+ALDNNEPI_00442	CDS	frdB	1.3.5.1	Fumarate reductase iron-sulfur subunit
+ALDNNEPI_00443	CDS	hypothetical protein
+ALDNNEPI_00444	CDS	hypothetical protein
+ALDNNEPI_00445	CDS	hypothetical protein
+ALDNNEPI_00446	CDS	hypothetical protein
+ALDNNEPI_00447	CDS	hypothetical protein
+ALDNNEPI_00448	CDS	hypothetical protein
+ALDNNEPI_00449	CDS	ydaP	Putative thiamine pyrophosphate-containing protein YdaP
+ALDNNEPI_00450	CDS	hypothetical protein
+ALDNNEPI_00451	CDS	purE	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+ALDNNEPI_00452	CDS	purK	6.3.4.18	N5-carboxyaminoimidazole ribonucleotide synthase
+ALDNNEPI_00453	CDS	cga	3.2.1.3	Glucoamylase
+ALDNNEPI_00454	CDS	hypothetical protein
+ALDNNEPI_00455	CDS	ywlC	2.7.7.87	Threonylcarbamoyl-AMP synthase
+ALDNNEPI_00456	CDS	pepN_1	3.4.11.2	Aminopeptidase N
+ALDNNEPI_00457	CDS	pmbA	3.4.-.-	Metalloprotease PmbA
+ALDNNEPI_00458	CDS	tldD	3.4.-.-	Metalloprotease TldD
+ALDNNEPI_00459	CDS	guaB_3	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+ALDNNEPI_00460	CDS	glyA_1	2.1.2.1	Serine hydroxymethyltransferase
+ALDNNEPI_00461	CDS	naiP	Putative niacin/nicotinamide transporter NaiP
+ALDNNEPI_00462	CDS	hypothetical protein
+ALDNNEPI_00463	CDS	hypothetical protein
+ALDNNEPI_00464	CDS	hypothetical protein
+ALDNNEPI_00465	CDS	polB_1	2.7.7.7	DNA polymerase II
+ALDNNEPI_00466	CDS	kmo	1.14.13.9	Kynurenine 3-monooxygenase
+ALDNNEPI_00467	CDS	hypothetical protein
+ALDNNEPI_00468	CDS	tetA_1	Tetracycline resistance protein, class C
+ALDNNEPI_00469	CDS	hypothetical protein
+ALDNNEPI_00470	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+ALDNNEPI_00471	CDS	ettA	Energy-dependent translational throttle protein EttA
+ALDNNEPI_00472	CDS	hypothetical protein
+ALDNNEPI_00473	CDS	folP	2.5.1.15	Dihydropteroate synthase
+ALDNNEPI_00474	CDS	perR	Peroxide operon regulator
+ALDNNEPI_00475	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+ALDNNEPI_00476	CDS	hypothetical protein
+ALDNNEPI_00477	CDS	hypothetical protein
+ALDNNEPI_00478	CDS	hypothetical protein
+ALDNNEPI_00479	CDS	guaA_1	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+ALDNNEPI_00480	CDS	rpsB	30S ribosomal protein S2
+ALDNNEPI_00481	CDS	hypothetical protein
+ALDNNEPI_00482	CDS	der	GTPase Der
+ALDNNEPI_00483	CDS	lysN	2.6.1.39	2-aminoadipate transaminase
+ALDNNEPI_00484	CDS	hypothetical protein
+ALDNNEPI_00485	CDS	hypothetical protein
+ALDNNEPI_00486	CDS	hypothetical protein
+ALDNNEPI_00487	CDS	hypothetical protein
+ALDNNEPI_00488	CDS	truD	5.4.99.27	tRNA pseudouridine synthase D
+ALDNNEPI_00489	CDS	mqnC	1.21.98.1	Cyclic dehypoxanthine futalosine synthase
+ALDNNEPI_00490	CDS	mqnE	2.5.1.120	Aminodeoxyfutalosine synthase
+ALDNNEPI_00491	CDS	mqnA	4.2.1.151	Chorismate dehydratase
+ALDNNEPI_00492	CDS	guaB_4	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+ALDNNEPI_00493	CDS	hypothetical protein
+ALDNNEPI_00494	CDS	hypothetical protein
+ALDNNEPI_00495	CDS	natA_3	ABC transporter ATP-binding protein NatA
+ALDNNEPI_00496	CDS	hypothetical protein
+ALDNNEPI_00497	CDS	hypothetical protein
+ALDNNEPI_00498	CDS	glpD	1.1.5.3	Aerobic glycerol-3-phosphate dehydrogenase
+ALDNNEPI_00499	CDS	glpQ	3.1.4.46	Glycerophosphodiester phosphodiesterase
+ALDNNEPI_00500	CDS	ppdK	2.7.9.1	Pyruvate, phosphate dikinase
+ALDNNEPI_00501	CDS	lip3	3.1.1.3	Lipase 3
+ALDNNEPI_00502	CDS	hypothetical protein
+ALDNNEPI_00503	CDS	coaBC	Coenzyme A biosynthesis bifunctional protein CoaBC
+ALDNNEPI_00504	CDS	hypothetical protein
+ALDNNEPI_00505	CDS	ythA_1	1.10.3.-	Putative cytochrome bd menaquinol oxidase subunit I
+ALDNNEPI_00506	CDS	hypothetical protein
+ALDNNEPI_00507	CDS	sqr	1.8.5.4	Sulfide-quinone reductase
+ALDNNEPI_00508	CDS	hypothetical protein
+ALDNNEPI_00509	CDS	nfo	3.1.21.2	Endonuclease 4
+ALDNNEPI_00510	tRNA	tRNA-Thr(cgt)
+ALDNNEPI_00511	CDS	hypothetical protein
+ALDNNEPI_00512	CDS	hypothetical protein
+ALDNNEPI_00513	CDS	vapC_3	3.1.-.-	tRNA(fMet)-specific endonuclease VapC
+ALDNNEPI_00514	CDS	rsxB	Electron transport complex subunit RsxB
+ALDNNEPI_00515	CDS	hypothetical protein
+ALDNNEPI_00516	CDS	mngB	3.2.1.170	Mannosylglycerate hydrolase
+ALDNNEPI_00517	CDS	egtD	2.1.1.44	Histidine N-alpha-methyltransferase
+ALDNNEPI_00518	CDS	egtB	1.14.99.50	Hercynine oxygenase
+ALDNNEPI_00519	CDS	argH	4.3.2.1	Argininosuccinate lyase
+ALDNNEPI_00520	CDS	argG	6.3.4.5	Argininosuccinate synthase
+ALDNNEPI_00521	CDS	hypothetical protein
+ALDNNEPI_00522	CDS	lysK	3.5.1.-	[LysW]-lysine hydrolase
+ALDNNEPI_00523	CDS	lysX	6.3.2.43	Alpha-aminoadipate--LysW ligase LysX
+ALDNNEPI_00524	CDS	lysJ	2.6.1.-	[LysW]-aminoadipate semialdehyde transaminase
+ALDNNEPI_00525	CDS	argB	2.7.2.8	Acetylglutamate kinase
+ALDNNEPI_00526	CDS	lysY	1.2.1.-	[LysW]-L-2-aminoadipate 6-phosphate reductase
+ALDNNEPI_00527	CDS	hypothetical protein
+ALDNNEPI_00528	CDS	hypothetical protein
+ALDNNEPI_00529	CDS	hypothetical protein
+ALDNNEPI_00530	CDS	hypothetical protein
+ALDNNEPI_00531	CDS	hypothetical protein
+ALDNNEPI_00532	CDS	hypothetical protein
+ALDNNEPI_00533	CDS	hypothetical protein
+ALDNNEPI_00534	CDS	hypothetical protein
+ALDNNEPI_00535	CDS	dpnA_2	2.1.1.72	Modification methylase DpnIIB
+ALDNNEPI_00536	CDS	fokIM	2.1.1.72	Modification methylase FokI
+ALDNNEPI_00537	CDS	hypothetical protein
+ALDNNEPI_00538	CDS	hypothetical protein
+ALDNNEPI_00539	CDS	hypothetical protein
+ALDNNEPI_00540	CDS	hypothetical protein
+ALDNNEPI_00541	CDS	hypothetical protein
+ALDNNEPI_00542	CDS	hypothetical protein
+ALDNNEPI_00543	CDS	hypothetical protein
+ALDNNEPI_00544	CDS	hypothetical protein
+ALDNNEPI_00545	CDS	hypothetical protein
+ALDNNEPI_00546	CDS	hypothetical protein
+ALDNNEPI_00547	CDS	hypothetical protein
+ALDNNEPI_00548	CDS	hypothetical protein
+ALDNNEPI_00549	CDS	hypothetical protein
+ALDNNEPI_00550	CDS	hypothetical protein
+ALDNNEPI_00551	CDS	hypothetical protein
+ALDNNEPI_00552	CDS	xerD_2	Tyrosine recombinase XerD
+ALDNNEPI_00553	tRNA	tRNA-Val(tac)
+ALDNNEPI_00554	CDS	hypothetical protein
+ALDNNEPI_00555	CDS	hbd_2	1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase
+ALDNNEPI_00556	CDS	hypothetical protein
+ALDNNEPI_00557	CDS	aspS2	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+ALDNNEPI_00558	CDS	hypothetical protein
+ALDNNEPI_00559	CDS	glkA	2.7.1.2	Glucokinase
+ALDNNEPI_00560	CDS	hypothetical protein
+ALDNNEPI_00561	CDS	hypothetical protein
+ALDNNEPI_00562	CDS	merA	1.16.1.1	Mercuric reductase
+ALDNNEPI_00563	CDS	hypothetical protein
+ALDNNEPI_00564	CDS	gyrB	5.99.1.3	DNA gyrase subunit B
+ALDNNEPI_00565	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+ALDNNEPI_00566	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+ALDNNEPI_00567	CDS	ubiA	2.5.1.-	4-hydroxybenzoate octaprenyltransferase
+ALDNNEPI_00568	CDS	ubiD	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+ALDNNEPI_00569	CDS	hypothetical protein
+ALDNNEPI_00570	CDS	hypothetical protein
+ALDNNEPI_00571	CDS	ythA_2	1.10.3.-	Putative cytochrome bd menaquinol oxidase subunit I
+ALDNNEPI_00572	CDS	hypothetical protein
+ALDNNEPI_00573	CDS	hypothetical protein
+ALDNNEPI_00574	CDS	cpdA_1	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+ALDNNEPI_00575	CDS	hypothetical protein
+ALDNNEPI_00576	CDS	hypothetical protein
+ALDNNEPI_00577	CDS	hypothetical protein
+ALDNNEPI_00578	CDS	hypothetical protein
+ALDNNEPI_00579	CDS	hypothetical protein
+ALDNNEPI_00580	CDS	hypothetical protein
+ALDNNEPI_00581	CDS	hypothetical protein
+ALDNNEPI_00582	CDS	hypothetical protein
+ALDNNEPI_00583	CDS	hypothetical protein
+ALDNNEPI_00584	CDS	hypothetical protein
+ALDNNEPI_00585	CDS	hypothetical protein
+ALDNNEPI_00586	CDS	hypothetical protein
+ALDNNEPI_00587	CDS	hypothetical protein
+ALDNNEPI_00588	CDS	hypothetical protein
+ALDNNEPI_00589	CDS	hypothetical protein
+ALDNNEPI_00590	CDS	hypothetical protein
+ALDNNEPI_00591	CDS	hypothetical protein
+ALDNNEPI_00592	CDS	hypothetical protein
+ALDNNEPI_00593	CDS	hypothetical protein
+ALDNNEPI_00594	CDS	hypothetical protein
+ALDNNEPI_00595	CDS	hypothetical protein
+ALDNNEPI_00596	CDS	hypothetical protein
+ALDNNEPI_00597	CDS	fmdA	3.5.1.49	Formamidase
+ALDNNEPI_00598	CDS	hypothetical protein
+ALDNNEPI_00599	CDS	aldHT	1.2.1.5	Aldehyde dehydrogenase, thermostable
+ALDNNEPI_00600	CDS	hypothetical protein
+ALDNNEPI_00601	CDS	arsA	3.6.3.16	Arsenical pump-driving ATPase
+ALDNNEPI_00602	CDS	ispB	2.5.1.90	Octaprenyl diphosphate synthase
+ALDNNEPI_00603	CDS	hypothetical protein
+ALDNNEPI_00604	CDS	asnC_1	Regulatory protein AsnC
+ALDNNEPI_00605	CDS	hypothetical protein
+ALDNNEPI_00606	tRNA	tRNA-Leu(taa)
+ALDNNEPI_00607	CDS	hypothetical protein
+ALDNNEPI_00608	CDS	acdA_1	1.3.99.-	Acyl-CoA dehydrogenase
+ALDNNEPI_00609	CDS	hypothetical protein
+ALDNNEPI_00610	CDS	arcA	3.5.3.6	Arginine deiminase
+ALDNNEPI_00611	CDS	gmhA_1	5.3.1.28	Phosphoheptose isomerase
+ALDNNEPI_00612	CDS	hypothetical protein
+ALDNNEPI_00613	CDS	hypothetical protein
+ALDNNEPI_00614	CDS	putative epimerase/dehydratase
+ALDNNEPI_00615	CDS	hypothetical protein
+ALDNNEPI_00616	CDS	sufC	Vegetative protein 296
+ALDNNEPI_00617	CDS	sufB_1	FeS cluster assembly protein SufB
+ALDNNEPI_00618	CDS	sufB_2	FeS cluster assembly protein SufB
+ALDNNEPI_00619	CDS	sufS	2.8.1.7	Cysteine desulfurase SufS
+ALDNNEPI_00620	CDS	iscU	Iron-sulfur cluster assembly scaffold protein IscU
+ALDNNEPI_00621	CDS	putative DNA double-strand break repair Rad50 ATPase
+ALDNNEPI_00622	CDS	cpdA_2	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+ALDNNEPI_00623	CDS	hypothetical protein
+ALDNNEPI_00624	CDS	hypothetical protein
+ALDNNEPI_00625	CDS	yxeP	3.-.-.-	putative hydrolase YxeP
+ALDNNEPI_00626	CDS	hypothetical protein
+ALDNNEPI_00627	CDS	hypothetical protein
+ALDNNEPI_00628	CDS	hypothetical protein
+ALDNNEPI_00629	CDS	hypothetical protein
+ALDNNEPI_00630	CDS	hypothetical protein
+ALDNNEPI_00631	CDS	hypothetical protein
+ALDNNEPI_00632	CDS	hypothetical protein
+ALDNNEPI_00633	CDS	lutB	Lactate utilization protein B
+ALDNNEPI_00634	CDS	hypothetical protein
+ALDNNEPI_00635	CDS	btrP	3.1.3.88	5''-phosphoribostamycin phosphatase
+ALDNNEPI_00636	CDS	paiA	2.3.1.57	Spermidine/spermine N(1)-acetyltransferase
+ALDNNEPI_00637	CDS	hypothetical protein
+ALDNNEPI_00638	CDS	hypothetical protein
+ALDNNEPI_00639	CDS	hypothetical protein
+ALDNNEPI_00640	CDS	hypothetical protein
+ALDNNEPI_00641	CDS	hypothetical protein
+ALDNNEPI_00642	CDS	hypothetical protein
+ALDNNEPI_00643	CDS	hypothetical protein
+ALDNNEPI_00644	CDS	hypothetical protein
+ALDNNEPI_00645	CDS	hypothetical protein
+ALDNNEPI_00646	CDS	hypothetical protein
+ALDNNEPI_00647	CDS	hypothetical protein
+ALDNNEPI_00648	CDS	hypothetical protein
+ALDNNEPI_00649	CDS	hypothetical protein
+ALDNNEPI_00650	CDS	hypothetical protein
+ALDNNEPI_00651	CDS	hypothetical protein
+ALDNNEPI_00652	CDS	xerD_3	Tyrosine recombinase XerD
+ALDNNEPI_00653	tRNA	tRNA-Val(cac)
+ALDNNEPI_00654	CDS	hypothetical protein
+ALDNNEPI_00655	CDS	hypothetical protein
+ALDNNEPI_00656	CDS	aidB	1.3.99.-	Putative acyl-CoA dehydrogenase AidB
+ALDNNEPI_00657	CDS	amt	Ammonia channel
+ALDNNEPI_00658	tRNA	tRNA-Glu(ttc)
+ALDNNEPI_00659	CDS	hypothetical protein
+ALDNNEPI_00660	CDS	hypothetical protein
+ALDNNEPI_00661	CDS	hypothetical protein
+ALDNNEPI_00662	CDS	hypothetical protein
+ALDNNEPI_00663	CDS	hypothetical protein
+ALDNNEPI_00664	CDS	hypothetical protein
+ALDNNEPI_00665	CDS	xerS	Tyrosine recombinase XerS
+ALDNNEPI_00666	CDS	bltD	2.3.1.57	Spermine/spermidine acetyltransferase
+ALDNNEPI_00667	CDS	apc4	6.4.1.8	Acetophenone carboxylase delta subunit
+ALDNNEPI_00668	CDS	apc3	6.4.1.8	Acetophenone carboxylase gamma subunit
+ALDNNEPI_00669	CDS	mgl	4.4.1.11	L-methionine gamma-lyase
+ALDNNEPI_00670	CDS	thrB_2	2.7.1.39	Homoserine kinase
+ALDNNEPI_00671	CDS	hypothetical protein
+ALDNNEPI_00672	tRNA	tRNA-Gln(ctg)
+ALDNNEPI_00673	CDS	hypothetical protein
+ALDNNEPI_00674	CDS	hypothetical protein
+ALDNNEPI_00675	CDS	ycgJ	2.1.1.-	putative methyltransferase YcgJ
+ALDNNEPI_00676	CDS	hypothetical protein
+ALDNNEPI_00677	CDS	ribA	3.5.4.25	GTP cyclohydrolase-2
+ALDNNEPI_00678	CDS	tdh	1.1.1.103	L-threonine 3-dehydrogenase
+ALDNNEPI_00679	CDS	folD	Bifunctional protein FolD protein
+ALDNNEPI_00680	CDS	nadE	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+ALDNNEPI_00681	CDS	nhaP	K(+)/H(+) antiporter NhaP
+ALDNNEPI_00682	CDS	Putative conjugal transfer protein
+ALDNNEPI_00683	CDS	hypothetical protein
+ALDNNEPI_00684	CDS	hypothetical protein
+ALDNNEPI_00685	CDS	ptlH	Type IV secretion system protein PtlH
+ALDNNEPI_00686	tRNA	tRNA-Ala(ggc)
+ALDNNEPI_00687	CDS	hypothetical protein
+ALDNNEPI_00688	CDS	drrA_2	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+ALDNNEPI_00689	CDS	hypothetical protein
+ALDNNEPI_00690	CDS	treY	5.4.99.15	Putative maltooligosyl trehalose synthase
+ALDNNEPI_00691	CDS	treZ	3.2.1.141	Malto-oligosyltrehalose trehalohydrolase
+ALDNNEPI_00692	CDS	pepE	3.4.13.-	putative dipeptidase PepE
+ALDNNEPI_00693	CDS	hypothetical protein
+ALDNNEPI_00694	CDS	yveA_2	Aspartate-proton symporter
+ALDNNEPI_00695	CDS	yveA_3	Aspartate-proton symporter
+ALDNNEPI_00696	CDS	hypothetical protein
+ALDNNEPI_00697	CDS	hypothetical protein
+ALDNNEPI_00698	tRNA	tRNA-Gly(gcc)
+ALDNNEPI_00699	CDS	hypothetical protein
+ALDNNEPI_00700	tRNA	tRNA-His(gtg)
+ALDNNEPI_00701	CDS	ygcS_2	Inner membrane metabolite transport protein YgcS
+ALDNNEPI_00702	CDS	hypothetical protein
+ALDNNEPI_00703	CDS	hypothetical protein
+ALDNNEPI_00704	CDS	hypothetical protein
+ALDNNEPI_00705	CDS	ywrD	2.3.2.2	Putative gamma-glutamyltransferase YwrD
+ALDNNEPI_00706	CDS	3.4.-.-	putative peptidase
+ALDNNEPI_00707	CDS	hypothetical protein
+ALDNNEPI_00708	CDS	hypothetical protein
+ALDNNEPI_00709	CDS	hypothetical protein
+ALDNNEPI_00710	CDS	hypothetical protein
+ALDNNEPI_00711	CDS	hypothetical protein
+ALDNNEPI_00712	CDS	hypothetical protein
+ALDNNEPI_00713	CDS	hypothetical protein
+ALDNNEPI_00714	CDS	hypothetical protein
+ALDNNEPI_00715	CDS	hypothetical protein
+ALDNNEPI_00716	CDS	hypothetical protein
+ALDNNEPI_00717	CDS	hypothetical protein
+ALDNNEPI_00718	CDS	ravA_1	3.6.3.-	ATPase RavA
+ALDNNEPI_00719	CDS	hypothetical protein
+ALDNNEPI_00720	CDS	hypothetical protein
+ALDNNEPI_00721	CDS	mtaD	3.5.4.28	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+ALDNNEPI_00722	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+ALDNNEPI_00723	CDS	hypothetical protein
+ALDNNEPI_00724	CDS	hemA	1.2.1.70	Glutamyl-tRNA reductase
+ALDNNEPI_00725	CDS	ubiG	2.1.1.222	Ubiquinone biosynthesis O-methyltransferase
+ALDNNEPI_00726	CDS	hypothetical protein
+ALDNNEPI_00727	CDS	hypothetical protein
+ALDNNEPI_00728	CDS	hypothetical protein
+ALDNNEPI_00729	CDS	hypothetical protein
+ALDNNEPI_00730	CDS	allB	3.5.2.5	Allantoinase
+ALDNNEPI_00731	CDS	queE	4.3.99.3	7-carboxy-7-deazaguanine synthase
+ALDNNEPI_00732	CDS	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+ALDNNEPI_00733	CDS	pyrD	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+ALDNNEPI_00734	CDS	hypothetical protein
+ALDNNEPI_00735	CDS	hypothetical protein
+ALDNNEPI_00736	CDS	hypothetical protein
+ALDNNEPI_00737	CDS	kdpC	Potassium-transporting ATPase KdpC subunit
+ALDNNEPI_00738	CDS	kdpB	3.6.3.12	Potassium-transporting ATPase ATP-binding subunit
+ALDNNEPI_00739	CDS	kdpA	Potassium-transporting ATPase potassium-binding subunit
+ALDNNEPI_00740	CDS	hypothetical protein
+ALDNNEPI_00741	CDS	hypothetical protein
+ALDNNEPI_00742	CDS	drrB	Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+ALDNNEPI_00743	CDS	drrA_3	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+ALDNNEPI_00744	CDS	hypothetical protein
+ALDNNEPI_00745	CDS	hypothetical protein
+ALDNNEPI_00746	CDS	thiF	2.7.7.73	Sulfur carrier protein ThiS adenylyltransferase
+ALDNNEPI_00747	CDS	adhT	1.1.1.1	Alcohol dehydrogenase
+ALDNNEPI_00748	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+ALDNNEPI_00749	CDS	kdkA	2.7.1.166	3-deoxy-D-manno-octulosonic acid kinase
+ALDNNEPI_00750	CDS	hypothetical protein
+ALDNNEPI_00751	CDS	hypothetical protein
+ALDNNEPI_00752	CDS	hypothetical protein
+ALDNNEPI_00753	CDS	hypothetical protein
+ALDNNEPI_00754	CDS	hypothetical protein
+ALDNNEPI_00755	CDS	hypothetical protein
+ALDNNEPI_00756	CDS	glmS_1	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+ALDNNEPI_00757	CDS	hypothetical protein
+ALDNNEPI_00758	CDS	pncC	3.5.1.42	Nicotinamide-nucleotide amidohydrolase PncC
+ALDNNEPI_00759	CDS	hypothetical protein
+ALDNNEPI_00760	CDS	hypothetical protein
+ALDNNEPI_00761	CDS	hypothetical protein
+ALDNNEPI_00762	CDS	hpcE	Homoprotocatechuate catabolism bifunctional isomerase/decarboxylase
+ALDNNEPI_00763	CDS	hypothetical protein
+ALDNNEPI_00764	CDS	hypothetical protein
+ALDNNEPI_00765	CDS	hypothetical protein
+ALDNNEPI_00766	CDS	pspB_1	3.1.3.3	Putative phosphoserine phosphatase 2
+ALDNNEPI_00767	CDS	hypothetical protein
+ALDNNEPI_00768	CDS	hypothetical protein
+ALDNNEPI_00769	CDS	tfdF	1.3.1.32	Maleylacetate reductase
+ALDNNEPI_00770	CDS	hmgA	1.13.11.5	Homogentisate 1,2-dioxygenase
+ALDNNEPI_00771	CDS	4.3.2.3	Ureidoglycolate lyase
+ALDNNEPI_00772	CDS	hpd	1.13.11.27	4-hydroxyphenylpyruvate dioxygenase
+ALDNNEPI_00773	CDS	hypothetical protein
+ALDNNEPI_00774	CDS	5.1.3.11	Cellobiose 2-epimerase
+ALDNNEPI_00775	CDS	pspA	3.1.3.3	Phosphoserine phosphatase 1
+ALDNNEPI_00776	CDS	yajR	Inner membrane transport protein YajR
+ALDNNEPI_00777	CDS	msrC	1.8.4.14	Free methionine-R-sulfoxide reductase
+ALDNNEPI_00778	CDS	stp	3.1.3.16	Serine/threonine phosphatase stp
+ALDNNEPI_00779	CDS	ydfJ_1	Membrane protein YdfJ
+ALDNNEPI_00780	CDS	asnC_2	Regulatory protein AsnC
+ALDNNEPI_00781	CDS	hypothetical protein
+ALDNNEPI_00782	CDS	hypothetical protein
+ALDNNEPI_00783	CDS	2.6.1.1	Aspartate aminotransferase
+ALDNNEPI_00784	CDS	hypothetical protein
+ALDNNEPI_00785	CDS	Bifunctional NMN adenylyltransferase/Nudix hydrolase
+ALDNNEPI_00786	CDS	argE	3.5.1.16	Acetylornithine deacetylase
+ALDNNEPI_00787	CDS	proS	6.1.1.15	Proline--tRNA ligase
+ALDNNEPI_00788	CDS	serB_2	3.1.3.3	Phosphoserine phosphatase
+ALDNNEPI_00789	CDS	recA_2	Protein RecA
+ALDNNEPI_00790	CDS	hypothetical protein
+ALDNNEPI_00791	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+ALDNNEPI_00792	CDS	hypothetical protein
+ALDNNEPI_00793	CDS	hypothetical protein
+ALDNNEPI_00794	CDS	hypothetical protein
+ALDNNEPI_00795	CDS	smc_1	Chromosome partition protein Smc
+ALDNNEPI_00796	CDS	hypothetical protein
+ALDNNEPI_00797	CDS	rbn	3.1.-.-	Ribonuclease BN
+ALDNNEPI_00798	CDS	hypothetical protein
+ALDNNEPI_00799	CDS	scpB	Segregation and condensation protein B
+ALDNNEPI_00800	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+ALDNNEPI_00801	CDS	selB_1	Selenocysteine-specific elongation factor
+ALDNNEPI_00802	CDS	hemH1	4.99.1.1	Ferrochelatase 1
+ALDNNEPI_00803	CDS	hemE	4.1.1.37	Uroporphyrinogen decarboxylase
+ALDNNEPI_00804	CDS	asnS_1	6.1.1.22	Asparagine--tRNA ligase
+ALDNNEPI_00805	CDS	hypothetical protein
+ALDNNEPI_00806	CDS	hypothetical protein
+ALDNNEPI_00807	CDS	hypothetical protein
+ALDNNEPI_00808	CDS	hypothetical protein
+ALDNNEPI_00809	CDS	1.1.1.38	NAD-dependent malic enzyme
+ALDNNEPI_00810	CDS	hypothetical protein
+ALDNNEPI_00811	CDS	hypothetical protein
+ALDNNEPI_00812	CDS	tal	2.2.1.2	Transaldolase
+ALDNNEPI_00813	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+ALDNNEPI_00814	CDS	tktA	2.2.1.1	Transketolase 1
+ALDNNEPI_00815	CDS	ftsZ_1	Cell division protein FtsZ
+ALDNNEPI_00816	CDS	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+ALDNNEPI_00817	CDS	yveA_4	Aspartate-proton symporter
+ALDNNEPI_00818	CDS	araP	L-arabinose transport system permease protein AraP
+ALDNNEPI_00819	CDS	ycjP_1	Inner membrane ABC transporter permease protein YcjP
+ALDNNEPI_00820	CDS	sugC_1	3.6.3.-	Trehalose import ATP-binding protein SugC
+ALDNNEPI_00821	CDS	hypothetical protein
+ALDNNEPI_00822	CDS	3.2.1.28	Trehalase
+ALDNNEPI_00823	CDS	yhdG_2	putative amino acid permease YhdG
+ALDNNEPI_00824	CDS	hypothetical protein
+ALDNNEPI_00825	CDS	sseB	2.8.1.1	Putative thiosulfate sulfurtransferase SseB
+ALDNNEPI_00826	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+ALDNNEPI_00827	CDS	hbd_3	1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase
+ALDNNEPI_00828	CDS	crt	4.2.1.150	Short-chain-enoyl-CoA hydratase
+ALDNNEPI_00829	CDS	cysM	2.5.1.47	Cysteine synthase B
+ALDNNEPI_00830	CDS	bepA_2	3.4.-.-	Beta-barrel assembly-enhancing protease
+ALDNNEPI_00831	CDS	hypothetical protein
+ALDNNEPI_00832	CDS	trxB	1.8.1.9	Thioredoxin reductase
+ALDNNEPI_00833	CDS	trxA	Thioredoxin 1
+ALDNNEPI_00834	CDS	hypothetical protein
+ALDNNEPI_00835	CDS	afr	1.1.1.292	1,5-anhydro-D-fructose reductase
+ALDNNEPI_00836	CDS	hypothetical protein
+ALDNNEPI_00837	CDS	hypothetical protein
+ALDNNEPI_00838	CDS	clcA	H(+)/Cl(-) exchange transporter ClcA
+ALDNNEPI_00839	CDS	hypothetical protein
+ALDNNEPI_00840	CDS	guaA_2	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+ALDNNEPI_00841	CDS	hypothetical protein
+ALDNNEPI_00842	CDS	hypothetical protein
+ALDNNEPI_00843	CDS	hypothetical protein
+ALDNNEPI_00844	CDS	PE-PGRS family protein PE_PGRS18
+ALDNNEPI_00845	CDS	hypothetical protein
+ALDNNEPI_00846	CDS	hypothetical protein
+ALDNNEPI_00847	CDS	hypothetical protein
+ALDNNEPI_00848	CDS	hypothetical protein
+ALDNNEPI_00849	tRNA	tRNA-Leu(caa)
+ALDNNEPI_00850	CDS	hypothetical protein
+ALDNNEPI_00851	CDS	hypothetical protein
+ALDNNEPI_00852	CDS	hypothetical protein
+ALDNNEPI_00853	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+ALDNNEPI_00854	CDS	hypothetical protein
+ALDNNEPI_00855	CDS	hypothetical protein
+ALDNNEPI_00856	CDS	hypothetical protein
+ALDNNEPI_00857	CDS	bcp_2	1.11.1.15	Putative peroxiredoxin
+ALDNNEPI_00858	CDS	ydfJ_2	Membrane protein YdfJ
+ALDNNEPI_00859	tRNA	tRNA-Leu(cag)
+ALDNNEPI_00860	CDS	pcp_2	3.4.21.100	Pseudomonalisin
+ALDNNEPI_00861	CDS	hypothetical protein
+ALDNNEPI_00862	CDS	rbr	Rubrerythrin
+ALDNNEPI_00863	CDS	hypothetical protein
+ALDNNEPI_00864	CDS	natA_4	ABC transporter ATP-binding protein NatA
+ALDNNEPI_00865	tRNA	tRNA-Arg(ccg)
+ALDNNEPI_00866	CDS	hypothetical protein
+ALDNNEPI_00867	CDS	hypothetical protein
+ALDNNEPI_00868	CDS	adhC	1.1.1.2	NADP-dependent alcohol dehydrogenase C
+ALDNNEPI_00869	tRNA	tRNA-Cys(gca)
+ALDNNEPI_00870	CDS	hypothetical protein
+ALDNNEPI_00871	CDS	hypothetical protein
+ALDNNEPI_00872	CDS	hypothetical protein
+ALDNNEPI_00873	CDS	hypothetical protein
+ALDNNEPI_00874	CDS	hypothetical protein
+ALDNNEPI_00875	CDS	hypothetical protein
+ALDNNEPI_00876	CDS	hypothetical protein
+ALDNNEPI_00877	CDS	hypothetical protein
+ALDNNEPI_00878	CDS	hypothetical protein
+ALDNNEPI_00879	CDS	hypothetical protein
+ALDNNEPI_00880	CDS	hypothetical protein
+ALDNNEPI_00881	CDS	hypothetical protein
+ALDNNEPI_00882	CDS	hypothetical protein
+ALDNNEPI_00883	CDS	hypothetical protein
+ALDNNEPI_00884	CDS	hypothetical protein
+ALDNNEPI_00885	CDS	atsB	1.1.99.-	Anaerobic sulfatase-maturating enzyme
+ALDNNEPI_00886	CDS	drrA_4	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+ALDNNEPI_00887	CDS	hypothetical protein
+ALDNNEPI_00888	CDS	hypothetical protein
+ALDNNEPI_00889	CDS	hypothetical protein
+ALDNNEPI_00890	CDS	tuaC	2.4.-.-	Putative teichuronic acid biosynthesis glycosyltransferase TuaC
+ALDNNEPI_00891	CDS	hypothetical protein
+ALDNNEPI_00892	CDS	mutB	5.4.99.2	putative methylmalonyl-CoA mutase large subunit
+ALDNNEPI_00893	CDS	scpA	5.4.99.2	Methylmalonyl-CoA mutase
+ALDNNEPI_00894	CDS	3.6.-.-	putative GTPase
+ALDNNEPI_00895	CDS	hypothetical protein
+ALDNNEPI_00896	CDS	hypothetical protein
+ALDNNEPI_00897	CDS	hypothetical protein
+ALDNNEPI_00898	CDS	hypothetical protein
+ALDNNEPI_00899	CDS	ftsH2	3.4.24.-	ATP-dependent zinc metalloprotease FtsH 2
+ALDNNEPI_00900	CDS	hypothetical protein
+ALDNNEPI_00901	CDS	hypothetical protein
+ALDNNEPI_00902	CDS	ftsH_1	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+ALDNNEPI_00903	CDS	PE-PGRS family protein PE_PGRS18
+ALDNNEPI_00904	CDS	nikA	Nickel-binding periplasmic protein
+ALDNNEPI_00905	CDS	nikB_2	Nickel transport system permease protein NikB
+ALDNNEPI_00906	CDS	dppC	Dipeptide transport system permease protein DppC
+ALDNNEPI_00907	CDS	oppF	Oligopeptide transport ATP-binding protein OppF
+ALDNNEPI_00908	CDS	oppD_2	Oligopeptide transport ATP-binding protein OppD
+ALDNNEPI_00909	CDS	hypothetical protein
+ALDNNEPI_00910	CDS	bglA	3.2.1.21	Beta-glucosidase A
+ALDNNEPI_00911	CDS	hypothetical protein
+ALDNNEPI_00912	CDS	guaB_5	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+ALDNNEPI_00913	CDS	hypothetical protein
+ALDNNEPI_00914	CDS	hypothetical protein
+ALDNNEPI_00915	CDS	hypothetical protein
+ALDNNEPI_00916	CDS	copA	3.6.3.54	putative copper-importing P-type ATPase A
+ALDNNEPI_00917	CDS	hypothetical protein
+ALDNNEPI_00918	CDS	bmr3	Multidrug resistance protein 3
+ALDNNEPI_00919	CDS	yusO_1	putative HTH-type transcriptional regulator YusO
+ALDNNEPI_00920	CDS	2.1.1.-	Putative O-methyltransferase/MSMEI_4947
+ALDNNEPI_00921	CDS	hypothetical protein
+ALDNNEPI_00922	CDS	hypothetical protein
+ALDNNEPI_00923	CDS	qacA	Antiseptic resistance protein
+ALDNNEPI_00924	CDS	thpR	3.1.4.-	RNA 2',3'-cyclic phosphodiesterase
+ALDNNEPI_00925	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+ALDNNEPI_00926	CDS	hypothetical protein
+ALDNNEPI_00927	CDS	1.12.-.-	Soluble hydrogenase 42 kDa subunit
+ALDNNEPI_00928	CDS	1.1.1.81	Hydroxypyruvate reductase
+ALDNNEPI_00929	CDS	hypothetical protein
+ALDNNEPI_00930	CDS	hypothetical protein
+ALDNNEPI_00931	CDS	hypothetical protein
+ALDNNEPI_00932	CDS	hypothetical protein
+ALDNNEPI_00933	CDS	hypothetical protein
+ALDNNEPI_00934	CDS	hypothetical protein
+ALDNNEPI_00935	CDS	mntH	Divalent metal cation transporter MntH
+ALDNNEPI_00936	CDS	hypothetical protein
+ALDNNEPI_00937	CDS	hypothetical protein
+ALDNNEPI_00938	CDS	hypothetical protein
+ALDNNEPI_00939	CDS	hypothetical protein
+ALDNNEPI_00940	CDS	tetA_2	Tetracycline resistance protein, class C
+ALDNNEPI_00941	CDS	hypothetical protein
+ALDNNEPI_00942	CDS	hypothetical protein
+ALDNNEPI_00943	CDS	carA2	1.3.99.29	zeta-carotene-forming phytoene desaturase
+ALDNNEPI_00944	CDS	crtB	2.5.1.99	All-trans-phytoene synthase
+ALDNNEPI_00945	CDS	hypothetical protein
+ALDNNEPI_00946	CDS	hypothetical protein
+ALDNNEPI_00947	CDS	hypothetical protein
+ALDNNEPI_00948	CDS	hypothetical protein
+ALDNNEPI_00949	CDS	hypothetical protein
+ALDNNEPI_00950	CDS	hypothetical protein
+ALDNNEPI_00951	CDS	hypothetical protein
+ALDNNEPI_00952	CDS	hypothetical protein
+ALDNNEPI_00953	CDS	hypothetical protein
+ALDNNEPI_00954	CDS	hypothetical protein
+ALDNNEPI_00955	CDS	ecsA	ABC-type transporter ATP-binding protein EcsA
+ALDNNEPI_00956	CDS	hypothetical protein
+ALDNNEPI_00957	CDS	hypothetical protein
+ALDNNEPI_00958	CDS	hypothetical protein
+ALDNNEPI_00959	CDS	hypothetical protein
+ALDNNEPI_00960	CDS	hypothetical protein
+ALDNNEPI_00961	CDS	hypothetical protein
+ALDNNEPI_00962	CDS	hypothetical protein
+ALDNNEPI_00963	CDS	hypothetical protein
+ALDNNEPI_00964	CDS	hypothetical protein
+ALDNNEPI_00965	CDS	hypothetical protein
+ALDNNEPI_00966	CDS	vapC_4	3.1.-.-	tRNA(fMet)-specific endonuclease VapC
+ALDNNEPI_00967	CDS	hypothetical protein
+ALDNNEPI_00968	CDS	hypothetical protein
+ALDNNEPI_00969	CDS	hypothetical protein
+ALDNNEPI_00970	CDS	hypothetical protein
+ALDNNEPI_00971	CDS	hypothetical protein
+ALDNNEPI_00972	CDS	hypothetical protein
+ALDNNEPI_00973	CDS	hypothetical protein
+ALDNNEPI_00974	CDS	hypothetical protein
+ALDNNEPI_00975	CDS	hypothetical protein
+ALDNNEPI_00976	CDS	hypothetical protein
+ALDNNEPI_00977	CDS	hypothetical protein
+ALDNNEPI_00978	CDS	hypothetical protein
+ALDNNEPI_00979	CDS	hypothetical protein
+ALDNNEPI_00980	CDS	gtf1	2.4.1.-	Glycosyltransferase Gtf1
+ALDNNEPI_00981	CDS	hypothetical protein
+ALDNNEPI_00982	CDS	hypothetical protein
+ALDNNEPI_00983	CDS	hypothetical protein
+ALDNNEPI_00984	CDS	hypothetical protein
+ALDNNEPI_00985	CDS	hypothetical protein
+ALDNNEPI_00986	CDS	hldD	5.1.3.20	ADP-L-glycero-D-manno-heptose-6-epimerase
+ALDNNEPI_00987	CDS	pimC	2.4.1.57	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol dimannoside mannosyltransferase
+ALDNNEPI_00988	CDS	hddA_2	2.7.1.168	D-glycero-alpha-D-manno-heptose 7-phosphate kinase
+ALDNNEPI_00989	CDS	gmhA_2	5.3.1.28	Phosphoheptose isomerase
+ALDNNEPI_00990	CDS	gmhB	3.1.3.83	D-glycero-alpha-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+ALDNNEPI_00991	CDS	hypothetical protein
+ALDNNEPI_00992	CDS	hypothetical protein
+ALDNNEPI_00993	CDS	hypothetical protein
+ALDNNEPI_00994	CDS	hypothetical protein
+ALDNNEPI_00995	CDS	hypothetical protein
+ALDNNEPI_00996	CDS	hypothetical protein
+ALDNNEPI_00997	CDS	hypothetical protein
+ALDNNEPI_00998	CDS	hypothetical protein
+ALDNNEPI_00999	CDS	hypothetical protein
+ALDNNEPI_01000	CDS	hypothetical protein
+ALDNNEPI_01001	CDS	hypothetical protein
+ALDNNEPI_01002	CDS	hypothetical protein
+ALDNNEPI_01003	CDS	hypothetical protein
+ALDNNEPI_01004	CDS	hypothetical protein
+ALDNNEPI_01005	CDS	hypothetical protein
+ALDNNEPI_01006	CDS	hypothetical protein
+ALDNNEPI_01007	CDS	hypothetical protein
+ALDNNEPI_01008	CDS	hypothetical protein
+ALDNNEPI_01009	CDS	hypothetical protein
+ALDNNEPI_01010	CDS	hypothetical protein
+ALDNNEPI_01011	CDS	hypothetical protein
+ALDNNEPI_01012	CDS	hypothetical protein
+ALDNNEPI_01013	CDS	hypothetical protein
+ALDNNEPI_01014	CDS	hypothetical protein
+ALDNNEPI_01015	CDS	hypothetical protein
+ALDNNEPI_01016	CDS	xecA1	4.4.1.23	2-hydroxypropyl-CoM lyase
+ALDNNEPI_01017	CDS	hypothetical protein
+ALDNNEPI_01018	CDS	hypothetical protein
+ALDNNEPI_01019	CDS	hypothetical protein
+ALDNNEPI_01020	CDS	hypothetical protein
+ALDNNEPI_01021	CDS	bamB	Outer membrane protein assembly factor BamB
+ALDNNEPI_01022	CDS	hypothetical protein
+ALDNNEPI_01023	CDS	hypothetical protein
+ALDNNEPI_01024	CDS	PE-PGRS family protein PE_PGRS18
+ALDNNEPI_01025	CDS	hypothetical protein
+ALDNNEPI_01026	CDS	hypothetical protein
+ALDNNEPI_01027	CDS	hypothetical protein
+ALDNNEPI_01028	CDS	hypothetical protein
+ALDNNEPI_01029	CDS	hypothetical protein
+ALDNNEPI_01030	CDS	hypothetical protein
+ALDNNEPI_01031	CDS	rmlB	4.2.1.46	dTDP-glucose 4,6-dehydratase
+ALDNNEPI_01032	CDS	rfbC	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+ALDNNEPI_01033	CDS	hypothetical protein
+ALDNNEPI_01034	CDS	hypothetical protein
+ALDNNEPI_01035	CDS	hypothetical protein
+ALDNNEPI_01036	CDS	hypothetical protein
+ALDNNEPI_01037	CDS	bepA_3	3.4.-.-	Beta-barrel assembly-enhancing protease
+ALDNNEPI_01038	CDS	hypothetical protein
+ALDNNEPI_01039	CDS	1.-.-.-	putative oxidoreductase
+ALDNNEPI_01040	CDS	fhs	6.3.4.3	Formate--tetrahydrofolate ligase
+ALDNNEPI_01041	CDS	genK	Gentisate transporter
+ALDNNEPI_01042	CDS	ribZ_1	Riboflavin transporter RibZ
+ALDNNEPI_01043	CDS	recF_2	DNA replication and repair protein RecF
+ALDNNEPI_01044	CDS	hypothetical protein
+ALDNNEPI_01045	tRNA	tRNA-Arg(gcg)
+ALDNNEPI_01046	CDS	hypothetical protein
+ALDNNEPI_01047	CDS	hypothetical protein
+ALDNNEPI_01048	CDS	yxlF_2	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+ALDNNEPI_01049	CDS	hypothetical protein
+ALDNNEPI_01050	CDS	carA_2	2.8.3.23	Caffeate CoA-transferase
+ALDNNEPI_01051	CDS	dnaJ_1	Chaperone protein DnaJ
+ALDNNEPI_01052	CDS	C1-hpah	1.5.1.36	p-hydroxyphenylacetate 3-hydroxylase, reductase component
+ALDNNEPI_01053	CDS	hypothetical protein
+ALDNNEPI_01054	tRNA	tRNA-Arg(tct)
+ALDNNEPI_01055	CDS	hypothetical protein
+ALDNNEPI_01056	CDS	folE2	3.5.4.16	GTP cyclohydrolase FolE2
+ALDNNEPI_01057	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+ALDNNEPI_01058	CDS	hypothetical protein
+ALDNNEPI_01059	CDS	tagD	2.7.7.39	Glycerol-3-phosphate cytidylyltransferase
+ALDNNEPI_01060	CDS	ribB	4.1.99.12	3,4-dihydroxy-2-butanone 4-phosphate synthase
+ALDNNEPI_01061	CDS	rimI_2	2.3.1.128	Ribosomal-protein-alanine acetyltransferase
+ALDNNEPI_01062	CDS	hypothetical protein
+ALDNNEPI_01063	CDS	hypothetical protein
+ALDNNEPI_01064	CDS	cobD_1	Cobalamin biosynthesis protein CobD
+ALDNNEPI_01065	CDS	cobQ	Cobyric acid synthase
+ALDNNEPI_01066	CDS	cobD_2	4.1.1.81	Threonine-phosphate decarboxylase
+ALDNNEPI_01067	CDS	cobS	2.7.8.26	Adenosylcobinamide-GDP ribazoletransferase
+ALDNNEPI_01068	CDS	hypothetical protein
+ALDNNEPI_01069	CDS	obg_2	3.6.5.-	GTPase Obg
+ALDNNEPI_01070	CDS	glnS	6.1.1.18	Glutamine--tRNA ligase
+ALDNNEPI_01071	CDS	hypothetical protein
+ALDNNEPI_01072	CDS	hypothetical protein
+ALDNNEPI_01073	CDS	hypothetical protein
+ALDNNEPI_01074	CDS	hypothetical protein
+ALDNNEPI_01075	CDS	mvaA	1.1.1.88	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+ALDNNEPI_01076	CDS	hypothetical protein
+ALDNNEPI_01077	CDS	hypothetical protein
+ALDNNEPI_01078	tRNA	tRNA-Ser(gct)
+ALDNNEPI_01079	CDS	fadD	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+ALDNNEPI_01080	CDS	exuT	Hexuronate transporter
+ALDNNEPI_01081	CDS	hypothetical protein
+ALDNNEPI_01082	tRNA	tRNA-Thr(ggt)
+ALDNNEPI_01083	CDS	hypothetical protein
+ALDNNEPI_01084	CDS	yflN	3.-.-.-	putative metallo-hydrolase YflN
+ALDNNEPI_01085	CDS	hypothetical protein
+ALDNNEPI_01086	CDS	hypothetical protein
+ALDNNEPI_01087	CDS	hypothetical protein
+ALDNNEPI_01088	CDS	pyrI	Aspartate carbamoyltransferase regulatory chain
+ALDNNEPI_01089	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase catalytic subunit
+ALDNNEPI_01090	CDS	trmI	2.1.1.220	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+ALDNNEPI_01091	CDS	2.7.1.165	D-glycerate 2-kinase
+ALDNNEPI_01092	CDS	crhR	3.6.4.13	RNA helicase CrhR
+ALDNNEPI_01093	CDS	rnmV	3.1.26.8	Ribonuclease M5
+ALDNNEPI_01094	CDS	fhuC	3.6.3.34	Iron(3+)-hydroxamate import ATP-binding protein FhuC
+ALDNNEPI_01095	CDS	putative ABC transporter permease protein
+ALDNNEPI_01096	CDS	btuF_2	Vitamin B12-binding protein
+ALDNNEPI_01097	CDS	hypothetical protein
+ALDNNEPI_01098	CDS	1.-.-.-	putative oxidoreductase
+ALDNNEPI_01099	CDS	hypothetical protein
+ALDNNEPI_01100	CDS	hypothetical protein
+ALDNNEPI_01101	CDS	ppm1	2.4.1.-	Polyprenol monophosphomannose synthase
+ALDNNEPI_01102	CDS	hypothetical protein
+ALDNNEPI_01103	CDS	hypothetical protein
+ALDNNEPI_01104	CDS	cotSA	2.4.-.-	Spore coat protein SA
+ALDNNEPI_01105	CDS	lnpD	5.1.3.2	UDP-glucose 4-epimerase
+ALDNNEPI_01106	CDS	bshA	2.4.1.-	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+ALDNNEPI_01107	CDS	hypothetical protein
+ALDNNEPI_01108	CDS	arnC	2.4.2.53	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+ALDNNEPI_01109	CDS	hypothetical protein
+ALDNNEPI_01110	CDS	hypothetical protein
+ALDNNEPI_01111	CDS	3.1.-.-	Ribonuclease
+ALDNNEPI_01112	CDS	prcB	3.4.25.1	Proteasome subunit beta
+ALDNNEPI_01113	CDS	hrp1	Hypoxic response protein 1
+ALDNNEPI_01114	CDS	hypothetical protein
+ALDNNEPI_01115	CDS	hypothetical protein
+ALDNNEPI_01116	CDS	purC	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+ALDNNEPI_01117	CDS	hmoB	1.14.14.18	Heme-degrading monooxygenase HmoB
+ALDNNEPI_01118	CDS	ppiB	5.2.1.8	putative peptidyl-prolyl cis-trans isomerase
+ALDNNEPI_01119	CDS	pncB2	6.3.4.21	Nicotinate phosphoribosyltransferase pncB2
+ALDNNEPI_01120	CDS	pncA	3.5.1.19	Nicotinamidase/pyrazinamidase
+ALDNNEPI_01121	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+ALDNNEPI_01122	CDS	hypothetical protein
+ALDNNEPI_01123	CDS	hypothetical protein
+ALDNNEPI_01124	CDS	hypothetical protein
+ALDNNEPI_01125	CDS	bphD	3.7.1.8	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase
+ALDNNEPI_01126	CDS	npr	1.11.1.1	NADH peroxidase
+ALDNNEPI_01127	CDS	pspB_2	3.1.3.3	Putative phosphoserine phosphatase 2
+ALDNNEPI_01128	CDS	hypothetical protein
+ALDNNEPI_01129	CDS	ribZ_2	Riboflavin transporter RibZ
+ALDNNEPI_01130	CDS	hypothetical protein
+ALDNNEPI_01131	CDS	hypothetical protein
+ALDNNEPI_01132	CDS	hypothetical protein
+ALDNNEPI_01133	CDS	hypothetical protein
+ALDNNEPI_01134	CDS	hypothetical protein
+ALDNNEPI_01135	CDS	hypothetical protein
+ALDNNEPI_01136	CDS	hypothetical protein
+ALDNNEPI_01137	CDS	ftsH4	3.4.24.-	ATP-dependent zinc metalloprotease FtsH 4
+ALDNNEPI_01138	CDS	glpE	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+ALDNNEPI_01139	CDS	hypothetical protein
+ALDNNEPI_01140	CDS	dnaJ_2	Chaperone protein DnaJ
+ALDNNEPI_01141	CDS	grpE	Protein GrpE
+ALDNNEPI_01142	CDS	dnaK	Chaperone protein DnaK
+ALDNNEPI_01143	CDS	dnaJ_3	Chaperone protein DnaJ
+ALDNNEPI_01144	CDS	hypothetical protein
+ALDNNEPI_01145	CDS	Universal stress protein/MSMEI_3859
+ALDNNEPI_01146	CDS	hyfB_1	1.-.-.-	Hydrogenase-4 component B
+ALDNNEPI_01147	CDS	nuoB	1.6.5.11	NADH-quinone oxidoreductase subunit B
+ALDNNEPI_01148	CDS	hycE	Formate hydrogenlyase subunit 5
+ALDNNEPI_01149	CDS	hyfB_2	1.-.-.-	Hydrogenase-4 component B
+ALDNNEPI_01150	CDS	hypothetical protein
+ALDNNEPI_01151	CDS	hycD	Formate hydrogenlyase subunit 4
+ALDNNEPI_01152	CDS	hypothetical protein
+ALDNNEPI_01153	CDS	hypothetical protein
+ALDNNEPI_01154	CDS	thiL	2.7.4.16	Thiamine-monophosphate kinase
+ALDNNEPI_01155	CDS	ileS_1	6.1.1.5	Isoleucine--tRNA ligase
+ALDNNEPI_01156	CDS	hypothetical protein
+ALDNNEPI_01157	CDS	hypothetical protein
+ALDNNEPI_01158	CDS	hypothetical protein
+ALDNNEPI_01159	CDS	hypothetical protein
+ALDNNEPI_01160	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+ALDNNEPI_01161	CDS	purS	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurS
+ALDNNEPI_01162	CDS	2.5.1.41	Geranylgeranylglyceryl phosphate synthase
+ALDNNEPI_01163	CDS	cyoE	2.5.1.-	Protoheme IX farnesyltransferase
+ALDNNEPI_01164	CDS	trm1	2.1.1.215	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+ALDNNEPI_01165	CDS	3.6.1.15	Nucleoside-triphosphatase THEP1
+ALDNNEPI_01166	CDS	hypothetical protein
+ALDNNEPI_01167	CDS	hypothetical protein
+ALDNNEPI_01168	CDS	hypothetical protein
+ALDNNEPI_01169	CDS	hypothetical protein
+ALDNNEPI_01170	CDS	hypothetical protein
+ALDNNEPI_01171	CDS	3.1.2.-	putative acyl-CoA thioester hydrolase
+ALDNNEPI_01172	CDS	rpiA	5.3.1.6	Ribose-5-phosphate isomerase A
+ALDNNEPI_01173	CDS	lrp	Leucine-responsive regulatory protein
+ALDNNEPI_01174	CDS	hypothetical protein
+ALDNNEPI_01175	CDS	hypothetical protein
+ALDNNEPI_01176	CDS	3.2.1.28	Trehalase
+ALDNNEPI_01177	CDS	hypothetical protein
+ALDNNEPI_01178	CDS	hypothetical protein
+ALDNNEPI_01179	CDS	hypothetical protein
+ALDNNEPI_01180	CDS	csbC_3	putative metabolite transport protein CsbC
+ALDNNEPI_01181	CDS	yabJ	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+ALDNNEPI_01182	CDS	gdhA	1.4.1.3	Glutamate dehydrogenase
+ALDNNEPI_01183	tRNA	tRNA-Gly(ccc)
+ALDNNEPI_01184	CDS	hypothetical protein
+ALDNNEPI_01185	CDS	hypothetical protein
+ALDNNEPI_01186	CDS	hypothetical protein
+ALDNNEPI_01187	CDS	hypothetical protein
+ALDNNEPI_01188	CDS	hypothetical protein
+ALDNNEPI_01189	CDS	hypothetical protein
+ALDNNEPI_01190	CDS	hypothetical protein
+ALDNNEPI_01191	CDS	hypothetical protein
+ALDNNEPI_01192	CDS	hypothetical protein
+ALDNNEPI_01193	CDS	hypothetical protein
+ALDNNEPI_01194	CDS	hypothetical protein
+ALDNNEPI_01195	CDS	hypothetical protein
+ALDNNEPI_01196	CDS	hypothetical protein
+ALDNNEPI_01197	CDS	xerC	Tyrosine recombinase XerC
+ALDNNEPI_01198	CDS	hypothetical protein
+ALDNNEPI_01199	CDS	hypothetical protein
+ALDNNEPI_01200	CDS	fabG_2	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALDNNEPI_01201	CDS	fadR	Fatty acid metabolism regulator protein
+ALDNNEPI_01202	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+ALDNNEPI_01203	CDS	lcfB	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+ALDNNEPI_01204	CDS	bpoC	1.11.1.18	Putative non-heme bromoperoxidase BpoC
+ALDNNEPI_01205	CDS	xylE	D-xylose-proton symporter
+ALDNNEPI_01206	CDS	hypothetical protein
+ALDNNEPI_01207	CDS	msrB	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+ALDNNEPI_01208	CDS	msrA2	1.8.4.11	Peptide methionine sulfoxide reductase MsrA 2
+ALDNNEPI_01209	CDS	hypothetical protein
+ALDNNEPI_01210	CDS	rny_1	3.1.-.-	Ribonuclease Y
+ALDNNEPI_01211	tRNA	tRNA-Asn(gtt)
+ALDNNEPI_01212	CDS	hypothetical protein
+ALDNNEPI_01213	tRNA	tRNA-Met(cat)
+ALDNNEPI_01214	CDS	hypothetical protein
+ALDNNEPI_01215	CDS	hypothetical protein
+ALDNNEPI_01216	CDS	hypothetical protein
+ALDNNEPI_01217	CDS	hypothetical protein
+ALDNNEPI_01218	CDS	hypothetical protein
+ALDNNEPI_01219	CDS	ugpC_1	3.6.3.20	sn-glycerol-3-phosphate import ATP-binding protein UgpC
+ALDNNEPI_01220	CDS	araQ	L-arabinose transport system permease protein AraQ
+ALDNNEPI_01221	CDS	lacF	Lactose transport system permease protein LacF
+ALDNNEPI_01222	CDS	hypothetical protein
+ALDNNEPI_01223	CDS	hypothetical protein
+ALDNNEPI_01224	CDS	hypothetical protein
+ALDNNEPI_01225	CDS	natA_5	ABC transporter ATP-binding protein NatA
+ALDNNEPI_01226	CDS	hypothetical protein
+ALDNNEPI_01227	CDS	mgtA	2.4.1.-	GDP-mannose-dependent alpha-mannosyltransferase
+ALDNNEPI_01228	CDS	hypothetical protein
+ALDNNEPI_01229	CDS	hypothetical protein
+ALDNNEPI_01230	CDS	hypothetical protein
+ALDNNEPI_01231	CDS	hypothetical protein
+ALDNNEPI_01232	CDS	1.13.11.49	Chlorite dismutase
+ALDNNEPI_01233	CDS	thiI	2.8.1.4	tRNA sulfurtransferase
+ALDNNEPI_01234	CDS	hypothetical protein
+ALDNNEPI_01235	tRNA	tRNA-Asp(gtc)
+ALDNNEPI_01236	CDS	hypothetical protein
+ALDNNEPI_01237	CDS	hypothetical protein
+ALDNNEPI_01238	CDS	hypothetical protein
+ALDNNEPI_01239	CDS	rnr	3.1.13.1	Ribonuclease R
+ALDNNEPI_01240	CDS	hypothetical protein
+ALDNNEPI_01241	CDS	hypothetical protein
+ALDNNEPI_01242	CDS	hypothetical protein
+ALDNNEPI_01243	CDS	hypothetical protein
+ALDNNEPI_01244	CDS	hypothetical protein
+ALDNNEPI_01245	CDS	hypothetical protein
+ALDNNEPI_01246	CDS	hypothetical protein
+ALDNNEPI_01247	CDS	recQ	3.6.4.12	ATP-dependent DNA helicase RecQ
+ALDNNEPI_01248	CDS	hypothetical protein
+ALDNNEPI_01249	CDS	hypothetical protein
+ALDNNEPI_01250	CDS	hypothetical protein
+ALDNNEPI_01251	CDS	hypothetical protein
+ALDNNEPI_01252	CDS	hypothetical protein
+ALDNNEPI_01253	CDS	hypothetical protein
+ALDNNEPI_01254	CDS	hypothetical protein
+ALDNNEPI_01255	CDS	ravA_2	3.6.3.-	ATPase RavA
+ALDNNEPI_01256	CDS	hypothetical protein
+ALDNNEPI_01257	CDS	hypothetical protein
+ALDNNEPI_01258	CDS	hypothetical protein
+ALDNNEPI_01259	CDS	lon2	3.4.21.53	Lon protease 2
+ALDNNEPI_01260	CDS	hypothetical protein
+ALDNNEPI_01261	CDS	iolC	2.7.1.92	5-dehydro-2-deoxygluconokinase
+ALDNNEPI_01262	CDS	caiE	Carnitine operon protein CaiE
+ALDNNEPI_01263	CDS	eno	4.2.1.11	Enolase
+ALDNNEPI_01264	CDS	hypothetical protein
+ALDNNEPI_01265	CDS	lppC	Putative lipoprotein LppC
+ALDNNEPI_01266	CDS	mobA	2.7.7.77	Molybdenum cofactor guanylyltransferase
+ALDNNEPI_01267	CDS	hypothetical protein
+ALDNNEPI_01268	CDS	hypothetical protein
+ALDNNEPI_01269	CDS	hypothetical protein
+ALDNNEPI_01270	CDS	hypothetical protein
+ALDNNEPI_01271	CDS	hypothetical protein
+ALDNNEPI_01272	CDS	hypothetical protein
+ALDNNEPI_01273	CDS	hypothetical protein
+ALDNNEPI_01274	CDS	yicI_2	3.2.1.177	Alpha-xylosidase
+ALDNNEPI_01275	CDS	hypothetical protein
+ALDNNEPI_01276	CDS	Vejahgd	1.2.1.92	3,6-anhydro-alpha-L-galactose dehydrogenase
+ALDNNEPI_01277	CDS	hypothetical protein
+ALDNNEPI_01278	CDS	hypothetical protein
+ALDNNEPI_01279	CDS	hypothetical protein
+ALDNNEPI_01280	CDS	hypothetical protein
+ALDNNEPI_01281	CDS	hypothetical protein
+ALDNNEPI_01282	CDS	ctaB2	2.5.1.-	Protoheme IX farnesyltransferase 2
+ALDNNEPI_01283	CDS	hypothetical protein
+ALDNNEPI_01284	CDS	qoxB	1.10.3.-	Quinol oxidase subunit 1
+ALDNNEPI_01285	CDS	coxM	1.9.3.1	Alternative cytochrome c oxidase subunit 2
+ALDNNEPI_01286	CDS	hypothetical protein
+ALDNNEPI_01287	CDS	hypothetical protein
+ALDNNEPI_01288	CDS	hypothetical protein
+ALDNNEPI_01289	CDS	hypothetical protein
+ALDNNEPI_01290	CDS	cysE	2.3.1.30	Serine acetyltransferase
+ALDNNEPI_01291	CDS	hypothetical protein
+ALDNNEPI_01292	CDS	hypothetical protein
+ALDNNEPI_01293	CDS	hypothetical protein
+ALDNNEPI_01294	CDS	hypothetical protein
+ALDNNEPI_01295	CDS	hypothetical protein
+ALDNNEPI_01296	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+ALDNNEPI_01297	CDS	hypothetical protein
+ALDNNEPI_01298	CDS	pqqE	Coenzyme PQQ synthesis protein E
+ALDNNEPI_01299	CDS	hypothetical protein
+ALDNNEPI_01300	CDS	pdaD	4.1.1.19	Pyruvoyl-dependent arginine decarboxylase
+ALDNNEPI_01301	CDS	ileS_2	6.1.1.5	Isoleucine--tRNA ligase
+ALDNNEPI_01302	CDS	bacC	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+ALDNNEPI_01303	CDS	hypothetical protein
+ALDNNEPI_01304	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+ALDNNEPI_01305	CDS	ydaD	1.-.-.-	General stress protein 39
+ALDNNEPI_01306	CDS	hypothetical protein
+ALDNNEPI_01307	CDS	putC	1.2.1.88	1-pyrroline-5-carboxylate dehydrogenase 2
+ALDNNEPI_01308	CDS	lipB_2	2.3.1.181	Octanoyltransferase
+ALDNNEPI_01309	CDS	pckG	4.1.1.32	Phosphoenolpyruvate carboxykinase [GTP]
+ALDNNEPI_01310	CDS	hypothetical protein
+ALDNNEPI_01311	CDS	speH	4.1.1.50	S-adenosylmethionine decarboxylase proenzyme
+ALDNNEPI_01312	CDS	hypothetical protein
+ALDNNEPI_01313	CDS	infB	Translation initiation factor IF-2
+ALDNNEPI_01314	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+ALDNNEPI_01315	CDS	hypothetical protein
+ALDNNEPI_01316	CDS	hypothetical protein
+ALDNNEPI_01317	CDS	Putative ribosomal protein L7Ae-like protein
+ALDNNEPI_01318	CDS	yagE	4.1.2.-	putative 2-keto-3-deoxy-galactonate aldolase YagE
+ALDNNEPI_01319	CDS	moeZ	putative adenylyltransferase/sulfurtransferase MoeZ
+ALDNNEPI_01320	CDS	couO	2.1.1.-	C-methyltransferase CouO
+ALDNNEPI_01321	tRNA	tRNA-Arg(tcg)
+ALDNNEPI_01322	CDS	hypothetical protein
+ALDNNEPI_01323	CDS	hypothetical protein
+ALDNNEPI_01324	CDS	hypothetical protein
+ALDNNEPI_01325	CDS	hypothetical protein
+ALDNNEPI_01326	CDS	hypothetical protein
+ALDNNEPI_01327	CDS	hypothetical protein
+ALDNNEPI_01328	CDS	hypothetical protein
+ALDNNEPI_01329	CDS	argF	2.1.3.3	Ornithine carbamoyltransferase
+ALDNNEPI_01330	CDS	sucD	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+ALDNNEPI_01331	CDS	sucC	6.2.1.4	Succinate--CoA ligase [GDP-forming] subunit beta
+ALDNNEPI_01332	CDS	groL_2	60 kDa chaperonin
+ALDNNEPI_01333	CDS	thyX	2.1.1.148	Thymidylate synthase ThyX
+ALDNNEPI_01334	CDS	hypothetical protein
+ALDNNEPI_01335	CDS	fadA_1	2.3.1.16	3-ketoacyl-CoA thiolase
+ALDNNEPI_01336	CDS	hypothetical protein
+ALDNNEPI_01337	CDS	ycjP_2	Inner membrane ABC transporter permease protein YcjP
+ALDNNEPI_01338	CDS	sugC_2	3.6.3.-	Trehalose import ATP-binding protein SugC
+ALDNNEPI_01339	CDS	gph	3.1.3.18	Phosphoglycolate phosphatase
+ALDNNEPI_01340	CDS	ybgC	3.1.2.-	Acyl-CoA thioester hydrolase YbgC
+ALDNNEPI_01341	CDS	mhqR	HTH-type transcriptional regulator MhqR
+ALDNNEPI_01342	CDS	hypothetical protein
+ALDNNEPI_01343	tRNA	tRNA-Glu(ctc)
+ALDNNEPI_01344	CDS	hypothetical protein
+ALDNNEPI_01345	CDS	hypothetical protein
+ALDNNEPI_01346	CDS	hypothetical protein
+ALDNNEPI_01347	CDS	ftsH_2	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+ALDNNEPI_01348	CDS	hypothetical protein
+ALDNNEPI_01349	CDS	hypothetical protein
+ALDNNEPI_01350	CDS	pyrH	2.7.4.22	Uridylate kinase
+ALDNNEPI_01351	CDS	korB_2	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorB
+ALDNNEPI_01352	CDS	korA_2	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+ALDNNEPI_01353	CDS	phnN	2.7.4.23	Ribose 1,5-bisphosphate phosphokinase PhnN
+ALDNNEPI_01354	CDS	purQ	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurQ
+ALDNNEPI_01355	CDS	hypothetical protein
+ALDNNEPI_01356	CDS	hypothetical protein
+ALDNNEPI_01357	CDS	fbp	3.1.3.11	Fructose-1,6-bisphosphate aldolase/phosphatase
+ALDNNEPI_01358	CDS	tadA	3.5.4.33	tRNA-specific adenosine deaminase
+ALDNNEPI_01359	CDS	putative membrane protein
+ALDNNEPI_01360	CDS	hypothetical protein
+ALDNNEPI_01361	CDS	hypothetical protein
+ALDNNEPI_01362	CDS	hypothetical protein
+ALDNNEPI_01363	CDS	hypothetical protein
+ALDNNEPI_01364	CDS	ynaI	Low conductance mechanosensitive channel YnaI
+ALDNNEPI_01365	CDS	sppA	3.4.21.-	Putative signal peptide peptidase SppA
+ALDNNEPI_01366	CDS	hypothetical protein
+ALDNNEPI_01367	CDS	hypothetical protein
+ALDNNEPI_01368	CDS	hypothetical protein
+ALDNNEPI_01369	CDS	sbnA	putative siderophore biosynthesis protein SbnA
+ALDNNEPI_01370	CDS	fusA	Elongation factor G
+ALDNNEPI_01371	CDS	rpsJ	30S ribosomal protein S10
+ALDNNEPI_01372	CDS	tuf	Elongation factor Tu
+ALDNNEPI_01373	CDS	hypothetical protein
+ALDNNEPI_01374	CDS	paiB	Protease synthase and sporulation protein PAI 2
+ALDNNEPI_01375	CDS	hypothetical protein
+ALDNNEPI_01376	CDS	asnC_3	Regulatory protein AsnC
+ALDNNEPI_01377	CDS	asnS_2	6.1.1.22	Asparagine--tRNA ligase
+ALDNNEPI_01378	CDS	hypothetical protein
+ALDNNEPI_01379	CDS	hypothetical protein
+ALDNNEPI_01380	CDS	lgoT	putative L-galactonate transporter
+ALDNNEPI_01381	CDS	tetA_3	Tetracycline resistance protein, class B
+ALDNNEPI_01382	CDS	skfB	1.21.98.-	Sporulation killing factor maturation protein SkfB
+ALDNNEPI_01383	CDS	hypothetical protein
+ALDNNEPI_01384	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+ALDNNEPI_01385	CDS	hypothetical protein
+ALDNNEPI_01386	CDS	hypothetical protein
+ALDNNEPI_01387	CDS	1.-.-.-	NAD(P)H-dependent FMN reductase
+ALDNNEPI_01388	CDS	ribZ_3	Riboflavin transporter RibZ
+ALDNNEPI_01389	CDS	yusO_2	putative HTH-type transcriptional regulator YusO
+ALDNNEPI_01390	CDS	hypothetical protein
+ALDNNEPI_01391	CDS	gadB	4.1.1.15	Glutamate decarboxylase
+ALDNNEPI_01392	CDS	hypothetical protein
+ALDNNEPI_01393	CDS	bcp_3	1.11.1.15	Putative peroxiredoxin bcp
+ALDNNEPI_01394	CDS	dapb3_1	3.4.14.-	Dipeptidyl aminopeptidase BIII
+ALDNNEPI_01395	CDS	hypothetical protein
+ALDNNEPI_01396	CDS	albA	1.21.98.-	Antilisterial bacteriocin subtilosin biosynthesis protein AlbA
+ALDNNEPI_01397	CDS	hypothetical protein
+ALDNNEPI_01398	CDS	3.1.21.4	Type IIS restriction enzyme Eco57I
+ALDNNEPI_01399	CDS	hypothetical protein
+ALDNNEPI_01400	CDS	hypothetical protein
+ALDNNEPI_01401	CDS	hypothetical protein
+ALDNNEPI_01402	CDS	hypothetical protein
+ALDNNEPI_01403	CDS	hypothetical protein
+ALDNNEPI_01404	tRNA	tRNA-Pro(cgg)
+ALDNNEPI_01405	CDS	hypothetical protein
+ALDNNEPI_01406	CDS	efp	Elongation factor P
+ALDNNEPI_01407	CDS	speB	3.5.3.11	Agmatinase
+ALDNNEPI_01408	CDS	hypothetical protein
+ALDNNEPI_01409	CDS	hypothetical protein
+ALDNNEPI_01410	CDS	hypothetical protein
+ALDNNEPI_01411	CDS	hypothetical protein
+ALDNNEPI_01412	CDS	hypothetical protein
+ALDNNEPI_01413	CDS	fpgS	6.3.2.17	Folylpolyglutamate synthase
+ALDNNEPI_01414	CDS	hypothetical protein
+ALDNNEPI_01415	CDS	hypothetical protein
+ALDNNEPI_01416	CDS	hypothetical protein
+ALDNNEPI_01417	CDS	pdxS	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxS
+ALDNNEPI_01418	CDS	hypothetical protein
+ALDNNEPI_01419	CDS	3.8.1.7	4-chlorobenzoyl coenzyme A dehalogenase
+ALDNNEPI_01420	CDS	petB	Cytochrome b6
+ALDNNEPI_01421	CDS	aioB	1.20.9.1	Arsenite oxidase subunit AioB
+ALDNNEPI_01422	CDS	hypothetical protein
+ALDNNEPI_01423	CDS	hypothetical protein
+ALDNNEPI_01424	CDS	yidH	Inner membrane protein YidH
+ALDNNEPI_01425	CDS	cefD	5.1.1.17	Isopenicillin N epimerase
+ALDNNEPI_01426	CDS	blh	3.-.-.-	Beta-lactamase hydrolase-like protein
+ALDNNEPI_01427	CDS	pspE	2.8.1.1	Thiosulfate sulfurtransferase PspE
+ALDNNEPI_01428	CDS	hypothetical protein
+ALDNNEPI_01429	CDS	hypothetical protein
+ALDNNEPI_01430	CDS	hypothetical protein
+ALDNNEPI_01431	CDS	gpr	1.1.1.-	L-glyceraldehyde 3-phosphate reductase
+ALDNNEPI_01432	CDS	hypothetical protein
+ALDNNEPI_01433	CDS	aqpZ2	Aquaporin Z 2
+ALDNNEPI_01434	CDS	hypothetical protein
+ALDNNEPI_01435	CDS	hypothetical protein
+ALDNNEPI_01436	CDS	hypothetical protein
+ALDNNEPI_01437	CDS	hypothetical protein
+ALDNNEPI_01438	tRNA	tRNA-Pro(ggg)
+ALDNNEPI_01439	CDS	hypothetical protein
+ALDNNEPI_01440	CDS	rpsI	30S ribosomal protein S9
+ALDNNEPI_01441	CDS	rplM	50S ribosomal protein L13
+ALDNNEPI_01442	CDS	rplO_1	50S ribosomal protein L15
+ALDNNEPI_01443	CDS	2.1.1.-	putative tRNA/rRNA methyltransferase
+ALDNNEPI_01444	CDS	slyD	5.2.1.8	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+ALDNNEPI_01445	CDS	pyk	2.7.1.40	Pyruvate kinase
+ALDNNEPI_01446	CDS	hypothetical protein
+ALDNNEPI_01447	CDS	aroF_1	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+ALDNNEPI_01448	CDS	trpC	4.1.1.48	Indole-3-glycerol phosphate synthase
+ALDNNEPI_01449	CDS	trpG	4.1.3.27	Anthranilate synthase component 2
+ALDNNEPI_01450	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+ALDNNEPI_01451	CDS	trpF	5.3.1.24	N-(5'-phosphoribosyl)anthranilate isomerase
+ALDNNEPI_01452	CDS	trpD	2.4.2.18	Anthranilate phosphoribosyltransferase
+ALDNNEPI_01453	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+ALDNNEPI_01454	CDS	trpB	4.2.1.20	Tryptophan synthase beta chain
+ALDNNEPI_01455	CDS	ubiE	2.1.1.163	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+ALDNNEPI_01456	CDS	hypothetical protein
+ALDNNEPI_01457	CDS	hypothetical protein
+ALDNNEPI_01458	CDS	hypothetical protein
+ALDNNEPI_01459	CDS	hprA	1.1.1.29	Glycerate dehydrogenase
+ALDNNEPI_01460	CDS	cshA	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshA
+ALDNNEPI_01461	CDS	4.2.1.79	2-methylcitrate dehydratase
+ALDNNEPI_01462	CDS	prpB	4.1.3.30	2-methylisocitrate lyase
+ALDNNEPI_01463	CDS	hypothetical protein
+ALDNNEPI_01464	CDS	hypothetical protein
+ALDNNEPI_01465	CDS	nadK	2.7.1.23	NAD kinase
+ALDNNEPI_01466	CDS	suhB	3.1.3.11	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+ALDNNEPI_01467	CDS	hypothetical protein
+ALDNNEPI_01468	CDS	rpsK	30S ribosomal protein S11
+ALDNNEPI_01469	CDS	rpsD	30S ribosomal protein S4
+ALDNNEPI_01470	CDS	rpsM	30S ribosomal protein S13
+ALDNNEPI_01471	CDS	hypothetical protein
+ALDNNEPI_01472	CDS	hypothetical protein
+ALDNNEPI_01473	CDS	rlmD	2.1.1.190	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+ALDNNEPI_01474	CDS	hemL	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+ALDNNEPI_01475	CDS	hemC	2.5.1.61	Porphobilinogen deaminase
+ALDNNEPI_01476	tRNA	tRNA-Met(cat)
+ALDNNEPI_01477	CDS	rny_2	3.1.-.-	Ribonuclease Y
+ALDNNEPI_01478	CDS	hypothetical protein
+ALDNNEPI_01479	CDS	hypothetical protein
+ALDNNEPI_01480	CDS	hypothetical protein
+ALDNNEPI_01481	CDS	rpoC_1	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+ALDNNEPI_01482	CDS	rpoC_2	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+ALDNNEPI_01483	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+ALDNNEPI_01484	CDS	hypothetical protein
+ALDNNEPI_01485	tRNA	tRNA-Lys(ttt)
+ALDNNEPI_01486	CDS	pepO_2	3.4.24.-	Neutral endopeptidase
+ALDNNEPI_01487	CDS	mtnA	5.3.1.23	Methylthioribose-1-phosphate isomerase
+ALDNNEPI_01488	CDS	mctP	Monocarboxylate transport permease protein
+ALDNNEPI_01489	CDS	hypothetical protein
+ALDNNEPI_01490	CDS	otsA	2.4.1.15	Trehalose-6-phosphate synthase
+ALDNNEPI_01491	CDS	hypothetical protein
+ALDNNEPI_01492	CDS	3.5.-.-	Hydrolase
+ALDNNEPI_01493	CDS	top6A	5.99.1.3	Type 2 DNA topoisomerase 6 subunit A
+ALDNNEPI_01494	CDS	top6B	5.99.1.3	Type 2 DNA topoisomerase 6 subunit B
+ALDNNEPI_01495	CDS	hypothetical protein
+ALDNNEPI_01496	CDS	hypothetical protein
+ALDNNEPI_01497	CDS	yugI	General stress protein 13
+ALDNNEPI_01498	CDS	hypothetical protein
+ALDNNEPI_01499	CDS	hypothetical protein
+ALDNNEPI_01500	CDS	hypothetical protein
+ALDNNEPI_01501	CDS	hypothetical protein
+ALDNNEPI_01502	CDS	hypothetical protein
+ALDNNEPI_01503	CDS	purF	2.4.2.14	Amidophosphoribosyltransferase
+ALDNNEPI_01504	CDS	hypothetical protein
+ALDNNEPI_01505	CDS	truB	5.4.99.25	tRNA pseudouridine synthase B
+ALDNNEPI_01506	CDS	cmk_2	2.7.4.25	Cytidylate kinase
+ALDNNEPI_01507	CDS	hypothetical protein
+ALDNNEPI_01508	CDS	cmk_3	2.7.4.25	Cytidylate kinase
+ALDNNEPI_01509	CDS	secY	Protein translocase subunit SecY
+ALDNNEPI_01510	CDS	rplO_2	50S ribosomal protein L15
+ALDNNEPI_01511	CDS	hypothetical protein
+ALDNNEPI_01512	CDS	rpsE	30S ribosomal protein S5
+ALDNNEPI_01513	CDS	hypothetical protein
+ALDNNEPI_01514	CDS	hypothetical protein
+ALDNNEPI_01515	CDS	hypothetical protein
+ALDNNEPI_01516	CDS	rplF	50S ribosomal protein L6
+ALDNNEPI_01517	CDS	rpsH	30S ribosomal protein S8
+ALDNNEPI_01518	CDS	hypothetical protein
+ALDNNEPI_01519	CDS	rplE	50S ribosomal protein L5
+ALDNNEPI_01520	CDS	hypothetical protein
+ALDNNEPI_01521	CDS	hypothetical protein
+ALDNNEPI_01522	CDS	rplN	50S ribosomal protein L14
+ALDNNEPI_01523	CDS	hypothetical protein
+ALDNNEPI_01524	CDS	hypothetical protein
+ALDNNEPI_01525	CDS	hypothetical protein
+ALDNNEPI_01526	CDS	rpmC	50S ribosomal protein L29
+ALDNNEPI_01527	CDS	rpsC	30S ribosomal protein S3
+ALDNNEPI_01528	CDS	rplV	50S ribosomal protein L22
+ALDNNEPI_01529	CDS	rpsS	30S ribosomal protein S19
+ALDNNEPI_01530	CDS	rplB	50S ribosomal protein L2
+ALDNNEPI_01531	CDS	rplW	50S ribosomal protein L23
+ALDNNEPI_01532	CDS	hypothetical protein
+ALDNNEPI_01533	CDS	rplC	50S ribosomal protein L3
+ALDNNEPI_01534	CDS	hypothetical protein
+ALDNNEPI_01535	CDS	hypothetical protein
+ALDNNEPI_01536	CDS	sttH	3.5.2.19	Streptothricin hydrolase
+ALDNNEPI_01537	CDS	ndhI_2	1.6.5.11	NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+ALDNNEPI_01538	CDS	1.-.-.-	putative FAD-linked oxidoreductase
+ALDNNEPI_01539	tRNA	tRNA-Gly(tcc)
+ALDNNEPI_01540	CDS	hypothetical protein
+ALDNNEPI_01541	CDS	hypothetical protein
+ALDNNEPI_01542	tRNA	tRNA-Lys(ctt)
+ALDNNEPI_01543	CDS	hypothetical protein
+ALDNNEPI_01544	CDS	dpnA_3	2.1.1.72	Modification methylase DpnIIB
+ALDNNEPI_01545	CDS	hypothetical protein
+ALDNNEPI_01546	CDS	hypothetical protein
+ALDNNEPI_01547	CDS	hypothetical protein
+ALDNNEPI_01548	CDS	abgB	3.5.1.-	p-aminobenzoyl-glutamate hydrolase subunit B
+ALDNNEPI_01549	CDS	ykfA_1	3.4.16.-	putative murein peptide carboxypeptidase
+ALDNNEPI_01550	CDS	hypothetical protein
+ALDNNEPI_01551	CDS	hypothetical protein
+ALDNNEPI_01552	CDS	hutH	4.3.1.3	Histidine ammonia-lyase
+ALDNNEPI_01553	CDS	hypothetical protein
+ALDNNEPI_01554	CDS	hypothetical protein
+ALDNNEPI_01555	CDS	hypothetical protein
+ALDNNEPI_01556	CDS	hypothetical protein
+ALDNNEPI_01557	CDS	hypothetical protein
+ALDNNEPI_01558	CDS	hypothetical protein
+ALDNNEPI_01559	CDS	hypothetical protein
+ALDNNEPI_01560	CDS	tag	3.2.2.20	DNA-3-methyladenine glycosylase 1
+ALDNNEPI_01561	CDS	hypothetical protein
+ALDNNEPI_01562	CDS	pepN_2	3.4.11.2	Aminopeptidase N
+ALDNNEPI_01563	CDS	thrZ	6.1.1.3	Threonine--tRNA ligase 2
+ALDNNEPI_01564	CDS	hypothetical protein
+ALDNNEPI_01565	CDS	PE-PGRS family protein PE_PGRS18
+ALDNNEPI_01566	CDS	hypothetical protein
+repeat_region
+ALDNNEPI_01567	CDS	cas2	3.1.-.-	CRISPR-associated endoribonuclease Cas2
+ALDNNEPI_01568	CDS	cas1	3.1.-.-	CRISPR-associated endonuclease Cas1
+ALDNNEPI_01569	CDS	hypothetical protein
+ALDNNEPI_01570	CDS	cas3	3.1.-.-	CRISPR-associated nuclease/helicase Cas3
+ALDNNEPI_01571	CDS	hypothetical protein
+ALDNNEPI_01572	CDS	hypothetical protein
+ALDNNEPI_01573	CDS	hypothetical protein
+ALDNNEPI_01574	CDS	hypothetical protein
+ALDNNEPI_01575	CDS	hypothetical protein
+ALDNNEPI_01576	CDS	2.4.1.161	Oligosaccharide 4-alpha-D-glucosyltransferase
+ALDNNEPI_01577	CDS	3.2.1.54	Cyclomaltodextrinase
+ALDNNEPI_01578	CDS	sugC_3	3.6.3.-	Trehalose import ATP-binding protein SugC
+ALDNNEPI_01579	CDS	malG_1	Maltose transport system permease protein MalG
+ALDNNEPI_01580	CDS	malF	Maltose transport system permease protein MalF
+ALDNNEPI_01581	CDS	malX	Maltose/maltodextrin-binding protein
+ALDNNEPI_01582	CDS	hypothetical protein
+ALDNNEPI_01583	CDS	gghA_2	3.2.1.74	1,4-beta-D-glucan glucohydrolase
+ALDNNEPI_01584	CDS	hypothetical protein
+ALDNNEPI_01585	CDS	ytrA	HTH-type transcriptional repressor YtrA
+ALDNNEPI_01586	CDS	acrA	Acryloyl-CoA reductase electron transfer subunit beta
+ALDNNEPI_01587	CDS	carD_2	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarD
+ALDNNEPI_01588	CDS	fixX	Ferredoxin-like protein FixX
+ALDNNEPI_01589	CDS	1.5.5.1	Electron transfer flavoprotein-ubiquinone oxidoreductase
+ALDNNEPI_01590	CDS	hypothetical protein
+ALDNNEPI_01591	CDS	1.13.12.4	Lactate 2-monooxygenase
+ALDNNEPI_01592	CDS	murK	2.7.1.-	N-acetylmuramic acid/N-acetylglucosamine kinase
+ALDNNEPI_01593	CDS	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+ALDNNEPI_01594	CDS	glmS_2	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+ALDNNEPI_01595	CDS	nagA	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+ALDNNEPI_01596	CDS	murQ	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+ALDNNEPI_01597	CDS	5.1.1.-	Hydrophobic dipeptide epimerase
+ALDNNEPI_01598	CDS	gspK_2	2.7.1.8	Glucosamine kinase GspK
+ALDNNEPI_01599	CDS	hypothetical protein
+ALDNNEPI_01600	CDS	yicI_3	3.2.1.177	Alpha-xylosidase
+ALDNNEPI_01601	CDS	ugpC_2	3.6.3.20	sn-glycerol-3-phosphate import ATP-binding protein UgpC
+ALDNNEPI_01602	CDS	malG_2	Maltose transport system permease protein MalG
+ALDNNEPI_01603	CDS	ugpA	sn-glycerol-3-phosphate transport system permease protein UgpA
+ALDNNEPI_01604	CDS	hypothetical protein
+ALDNNEPI_01605	CDS	nagZ	3.2.1.52	Beta-hexosaminidase
+ALDNNEPI_01606	CDS	cocE	3.1.1.84	Cocaine esterase
+ALDNNEPI_01607	CDS	hypothetical protein
+ALDNNEPI_01608	CDS	ykfC	3.4.-.-	Gamma-D-glutamyl-L-lysine endopeptidase
+ALDNNEPI_01609	CDS	hypothetical protein
+ALDNNEPI_01610	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+ALDNNEPI_01611	CDS	hypothetical protein
+ALDNNEPI_01612	CDS	hypothetical protein
+ALDNNEPI_01613	CDS	hypothetical protein
+ALDNNEPI_01614	CDS	hypothetical protein
+ALDNNEPI_01615	CDS	hypothetical protein
+ALDNNEPI_01616	CDS	mlhB	3.1.1.83	Monoterpene epsilon-lactone hydrolase
+ALDNNEPI_01617	CDS	hypothetical protein
+ALDNNEPI_01618	CDS	ykfA_2	3.4.16.-	putative murein peptide carboxypeptidase
+ALDNNEPI_01619	CDS	hypothetical protein
+ALDNNEPI_01620	CDS	dac	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+ALDNNEPI_01621	CDS	hypothetical protein
+ALDNNEPI_01622	CDS	hypothetical protein
+ALDNNEPI_01623	CDS	amiD	3.5.1.4	Putative amidase AmiD
+ALDNNEPI_01624	CDS	hypothetical protein
+ALDNNEPI_01625	CDS	cpg2	3.4.17.11	Carboxypeptidase G2
+ALDNNEPI_01626	CDS	menC	4.2.1.113	o-succinylbenzoate synthase
+ALDNNEPI_01627	CDS	hypothetical protein
+ALDNNEPI_01628	CDS	yhdN_3	1.1.1.-	General stress protein 69
+ALDNNEPI_01629	CDS	dprA	DNA processing protein DprA
+ALDNNEPI_01630	CDS	hypothetical protein
+ALDNNEPI_01631	CDS	speE	2.5.1.16	Polyamine aminopropyltransferase
+ALDNNEPI_01632	CDS	hypothetical protein
+ALDNNEPI_01633	CDS	3.6.1.9	Non-canonical purine NTP pyrophosphatase
+ALDNNEPI_01634	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+ALDNNEPI_01635	CDS	pgaC	2.4.1.-	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+ALDNNEPI_01636	CDS	1.13.11.24	Putative quercetin 2,3-dioxygenase
+ALDNNEPI_01637	CDS	hypothetical protein
+ALDNNEPI_01638	CDS	hacA	4.2.1.36	Homoaconitase large subunit
+ALDNNEPI_01639	CDS	DmdB	4.2.1.85	2,3-dimethylmalate dehydratase small subunit
+ALDNNEPI_01640	CDS	uctC	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+ALDNNEPI_01641	CDS	leuA	2.3.3.13	2-isopropylmalate synthase
+ALDNNEPI_01642	CDS	ydjE	Inner membrane metabolite transport protein YdjE
+ALDNNEPI_01643	CDS	hypothetical protein
+ALDNNEPI_01644	CDS	selB_2	Selenocysteine-specific elongation factor
+ALDNNEPI_01645	CDS	nth	4.2.99.18	Endonuclease III
+ALDNNEPI_01646	CDS	ihfA	Integration host factor subunit alpha
+ALDNNEPI_01647	CDS	hypothetical protein
+ALDNNEPI_01648	CDS	hypothetical protein
+ALDNNEPI_01649	CDS	dnaG	2.7.7.-	DNA primase
+ALDNNEPI_01650	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+ALDNNEPI_01651	CDS	prxU	1.11.1.15	Selenocysteine-containing peroxiredoxin PrxU
+ALDNNEPI_01652	CDS	hypothetical protein
+ALDNNEPI_01653	CDS	ahpF_2	1.6.99.3	NADH dehydrogenase
+ALDNNEPI_01654	CDS	hypothetical protein
+ALDNNEPI_01655	CDS	tatA	Sec-independent protein translocase protein TatA
+ALDNNEPI_01656	CDS	tatC	Sec-independent protein translocase protein TatC
+ALDNNEPI_01657	CDS	paaF_1	4.2.1.17	2,3-dehydroadipyl-CoA hydratase
+ALDNNEPI_01658	CDS	hypothetical protein
+ALDNNEPI_01659	CDS	hypothetical protein
+ALDNNEPI_01660	CDS	nuoN	1.6.5.11	NADH-quinone oxidoreductase subunit N
+ALDNNEPI_01661	CDS	ndhD1	1.6.5.-	NAD(P)H-quinone oxidoreductase chain 4 1
+ALDNNEPI_01662	CDS	nuoL	1.6.5.11	NADH-quinone oxidoreductase subunit L
+ALDNNEPI_01663	CDS	nuoK	1.6.5.11	NADH-quinone oxidoreductase subunit K
+ALDNNEPI_01664	CDS	hypothetical protein
+ALDNNEPI_01665	CDS	hypothetical protein
+ALDNNEPI_01666	CDS	ndhI_3	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit I
+ALDNNEPI_01667	CDS	nuoH	1.6.5.11	NADH-quinone oxidoreductase subunit H
+ALDNNEPI_01668	CDS	nqo4	1.6.5.11	NADH-quinone oxidoreductase subunit 4
+ALDNNEPI_01669	CDS	ndhJ	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit J
+ALDNNEPI_01670	CDS	nqo6	1.6.5.11	NADH-quinone oxidoreductase subunit 6
+ALDNNEPI_01671	CDS	ndhC	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit 3
+ALDNNEPI_01672	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+ALDNNEPI_01673	CDS	ansA	3.5.1.1	L-asparaginase 1
+ALDNNEPI_01674	CDS	hypothetical protein
+ALDNNEPI_01675	CDS	acdA_2	1.3.99.-	Acyl-CoA dehydrogenase
+ALDNNEPI_01676	CDS	hpt	2.4.2.8	Hypoxanthine-guanine phosphoribosyltransferase
+ALDNNEPI_01677	CDS	arcC2	2.7.2.2	Carbamate kinase 2
+ALDNNEPI_01678	CDS	hypothetical protein
+ALDNNEPI_01679	CDS	mqnD	4.1.-.-	1,4-dihydroxy-6-naphtoate synthase
+ALDNNEPI_01680	CDS	hypothetical protein
+ALDNNEPI_01681	CDS	ribZ_4	Riboflavin transporter RibZ
+ALDNNEPI_01682	CDS	hypothetical protein
+ALDNNEPI_01683	CDS	hypothetical protein
+ALDNNEPI_01684	CDS	hypothetical protein
+ALDNNEPI_01685	CDS	polB_2	2.7.7.7	DNA polymerase II
+ALDNNEPI_01686	CDS	hypothetical protein
+ALDNNEPI_01687	CDS	hypothetical protein
+ALDNNEPI_01688	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+ALDNNEPI_01689	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+ALDNNEPI_01690	CDS	thrB_3	2.7.1.39	Homoserine kinase
+ALDNNEPI_01691	CDS	aroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+ALDNNEPI_01692	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+ALDNNEPI_01693	CDS	hypothetical protein
+ALDNNEPI_01694	CDS	dadD	3.5.4.31	5'-deoxyadenosine deaminase
+ALDNNEPI_01695	CDS	rtcB	6.5.1.-	RNA-splicing ligase RtcB
+ALDNNEPI_01696	CDS	hypothetical protein
+ALDNNEPI_01697	CDS	hypothetical protein
+ALDNNEPI_01698	CDS	speG	2.3.1.57	Spermidine N(1)-acetyltransferase
+ALDNNEPI_01699	CDS	hypothetical protein
+ALDNNEPI_01700	CDS	purN	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+ALDNNEPI_01701	CDS	dnaX	2.7.7.7	DNA polymerase III subunit tau
+ALDNNEPI_01702	CDS	dbpA	3.6.4.13	ATP-dependent RNA helicase DbpA
+ALDNNEPI_01703	tRNA	tRNA-Ala(cgc)
+ALDNNEPI_01704	CDS	xerD_4	Tyrosine recombinase XerD
+ALDNNEPI_01705	CDS	hypothetical protein
+ALDNNEPI_01706	CDS	hypothetical protein
+ALDNNEPI_01707	CDS	hypothetical protein
+ALDNNEPI_01708	CDS	hypothetical protein
+ALDNNEPI_01709	CDS	hypothetical protein
+ALDNNEPI_01710	CDS	hypothetical protein
+ALDNNEPI_01711	CDS	hypothetical protein
+ALDNNEPI_01712	CDS	hypothetical protein
+ALDNNEPI_01713	CDS	hypothetical protein
+ALDNNEPI_01714	CDS	hypothetical protein
+ALDNNEPI_01715	CDS	hypothetical protein
+ALDNNEPI_01716	CDS	hypothetical protein
+ALDNNEPI_01717	CDS	hypothetical protein
+ALDNNEPI_01718	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+ALDNNEPI_01719	CDS	hypothetical protein
+ALDNNEPI_01720	CDS	hypothetical protein
+ALDNNEPI_01721	CDS	hypothetical protein
+ALDNNEPI_01722	CDS	pinR	3.1.22.-	Serine recombinase PinR
+ALDNNEPI_01723	CDS	hypothetical protein
+ALDNNEPI_01724	CDS	paeR7IM	2.1.1.72	Modification methylase PaeR7I
+ALDNNEPI_01725	CDS	hypothetical protein
+ALDNNEPI_01726	CDS	hypothetical protein
+ALDNNEPI_01727	CDS	rapA	3.6.4.-	RNA polymerase-associated protein RapA
+ALDNNEPI_01728	CDS	hypothetical protein
+ALDNNEPI_01729	CDS	hypothetical protein
+ALDNNEPI_01730	CDS	hypothetical protein
+ALDNNEPI_01731	CDS	hypothetical protein
+ALDNNEPI_01732	CDS	hypothetical protein
+ALDNNEPI_01733	CDS	hypothetical protein
+ALDNNEPI_01734	CDS	hypothetical protein
+ALDNNEPI_01735	CDS	hypothetical protein
+ALDNNEPI_01736	CDS	hypothetical protein
+ALDNNEPI_01737	CDS	hypothetical protein
+ALDNNEPI_01738	CDS	hypothetical protein
+ALDNNEPI_01739	CDS	hypothetical protein
+ALDNNEPI_01740	CDS	hypothetical protein
+ALDNNEPI_01741	CDS	hypothetical protein
+ALDNNEPI_01742	CDS	hypothetical protein
+ALDNNEPI_01743	CDS	hypothetical protein
+ALDNNEPI_01744	CDS	mtnB	4.2.1.109	Methylthioribulose-1-phosphate dehydratase
+ALDNNEPI_01745	CDS	mtnD	1.13.11.54	Acireductone dioxygenase
+ALDNNEPI_01746	CDS	mtnC	3.1.3.77	Enolase-phosphatase E1
+ALDNNEPI_01747	CDS	3.5.3.3	Creatinase
+ALDNNEPI_01748	CDS	yceI	Protein YceI
+ALDNNEPI_01749	CDS	yybR	putative HTH-type transcriptional regulator YybR
+ALDNNEPI_01750	CDS	cmpD	3.6.3.-	Bicarbonate transport ATP-binding protein CmpD
+ALDNNEPI_01751	CDS	hypothetical protein
+ALDNNEPI_01752	CDS	hypothetical protein
+ALDNNEPI_01753	CDS	hpnR	2.1.1.-	Hopanoid C-3 methylase
+ALDNNEPI_01754	CDS	plaP	Low-affinity putrescine importer PlaP
+ALDNNEPI_01755	CDS	gdhI	1.1.1.47	Glucose 1-dehydrogenase 1
+ALDNNEPI_01756	CDS	fccB_1	1.8.2.3	Sulfide dehydrogenase [flavocytochrome c] flavoprotein chain
+ALDNNEPI_01757	CDS	hypothetical protein
+ALDNNEPI_01758	CDS	arsR1_1	Arsenic resistance transcriptional regulator ArsR1
+ALDNNEPI_01759	CDS	hypothetical protein
+ALDNNEPI_01760	CDS	hypothetical protein
+ALDNNEPI_01761	tRNA	tRNA-Pro(tgg)
+ALDNNEPI_01762	CDS	hypothetical protein
+ALDNNEPI_01763	CDS	1.-.-.-	NADH oxidase
+ALDNNEPI_01764	CDS	kptA	2.7.1.-	RNA 2'-phosphotransferase
+ALDNNEPI_01765	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+ALDNNEPI_01766	CDS	paaF_2	4.2.1.17	2,3-dehydroadipyl-CoA hydratase
+ALDNNEPI_01767	CDS	hypothetical protein
+ALDNNEPI_01768	CDS	hypothetical protein
+ALDNNEPI_01769	CDS	dtxR	Diphtheria toxin repressor
+ALDNNEPI_01770	CDS	proP	Proline/betaine transporter
+ALDNNEPI_01771	CDS	putative ABC transporter ATP-binding protein
+ALDNNEPI_01772	CDS	putative ABC transporter ATP-binding protein
+ALDNNEPI_01773	CDS	Epimerase family protein
+ALDNNEPI_01774	CDS	fadA_2	2.3.1.-	Putative acyltransferase
+ALDNNEPI_01775	CDS	coaA	2.7.1.33	Pantothenate kinase
+ALDNNEPI_01776	CDS	dppB	Dipeptide transport system permease protein DppB
+ALDNNEPI_01777	CDS	ddpC_2	putative D,D-dipeptide transport system permease protein DdpC
+ALDNNEPI_01778	CDS	oppD_3	Oligopeptide transport ATP-binding protein OppD
+ALDNNEPI_01779	CDS	putative ABC transporter ATP-binding protein
+ALDNNEPI_01780	CDS	hypothetical protein
+ALDNNEPI_01781	CDS	hypothetical protein
+ALDNNEPI_01782	CDS	arsB	Arsenical pump membrane protein
+ALDNNEPI_01783	CDS	arsC2	2.8.4.2	Arsenate-mycothiol transferase ArsC2
+ALDNNEPI_01784	CDS	arsR1_2	Arsenic resistance transcriptional regulator ArsR1
+ALDNNEPI_01785	CDS	hypothetical protein
+ALDNNEPI_01786	CDS	hypothetical protein
+ALDNNEPI_01787	CDS	natA_6	ABC transporter ATP-binding protein NatA
+ALDNNEPI_01788	CDS	hypothetical protein
+ALDNNEPI_01789	CDS	hypothetical protein
+ALDNNEPI_01790	tRNA	tRNA-Ser(gga)
+ALDNNEPI_01791	CDS	Universal stress protein
+ALDNNEPI_01792	CDS	aspA	4.3.1.1	Aspartate ammonia-lyase
+ALDNNEPI_01793	CDS	2.1.1.156	Glycine/sarcosine N-methyltransferase
+ALDNNEPI_01794	CDS	hypothetical protein
+ALDNNEPI_01795	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+ALDNNEPI_01796	CDS	hypothetical protein
+ALDNNEPI_01797	CDS	hutI	3.5.2.7	Imidazolonepropionase
+ALDNNEPI_01798	CDS	hypothetical protein
+ALDNNEPI_01799	CDS	Hgd	1.1.1.291	2-(hydroxymethyl)glutarate dehydrogenase
+ALDNNEPI_01800	CDS	yycJ	3.-.-.-	Putative metallo-hydrolase YycJ
+ALDNNEPI_01801	CDS	mrsD	4.1.1.-	Mersacidin decarboxylase
+ALDNNEPI_01802	CDS	hypothetical protein
+ALDNNEPI_01803	CDS	drrA_5	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+ALDNNEPI_01804	CDS	hypothetical protein
+ALDNNEPI_01805	CDS	pepN_3	3.4.11.2	Aminopeptidase N
+ALDNNEPI_01806	CDS	ppaX	3.6.1.1	Pyrophosphatase PpaX
+ALDNNEPI_01807	CDS	yjiB	1.14.-.-	Putative cytochrome P450 YjiB
+ALDNNEPI_01808	CDS	hypothetical protein
+ALDNNEPI_01809	CDS	PE-PGRS family protein PE_PGRS18
+ALDNNEPI_01810	CDS	3.4.21.101	Xanthomonalisin
+ALDNNEPI_01811	CDS	2.1.1.-	putative methyltransferase
+ALDNNEPI_01812	CDS	abo	1.5.3.19	4-methylaminobutanoate oxidase (formaldehyde-forming)
+ALDNNEPI_01813	CDS	hypothetical protein
+ALDNNEPI_01814	CDS	hypothetical protein
+ALDNNEPI_01815	CDS	hypothetical protein
+ALDNNEPI_01816	CDS	hypothetical protein
+ALDNNEPI_01817	CDS	ttcA	tRNA 2-thiocytidine biosynthesis protein TtcA
+ALDNNEPI_01818	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+ALDNNEPI_01819	CDS	arcB	1.5.1.49	Delta(1)-pyrroline-2-carboxylate reductase
+ALDNNEPI_01820	CDS	lutA	Lactate utilization protein A
+ALDNNEPI_01821	CDS	rsmC	2.1.1.172	Ribosomal RNA small subunit methyltransferase C
+ALDNNEPI_01822	CDS	hypothetical protein
+ALDNNEPI_01823	CDS	hypothetical protein
+ALDNNEPI_01824	CDS	cbiA	6.3.5.11	Cobyrinate a,c-diamide synthase
+ALDNNEPI_01825	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid aminotransferase
+ALDNNEPI_01826	CDS	hypothetical protein
+ALDNNEPI_01827	CDS	hypothetical protein
+ALDNNEPI_01828	CDS	etfA	Electron transfer flavoprotein subunit alpha
+ALDNNEPI_01829	CDS	carD_3	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarD
+ALDNNEPI_01830	CDS	fadA_3	2.3.1.16	3-ketoacyl-CoA thiolase
+ALDNNEPI_01831	CDS	acdA_3	1.3.99.-	Acyl-CoA dehydrogenase
+ALDNNEPI_01832	CDS	carC	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarC
+ALDNNEPI_01833	CDS	hypothetical protein
+ALDNNEPI_01834	CDS	yvqK	2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+ALDNNEPI_01835	CDS	mak	2.7.1.175	Maltokinase
+ALDNNEPI_01836	CDS	treS	3.2.1.1	Trehalose synthase/amylase TreS
+ALDNNEPI_01837	CDS	glgE1	2.4.99.16	Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase 1
+ALDNNEPI_01838	CDS	glgB	2.4.1.18	1,4-alpha-glucan branching enzyme GlgB
+ALDNNEPI_01839	CDS	apbC	Iron-sulfur cluster carrier protein
+ALDNNEPI_01840	CDS	hypothetical protein
+ALDNNEPI_01841	CDS	hypothetical protein
+ALDNNEPI_01842	CDS	hypothetical protein
+ALDNNEPI_01843	CDS	cbs	4.2.1.22	Putative cystathionine beta-synthase
+ALDNNEPI_01844	CDS	hypothetical protein
+ALDNNEPI_01845	CDS	hypothetical protein
+ALDNNEPI_01846	CDS	vapC_5	3.1.-.-	tRNA(fMet)-specific endonuclease VapC
+ALDNNEPI_01847	CDS	gltA_2	2.3.3.16	Citrate synthase
+ALDNNEPI_01848	CDS	yqjI	Transcriptional regulator YqjI
+ALDNNEPI_01849	CDS	dltA	6.1.1.13	D-alanine--poly(phosphoribitol) ligase subunit 1
+ALDNNEPI_01850	CDS	nnr	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+ALDNNEPI_01851	CDS	glnA	6.3.1.2	Glutamine synthetase
+ALDNNEPI_01852	CDS	hypothetical protein
+ALDNNEPI_01853	CDS	hypothetical protein
+ALDNNEPI_01854	CDS	hypothetical protein
+ALDNNEPI_01855	CDS	hypothetical protein
+ALDNNEPI_01856	CDS	hypothetical protein
+ALDNNEPI_01857	CDS	pyrE_2	2.4.2.10	Orotate phosphoribosyltransferase
+ALDNNEPI_01858	CDS	4.3.2.3	Ureidoglycolate lyase
+ALDNNEPI_01859	CDS	ftsZ_2	Cell division protein FtsZ
+ALDNNEPI_01860	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+ALDNNEPI_01861	CDS	smc_2	Chromosome partition protein Smc
+ALDNNEPI_01862	CDS	cugP	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+ALDNNEPI_01863	CDS	hutU	4.2.1.49	Urocanate hydratase
+ALDNNEPI_01864	CDS	hypothetical protein
+ALDNNEPI_01865	CDS	dapb3_2	3.4.14.-	Dipeptidyl aminopeptidase BIII
+ALDNNEPI_01866	tRNA	tRNA-Thr(tgt)
+ALDNNEPI_01867	CDS	bsmA	2.1.1.156	Glycine/sarcosine N-methyltransferase
+ALDNNEPI_01868	CDS	hypothetical protein
+ALDNNEPI_01869	CDS	hypothetical protein
+ALDNNEPI_01870	CDS	hypothetical protein
+ALDNNEPI_01871	CDS	aroF_2	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+ALDNNEPI_01872	CDS	fccB_2	1.8.2.3	Sulfide dehydrogenase [flavocytochrome c] flavoprotein chain
+ALDNNEPI_01873	CDS	hypothetical protein
+ALDNNEPI_01874	CDS	hypothetical protein
+ALDNNEPI_01875	CDS	hypothetical protein
+ALDNNEPI_01876	CDS	1.-.-.-	putative oxidoreductase
+ALDNNEPI_01877	CDS	acs_2	6.2.1.1	Acetyl-coenzyme A synthetase
+ALDNNEPI_01878	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+ALDNNEPI_01879	CDS	oxlT	Oxalate:formate antiporter
+ALDNNEPI_01880	CDS	hypothetical protein
+ALDNNEPI_01881	CDS	hypothetical protein
+ALDNNEPI_01882	CDS	metE	2.1.1.14	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+ALDNNEPI_01883	CDS	hypothetical protein
+ALDNNEPI_01884	CDS	yitJ	Bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase
+ALDNNEPI_01885	CDS	hypothetical protein
+ALDNNEPI_01886	CDS	hypothetical protein
+ALDNNEPI_01887	CDS	hypothetical protein
+ALDNNEPI_01888	CDS	pepN_4	3.4.11.2	Aminopeptidase N
+ALDNNEPI_01889	CDS	hypothetical protein
+ALDNNEPI_01890	CDS	hypothetical protein
+ALDNNEPI_01891	CDS	hypothetical protein
+ALDNNEPI_01892	tRNA	tRNA-Leu(gag)
+ALDNNEPI_01893	CDS	kch	Voltage-gated potassium channel Kch
+ALDNNEPI_01894	CDS	hypothetical protein
+ALDNNEPI_01895	CDS	hypothetical protein
+ALDNNEPI_01896	CDS	hypothetical protein
+ALDNNEPI_01897	CDS	nrdZ	1.17.4.1	Vitamin B12-dependent ribonucleoside-diphosphate reductase
+ALDNNEPI_01898	CDS	hypothetical protein
+ALDNNEPI_01899	CDS	gcvT	2.1.2.10	Aminomethyltransferase
+ALDNNEPI_01900	CDS	pdxT	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxT
+ALDNNEPI_01901	CDS	glyA_2	2.1.2.1	Serine hydroxymethyltransferase
+ALDNNEPI_01902	CDS	hypothetical protein
+ALDNNEPI_01903	CDS	dgoD	4.2.1.6	D-galactonate dehydratase

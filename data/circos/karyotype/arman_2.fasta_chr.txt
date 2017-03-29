@@ -1,8 +1,0 @@
-chr - arman_2-contig-1 arman_2-contig-1 0 11487 paired-12-qual-4
-chr - arman_2-contig-2 arman_2-contig-2 0 14741 paired-12-qual-4
-chr - arman_2-contig-3 arman_2-contig-3 0 50717 paired-12-qual-4
-chr - arman_2-contig-4 arman_2-contig-4 0 100656 paired-12-qual-4
-chr - arman_2-contig-5 arman_2-contig-5 0 86242 paired-12-qual-4
-chr - arman_2-contig-6 arman_2-contig-6 0 88950 paired-12-qual-4
-chr - arman_2-contig-7 arman_2-contig-7 0 335072 paired-12-qual-4
-chr - arman_2-contig-8 arman_2-contig-8 0 322920 paired-12-qual-4
