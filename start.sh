@@ -94,7 +94,7 @@ for i in data/circos/hmmvis5/*.fasta; do
   ./generate_hmm.sh $i.out data/circos/hmm/hmm_all_5.txt >/dev/null 2>/dev/null
 done
 n=$(($n+1))
-for i in data/circos/hmmvis5/*.fasta; do
+for i in data/circos/hmmvis6/*.fasta; do
   echo "processing: 'data/circos/fasta/'${i##*/}"
   ./generate_hmm.sh $i.out data/circos/hmm/hmm_all_6.txt >/dev/null 2>/dev/null
 done
