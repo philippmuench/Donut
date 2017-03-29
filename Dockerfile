@@ -121,7 +121,6 @@ COPY etc/symbols.otf /fonts/symbols/symbols.otf
 COPY etc/fonts/* /fonts/
 COPY start_circos.sh /start_circos.sh
 COPY start.sh /start.sh
-COPY fasta2karyo.sh /fasta2karyo.sh
 COPY generate_chr.sh /generate_chr.sh
 COPY generate_gc.sh /generate_gc.sh
 COPY generate_orf.sh /generate_orf.sh
@@ -132,4 +131,4 @@ COPY generate_coverage_hyp.sh /generate_coverage_hyp.sh
 COPY generate_blast.sh /generate_blast.sh
 COPY R/updateLinkColors.R updateLinkColors.R
 
-ENTRYPOINT ["/bin/bash","start.sh"]
+ENTRYPOINT ["/bin/bash","./start.sh"]
