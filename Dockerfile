@@ -132,4 +132,4 @@ COPY generate_coverage_hyp.sh /generate_coverage_hyp.sh
 COPY generate_blast.sh /generate_blast.sh
 COPY R/updateLinkColors.R updateLinkColors.R
 
-#ENTRYPOINT ["/bin/bash","start.sh"]
+ENTRYPOINT ["/bin/bash","start.sh"]
