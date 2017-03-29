@@ -11,13 +11,14 @@ just a simple tool that generates a circos plot from a bunch of fasta files
 5. inspect the output written to `data/output/`
 
 # example output
-![image](data/output/circos.png)
-![image](data/output/circos_3.png)
+![image](data/output/circos_2.png)
 
 from outer to inner:
-- filled dots: CDS, unfilled dots: hypothetical CDS
 - GC content
-- hits to `data/hmm/model.hmm` based on hmmsearch against ORFs
+- gene density (black), hypothetical gene density (red)
+- match to HMM models against ORFs
+- links: similar ORF by blast
+- colored links: similar ORFs that cover full a HMM match 
 
 # development
 
