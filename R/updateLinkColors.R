@@ -38,9 +38,9 @@ hmm6 <- read.table('/data/circos/hmm/hmm_all_6.txt', header=F)
 
 links <- updateCol(links, hmm1, "red" )
 links <- updateCol(links, hmm2, "green" )
-links <- updateCol(links, hmm3, "grey" )
+links <- updateCol(links, hmm3, "purple" )
 links <- updateCol(links, hmm4, "blue" )
-links <- updateCol(links, hmm5, "black" )
-links <- updateCol(links, hmm6, "yellow" )
+links <- updateCol(links, hmm5, "yellow" )
+links <- updateCol(links, hmm6, "black" )
 
 write.table(links, file='data/circos/blast/blast_links_colored.txt', sep='\t', col.names=F, row.names=F, quote=F)
