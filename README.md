@@ -7,7 +7,7 @@ just a simple tool that generates a circos plot from a bunch of fasta files
 1. clone this repo `git clone https://github.com/philippmuench/Donut.git`
 2. put your fasta (one or multipe) files in the `data/genomes/` folder
 3. add your Hidden Markov model file to `data/hmm/model.hmm`
-4. start the docker container `docker run -v /absolute/path/to/data/folder:/data philippmuench/easycircos`
+4. start the docker container `docker run -v /absolute/path/to/data/folder:/data philippmuench/donut`
 5. inspect the output written to `data/output/`
 
 # example output
@@ -25,13 +25,13 @@ from outer to inner:
 comment the entrypoint in `Dockerfile` out than build the docker image from scatch
 
 ```
-sudo docker build -t easycircos .
+sudo docker build -t donut .
 ```
 
 then start in interactive mode
 
 ```
-sudo docker run -it -v /home/pmuench/github.com/philippmuench/easycircos/data:/data easycircos
+sudo docker run -it -v /home/pmuench/github.com/philippmuench/easycircos/data:/data donut
 ```
 
 inside the docker image start the tool
