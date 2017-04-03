@@ -1,0 +1,255 @@
+
+# Supplementary Methods
+
+# Genome comparison plot
+We visualized the genome comparisons as Circos plots [1] using Donut
+(unpublished; https://github.com/hzi-bifo/Donut) on selected KEGG
+terms (Supplementary Table X). We used Prodigal v. [2] to detect ORF within genomes and Prokka v. [3] for their annotation. Hits to KEGG HMM were inferred with the hmmsearch command of HMMER [7] using E-value of 0.001. BLASTP of NCBI-blast 2.2.30 [4] with an E-value of 1e-20 was used to detect similarities of ORFs between genomes. We used a combination of samtools [5] and bedtools [6] to extract gene density and hypothetical gene denisty within a sliding window of 10000 nucleotides.
+
+# Figure descriptions
+
+Figure 1: Genome comparison of ARMAN-2/4/5 and A_DKE generated with
+Donut (unpublished). From outer track
+to inner track: (1) GC content (higher values colored in blue, lower
+values are colored green). (2) ORF density (annotated and hypothetical)
+within a sliding window of 10000 bases over the genomes visualized in
+black. ORF density of hypothetical ORFs visualized in red based on a
+sliding window approach. (3-8) Matches to KEGG terms in this order
+_NameofList5_, _NameofList4_, _NameofList3_, _NameofList2_,
+_NameofList1_. Lines within the inner segment indicate significant
+similarity between ORFs between genomes, lines are colored according to
+KEGG terms if they fully overlap these.
+
+Figure 2: Genome comparison of C. divulgatum S5, DKE_A, DKE_C and . T.
+acidicola generated with Donut (unpublished). From outer track to inner
+track: (1) GC content (higher values colored in blue, lower values are
+colored green). (2) ORF density (annotated and hypothetical) within a
+sliding window of 10000 bases over the genomes visualized in black. ORF
+density of hypothetical ORFs visualized in red based on a sliding window
+approach. (3-8) Matches to KEGG terms in this order _NameofList5_,
+_NameofList4_, _NameofList3_, _NameofList2_, _NameofList1_. Lines within
+the inner segment indicate significant similarity between ORFs between
+genomes, lines are colored according to KEGG terms if they fully overlap
+these.
+
+[1] Krzywinski, Martin, et al. "Circos: an information aesthetic for
+comparative genomics." Genome research 19.9 (2009): 1639-1645.
+APA
+
+[2] Hyatt, Doug, et al. "Prodigal: prokaryotic gene recognition and translation initiation site identification." BMC bioinformatics 11.1 (2010): 119.
+
+[3] Seemann, Torsten. "Prokka: rapid prokaryotic genome annotation." Bioinformatics (2014): btu153.
+
+[4] Altschul, Stephen F., Gish, Warren, Miller, Webb, Myers, Eugene W., and Lipman, David J. (1990). Basic local alignment search tool. J. Mol. Biol. 215; 403-410.
+
+[5] Wysoker, A., et al. "The Sequence alignment/map (SAM) format and SAMtools." Bioinformatics 25 (2009): 2078-2079.
+
+[6] Quinlan, Aaron R., and Ira M. Hall. "BEDTools: a flexible suite of utilities for comparing genomic features." Bioinformatics 26.6 (2010): 841-842.
+
+[7] Eddy, Sean. "HMMER User’s Guide. Biological sequence analysis using profile hidden Markov models." (2003).
+
+Supplementary Table X:
+
+List1:
+K00134
+K00150
+K00844
+K00845
+K00850
+K00873
+K00886
+K00918
+K00927
+K01086
+K01596
+K01610
+K01622
+K01623
+K01624
+K01689
+K01803
+K01810
+K01834
+K02446
+K03841
+K04041
+K06859
+K11389
+K11532
+K11645
+K13810
+K15633
+K15634
+K15635
+K15916
+K16305
+K16306
+K16370
+
+List2:
+K00024
+K00030
+K00031
+K00116
+K00164
+K00174
+K00175
+K00176
+K00177
+K00239
+K00240
+K00241
+K00242
+K00244
+K00245
+K00246
+K00247
+K00382
+K00658
+K01647
+K01676
+K01677
+K01678
+K01679
+K01681
+K01682
+K01902
+K01903
+K18118
+
+List3:
+K00033
+K00036
+K00615
+K00616
+K01057
+K01783
+K01807
+K01808
+K01810
+K06859
+K07404
+K08093
+K08094
+K13810
+K13831
+K15916
+
+List4:
+K00036
+K00131
+K00134
+K00874
+K00927
+K01057
+K01625
+K01690
+K03738
+K07404
+
+List5:
+K00239
+K00240
+K00241
+K00242
+K00244
+K00245
+K00246
+K00247
+K00330
+K00331
+K00332
+K00333
+K00334
+K00335
+K00336
+K00337
+K00338
+K00339
+K00340
+K00341
+K00342
+K00343
+K00404
+K00405
+K00406
+K00407
+K00410
+K00411
+K00412
+K00413
+K00425
+K00426
+K02107
+K02108
+K02109
+K02110
+K02111
+K02112
+K02113
+K02114
+K02115
+K02117
+K02118
+K02119
+K02120
+K02121
+K02122
+K02123
+K02124
+K02128
+K02258
+K02259
+K02274
+K02275
+K02276
+K02277
+K02297
+K02298
+K02299
+K02300
+K02826
+K02827
+K02828
+K02829
+K03886
+K03887
+K03888
+K03889
+K03890
+K03891
+K03940
+K03941
+K03943
+K05572
+K05573
+K05574
+K05575
+K05576
+K05577
+K05578
+K05579
+K05580
+K05581
+K05582
+K05583
+K05584
+K05585
+K13378
+K13380
+K15408
+K15862
+
+List6:
+K00232
+K00249
+K00255
+K06445
+K01692
+K13767
+K07516
+K01825
+K01782
+K00632
+K07508
+
