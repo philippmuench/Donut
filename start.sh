@@ -164,6 +164,10 @@ fi
 #update link colors
 Rscript updateLinkColors.R
 
+# remove blast matches without color
+mv /data/circos/blast/blast_links_colored.txt /data/circos/blast/blast_links_colored_backup.txt
+grep -v "color=vlgrey" /data/circos/blast/blast_links_colored_backup.txt > /data/circos/blast/blast_links_colored.txt
+
 # draw circos plot
 /root/software/circos/current/bin/circos -conf data/config/circos.conf -noparanoid >/dev/null 2>/dev/null
 echo "finished"

@@ -20,10 +20,10 @@ updateCol <- function(links, hmm, color){
   
   # update color on intersect links
   if (length(queryHits(intersec1))>0){
-    links[unique(queryHits(intersec1)),]$V7 <- paste("color=", color, ",thickness=4p", sep='')
+    links[unique(queryHits(intersec1)),]$V7 <- paste("color=", color, ",thickness=1p", sep='')
   }
   if (length(queryHits(intersec2))>0){
-    links[unique(queryHits(intersec2)),]$V7 <- paste("color=", color, ",thickness=4p", sep='')
+    links[unique(queryHits(intersec2)),]$V7 <- paste("color=", color, ",thickness=1sp", sep='')
   }
   return(links)
 }
@@ -42,6 +42,6 @@ links <- updateCol(links, hmm2, "dark2-6-qual-2" )
 links <- updateCol(links, hmm3, "dark2-6-qual-3" )
 links <- updateCol(links, hmm4, "dark2-6-qual-4" )
 links <- updateCol(links, hmm5, "dark2-6-qual-5" )
-links <- updateCol(links, hmm5, "dark2-6-qual-6" )
+links <- updateCol(links, hmm6, "dark2-6-qual-6" )
 
 write.table(links, file='data/circos/blast/blast_links_colored.txt', sep='\t', col.names=F, row.names=F, quote=F)
