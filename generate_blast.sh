@@ -20,7 +20,7 @@ makeblastdb -in $a \
 # blast sample against one other
 blastp -query $b -db $a.blast.out \
   -out data/circos/blast/$b2.out \
-  -evalue 1e-10 \
+  -evalue 1e-20 \
   -outfmt '6 qseqid qstart qend sseqid sstart send ppos'
 
 # search terms
