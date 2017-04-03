@@ -52,7 +52,7 @@ paste  /data/circos/blast/$b2.out \
 
 # sum columns
 cat data/circos/blast/$b2.$a2.joined \
-  | awk '{print $1" "$2+$9" "$3+$10" "$4" "$5+$9" "$6+$10}' > /data/circos/blast/blast.$a2.$b2.tmp
+  | awk '{print $1" "$2+$9" "$3+$10" "$4" "$5+$12" "$6+$13}' > /data/circos/blast/blast.$a2.$b2.tmp
 
 cat /data/circos/blast/blast.$a2.$b2.tmp \
   | awk '{sub(/\_/,"-",$1)};2' \
