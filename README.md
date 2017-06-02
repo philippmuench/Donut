@@ -1,4 +1,4 @@
-# :doughnut:  Donut
+# Donut
 
 just a simple tool that generates a circos plot from a bunch of fasta files
 
