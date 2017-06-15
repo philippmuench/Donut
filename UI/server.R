@@ -1,20 +1,36 @@
 library(shiny)
+library(shinyAce)
 
 # Define server logic required to draw a histogram
-shinyServer(function(input, output) {
+shinyServer(function(input, output, session) {
   
-  # Expression that generates a histogram. The expression is
-  # wrapped in a call to renderPlot to indicate that:
-  #
-  #  1) It is "reactive" and therefore should re-execute automatically
-  #     when inputs change
-  #  2) Its output type is a plot
   
-  output$distPlot <- renderPlot({
-    x    <- faithful[, 2]  # Old Faithful Geyser data
-    bins <- seq(min(x), max(x), length.out = input$bins + 1)
-    
-    # draw the histogram with the specified number of bins
-    hist(x, breaks = bins, col = 'darkgray', border = 'white')
+  # loads circos image preview
+  output$image <- renderUI({
+    input$reloadImageButton
+    img(src="circos.png", width=500)
   })
+  
+  ntext <- eventReactive(input$configUpdateButton, {
+  text <- input$code
+   write.table(file="test.txt", text)
+  })
+  
+  output$showEditor <- renderUI({
+    content <- readChar("test.txt", file.info("test.txt")$size)
+    aceEditor("code", mode="r", value=content)
+  })
+  
+ 
+  
+  
+  output$nText <- renderText({
+    ntext()
+  })
+  
+  output$shinyUI <- renderUI({
+    input$eval
+    return(isolate(eval(parse(text=input$code))))
+  }) 
+  
 })
