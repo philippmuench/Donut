@@ -13,7 +13,7 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get update && \
     apt-get clean
 
 # install dependencies
-RUN apt-get install -y build-essential make wget libgd2-xpm-dev libxml-simple-perl git vim fonts-circos-symbols python python-setuptools libblas-dev liblapack-dev gfortran libpython2.7-dev python-numpy libatlas-base-dev python-dev fort77 python-tk libdatetime-perl libxml-simple-perl libdigest-md5-perl bioperl filo zlib1g-dev zlib1g unzip apt-utils gcc-multilib libstdc++6 libc6 libgcc1  libpython2.7-dev curl
+RUN apt-get install -y build-essential make wget libgd2-xpm-dev libxml-simple-perl git vim fonts-circos-symbols python python-setuptools libblas-dev liblapack-dev gfortran libpython2.7-dev python-numpy libatlas-base-dev python-dev fort77 python-tk libdatetime-perl libxml-simple-perl libdigest-md5-perl bioperl filo zlib1g-dev zlib1g unzip apt-utils gcc-multilib libstdc++6 libc6 libgcc1  libpython2.7-dev curl gdebi-core
 
 RUN wget https://bootstrap.pypa.io/get-pip.py \
   && python get-pip.py
@@ -117,6 +117,33 @@ RUN echo "r <- getOption('repos'); r['CRAN'] <- 'http://cran.us.r-project.org'; 
 #RUN Rscript -e "source('https://bioconductor.org/biocLite.R')"
 #RUN Rscript -e "biocLite('GenomicRanges')"
 
+#========================================
+# Setup shiny server
+#========================================
+
+RUN wget --no-verbose https://s3.amazonaws.com/rstudio-shiny-server-os-build/ubuntu-12.04/x86_64/VERSION -O "version.txt" && \
+    VERSION=$(cat version.txt)  && \
+    wget --no-verbose "https://s3.amazonaws.com/rstudio-shiny-server-os-build/ubuntu-12.04/x86_64/shiny-server-$VERSION-amd64.deb" -O ss-latest.deb && \
+    gdebi -n ss-latest.deb && \
+rm -f version.txt ss-latest.deb
+
+#========================================
+# Create folders 
+#========================================
+
+RUN mkdir -p /srv/shiny-server
+RUN chmod 777 -R /usr/local/lib/R/site-library
+RUN mkdir -p /opt/bin \
+ /srv/shiny-server/ &&\
+ chmod -R 777 /tmp
+
+# port for shiny-server
+EXPOSE 3838
+
+COPY UI /srv/shiny-server/UI/
+RUN R -e 'setwd("/srv/shiny-server/UI"); install.packages("digest"); install.packages("shiny" , repos="http://cran.us.r-project.org")'
+
+COPY start_server.sh /start_server.sh
 COPY etc/symbols.otf /fonts/symbols/symbols.otf
 COPY etc/fonts/* /fonts/
 COPY start_circos.sh /start_circos.sh
